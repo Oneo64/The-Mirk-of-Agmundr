@@ -1,0 +1,42 @@
+Aulfarwaz
+
+Male
+Age: 332
+Alignment: Neutral
+
+Homeland:  Þalmundríngu, Oddarsveldi
+Race:      Draugr (Human)
+
+
+
+[[DESCRIPTION]]
+Aulfarwaz was a human druid from early Þalmundríngu. He got lost in the forest many kilometers north, and starved to death sitting against a tree. Aulfarwaz is now a gaunt corpse, has greenish grey skin, completely white eyes, and his hair is grey, long and messy. He also has a full beard, with it's appearance in the same manner as his hair. He is 178 (5'11) centimeters tall.
+
+He wears a worn bear hide cloak, tunic, pants, a rope as a belt and a pair of shoes. There is a piece of malachite and jade tied to his belt. The colors of his clothing have faded, so it all looks just dull and grey. The bear cloak and tunic is mossed, dirty, and soiled.
+
+Like all draugr, his voice is raspy and deep.
+
+His wildshape animals and the animals he conjures will appear like a zombie or corpse.
+
+
+
+[[PERSONALITY]]
+Aulfarwaz seems to be emotionless and expressionless. He also tends to avoid civilization and groups of people, and is pessimistic.	He may get depressed at the sight of food being eaten, or any mention of eating.
+
+
+
+[[ABILITIES]]
+Aulfarwas can only speak Galabric and Druidic. He also practices druidry, and knows how to calm bears and wolves.
+
+
+
+[[DRUIDRY]]
+	Shapeshift animals:
+		Raven (flight)
+		Wolf (travel)
+
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm
+	Cleanse Liquid
+	Shapeshift

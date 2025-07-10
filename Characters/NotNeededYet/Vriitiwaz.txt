@@ -1,0 +1,35 @@
+Vriitiwaz
+
+Male
+Age: Late 30s
+Alignment: Chaotic Neutral
+
+Homeland:  Unknown troll tribe, Southern Northmannish Forests
+Race:      Troll
+
+
+
+[[DESCRIPTION]]
+Vriitiwaz is a trollen druid. He has brown eyes, and pale stone-grey skin. His nose is big and flat, and he has beady eyes. His hair is long, messy and black.
+
+He wears a brown tunic, and leather shoes. He wears a necklace of bear claws and wolf fangs, with a wooden bead between of each fang and claw. He also wears a brown, floppy pointed hat, in the shape of a simple cone. He is 170 (5'7) centimeters tall.
+
+He carries a plain wooden stick as a walking stick.
+
+
+
+[[PERSONALITY]]
+Vriitiwaz is described as having an eccentric and whimsical demeanor. He has an open mind, even to the point of viewing necromancy as just another magic type. However he seems to be always lost in thought.
+
+
+
+[[ABILITIES]]
+Vriitiwaz can only speak the local troll language and druidic. He also practices druidry, and is one of the wisest and most intelligent trolls in the tribe. Because of his, he is the leader of that tribe.
+
+
+
+[[DRUIDRY]]
+	Bloom or Wither Flowers
+	Talk to Animals
+	Healing Palm
+	Cleanse Liquid

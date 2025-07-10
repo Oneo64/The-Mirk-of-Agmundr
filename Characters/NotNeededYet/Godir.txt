@@ -1,0 +1,50 @@
+Gódir
+
+Male
+Age: 25
+Alignment: Neutral Good
+
+Homeland:  Álahringr, Oddarsveldi
+Race:      Human
+
+
+
+[[DESCRIPTION]]
+Gódir has wavy light brown hair that is shoulder-length, grey hooded eyes, and fair skin.
+
+He wears a brown woolen cap, a woolen brown cloak held by a brooch, a muted blue tunic, brown pants, a belt and a pair of shoes. His belt carries a leather pouch, a 12-inch seax, and a waterskin. He wears an iron Talmundúr amulet. He is 173 (5'8) centimeters tall.
+
+Gódir works as a potion brewer. He can be found at his house either checking his family's farm for weeds, inside his house brewing potions, wandering in the local markets, or wandering in the forest for whatever reason (most likely looking for potion ingredients).
+
+
+
+[[PERSONALITY]]
+Gódir is mostly calm and generous. But usually, when sometimes when deciding to act he can be hesitant and think about whether he should do it or not. He is also reserved, not talking to others as much as his family and friends.
+
+
+
+[[ABILITIES]]
+Gódir's native language is Oddarish, and he can also speak Heorthlandic. He learned to brew potions, and he can brew a number of potions. He also plays Rægatafl, a board game in northern places.
+
+
+
+[[GRIMOIRE]]
+	Potions:
+		Bastard's Poison
+		Calming Salve
+		Concealment Potion
+		Curing Tonic
+		Fire-throwing Grenade
+		Forgetation Concoction
+		Greater Concealment Potion
+		Lightning Liquid
+		Nontoxic Seizure Concoction
+		Potion of Restlessness
+		Sparkfire Potion
+		Silencing Potion
+		Tarfire Grenade
+
+	Staves:
+		Gapaldur
+		Vegvisir
+		Toustefna
