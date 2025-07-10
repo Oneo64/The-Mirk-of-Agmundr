@@ -3,8 +3,8 @@
 <table><tbody>
 	<tr> <th colspan=2>Alfrir</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Oddarsveldi</td> </tr>
-	<tr> <td>Occupation</td> <td>Farmer-Warrior</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 952</td> </tr>

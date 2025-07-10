@@ -3,8 +3,8 @@
 <table><tbody>
 	<tr> <th colspan=2>Ljörn</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Oddarsveldi</td> </tr>
-	<tr> <td>Occupation</td> <td>Farmer-Warrior</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 947</td> </tr>
@@ -65,58 +65,14 @@ Before Ljörn went on the journey to the new island, he wanted to protect his fa
 
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought a couple of draugar. He also has a good survival instinct, which was shown during Ingwaz's attack.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought draugar.
 
-Because Ljörn was shot in the shoulder with an arrow during a centaur raid, his left arm was weakened.
-
-### Language
-Ljörn's native language is Oddarish, but he can also speak Heorthlandic and Centrumic (English).
-
-Ljörn is very bad at Centrumic. Somehow, he always reverts to using Oddarish grammar. When he tries to pronounce *w*, he ends up pronouncing *hw* or *v*. When Ljörn tries to pronounce *sh*, he ends up pronouncing *s* or *sk*. When he pronounces *d*, he sometimes ends up pronouncing *ð*. Sometimes, it's not just a pronunciation problem. He would say *já/ná* for *yes/no*, *ik/mik* for *I*, *mine* for *my*, *thu/theu* for *you*, *thine* for *your*, *thes* for *this*, *that* for *it*, *i'* for *in*, *skall* for *shall/must*, *skould* for *should*, etc.
+Because Ljörn was shot in the shoulder with an arrow during a raid, his left arm was weakened.
 
 ### Rægatafl
 Ljörn knows how to play Rægatafl, a local board game.
 
-## Examples of Ljörn's speech and reactions
-**Average interaction with a merchant:**
-
- - **Merchant:** "Fine day, isn’t it? Haven’t seen you around. Looking for anything special?"
- - **Ljörn:** "Já. Ik finds hwetstone."
- - **Merchant:** "What did you say?"
- - **Ljörn:** "Hwetstone."
- - **Merchant:** "You mean whetstone? That will be two silvers."
- - **Ljörn hands the merchant two silver coins.**
- - **Ljörn:** "Here."
- - **The merchant takes the silver, and gives him a whetstone.**
- - **Ljörn:** "Sakka þik." *Sakka þik means "thank you" in Oddarish.*
- - **Merchant:** "What will you be using it for?"
- - **Ljörn:** "That are for mine sworð."
- - **The merchant nods.**
- - **Merchant:** "Good day to you then."
- - **Ljörn nods in return and leaves with the whetstone.**
-
-**Average reaction when seeing a rusty polearm:**
-
- - *Ljörn is wandering around Álahringr's streets when he passes by a house. There is an old Dane axe resting against the house walls. He glances at it. He stops breathing for a moment, and his heart rate goes up. He swears under his breath before quickly leaving the scene.*
-
-**A rare case when Ljörn "admits" his paranoia:**
-
- - **During a visit to Rúna's home, Ljörn and Rúna are both in the yard. Ljörn's eyes catch something within the forest, and he soon finds himself breathing heavily as he stares at it.**
- - **Rúna:** "Ljörn?"
- - **Ljörn doesn't respond. He doesn't seem to hear her.**
- - **Rúna sharpens her voice a little.**
- - **Rúna:** "Ljörn."
- - **Ljörn suddenly becomes aware of what he's doing. He tears his gaze away from the forest and looks at Rúna. He speaks as if nothing happened.**
- - **Ljörn:** "Já?" *(Yes?)*
- - **Rúna's voice is soft again.**
- - **Rúna:** "Þú var avíu sam það. Artú koðr?" *(You're doing it again. Are you okay?)*
- - **Ljörn:** "Ek... svá summ þíng í skungritt. Það var eigeinn." *(I... saw something in the forest. It's nothing.)*
- - **Rúna looks into the forest, expecting to see something. But she doesn't.**
- - **Ljörn:** "Ybbask eigi." *(Don't worry.)*
- - **Rúna:** "Þóse, séga mik. Ar... þær sleikandi þik?" *(Please, tell me. Is... there something bothering you?)*
- - **Ljörn:** "Ná." *(No.)*
-
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. Yngvarr, a character in the story, died when a draugr knocked him over and slashed him. During Ljörn's trip to the castle ruin, Ingwaz knocked him over (like Yngvarr) and almost killed him. When he and his accomplices fled, Ingwaz chased them. Ljörn only thought they lost the draugr when he heard the forest was quiet during their camp for the night. That moment is where his odd behaviors come from.
+[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. Yngvarr, a character in the story, died when a draugr knocked him over and slashed him. During Ljörn's trip to the castle ruin, a draugr knocked him over (like Yngvarr) and almost killed him. When he and his accomplices fled, the draugr chased them. Ljörn only thought they lost the draugr when he heard the forest was quiet during their camp for the night. That moment is where his odd behaviors come from.
 [^3]: Juniper is a type of greater protection herb.

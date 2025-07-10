@@ -3,8 +3,8 @@
 <table><tbody>
 	<tr> <th colspan=2>Sága</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Oddarsveldi</td> </tr>
-	<tr> <td>Occupation</td> <td>Explorer</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
@@ -48,9 +48,6 @@ Sága sports a sword and shield, but isn't very good at it. She learned a move f
 
 ### Story-telling
 Sága can tell stories as she makes them up. She can also tell them without planning any characters or storyline.
-
-### Language
-Sága's native language is Oddarish.
 
 ### Hypnotism
 For some reason, Sága knows how to hypnotize a chicken.
