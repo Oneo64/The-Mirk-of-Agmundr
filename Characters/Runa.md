@@ -34,9 +34,6 @@ Sometimes, when not doing anything or listening to someone talk, Rúna would spa
 
 Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
 
-### Secret
-Sometime in the past, when Dagnir was playing a jest on Rúna, he showed her a piece of paper on how to draw Veldismagn. Rúna was unnerved by how to make it, but she still hadn't forgotten it.[^1] Despite feeling uncomfortable, sometimes, she would use pig blood to draw them for protection.
-
 ### Ljörn
 Rúna is noticeably kinder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
@@ -71,9 +68,6 @@ Rúna only knows one music piece, which she made when it drifted into her mind. 
 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defense against wild animals.
-
-### Veldismagn
-Rúna knows how to draw Veldismagn.
 
 ## Examples of Rúna's speech and reactions
 **Average interaction with a merchant:**
