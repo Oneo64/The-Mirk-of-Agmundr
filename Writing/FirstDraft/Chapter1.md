@@ -67,7 +67,7 @@ Soon, the rain was pouring, water slowly flooding the ship. The crew members kep
 
 The ship was hit by a wave, sending a splash of foam and water over the sailors. Hjalvir stumbled, but he wasn't one to fall. He looked to his daughter, who had to hold the side of the longboat to steady herself. He cast a quick glance at their cargo. Luckily, they were secured by ropes. "Come to the back," he gruffly said to his daughter.
 
-Ljörn hugged his cloak like many others, as he watched Hjalvir and his daughter make their ways to the stern. His wavy hair became straight and wet, dripping at the ends like an improperly closed tap. It was miraculous he was still warm, thanks to his woollen garbs.
+Ljörn hugged his cloak like many others, as he watched Hjalvir and his daughter make their ways to the stern. His wavy hair was straightened by the wet, dripping at the ends. It was miraculous he was still warm, thanks to his woollen garbs.
 
 A pool of water gathered where Ljörn didn't notice, but he felt it flood his boots. At least his foot didn't feel like it was swollen anymore. He considered keeping his foot in there, but knew he probably shouldn't. Hesitantly, he took his foot out and took the water in with his bucket and poured it out the boat.
 
