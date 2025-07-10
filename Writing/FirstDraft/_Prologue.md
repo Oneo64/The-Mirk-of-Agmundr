@@ -7,7 +7,7 @@ After the local rascal rejected her advertisement, she left the small shack and 
 
 She stopped at their door. She held her helmet close, trying to be as presentable as possible. She reached out her free hand and knocked on the door thrice.
 
-A man answered the door. He had bronze jewelry, his circlet holding his old blond hair away from his face. He must be the father for he seemed at least fifty. He asked, "Who are you?"
+A man answered the door. He had bronze jewellery, his circlet holding his old blond hair away from his face. He must be the father for he seemed at least fifty. He asked, "Who are you?"
 
 "Good day, I'm Sága. We are arranging a journey to the new land Agmundr discovered. Agmundaland! Would you be interested in...?"
 

@@ -11,7 +11,7 @@ He glanced at the stern, where a plank rested against the cargo. A black circula
 
 "Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice almost drained by the wind. He could tell his brother was amused.
 
-The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of war compelled him. He remembered, two days ago, when he was persuaded by his brother. Persuaded to join Hjalvir's colonising company.
+The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of peace compelled him. He remembered, two days ago, when he was persuaded by his brother. Persuaded to join Hjalvir's colonising company.
 
 He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't a good teacher.
 
@@ -19,7 +19,11 @@ The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "
 
 "I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
 
-The blond man let out a breath. He turned away. He could still feel that annoying sensation of dampness in his socks. He could still taste the basic flavour of fish in his mouth. "How long will this travelling last?" he complained.
+The blond man let out a breath. He turned away. He could still feel that irritating sensation of dampness in his socks. He could still taste the basic flavour of fish in his mouth. "Are your boots damp too?"
+
+"Yes," his brother answered. "It's annoying."
+
+"How long will this travelling last?" the blond man complained.
 
 "The explorers took three days," his brother answered. "I heard."
 
@@ -27,13 +31,11 @@ Hearing this was the last day he would spend at sea, the blond man allowed a sma
 
 The blond man glanced at the other longship. His spear and sword were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
-His brother was about to speak. But before he could say anything, he was interrupted by Hjalvir, the man who stood on the bow. "The wind falters!" he loudly remarked.
+"The wind falters!" a voice remarked loudly, his tone commanding. Both the blond man and his brother turned to face whoever had exclaimed.
 
-Both the blond man and his brother turned to face Hjalvir.
+It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting-art. His beard ensured no one mistakened him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
 
-Hjalvir had short black hair that seemed to merge well with his beard, and a pair of pale green eyes that held a withering gaze. He faced everyone: the men who sat on their seats, and the women who watched over the animals and crates.
-
-"Right, all of you! Get yourself an oar and prepare rowing," he said with a commanding voice. He looked into the sky, noting where the sun sat. He lowered his gaze back down at the horizon and pointed there. "Northeast," he added.
+"Right, all of you! Get yourself an oar and prepare rowing," he ordered. He looked into the sky, noting where the sun sat. He lowered his gaze back down at the horizon and pointed there. "Northeast," he added.
 
 The rowers stood from their seats to gather their oars. The blond man did the same. He sat back down and lowered the head of the oar into the water.
 
@@ -61,18 +63,20 @@ As Ljörn finished his fish, he felt the first drops of rain hit his nose. He ca
 
 It began to rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly.
 
-Soon, the rain began pouring, water slowly flooding the ship. The crew members kept the boat from sinking, occasionally scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
+Soon, the rain was pouring, water slowly flooding the ship. The crew members kept the boat from sinking, occasionally scooping up water with buckets and dumping it into the ocean. The waves were bigger now, but the Vegvísir seemed to keep them from sinking the ship.
 
 The ship was hit by a wave, sending a splash of foam and water over the sailors. Hjalvir stumbled, but he wasn't one to fall. He looked to his daughter, who had to hold the side of the longboat to steady herself. He cast a quick glance at their cargo. Luckily, they were secured by ropes. "Come to the back," he gruffly said to his daughter.
 
 Ljörn hugged his cloak like many others, as he watched Hjalvir and his daughter make their ways to the stern. His wavy hair became straight and wet, dripping at the ends like an improperly closed tap. It was miraculous he was still warm, thanks to his woollen garbs.
 
-He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I saw something in the ocean!" He hurriedly said, gesturing at... nothing.
+A pool of water gathered where Ljörn didn't notice, but he felt it flood his boots. At least his foot didn't feel like it was swollen anymore. He considered keeping his foot in there, but knew he probably shouldn't. Hesitantly, he took his foot out and took the water in with his bucket and poured it out the boat.
+
+He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I saw something in the ocean!" he hurriedly said, gesturing at... nothing.
 
 Alfrir looked towards the ocean. Ljörn looked back to the ocean. He let out a breath he had been holding.
 
 Another wave crashed into the ship. The splash splattered all over the cargo. The magic of the symbol did its best to dry out the wood of the crates, but water seeped through the inbetweens of their boards.
 
-The haze was still in the air when the rain loosened to a light shower. The sun, now a cozy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land.
+The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land. He shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only tilted upwards by the slight slope of the shore.
 
-"Agmundaland," Ljörn muttered.
+Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. "Agmundaland!" he proclaimed. "I have come!"
