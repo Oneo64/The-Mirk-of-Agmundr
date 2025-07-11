@@ -1,15 +1,16 @@
 # Chapter 1: Sea Paranoia
-Two longboats had their full sails flapping, carried north by the strong wind. It was almost dusk, for they could tell by the bit of orange peeking through the cloudy sky. A man stood on the bow of the leading ship. He was accompanied by a shorter woman with a similar face, no doubt his daughter.
+<!-- SCENE 1: Story introduction !-->
+Upon a vast turquoise ocean, two longboats had their full sails flapping, carried north by the gale. It was halfway til dusk, for they could tell by the bit of orange peeking through the cloudy sky. A man stood on the bow of the leading ship. He accompanied a shorter woman with a similar face, no doubt his daughter.
 
-The longboat was made of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibers.
+The longboat was built of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
 
-"Rain," the man muttered darkly. Smelling the air for an oceany scent was out of the question, but he could tell by how dark the clouds were.
+"Rain," the man muttered darkly as he took a glance at the sky. Smelling the air for an oceany scent was out of the question, but he could tell by the mirk of the clouds.
 
-A blond man sat on his box, boredly looking out into the ocean. He lowered his head, looking down at the amulet he wore. His fingers trembled slightly as he held the cold metallic symbol, hoping it would provide him with some protection. He tucked it back into his cloak, his hands relishing the warm wool.
+A blond man sat on his box, boredly looking out into the ocean. He bowed his head, his eyes locking onto his amulet. His fingers trembled slightly as he held the cold metallic symbol, hoping it would provide him with some protection. He tucked it back into his cloak, his hand lingering as he relished the warm wool.
 
-He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it seemed to glow red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
+He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
 
-"Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice almost drained by the wind. He could tell his brother was amused.
+"Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice mostly drained by the wind. He could tell his brother was amused.
 
 The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of peace compelled him. He remembered, two days ago, when he was persuaded by his brother. Persuaded to join Hjalvir's colonising company.
 
@@ -29,9 +30,23 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 Hearing this was the last day he would spend at sea, the blond man allowed a small smile on his face.
 
-The blond man glanced at the other longship. His spear and sword were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
+The blond man returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He retook a good look at himself, reminding he was still there. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
-"The wind falters!" a voice remarked loudly, his tone commanding. Both the blond man and his brother turned to face whoever had exclaimed.
+The blond man glanced at the other longship. His weapons, spear and sword, were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
+
+As the blond man gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, as if he was upon a chopping block large enough for his stomach rather than his neck.
+
+"Ljörn!"
+
+The blond man jumped, coming back to his senses at his brother's call.
+
+"What?" the blond man sharply asked, breath still ragged. He was confused. For a moment, he was sure he had been found. And then he back on the boat, his seeker gone!
+
+"You're doing it again," his brother said.
+
+<!-- SCENE 2: The wind weakens and Hjalvir's introduction !-->
+
+"The wind falters!" a voice remarked loudly, clear even in the wind. Both the blond man and his brother turned to face whoever had exclaimed.
 
 It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting-art. His beard ensured no one mistakened him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
 
@@ -39,15 +54,7 @@ It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was tri
 
 The rowers stood from their seats to gather their oars. The blond man did the same. He sat back down and lowered the head of the oar into the water.
 
-The blond man glanced at his own visage, wavering on the water surface. He took a good look at himself again, reminding himself he was still there. He was long-haired, coloured more like old wheat than golden blond. His pale blue eyes were shaped like a dry, droopy leaf, as if he hadn't had a good night's sleep in days.
-
-As the blond man gazed into the water, he thought he saw a shadow move. His heart quickened, but he couldn't take his mind away from the water. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down like he was upon a chopping block, but if the chopping block was large enough for his chest rather than his neck. The water started moving—no, the boat was moving.
-
-"Ljörn!"
-
-The blond man jumped, his trance instantly disappearing as he heard his brother call him.
-
-"What?" the blond man sharply asked, his breath still ragged. He was confused. He just noticed the other men were already rowing. "Oh, sorry," he apologised. He waited for the other men's next stroke and rowed his oar with them.
+<!-- SCENE 3: The wind is strong again !-->
 
 An hour later, the clouds darkened. The winds started to pick up again. "Sails down!" Hjalvir ordered.
 
@@ -60,6 +67,8 @@ Ljörn was handed a piece of fish. He turned to Alfrir, who was also given some 
 "Cheers," Alfrir half-jokingly said, making a small raising gesture with his fish. He mirrored his gesture. They silently ate.
 
 As Ljörn finished his fish, he felt the first drops of rain hit his nose. He caressed his slightly hooked nose, wiping the droplets off. "Mmmh," he grumbled.
+
+<!-- SCENE 4: It starts to rain !-->
 
 It began to rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly.
 
@@ -76,6 +85,8 @@ He glanced at the ocean. Then, he saw the shadow again. Before he could see more
 Alfrir looked towards the ocean. Ljörn looked back to the ocean. He let out a breath he had been holding.
 
 Another wave crashed into the ship. The splash splattered all over the cargo. The magic of the symbol did its best to dry out the wood of the crates, but water seeped through the inbetweens of their boards.
+
+<!-- SCENE 5: The boat arrives !-->
 
 The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land. He shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only tilted upwards by the slight slope of the shore.
 
