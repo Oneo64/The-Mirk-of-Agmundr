@@ -63,6 +63,15 @@ Ljörn finds that when Rúna is there, he can relax a little despite his paranoi
 ### Goals
 Before Ljörn went on the journey to the new island, he wanted to protect his family. After landing on the new island, he had thoughts of taking the longship back to Álahringr.
 
+### Arc
+Positive Arc
+FEAR -> REALISATION -> COURAGE
+**Ghost:** Unresolved PTSD from the past.
+**Lie:** My family is in danger.
+**Want:** I want to return to Álahringr to protect my family.
+**Need:** I need to realise my visions aren't real because they only harm me.
+**Truth:** I should stay.
+
 ## Abilities
 ### Physicality
 Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought draugar.

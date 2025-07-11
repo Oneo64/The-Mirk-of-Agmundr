@@ -30,7 +30,7 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 Hearing this was the last day he would spend at sea, the blond man allowed a small smile on his face.
 
-The blond man returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He retook a good look at himself, reminding he was still there. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
+The blond man returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
 The blond man glanced at the other longship. His weapons, spear and sword, were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
@@ -38,9 +38,7 @@ As the blond man gazed into the water, he saw a shadow move. His heart quickened
 
 "Ljörn!"
 
-The blond man jumped, coming back to his senses at his brother's call.
-
-"What?" the blond man sharply asked, breath still ragged. He was confused. For a moment, he was sure he had been found. And then he back on the boat, his seeker gone!
+The blond man jumped, coming back to his senses at his brother's call. "What?" the blond man sharply asked, breath still ragged. He was confused. For a moment, he was sure he had been found. And then he was back on the boat, his seeker gone!
 
 "You're doing it again," his brother said.
 
@@ -56,17 +54,17 @@ The rowers stood from their seats to gather their oars. The blond man did the sa
 
 <!-- SCENE 3: The wind is strong again !-->
 
-An hour later, the clouds darkened. The winds started to pick up again. "Sails down!" Hjalvir ordered.
+One hour passed, the clouds darkened. The winds started to pick up again. "Sails down!" Hjalvir ordered, glancing over his shoulder.
 
 As Ljörn rested his hands and shoulders, he looked at the horizon for the land his brother was hyped about. It appeared as a thick, dark line across the curves of Myrkjörðr. But before he could get a better look, a haze gathered and blurred the land into the ocean.
 
-Hjalvir called one of his men over and talked in quiet voices. His assistant left the bow to the stern and opened it: dried, salted fish. He distributed the fish amongst them.
+Hjalvir called one of his men over and talked in quiet voices. His assistant left the bow to the stern and opened it: dried, salted fish. He distributed the fish amongst the crew. The first were given to Hjalvir, his daughter, the women, then the rowers.
 
 Ljörn was handed a piece of fish. He turned to Alfrir, who was also given some by the man.
 
-"Cheers," Alfrir half-jokingly said, making a small raising gesture with his fish. He mirrored his gesture. They silently ate.
+"Cheers," Alfrir half-jokingly said, making a small raising gesture with his fish. Ljörn mirrored his gesture. They silently ate.
 
-As Ljörn finished his fish, he felt the first drops of rain hit his nose. He caressed his slightly hooked nose, wiping the droplets off. "Mmmh," he grumbled.
+As Ljörn finished his fish, he felt the first drops of rain. He caressed his slightly hooked nose, wiping the droplets off. "Mmmh," he grumbled.
 
 <!-- SCENE 4: It starts to rain !-->
 
@@ -80,14 +78,20 @@ Ljörn hugged his cloak like many others, as he watched Hjalvir and his daughter
 
 A pool of water gathered where Ljörn didn't notice, but he felt it flood his boots. At least his foot didn't feel like it was swollen anymore. He considered keeping his foot in there, but knew he probably shouldn't. Hesitantly, he took his foot out and took the water in with his bucket and poured it out the boat.
 
-He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I saw something in the ocean!" he hurriedly said, gesturing at... nothing.
+He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I... see!" he hurriedly said, gesturing at... nothing.
 
 Alfrir looked towards the ocean. Ljörn looked back to the ocean. He let out a breath he had been holding.
 
-Another wave crashed into the ship. The splash splattered all over the cargo. The magic of the symbol did its best to dry out the wood of the crates, but water seeped through the inbetweens of their boards.
+Another wave crashed into the ship. The splash splattered all over the cargo. The magic of the symbol did its best to dry out the wood of the crates, but still, water seeped through the inbetweens of their boards.
 
 <!-- SCENE 5: The boat arrives !-->
 
-The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land. He shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only tilted upwards by the slight slope of the shore.
+The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land.
+
+The land had a wide beach. There was a small and climbable cliff, connecting the sand to a meadow. There was a dark silhouette, probably just a boulder. Behind it laid a forest, woods of what looked like tall evergreen trees.
+
+Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only tilted upwards by the slight slope of the shore.
+
+Ljörn turned around to see the land again. It was only then that he noticed the dark silhouette wasn’t a rock at all. It was a lonely hall with a tarf roof, blending amongst nature’s green. From the lack of light, Ljörn could tell that the hearthfire was out. It was at least twice the length of a longhouse, yet not enough for all of Hjalvir’s company, although it would do for the crew. A small wooden extension was built on the roof, which was almost certainly the chimney.
 
 Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. "Agmundaland!" he proclaimed. "I have come!"
