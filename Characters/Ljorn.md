@@ -10,7 +10,6 @@
 	<tr> <td>Birthday</td> <td>December 2, AD 947</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Ulfnir (older brother)<br>Alfrir (younger brother)<br>Yngvild (younger sister)</td> </tr>
-	<tr> <td>Lover</td> <td>Rúna</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -46,9 +45,10 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
 
 "What do you mean?"
 "I... don't think-"
-"What?"
 "Alfrir. I-"
+"Are your boots... wet, too?"
 "How long will this travelling last?"
+"What?"
 
 ### Paranoia
 Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He avoids reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]

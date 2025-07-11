@@ -20,7 +20,7 @@ The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "
 
 "I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
 
-The blond man let out a breath. He turned away. He could still feel that irritating sensation of dampness in his socks. He could still taste the basic flavour of fish in his mouth. "Are your boots damp too?"
+The blond man let out a breath. He turned away. He could still feel that irritating sensation of dampness in his socks. He could still taste the basic flavour of fish in his mouth. "Are your boots... wet, too?"
 
 "Yes," his brother answered. "It is annoying."
 
@@ -88,10 +88,10 @@ Another wave crashed into the ship. The splash splattered all over the cargo. Th
 
 The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land.
 
-The land had a wide beach. There was a small and climbable cliff, connecting the sand to a meadow. There was a dark silhouette, probably just a boulder. Behind it laid a forest, woods of what looked like tall evergreen trees.
+The land had a wide beach. There was a small, climbable cliff, connecting the sand to a meadow. There was a dark silhouette, probably just a boulder. Behind it laid a forest, trees swaying in the rain.
 
-Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only tilted upwards by the slight slope of the shore.
+Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only bumped upwards by the slight slope of the shore.
 
 Ljörn turned around to see the land again. It was only then that he noticed the dark silhouette wasn’t a rock at all. It was a lonely hall with a tarf roof, blending amongst nature’s green. From the lack of light, Ljörn could tell that the hearthfire was out. It was at least twice the length of a longhouse, yet not enough for all of Hjalvir’s company, although it would do for the crew. A small wooden extension was built on the roof, which was almost certainly the chimney.
 
-Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. "Agmundaland!" he proclaimed. "I have come!"
+Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. Ljörn watched as the would-be cheiftain stumbled forwards, chuckling at the sight of such a wild land. "Agmundaland!" he proclaimed. "I, have come!"
