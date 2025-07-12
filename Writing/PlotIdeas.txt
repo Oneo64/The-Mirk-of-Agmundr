@@ -1,26 +1,38 @@
 A northman suffering from PTSD is pressured by his brother to join him in traveling to a new land to settle. After meeting the shore of the new land, he must overcome his disorders as they attempt to establish a farmstead without succumbing to the horrors that dwell there.
 
-Main charatcers: Ljörn, Alfrir, Rúna, Sága, Ingólfr
+Main charatcers: Ljörn, Alfrir, Rúna, Sága, Ingólfr, Tjörn
 
 -------
 
-Sea Paranoia: Ljörn sails on the longboat. He begins to show subtle signs of PTSD.
+1, Sea Paranoia: Ljörn sails on the longboat. He begins to show subtle signs of PTSD.
 
 ---
 
-Without the Wrought Weapons: They arrive at the land. They seek shelter in the community hall that Agmundr built and stay for the night.
+2, Night: They arrive at the land. They seek shelter in the community hall that Agmundr built and stay for the night.
 
 Alfrir wakes up later after feeling funny in his stomach. The rain is a light shower now. He takes a torch outside to take a stroll and get fresh air. But when he is outside, he spots one of the colonisers looking at the ocean and learns that the second longboat didn't arrive.
 
 ---
 
-Morning After Storm: Ljörn wakes up and finds that the storm is over. He rises earlier than the other men. He wakes Alfrir. Alfrir tells him their weapons haven't arrived. Ljörn goes to the ocean and look out into the horizon.
+3, Morning Without the Wrought Weapons: Ljörn wakes up and finds that the storm is over. He rises earlier than the other men. He wakes Alfrir. Alfrir tells him their weapons haven't arrived.
+
+Ljörn goes to the ocean and look out into the horizon. Becoming increasingly paranoid, he seeks out the seeress. He finds her and asks for their woe. She reveals a cryptic message, which really means that magic may come and Ljörn might make an escape.
 
 ---
 
-Talking Goat, Bloody Blade: A seemingly intelligent goat visits the village. After trolling the colonisers, an archer tries to shoot it dead. The arrow is pushed out of the goat's body and lands on the ground. The goat charges at the archer and knocks him out cold.
+4, The Völva was Right: Later that night, Ljörn decides to go to the shore and try to escape the island with the boat. But as he comes near it, he realises that the sail was torn. A guard spots him and questions him. Ljörn lies that he was missing his tools on the boat. The guard, not believing him, tells him to go back.
 
-Ingólfr, angry, shouts a battle cry and charges at the goat and a fight (colonists vs magical goat) starts.
+---
+
+5, New fruit: Hjalvir arranges an exploring team to explore the nearby forest. Rúna is introduced into the story.
+
+Ljörn, Alfrir, Rúna, and Sága are arranged. Ljörn and Alfrir were chosen because of their experience with supernatural creatures, Alfrir is to lead, Rúna to identify herbs, and Sága because she's Hjalvir's daughter. Rúna shares knowledge of They discover crowberries, but don't know what it is.
+
+---
+
+6, Talking Goat, Bloody Blade: A seemingly intelligent goat visits the village. After trolling the colonisers, an archer tries to shoot it dead. The arrow is pushed out of the goat's body and lands on the ground. The goat charges at the archer and knocks him out cold.
+
+Ingólfr is introduced here in the story. Angry, he shouts a battle cry and charges at the goat and a battle (colonists vs magical goat) begins.
 
 Meanwhile, the other longboat finally arrives.
 
@@ -28,44 +40,54 @@ The goat is eventually struck dead when Ljörn realises the other boat has arriv
 
 ---
 
-New fruit: Hjalvir arranges an exploring team to explore the nearby forest. Ljörn, Alfrir, Ingólfr, Rúna, and Sága are arranged. Ljörn and Alfrir were chosen because of their experience with supernatural creatures, Ingólfr is to lead, Rúna to identify herbs, and Sága because she's Hjalvir's daughter. They discover crowberries, but don't know what it is.
+7, Hilltop Sightseeing: Now properly armed, Hjalvir calls for Ljörn and Alfrir. They are arranged with Ingólfr (the leader), Rúna, and Sága. This time, they are to go atop a small hill to get a better look of the land.
 
-Ljörn gets his first PTSD attack after seeing a dead troll corpse alone. He makes his escape but gets lost.
-
----
-
-The Flower: As Ljörn was lost, he discovers arctic thymes. Cautiously, he smells them, decides he likes them, and pockets them.
+Ljörn gets his first PTSD attack after seeing a dead troll corpse alone. He trips over a rock and falls to the foot of the hill, into the forest. The other four go and find him but couldn't, so they presume him dead.
 
 ---
 
-Them from the Forest: While Ljörn is gone, the company is visited by a tribe of trolls. Hjalvir manages to make peace with them, and they trade items. But the trolls get angry when they offer metals. They leave the settlement.
+8, Them from the Forest: While Ljörn is gone, the company is visited by a tribe of trolls. They say that the company has been trespassing their land and threaten to attack them. Hjalvir manages to make peace with them by trading items. But the trolls get angry when Sága offer metals. They leave the settlement.
 
 ---
 
-Tea: Ljörn finds his way back to the village. Hjalvir scolds him, but Ljörn shows him the arctic thyme. Ljörn is sent away. He then gives the arctic thyme to Rúna so she can study it.
+9, The Flower and the Neck: As Ljörn was lost, he finds a river. There he encounters the Nykr. Hearing its voices, he becomes tempted to touch it's fur. But he resists, forcing the Nykr to return to the river. Ljörn chases it with his sword, but he becomes distracted when he spots arctic thymes near the river. Cautiously, he picks them with his seax and smells them, decides he likes them, and pockets them.
 
 ---
 
-Hate for the Foreign: Ljörn is carrying a log back to the farmstead when this happens.
+10, Tea: Ljörn finds his way back to the village. Hjalvir scolds him, but Ljörn shows him the arctic thyme. Ljörn is sent away. He gives the arctic thyme to Rúna instead she can study it.
+
+---
+
+11, Hate for the Foreign: Ljörn is carrying a log back to the farmstead when this happens.
 
 The trolls eventually attack the settlement. They scare them away with superior weaponry.
 
 ---
 
-Storm God's Rite: The colonists decide to create a bonfire for the storm god Talmundúr.
+12, Storm God's Rite: The colonists decide to create a bonfire for the storm god Þórr.
 
 ---
 
-Völva's Vision: The seeress that went with them claimed that she saw a draugr's tomb on the island. She says that it can turn into a goat and live without it's head.
+13, Völva's Vision: The seeress that went with them claimed that she saw a draugr's tomb on the island. She says that it can turn into a goat and live without it's head.
+
+After hearing her vision, Ljörn realises that he had slashed the face of the draugr. He panics, and as he thinks back about what he's done, he realises that he had already overcame many other dangers.
 
 ---
 
-The Gifted Grave: Ljörn and Alfrir are sent by Hjalvir to the tomb of the rumored draugr.
+14, The Gifted Grave: Ljörn and Alfrir are sent by Hjalvir to the tomb of the rumored draugr.
 
 ---
 
----
+15, The Dream-like Deer: Animals start to act weird.
 
 ---
 
-Ending: Ljörn kills a draugr and becomes Hjalvir's knight.
+16, It returns: The draugr makes its appearance at dusk.
+
+---
+
+17, Revenant's Woe: Ljörn kills a draugr and becomes Hjalvir's knight.
+
+---
+
+18, Old Aldr:

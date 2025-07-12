@@ -70,7 +70,7 @@ FEAR -> REALISATION -> COURAGE
 **Lie:** My family is in danger.
 **Want:** I want to return to Álahringr to protect my family.
 **Need:** I need to realise my visions aren't real because they only harm me.
-**Truth:** I should stay.
+**Truth:** I should stay, and my family isn't in danger, but we are.
 
 ## Abilities
 ### Physicality
