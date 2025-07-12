@@ -61,16 +61,22 @@ If confronted about his behavior, Ljörn would either try to dismiss it or not a
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
 
 ### Goals
-Before Ljörn went on the journey to the new island, he wanted to protect his family. After landing on the new island, he had thoughts of taking the longship back to Álahringr.
+#### Goal arc A
+**Goal:** To return to Álahringr.
+**Motivation:** My family doesn't have a reliable protector.
+
+#### Goal arc B
+**Goal:** To survive.
+**Motivation:** Successfulness.
 
 ### Arc
 Positive Arc
 FEAR -> REALISATION -> COURAGE
 **Ghost:** Unresolved PTSD from the past.
-**Lie:** My family is in danger.
-**Want:** I want to return to Álahringr to protect my family.
+**Lie:** I hate this land, I'm tired of adventure, and my family is in danger.
+**Want:** I want to return back to Álahringr.
 **Need:** I need to realise my visions aren't real because they only harm me.
-**Truth:** I should stay, and my family isn't in danger, but we are.
+**Truth:** I should stay, because right now I'm in greater danger than my family.
 
 ## Abilities
 ### Physicality

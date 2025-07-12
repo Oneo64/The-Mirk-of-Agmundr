@@ -39,6 +39,10 @@ Sága sees Seyja as a role model and aspires to be as brave as her.
 ### Ljörn
 Sága thinks Ljörn is bewitched.[^1]
 
+### Goals
+**Goal:** To explore the new land.
+**Motivation:** The thrill of adventure.
+
 ### Voice
 Sága speaks in a story-like manner. She tries to speak confidently like Seyja, but this act drops when she's alone or with close ones. She tends to use the word *for* as a replacement for *as* or *because*.
 

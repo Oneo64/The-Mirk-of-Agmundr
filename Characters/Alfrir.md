@@ -28,7 +28,7 @@ He wears a blue woolen cap with green accents, dark blue shawl, a maille hauberk
 He wears a maille-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (Helm of Awe) painted on it.
 
 ## Personality
-Alfrir can be described as a competitive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or people with greater political power.
+Alfrir can be described as a competitive and persuasive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or people with greater political power.
 
 Alfrir has a subtle sense of humor, yet his sense of humor only shows during hard times.
 
@@ -37,6 +37,19 @@ Alfrir has a subtle sense of humor, yet his sense of humor only shows during har
 "Hey. Are you still thinking about Álahringr?"
 "I told you this land would be prosperous. And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
 "The explorers took three days, I heard."
+
+### Goals
+**Goal:** To explore the new land.
+**Motivation:** Successfulness and wealthiness.
+
+### Arc
+Positive Arc
+PERSUASIVE -> REGRET -> OPEN-MINDED
+**Ghost:** Ljörn is too passive.
+**Lie:** Ljörn needs to be as mature and as lively as me.
+**Want:** I want Ljörn to not be a coward.
+**Need:** I need to realise that Ljörn is under pressure.
+**Truth:** Ljörn wants personal peace.
 
 ## Abilities
 ### Physicality
