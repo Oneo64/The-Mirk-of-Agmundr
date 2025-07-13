@@ -9,67 +9,37 @@ Ingólfr, Hjalvir, the Völva
 
 # Act 1: Discovery
 ## 1, Sea Paranoia
-**POV:** Ljörn
+**Main point to convey:** Introduction
 
-**Scene starts:** Ljörn and Alfrir are on the longship
-
-Ljörn sails on the longboat. This is the introductory chapter for Ljörn, Alfrir, and Hjalvir. Ljörn begins to show subtle signs of his PTSD.
-
-Before they get to the land, it starts to pour rain.
-
-They arrive at the land. They seek shelter in the community hall that Agmundr built to stay for the night.
+Ljörn sails on the longboat. This is the introductory chapter for Ljörn, Alfrir, and Hjalvir.
 
 ## 2, Defenseless in Night
-**POV:** Ljörn
+**Main point to convey:** The community hall and the defenselessness of the colonists
 
-**Scene starts:** Ljörn sits against he community hall's wall
+They arrive and shelter in the longhouse. Sága is introduced when she tells the story *Draugrinn ór Mínu Minni*. Ljörn leaves after hearing the title due to PTSD, but he encounters and kills a boar.
 
-After a long moment of waiting, Ljörn gets a gut feeling the second longboat didn't arrive with them. The others also have the same feeling. They only have their shields and knives.
-
-Sága is introduced in this chapter. A long moment passes, and Sága decides to brighten the mood by telling a story. As Sága announces the story's title, *Draugrinn ór Mínu Minni*, Ljörn becomes upset at the word "draugr" and leaves the community hall.
-
-Ljörn paces outside. Alfrir goes after him to calm him down and persuade Ljörn to return. Ljörn refuses. Alfrir has no choice but to stay with him outside.
-
-Outside, they meet their first foe: a wild boar. Ljörn doesn't have time to ready his shield when the boar charges at him. He manages to dodge it. The two draw their seaxes, but when Alfrir tackles it and stabs it in the back, the boar rams into him in return. The boar charges Alfrir into the hall, and when Alfrir lands into the hearth, it is extinguished.
-
-After a chaotic struggle, Alfrir pins the boar down and strikes it repeatedly with the boss of its shield until it dies.
-
-Hjalvir finds Alfrir. Ljörn, almost resentful, expects Alfrir to be beaten, But instead, Hjalvir tells Alfrir that he has done well.
-
-The two share a conversation before going to sleep.
+Ljörn kills the boar by pinning it down and striking it repeatedly with the boss of its shield until it dies.
 
 ## 3, Firewood
-**POV:** Ljörn
+**Main point to convey:** Day one
 
-**Scene starts:** Ljörn is slumped against the community hall's wall when he awakes
-
-Ljörn wakes up and finds that the storm is over. He rises earlier than the others. He wakes Alfrir, who didn't get a good sleep. Alfrir explains that he felt sick and had to take a stroll.
-
-After dagmal, Hjalvir gathers five groups of two to be sent out to gather sticks for fire. Ljörn thinks about protesting, but stops himself when he realises its no use.
-
-Ingólfr is introduced into the story. Wandering in the forest, Ingólfr and Ljörn gather sticks. Ingólfr makes it clear that Ljörn should carry the firewood, and he himself should collect and fight if needed. Ljörn gets paranoid as he wanders in the forest weaponless.
+Ljörn wakes up and finds that the storm is over. After dagmal, Hjalvir gathers five groups of two to be sent out to gather sticks for fire. Ingólfr is introduced into the story, and Ljörn and Ingólfr is arranged to gather sticks together.
 
 ## 4, The Völva
-**POV:** Ljörn
+**Main point to convey:** Seiðr exists and Agmundr's threat
 
-**Scene starts:** Ljörn sits in the community hall again, but the fire is lower
+It is night time again. Sága continues her tale. Ljörn experiences a flashback when she mentions the antagonist of her tale.
 
-During the night, Ljörn sits in the half dark. He forces himself to stay, painfully listening as Sága continues the tale. As she comes to describe the draugr, Ljörn is staring at the community hall's door and from it, he experiences a flashback to the moment he had been dreading about.
+After his flashback finishes, Ljörn leaves the hall again to seek out the Völva. The Völva is introduced into the story. Ljörn finds her by the shore and asks for his woe. She reveals a cryptic message. She says something along the lines of someone will take a goblet and awaken something, and someone will attempt to make an escape.
 
-After his flashback finishes, Ljörn leaves the hall again to seek out the Völva. The Völva is introduced into the story. Ljörn finds her by the shore and asks for his woe. She reveals a cryptic message, which really means that magic may come and Ljörn might make an escape.
-
-That same night, his paranoia takes over and he decides to go to their boat, which is now anchored by a rope tied to a log they stuck in the sand. He plans to escape the island with the longboat. But as he comes near it, he realises that the sail was torn and there's no way he could push the boat back to sea himself.
-
-A guard spots him and questions him. Ljörn lies that he was missing his tools on the boat. The guard, not believing him, commands him to go back.
+That same night, his paranoia takes over and he plans to escape the island with the longboat. But he is spotted by a guard and is sent back to the hall.
 
 ## 5, Tree and Lyng, Berrybushes' Spring
-**POV:** Ljörn
+**Main point to convey:** Rúna's introduction and her curiosity
 
-**Scene starts:** Ljörn and Alfrir are with a throng of warriors who want their weapons and armor
+In the morning, the boat finally arrives. The warriors go and collect their weaponry, arming themselves.
 
-In the morning, the boat finally arrives. The warriors go and collect their weaponry, arming themselves. When Ljörn and Alfrir retrieves their spears, they exchange looks. Alfrir chuckles in relief.
-
-Hjalvir calls the two and arranges an exploring team to explore the nearby forest. Rúna is introduced into the story. Ljörn, Alfrir, Rúna, and Sága are arranged, under the lead of Ingólfr. Ljörn and Alfrir were chosen because of their experience with supernatural creatures, Rúna to identify herbs, and Sága because she's Hjalvir's daughter.
+Hjalvir calls the two and arranges an exploring team to explore the nearby forest. Rúna is introduced into the story. Ljörn, Alfrir, Rúna, and Sága are arranged, under the lead of Ingólfr. Ljörn and Alfrir were chosen because of their experience with supernatural creatures.
 
 Sága meets Ljörn for the first time, and expresses her thoughts about him being cursed. Ljörn ignores her, and Alfrir starts to disdain Sága.
 
@@ -78,9 +48,7 @@ As they wander in the forest, Rúna asks Ljörn if he really is cursed, and Ljö
 Later, Rúna discovers crowberries. Sága says they're just blueberries, but is ultimately convinced when she tastes a drop of its juices.
 
 ## 6, Dark Hill in a Forest of Gloom
-**POV:** Ljörn
-
-**Scene starts:** The group is in the brighter forest when they see the darker forest
+**Main point to convey:** Ljörn and Rúna's similar dislikes (Ljörn doesn't like dark forests because of PTSD, Rúna doesn't like dark forests because it unnerves her), and Alfrir unknowingly commiting robbery by taking Agmundr's goblet
 
 As they continue on, they find the border to a darker forest. In the distance, Ljörn spots a small out-of-place hill. Alfrir is the one that notifies everyone. Sága agrees on going to check it out.
 
@@ -90,18 +58,14 @@ As they circle around the hill, Ljörn starts to experience hypervigilance. Alfr
 
 # Act 2: Bonds and Consequences
 ## 7, The Herbalist
-**POV:** Ljörn
-
-**Scene starts:** Ljörn is on the farmstead's path
+**Main point to convey:** Month passes and Rúna's knowledge
 
 A month has passed, and the story introduces three houses, three rye farms, and one goat pen. Ljörn, feeling stressed and wanting to escape the constant feeling of being followed, decides to seek Rúna out, who is sitting on a stump by the river.
 
 He asks if she knows about any herb that could calm the mind. She suggests chamomile, but Ljörn had already tried the herb and says that isn't for the mind. She then suggests catnip. Ljörn gets offended easily, saying he's not some stray cat. Ljörn abruptly leaves.
 
 ## 8, Negotiations
-**POV:** Ljörn
-
-**Scene starts:** On the path halfway to the farmstead
+**Main point to convey:** Sága angering trolls and Ljörn's loss of cloak
 
 The sun is low, meaning long shadows are cast over the farmstead by the forest. Ljörn notices a group of people approaching them from the forest, so he returns to Rúna and alerts her.
 
@@ -112,28 +76,28 @@ When Alfrir persuades Ljörn to make a trade, Ljörn realises he doesn't have a 
 But when it is Sága's turn, she offers her seax to the trolls. The trolls freak out as they realise that Sága's seax is made of iron. They take it as an insulting gesture and leave the farmstead.
 
 ## 9, Blind Eagle's Eye
-**POV:** Ljörn
+**Main point to convey:** Ljörn's PTSD harming him and getting him lost
 
 Hjalvir calls for an exploration team again. Alfrir gets Ljörn to go. The two are arranged with Ingólfr (the leader), Rúna, and Sága. This time, they are to go atop a small hill to get a better look of the land.
 
 There is a tree on the hill. When Ljörn circles to the other side of the tree, he gets a PTSD attack, seeing a troll corpse alone. He backs away. trips over a rock, and falls to the foot of the hill into the forest. Alfrir is the first to go after him, the other three following behind. They couldn't find him, so they presume him dead.
 
 ## 10, Warrior's Wane
-**POV:** Ljörn
+**Main point to convey:** Alfrir's regret and Sága's growing affection (platonic)
 
 Alfrir is shaken by Ljörn's presumed death. He watches over a new farm being tilled by farmers, still down. Sága finds him and asks him what troubles him. Alfrir shows his regret when he made Ljörn join the colony and that he killed him with his persuasion. He is even more upset that Ljörn won't be going to Valhöll, and instead, Hel.
 
 Sága tells Alfrir that they can go and look for him, but Alfrir is already convinced.
 
 ## 11, The Flower and the Neck
-**POV:** Ljörn
+**Main point to convey:** The Nykr and Ljörn's discovery of a flower whose smell he likes
 
 Ljörn wakes up after out cold for a while. He gets lost and finds a river. There he encounters the Nykr. Hearing its voices, he becomes tempted to touch it's fur. But he resists, forcing the Nykr to return to the river. Ljörn chases it with his sword, but the Nykr escapes. Ljörn spots arctic thymes near the river.
 
 Cautiously, he picks the arctic thyme with his seax and smells them, and finds he actually likes the smell. He then remembers how he was reluctant to come to the new land, and realises he might like the land more than he thought. He hesitantly pockets the arctic thyme and leaves before the Nykr comes back.
 
 ## 12, The Discovery
-**POV:** Ljörn
+**Main point to convey:** Ljörn leading Sága back and her discovery.
 
 Wandering around the forest, he eventually finds a hill. He climbs it and sees the smoke of the hall. He gains hope and follows it.
 
@@ -148,7 +112,7 @@ When the two meet again, Alfrir exclaims in fear, thinking he is seeing Ljörn's
 Ljörn tells Alfrir about the draugr. Alfrir doesn't apologise, but he doesn't persuade or even bring up the idea of going to find the draugr's tomb together to kill it. Alfrir says he'll tell the others, and he leaves Ljörn. Ljörn decides to go find Rúna.
 
 ## 13, River's Bond
-**POV:** Ljörn
+**Main point to convey:** Ljörn and Rúna's bond
 
 Ljörn finds Rúna again, who is sitting by the river. Rúna is surprised that Ljörn is stil alive. Ljörn apologises for his earlier anger.
 
@@ -160,7 +124,7 @@ Ljörn later tells her about Sága's discovery.
 
 # Act 3: Wars and Mythology
 ## 14, Trolls In Winter
-**POV:** Ljörn
+**Main point to convey:** Troll's attack
 
 Snow starts to fall, telling that another month has passed. The farmstead is now covered in a thin layer of snow and there are less needles on the trees. Alfrir's daily life is shown, where he falls trees. With Ljörn's help, he carries the log back. As a second tree falls, a raid happens at the farmstead. The trolls have returned, and they attack the settlement.
 
@@ -175,7 +139,7 @@ As they fight, Hjalvir is hit in the head by a thrown javelin. Luckily, he was w
 The colonists eventually scare them away with superior weaponry.
 
 ## 15, Storm God's Rite
-**POV:** Ljörn
+**Main point to convey:** Celebration, and Ljörn and Rúna's growing affection (romantic)
 
 It is evening, and Hjalvir decides to celebrate their victory against the trolls by cremating one of their goats in a bonfire, along with runesticks of every colonists' name, in honour of the storm god Þórr.
 
@@ -185,9 +149,9 @@ Later, Rúna finds Ljörn, knowing that he is cold. She tells him she wants to s
 
 # Act 4: Ending
 ## 16, Talking Goat and Bloody Blade
-**POV:** Ljörn
+**Main point to convey:** Draugr's trickery with Tanngrisnir
 
-A seemingly intelligent goat visits the village. Ljörn thinks it's tanngrisnir, and tells Alfrir. Alfrir then proclaims to the colonists that it is the goat of Þórr, and they start to believe they've been blessed.
+A seemingly intelligent goat visits the village. Ljörn thinks it's Tanngrisnir, and tells Alfrir. Alfrir then proclaims to the colonists that it is the goat of Þórr, and they start to believe they've been blessed.
 
 But after the goat messes with the colonisers, an archer tries to shoot it dead. The arrow is pushed out of the goat's body and lands on the ground. The goat charges at the archer and knocks him out cold.
 
@@ -198,14 +162,14 @@ The goat is eventually struck dead when Alfrir sneaks behind the goat and pins i
 Looking at the body of the goat, Ljörn realises it was one of the colonists goats, and not Tanngrisnir.
 
 ## 17, Völva's Vision
-**POV:** Ljörn
+**Main point to convey:** Völva's vision and revelation of Sága's discovery
 
 The seeress claimed that she received a vision of a draugr's tomb on the island. She says that it can control and transform into animals.
 
 After hearing her vision, Ljörn realises that Sága was right, and that the hill he saw was the tomb of a draugr. He panics, grieving at the thought of the draugr seeking him, Alfrir, Sága, and Rúna out.
 
 ## 18, Sight of the Sacred's Spjall
-**POV:** Ljörn
+**Main point to convey:** Ljörn is challenged to leave again
 
 It is dusk. Ljörn, true to his low self-esteem, almost falls to depression. He finds the boat repaired and considers again to leave the island. But then, he remembers that Rúna wants to stay. Then he remembers Alfrir, who wants to stay too, and the arctic thyme which he seemed to like. He turns away from the boat and leaves.
 
@@ -216,7 +180,7 @@ Before they could say more, Ljörn spots the draugr at the farmstead. The two hi
 It clicks and Ljörn realises it was the draugr who deceived them all.
 
 ## 19, The Revenant's Woe
-**POV:** Ljörn
+**Main point to convey:** The antagonist's attack on Alfrir, and Ljörn's choice to stay and defend
 
 The draugr opens the door to the house Alfrir is at. But with rage, Ljörn comes out of the bush after the draugr. Rúna tries to make Ljörn stay, but he doesn't hear her clearly. Ljörn goes to fight it anyway. But then when he nears it and sees the face of the draugr, he gets another PTSD attack. Ljörn only manages to deflect the draugr's blow and is knocked over, overpowered.
 
@@ -225,7 +189,7 @@ The fight awakens Alfrir and Sága, who both arm themselves. Alfrir, seeing Ljö
 The draugr turns itself into mist and leaves the house. The colonists come out and search for the draugr.
 
 ## 20, Agmundr
-**POV:** Ljörn
+**Main point to convey:** Agmundr's death
 
 But when they lower their guards, the draugr returns with a torch. It appears in the house Alfrir was in, and it sets the house on fire from the inside.
 
@@ -238,7 +202,7 @@ Ljörn freezes up as he sees the face of the draugr. It grips the shaft of his s
 But then, Rúna comes up behind the draugr and hits its neck with her spear, but doesn't decapitate it. The draugr faces Rúna. Seeing Rúna in danger, Ljörn overcomes his PTSD and cleaves his sword into the back of the draugr's skull, ultimately killing it.
 
 ## 21, Ashes from the Corpse
-**POV:** Ljörn
+**Main point to convey:** Ending
 
 Hjalvir, still rattled at the fate of Agmundr, makes a hard decision. At the deathplace of Agmundr's revenant, he orders his men to burn Agmundr's body to ensure it never rises again.
 

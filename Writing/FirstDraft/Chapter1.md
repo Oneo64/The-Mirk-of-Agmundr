@@ -48,7 +48,7 @@ The blond man jumped, coming back to his senses at his brother's call. "What?" t
 
 It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting-art. His beard ensured no one mistakened him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
 
-"Right, all of you! Get yourself an oar and prepare rowing," he ordered. He looked into the sky, noting where the sun sat. He lowered his gaze back down at the horizon and pointed there. "Northeast," he added.
+"Right, all of you! Get yourself an oar and prepare rowing," he ordered. He looked into the sky, noting where the sun sat. He lowered his gaze back down at the horizon and pointed there. "Northwest," he added.
 
 The rowers stood from their seats to gather their oars. The blond man did the same. He sat back down and lowered the head of the oar into the water.
 
