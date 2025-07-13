@@ -6,7 +6,7 @@ The longboat was built of dark wood, tightly interlocked and sealed with resin. 
 
 "Rain," the man muttered darkly as he took a glance at the sky. Smelling the air for an oceany scent was out of the question, but he could tell by the mirk of the clouds.
 
-A blond man sat on his box, boredly looking out into the ocean. He bowed his head, his eyes locking onto his amulet. His fingers trembled slightly as he held the cold metallic symbol, hoping it would provide him with some protection. He tucked it back into his cloak, his hand lingering as he relished the warm wool.
+A blond man sat on his box, boredly looking out into the ocean. He bowed his head, his eyes locking onto his amulet. His fingers trembled slightly as he held the cold, metallic hammer of Þórr, hoping that he would provide him with some protection. He tucked it back into his cloak, his hand lingering as he relished the warm wool.
 
 He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
 
