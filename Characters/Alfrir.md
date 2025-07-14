@@ -41,6 +41,7 @@ Alfrir has a subtle sense of humor, yet his sense of humor only shows during har
 "See them?"
 "Look at the man's helmet."
 "I never seen one like it."
+"Ljörn, what are you-"
 "Ugh... nasty thing. It's gone done me."
 
 ### Goals
