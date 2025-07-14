@@ -51,7 +51,7 @@ The grass was still swaying in the wind when Ljörn came out. The rain, now ligh
 
 A distinctive rustle came from the tall grass. His eyes darted to the bush, but saw nothing in them.
 
-Then, a voice questioned him. "What are you doing?"
+A voice questioned him. "What are you doing?"
 
 Ljörn looked to the side and flinched. Ingólfr had returned from his scouting mission, and is now standing before him. "I felt ill," Ljörn lied.
 
@@ -65,9 +65,9 @@ There was a wild boar, dangerously close to the three. It wasn't like the domest
 
 "Shoo!" Ingólfr said, attempting to make the boar leave. It didn't go away.
 
-Ljörn drew his seax, sensing a confrontation. Ingólfr did the same. Alfrir also drew his knife, prepared to attack if the pig did.
+Ljörn drew his seax, sensing a confrontation. Ingólfr did the same. Alfrir also drew his knife, prepared to attack if the pig did. There was a silent moment when only the rain and their breaths could be heard.
 
-There was a silent moment when only the rain and their breaths could be heard. Then the boar postured, and Alfrir, seeing that it was going to attack, impulsively jumped at the boar. Alfrir landed on it, smashing his shield into the boar, his hands on the back of the boar as he stabbed his knife deep into its backside. But it squealed, squirmed, and shook him off.
+The boar postured. Alfrir, seeing that it was going to attack, impulsively jumped at the boar. Alfrir landed on it, smashing his shield into the boar, his hands on the back of the boar as he stabbed his knife deep into its backside. But it squealed, squirmed, and shook him off.
 
 "Alfrir!" Ljörn exclaimed with surprise, even though he knew charging at a wild boar was a move Alfrir would do.
 
