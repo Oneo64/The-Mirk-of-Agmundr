@@ -34,11 +34,11 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face.
 
-The blond man returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
+He returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
 The blond man glanced at the other longship. His weapons, spear and sword, were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
-As the blond man gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
+As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
 
 "Ljörn!"
 
