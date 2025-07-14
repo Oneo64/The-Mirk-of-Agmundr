@@ -1,6 +1,8 @@
-# Chapter 1: Sea Paranoia
+# Chapter 1: Nine Hundred and Twenty Two
 <!-- SCENE 1: Story introduction !-->
-Two longboats had their full sails flapping, carried north by the gale. It was halfway til dusk, for they could tell by the bit of orange peeking through the cloudy sky. A blond man sat on his box. He was looking at his amulet. His fingers trembled slightly as he lifted the cold Mjöllnir, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak. He looked out into the ocean and saw their destination in the distance: a strip of land.
+The sun was low. Two longboats had their full sails flapping, carried north with the gale. There wasn’t a single sea bird in the sky, not even the sound of their call. On one of the ships, they had animals. And amongst the crew, a blond-haired man sat on his box. He wistfully stared at his amulet.
+
+His fingers trembled slightly as he lifted the cold Mjöllnir, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak. He looked out into the ocean and saw their destination in the distance: a strip of land.
 
 The longboat he was on was built of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
 
