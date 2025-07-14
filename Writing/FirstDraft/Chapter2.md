@@ -2,7 +2,7 @@
 <!-- SCENE 1: Hall !-->
 Ljörn sat, cross-legged against the wall as he stared into the hearthfire. It was low. Too low. The flames brightened and dimmed, looking as if they were dwindling. The fire provided enough light to see in the dark, yet no warmth could be felt. It was miraculous they got the fire going, since the sticks were wet to begin with.
 
-There was a ghostly sound by the wind blowing past the windows. That's where Ljörn didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
+There was a ghostly sound from the wind blowing past the windows. That's where Ljörn didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
 
 Ljörn was thinking about the second longboat, waiting for their arrival. It had been tens of minutes since they set foot on the new land. Before the storm happened, they were right behind the ship he took. Has it not come yet?
 
@@ -10,7 +10,7 @@ The only tools he had were his seax, still in his sheath. And like many other wa
 
 Most of the throng had fallen asleep, but the warriors were restless. From the quiet chatter in the room, Ljörn could tell they were worried about the same thing.
 
-There were only a few available chairs. Hjalvir sat on one, the others reserved for Sága and a few other well-dressed men. Sága was reading through a book, which she preserved from the rain.
+There were only a few available chairs. Hjalvir sat on one, the others reserved for Sága and a few other well-dressed men. Sága was reading through a book, which she had preserved from the rain.
 
 Alfrir was beside Ljörn. He always sat like that when he wasn't wistful. He kept glancing at the group of the well-dressed men, as if he was thinking to talk about them.
 
@@ -32,7 +32,7 @@ As they talked, Hjalvir stood up and paced around the room. He stopped by the se
 
 Hjalvir looked away from the window and scanned the various people in the shelter. Ljörn instantly knew what he was thinking and hoped it wasn't going to be him. Hjalvir skipped all the women and children, and the men who were too weak to step out at this time. Then his gaze landed on a particular one.
 
-The man, who Hjalvir had seemed to choose, was dressed in the thickest amount of clothing Ljörn had ever seen, twice as much as he would bother to wear. Dressed in a bear cloak without the head, a dark brown tunic he was (although the dim made it seem black), his long brown hair was like those of Alfrir's, except with glory. Ljörn didn't like him already.
+The man, whom Hjalvir had seemed to choose, was dressed in the thickest amount of clothing Ljörn had ever seen, twice as much as he would bother to wear. Dressed in a bear cloak without the head, a dark brown tunic he was (although the dim made it seem black), his long brown hair was like that of Alfrir's, except with glory. Ljörn didn't like him already.
 
 "I don't remember you joining me. You are called...?" Hjalvir asked, impressed at the man's boldness to wear so much.
 
@@ -42,7 +42,7 @@ The man raised his head, eyes locking onto Hjalvir's. "Ingólfr," the man said.
 
 Ingólfr bowed his head once. He left the hall, leaving it quiet again.
 
-Sága stood, closing the book she was reading. She went to Hjalvir and talked to him in quiet voices Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room.
+Sága stood, closing the book she was reading. She went to Hjalvir and talked to him in a quiet voice Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room.
 
 "I have a tale to tell!" Sága announced. The chatter quieted down, and the warriors, who were still awake, turned their attention to her. She pulled her chair closer to the hearth, sitting down as she continued. "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
 
