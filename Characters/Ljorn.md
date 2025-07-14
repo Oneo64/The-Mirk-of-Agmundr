@@ -58,7 +58,7 @@ Occasionally, Ljörn is reminded of his experience with the draugr and becomes p
 
 If confronted about his behavior, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behavior only once, Ljörn told him not to worry.
 
-His PTSD is triggered by seeing sitting/moving corpses (or anything that looks like it), seeing silhouettes in the dark, seeing rusty weapons, being in dark forests, being in ruined castles, or hearing the word draugr.
+His PTSD is triggered by seeing sitting/moving corpses (or anything that looks like it), seeing silhouettes in the dark, seeing rusty weapons, seeing deep spaces like a dark cave or a deep ocean, being in dark forests, being in ruined castles, or hearing the word *draugr*.
 
 ### Rúna
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.

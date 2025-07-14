@@ -1,18 +1,14 @@
 # Chapter 1: Sea Paranoia
 <!-- SCENE 1: Story introduction !-->
-Upon a vast turquoise ocean, two longboats had their full sails flapping, carried north by the gale. It was halfway til dusk, for they could tell by the bit of orange peeking through the cloudy sky. A man stood on the bow of the leading ship. He accompanied a shorter woman with a similar face, no doubt his daughter. They watched a strip of land, farly laid in the distance.
+Two longboats had their full sails flapping, carried north by the gale. It was halfway til dusk, for they could tell by the bit of orange peeking through the cloudy sky. A blond man sat on his box. He was looking at his amulet. His fingers trembled slightly as he lifted the cold Mjöllnir, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak. He looked out into the ocean and saw their destination in the distance: a strip of land.
 
-The longboat was built of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
+The longboat he was on was built of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
 
-"Rain," the man muttered darkly as he took a glance at the sky. Smelling the air for an oceany scent was out of the question, but he could tell by the mirk of the clouds.
+The blond man looked up into the sky. By the mirk of the clouds, it was going to rain. He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
 
-A blond man sat on his box, boredly looking out into the ocean. He bowed his head, his eyes locking onto his amulet. His fingers trembled slightly as he held the cold, metallic hammer of Þórr, hoping that it would provide him with some protection. He tucked it back into his cloak, his hand lingering as he relished the warm wool.
+"Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice drained by the wind. He could tell his brother was amused.
 
-He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
-
-"Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice mostly drained by the wind. He could tell his brother was amused.
-
-The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of peace compelled him. He remembered, two days ago, when his brother persuaded him. Persuaded to join Hjalvir's colonising company.
+He remembered the time he promised himself never to embark upon another journey again. But the thought of peace compelled him. He remembered, two days ago, when his brother persuaded him. Persuaded to join Hjalvir's colonising company.
 
 He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't a good teacher.
 
@@ -28,13 +24,13 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 "The explorers took three days," his brother answered. "I heard."
 
-Hearing this was the last day he would spend at sea, the blond man allowed a small smile on his face.
+Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face.
 
 The blond man returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
 The blond man glanced at the other longship. His weapons, spear and sword, were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
-As the blond man gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, as if he was upon a chopping block large enough for his stomach rather than his neck.
+As the blond man gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
 
 "Ljörn!"
 
@@ -46,7 +42,7 @@ The blond man jumped, coming back to his senses at his brother's call. "What?" t
 
 "The wind falters!" a voice remarked loudly, clear even in the wind. Both the blond man and his brother turned to face whoever had exclaimed.
 
-It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting art. His beard ensured no one would mistake him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
+It was Hjalvir, the man who stood on the bow. He accompanied a shorter woman with a similar face, no doubt his daughter. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting art. His beard ensured no one would mistake him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
 
 "Right, all of you! Get yourself an oar and prepare rowing," he ordered. He looked into the sky, noting where the sun sat. He lowered his gaze back down at the horizon and pointed there. "Northwest," he added.
 
