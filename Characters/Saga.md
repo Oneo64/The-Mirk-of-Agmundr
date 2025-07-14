@@ -7,7 +7,7 @@
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Hjalvir (father)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>

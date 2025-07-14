@@ -8,7 +8,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 947</td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Ulfnir (older brother)<br>Alfrir (younger brother)<br>Yngvild (younger sister)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>

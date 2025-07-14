@@ -7,7 +7,7 @@
 	<tr> <td>Occupation</td> <td>Guard</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Oddarsveldi</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Tryggvi (father)<br>Þorvi (mother)<br>Sindri (older brother)<br>Hammin (younger brother)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
