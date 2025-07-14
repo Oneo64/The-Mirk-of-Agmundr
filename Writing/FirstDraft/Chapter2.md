@@ -1,4 +1,4 @@
-# Chapter 2: Defenceless in the Night
+# Chapter 2: Night and Swine
 <!-- SCENE 1: Hall !-->
 Ljörn sat, cross-legged against the wall as he stared into the hearthfire. It was low. Too low. The flames brightened and dimmed, looking as if they were dwindling. The fire provided enough light to see in the dark, yet no warmth could be felt. It was miraculous they got the fire going, since the sticks were wet to begin with.
 
