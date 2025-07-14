@@ -1,4 +1,5 @@
 # Chapter 2: Defenceless in the Night
+<!-- SCENE 1: Hall !-->
 Ljörn sat, cross-legged against the wall as he stared into the hearthfire. It was low. Too low. The flames brightened and dimmed, looking as if they were dwindling. The fire provided enough light to see in the dark, yet no warmth could be felt. It was miraculous they got the fire going, since the sticks were wet to begin with.
 
 There was a ghostly sound by the wind blowing past the windows. That's where Ljörn didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
@@ -41,21 +42,24 @@ The man raised his head, eyes locking onto Hjalvir's. "Ingólfr," the man said.
 
 Ingólfr bowed his head once. He left the hall, leaving it quiet again.
 
-Sága stood, closing the book she was reading. She went to Hjalvir and talked to him in quiet voices Ljörn couldn't hear. Then she turned to everyone else in the room.
+Sága stood, closing the book she was reading. She went to Hjalvir and talked to him in quiet voices Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room.
 
 "I have a tale to tell!" Sága announced. The chatter quieted down, and the warriors, who were still awake, turned their attention to her. She pulled her chair closer to the hearth, sitting down as she continued. "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
 
 "Draugrinn..." The word echoed in Ljörn's mind. He then felt ill, as he was reminded of an unsavoury past. He quickly stood from where he sat. "S-sorry, I... I feel ill," he stammered, making himself an excuse to leave. He grabbed his shield and hastily made for the front door. Someone shouted at him to come back, but he ignored them.
 
-The grass was still swaying in the wind when Ljörn came out. The rain, now lightly showering, made a rustling sound in the grass. The moon was the only light source, making the landscape seem hauntingly beautiful. But despite the prettiness of the land, he began to feel like he was being followed. He breathed heavily. He looked left and right, but no matter how hard he looked, there wasn't a single sign of danger.
+<!-- SCENE 2: Outside !-->
+The grass was still swaying in the wind when Ljörn came out. The rain, now lightly showering, made a rustling sound in the grass. The moon was the only light source, making the landscape hauntingly beautiful. But despite the prettiness of the land, he began to feel like he was being followed. He breathed heavily. He looked left and right, but no matter how hard he looked, there wasn't a single sign of danger.
 
 A distinctive rustle came from the tall grass. His eyes darted to the bush, but saw nothing in them.
 
 A voice questioned him. "What are you doing?"
 
-Ljörn looked to the side and flinched. Ingólfr had returned from his scouting mission, and is now standing before him. "I felt ill," Ljörn lied.
+Ljörn looked to the side and flinched. Ingólfr had returned from his scouting mission, and is now standing before him.
 
-"You should be sleeping then," Ingólfr responded. He didn't seem to carry any suspicion. But his tone was very just.
+"I felt ill," Ljörn lied.
+
+"You should be sleeping then," Ingólfr responded. His tone didn't carry any suspicion.
 
 Ljörn was going to say he couldn't fall asleep because of his lack of defence, but when he opened his mouth to speak, he heard movement in the bushes. He was sure this time it wasn't the rain or the wind. They sharply turned, eyes searching and scanning the grass of which the sound came from.
 
@@ -81,6 +85,7 @@ The boar easily broke free from Ingólfr's grapple. It got to its feet again, no
 
 Alfrir retreated. He was doubled over and was staggering a bit. His tunic was torn and a buise colored his stomach. Ingólfr, however, was fine. His thick clothing protected him from the boar's hooves. Ingólfr closed the distance attempting to slash the swine. But it rammed into Ingólfr, and took him towards the community hall's door.
 
+<!-- SCENE 3: Hall again !-->
 The boar crashed through the door of the community hall, sending Ingólfr flying inside. He landed into the hearth, his clothing covering the fire and plundging the room into darkness.
 
 Chaos exploded inside the hall. People gasped, others swore, grabbing their candles and lanterns trying to get the flicker of flame to brighten the room again. The boar ran into chairs, pots, chests, stones of the hearth, going into a frenzy as it tried to escape the confines of the community hall. Ljörn and Ingólfr ran inside.
@@ -91,12 +96,13 @@ Chaos exploded inside the hall. People gasped, others swore, grabbing their cand
 
 Someone stepped out from the throng. His bow was aimed at the boar. He drew an arrow. As soon as the boar slowed down, exhausted, he let the arrow loose, piercing right into its skull. The boar stiffened, made a small squeal, and collapsed dead.
 
-Hjalvir then turned to the crowd of people behind him. "Who led it in?" He questioned, his tone grown stern. There was silence. No one dared to answer.
+Hjalvir turned to the crowd of people behind him. "Who led it in?" He questioned, his tone grown stern. There was silence. No one dared to answer.
 
 The bowman spoke. "I must say that when the pig came in, the one in the blue tunic was the only one standing other than him." He nodded Ljörn's direction.
 
 Hjalvir glanced at his direction. But Ingólfr caught his attention instead. Ingólfr lifted Alfrir straight by his underarms, taking him back into the room. If it weren't for Ingólfr, Alfrir would still be doubled over, maimed by being hit in the stomach. "He's hurt, Hjalvir."
 
+<!-- SCENE 4: Alfrir !-->
 Alfrir was laid upon a hay-bed. He was laid closer to the hearth where the warmth could be felt. Hjalvir, Ingólfr, and a healer were around him. The healer was gently rubbing a sort of leaf on his wounds.
 
 "What happened?" Hjalvir asked.
@@ -107,11 +113,11 @@ Hjalvir looked back at Alfrir again. "Leastly we have food," he muttered. "And w
 
 "I couldn't see it," Ingólfr said. "I watched even when the fog cleared."
 
-Hjalvir then turned to Ljörn, knowing he was part of the commotion. His voice was stern again. "And you, explain yourself! Leaving the hall so suddenly? Do you mean to betray us?!"
+Hjalvir turned to Ljörn, knowing he was part of the commotion. His voice was stern again. "And you, explain yourself! Leaving the hall so suddenly? Do you mean to betray us?!"
 
-Ljörn was speechless, but then Sága spoke up. "Father, he means no harm. I think he is only cursed. Back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost."
+Ljörn was speechless, but Sága spoke up. "Father, he means no harm. I think he is only cursed. Back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost."
 
-Hjalvir stared at Ljörn. He slowly regained his calm, seeing reason with Sága's explaination.
+Hjalvir stared at Ljörn. He slowly regained his calm, seeming to see reason with Sága's explaination.
 
 Ljörn slowly approached Alfrir. As he laid eyes upon him, he saw his wound and grimaced at the sight of the large bruise on his stomach. "Will he live?"
 

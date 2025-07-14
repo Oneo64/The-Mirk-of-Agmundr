@@ -18,11 +18,11 @@ He remembered when Sága, the explorer's daughter, showed up at their doorstep t
 
 The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "I-"
 
-"I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
+"I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
 
 The blond man let out a breath. He turned away. He could still feel that irritating sensation of dampness in his socks. He could still taste the basic flavour of fish in his mouth. "Are your boots... wet, too?"
 
-"Yes," his brother answered. "It is annoying."
+"Yes," his brother answered. "It's annoying."
 
 "How long will this travelling last?" the blond man complained.
 
@@ -46,7 +46,7 @@ The blond man jumped, coming back to his senses at his brother's call. "What?" t
 
 "The wind falters!" a voice remarked loudly, clear even in the wind. Both the blond man and his brother turned to face whoever had exclaimed.
 
-It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting-art. His beard ensured no one mistakened him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
+It was Hjalvir, the man who stood on the bow. Hjalvir's short black hair was trimmed nicely for the practicality of his fighting art. His beard ensured no one would mistake him for some boy, and even his eyes weren't as innocent. He had a withering gaze that could bore into the souls of anyone. He turned to oversee everyone on the ship: the men who sat on their seats, and the women who watched over the animals and crates.
 
 "Right, all of you! Get yourself an oar and prepare rowing," he ordered. He looked into the sky, noting where the sun sat. He lowered his gaze back down at the horizon and pointed there. "Northwest," he added.
 

@@ -49,14 +49,16 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
 "Are your boots... wet, too?"
 "How long will this travelling last?"
 "What?"
-"Troll take you!"
+"Yes."
 
 ### Paranoia
-Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He avoids reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]
+Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. He avoids reading the story *Draugrinn ór Mínu Minni*, or any stories with undead in them.[^2]
 
-Occasionally, Ljörn is reminded of his experience with Ingwaz and becomes paranoid, thinking Ingwaz might still be searching for him. He only calms down by forgetting it or knowing he's near a bundle of juniper needles[^3], though the thought still lingers.
+Occasionally, Ljörn is reminded of his experience with the draugr and becomes paranoid, thinking he's been followed. He only calms down by forgetting it or knowing he's near a bundle of juniper needles[^3], though the thought still lingers.
 
 If confronted about his behavior, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behavior only once, Ljörn told him not to worry.
+
+His PTSD is triggered by seeing sitting/moving corpses (or anything that looks like it), seeing silhouettes in the dark, seeing rusty weapons, being in dark forests, being in ruined castles, or hearing the word draugr.
 
 ### Rúna
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
@@ -90,5 +92,5 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Before his adventure, Ljörn knew the story told in *Draugritt um minn Výss*. Yngvarr, a character in the story, died when a draugr knocked him over and slashed him. During Ljörn's trip to the castle ruin, a draugr knocked him over (like Yngvarr) and almost killed him. When he and his accomplices fled, the draugr chased them. Ljörn only thought they lost the draugr when he heard the forest was quiet during their camp for the night. That moment is where his odd behaviors come from.
+[^2]: Before his adventure, Ljörn knew the story told in *Draugrinn ór Mínu Minni*. Yngvarr, a character in the story, died when a draugr knocked him over and slashed him. During Ljörn's trip to the castle ruin, a draugr knocked him over (like Yngvarr) and almost killed him. When he and his accomplices fled, the draugr chased them. Ljörn only thought they lost the draugr when he heard the forest was quiet during their camp for the night. That moment is where his odd behaviors come from.
 [^3]: Juniper is a type of greater protection herb.
