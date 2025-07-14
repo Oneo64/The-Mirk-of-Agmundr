@@ -58,6 +58,9 @@ Sága sports a sword and shield, but isn't very good at it. She learned a move f
 ### Story-telling
 Sága can tell stories as she makes them up. She can also tell them without planning any characters or storyline.
 
+### Language
+Apart from Old Norse, Sága can speak Proto-Germanic.
+
 ### Hypnotism
 For some reason, Sága knows how to hypnotize a chicken.
 

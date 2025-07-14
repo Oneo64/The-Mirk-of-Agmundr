@@ -69,7 +69,7 @@ He asks if she knows about any herb that could calm the mind. She suggests chamo
 
 The sun is low, meaning long shadows are cast over the farmstead by the forest. Ljörn notices a group of people approaching them from the forest, so he returns to Rúna and alerts her.
 
-A troll tribe had sent a small group to the farmstead. They say that the company has been trespassing their land and threaten to attack them if they don't leave. Hjalvir manages to make peace with them by trading items, so the people, indivisually, take turns in attempting to make a trade with them. Some are successful, some aren't.
+A troll tribe had sent a small group to the farmstead. They say that the company has been trespassing their land and threaten to attack them if they don't leave. Sága speaks Proto-Germanic, translating for Hjalvir to the trolls and they manage to make peace with them by trading items, so the people, indivisually, take turns in attempting to make a trade with them. Some are successful, some aren't.
 
 When Alfrir persuades Ljörn to make a trade, Ljörn realises he doesn't have a lot to trade, but it is too late. Ljörn, not wanting to be embarrassed, trades his cloak (he keeps the brooch). The trolls give him an obsidian knife. Alfrir congratulates him.
 
