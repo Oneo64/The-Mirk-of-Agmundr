@@ -1,18 +1,18 @@
 # Chapter 1: Sea Paranoia
 <!-- SCENE 1: Story introduction !-->
-Upon a vast turquoise ocean, two longboats had their full sails flapping, carried north by the gale. It was halfway til dusk, for they could tell by the bit of orange peeking through the cloudy sky. A man stood on the bow of the leading ship. He accompanied a shorter woman with a similar face, no doubt his daughter.
+Upon a vast turquoise ocean, two longboats had their full sails flapping, carried north by the gale. It was halfway til dusk, for they could tell by the bit of orange peeking through the cloudy sky. A man stood on the bow of the leading ship. He accompanied a shorter woman with a similar face, no doubt his daughter. They watched a strip of land, farly laid in the distance.
 
 The longboat was built of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
 
 "Rain," the man muttered darkly as he took a glance at the sky. Smelling the air for an oceany scent was out of the question, but he could tell by the mirk of the clouds.
 
-A blond man sat on his box, boredly looking out into the ocean. He bowed his head, his eyes locking onto his amulet. His fingers trembled slightly as he held the cold, metallic hammer of Þórr, hoping that he would provide him with some protection. He tucked it back into his cloak, his hand lingering as he relished the warm wool.
+A blond man sat on his box, boredly looking out into the ocean. He bowed his head, his eyes locking onto his amulet. His fingers trembled slightly as he held the cold, metallic hammer of Þórr, hoping that it would provide him with some protection. He tucked it back into his cloak, his hand lingering as he relished the warm wool.
 
 He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
 
 "Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice mostly drained by the wind. He could tell his brother was amused.
 
-The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of peace compelled him. He remembered, two days ago, when he was persuaded by his brother. Persuaded to join Hjalvir's colonising company.
+The blond man remembered the time he promised himself never to embark upon another journey again. But the thought of peace compelled him. He remembered, two days ago, when his brother persuaded him. Persuaded to join Hjalvir's colonising company.
 
 He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't a good teacher.
 
@@ -94,4 +94,4 @@ Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and brace
 
 Ljörn turned around to see the land again. It was only then that he noticed the dark silhouette wasn’t a rock at all. It was a lonely hall with a tarf roof, blending amongst nature’s green. From the lack of light, Ljörn could tell that the hearthfire was out. It was at least twice the length of a longhouse, yet not enough for all of Hjalvir’s company, although it would do for the crew. A small wooden extension was built on the roof, which was almost certainly the chimney.
 
-Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. Ljörn watched as the would-be cheiftain stumbled forwards, chuckling at the sight of such a wild land. "Agmundaland!" he proclaimed. "I, have come!"
+Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. Ljörn watched as the would-be chieftain stumbled forwards, chuckling at the sight of such a wild land. "Agmundaland!" he proclaimed. "I, have come!"
