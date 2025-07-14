@@ -49,6 +49,7 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
 "Are your boots... wet, too?"
 "How long will this travelling last?"
 "What?"
+"Troll take you!"
 
 ### Paranoia
 Ljörn has paranoia. He seems fine most of the time, but sometimes, it shows. He gets anxious when he's inside dark forests. If he sees corpses that look like they might wake up, he would freak out and leave the scene. He avoids reading the story *Draugritt um minn Výss*, or any stories with undead in them. When looking at old weapons, especially rusted/deteriorated polearms, he would start breathing heavily.[^2]

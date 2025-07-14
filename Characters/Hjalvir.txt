@@ -24,7 +24,11 @@ Hjalvir is arrogant, and sometimes a little rowdy. He likes to talk to people bu
 Examples:
 "The wind falters! Right, all of you! Get yourself an oar and prepare rowing."
 "Come to the back."
-
+"Where are those fools? They were behind us!"
+"I don't remember you joining me. You are called...?"
+"Leastly we have food."
+"And what about the second ship?"
+"And you were there?"
 
 
 [[ABILITIES]]

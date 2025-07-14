@@ -37,6 +37,10 @@ Alfrir has a subtle sense of humor, yet his sense of humor only shows during har
 "Hey. Are you still thinking about Álahringr?"
 "I told you this land would be prosperous. And they're going to Fjörðvík, father is. The war won't touch them there. You need not worry about them."
 "The explorers took three days, I heard."
+"See them?"
+"I aspire to be them. I mean of, look at the man's helmet."
+"I never seen one like it."
+"Ugh... nasty thing."
 
 ### Goals
 **Goal:** To explore the new land.
