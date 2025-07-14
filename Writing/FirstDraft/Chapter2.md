@@ -63,7 +63,7 @@ Ljörn looked to the side and flinched. Ingólfr had returned from his scouting 
 
 Ljörn was going to say he couldn't fall asleep because of his lack of defence, but when he opened his mouth to speak, he heard movement in the bushes again. They sharply turned, eyes searching and scanning the grass from which the sound came. He was sure this time it wasn't the rain or the wind.
 
-The door opened with a slight creak. "Ljörn what are you-" Alfrir stopped himself as he saw what they were looking at.
+The door opened with a slight creak. "Ljörn, what are you-" Alfrir stopped himself as he saw what they were looking at.
 
 There was a wild boar, dangerously close to the three. It wasn't like the domestic pigs they kept back at their village. This boar was about a half times bigger, and grew dark-colored fur and hardy tusks protruding from its mouth. Alfrir closed the door behind him, slowly stepping beside them.
 
