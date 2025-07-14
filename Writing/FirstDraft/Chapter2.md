@@ -46,7 +46,7 @@ Sága stood, closing the book she was reading. She went to Hjalvir and talked to
 
 "I have a tale to tell!" Sága announced. The chatter quieted down, and the warriors, who were still awake, turned their attention to her. She pulled her chair closer to the hearth, sitting down as she continued. "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
 
-"Draugrinn..." The word echoed in Ljörn's mind. He then felt ill, as he was reminded of an unsavoury past. He quickly stood from where he sat. "S-sorry, I... I feel ill," he stammered, making himself an excuse to leave. He grabbed his shield and hastily made for the front door. Someone shouted at him to come back, but he ignored them.
+"Draugrinn..." The word echoed in Ljörn's mind. He then felt ill, reminded of an unsavoury past. He quickly stood from where he sat. "S-sorry, I... I feel ill," he stammered, making himself an excuse to leave. He grabbed his shield and hastily made for the front door. Someone shouted at him to come back, but he ignored them.
 
 <!-- SCENE 2: Outside !-->
 The grass was still swaying in the wind when Ljörn came out. The rain, now lightly showering, made a rustling sound in the grass. The moon was the only light source, making the landscape hauntingly beautiful. But despite the prettiness of the land, he began to feel like he was being followed. He breathed heavily. He looked left and right, but no matter how hard he looked, there wasn't a single sign of danger.
