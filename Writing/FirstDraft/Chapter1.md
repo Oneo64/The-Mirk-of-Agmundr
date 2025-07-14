@@ -4,7 +4,7 @@ The sun was low. Two longboats had their full sails flapping, carried north with
 
 His fingers trembled slightly as he lifted the cold Mjöllnir, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak. He looked out into the ocean and saw their destination in the distance: a strip of land.
 
-The longboat he was on was built of dark wood, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
+The ship was dark in colour, tightly interlocked and sealed with resin. It bore its sail red with a blue cross, rough by the thick flax fibres. A wolf's skull hung from the bow's tip, swaying and knocking on the wood.
 
 The blond man looked up into the sky. By the mirk of the clouds, it was going to rain. He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn't let any tempest deter them, even if the waves were mad.
 
