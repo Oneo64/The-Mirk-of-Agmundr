@@ -34,9 +34,11 @@ Sága likes to tell stories, especially heroic sagas (hence her name) that she's
 Sometimes, Sága tries to be independent to prove her worth, even if whatever she's going to do would be considered reckless by many.
 
 ### Voice
-"I have a tale to tell!"
-"I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
-"Father, he means no harm. I think he is only cursed. Back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost."
+Sága speaks in a poetic way as if she's telling a story.
+
+ - "I have a tale to tell!"
+ - "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
+ - "Father, he means no harm. I think he is only cursed. Back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost."
 
 ### Seyja
 Sága sees Seyja as a role model and aspires to be as brave as her.

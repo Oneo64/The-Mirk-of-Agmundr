@@ -21,14 +21,18 @@ He wears a dark cloak, a muted red tunic, dark pants, a ring belt, and a pair of
 [[PERSONALITY]]
 Hjalvir is arrogant, and sometimes a little rowdy. He likes to talk to people but can be a little stubborn and argumentative, usually defending anything he believes until he is directly proven wrong. However he can be explorative, wanting to see something for himself rather than merely listening to stories of it. Because of his explorative personality, he is willing to join any adventuring or exploring party just to experience the "old stories".
 
-Examples:
+Examples: (Voice should be: commanding and story-like)
 "The wind falters! Right, all of you! Get yourself an oar and prepare rowing."
 "Come to the back."
 "Where are those fools? They were behind us!"
 "I don't remember you joining me. You are called...?"
-"Leastly we have food."
-"And what about the second ship?"
-"And you were there?"
+"So you return!"
+"One of you two tell me, who led them here? Did you?"
+"I see nothing curse-like about him. And that means he may be an outlaw!"
+"Fine. But if this happens again, I'll have you done!"
+"What about you, did you find the ship I asked?"
+
+"And you, explain yourself. Leaving the hall so suddenly? Did you meant to betray us?!"
 
 
 [[ABILITIES]]

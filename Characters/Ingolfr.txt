@@ -25,11 +25,14 @@ Ingólfr is brave and sometimes fearless. When a fight happens and he is involve
 **Motivation:** Might and glory.
 
 
+Voice should be: Commanding, but calmly
+
 "What are you doing?"
 "You should be sleeping then."
 "I was attacked. There was a boar out the hall. We had to brawl with it, and the swine galloped on his chest."
 "I couldn't see it. I watched even when the fog cleared."
-"He's hurt, Hjalvir."
+"Go inside, now."
+"We're surrounded by wolves. A whole pack of them, I suppose."
 
 
 

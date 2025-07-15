@@ -1,5 +1,5 @@
 # Chapter 1: Nine Hundred and Twenty Two
-<!-- SCENE 1: Story introduction !-->
+<!-- SCENARIO 1: Story introduction !-->
 The sun was low. Two longboats had their full sails flapping, carried north with the gale. There wasn’t a single sea bird in the sky, not even the sound of their call. On one of the ships, they had animals. And amongst the crew, a blond-haired man sat on his box. He wistfully stared at his amulet.
 
 It was a Mjöllnir. His fingers trembled slightly as he held the cold symbol, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak.
@@ -46,7 +46,7 @@ The blond man jumped, coming back to his senses at his brother's call. "What?" t
 
 "You're doing it again," his brother said.
 
-<!-- SCENE 2: The wind weakens and Hjalvir's introduction !-->
+<!-- SCENARIO 2: The wind weakens and Hjalvir's introduction !-->
 
 "The wind falters!" a voice remarked loudly, clear even in the wind. Both the blond man and his brother turned to face whoever had exclaimed.
 
@@ -56,7 +56,7 @@ It was Hjalvir, the man who stood on the bow. He accompanied a shorter woman wit
 
 The rowers stood from their seats to gather their oars. The blond man did the same. He sat back down and lowered the head of the oar into the water.
 
-<!-- SCENE 3: The wind is strong again !-->
+<!-- SCENARIO 3: The wind is strong again !-->
 
 One hour passed, and the clouds darkened. The winds started to pick up again. "Sails down!" Hjalvir ordered, glancing over his shoulder.
 
@@ -70,7 +70,7 @@ Ljörn was handed a piece of fish. He turned to Alfrir, who was also given some 
 
 As Ljörn finished his fish, he felt the first drops of rain. He caressed his slightly hooked nose, wiping the droplets off. "Mmmh," he grumbled.
 
-<!-- SCENE 4: It starts to rain !-->
+<!-- SCENARIO 4: It starts to rain !-->
 
 It began to rain. Every time a raindrop hit the boat near the Vegvísir, it seemed to dry almost instantly.
 
@@ -88,7 +88,7 @@ Alfrir was confused at what Ljörn saw. When Ljörn turned his gaze back to the 
 
 Another wave crashed into the ship. The splash splattered all over the cargo. The magic of the symbol did its best to dry out the wood of the crates, but still, water seeped through the inbetweens of their boards.
 
-<!-- SCENE 5: The boat arrives !-->
+<!-- SCENARIO 5: The boat arrives !-->
 
 The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land.
 
@@ -98,4 +98,4 @@ Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and brace
 
 Ljörn turned around to see the land again. It was only then that he noticed the dark silhouette wasn’t a rock at all. It was a lonely hall with a tarf roof, blending amongst nature’s green. From the lack of light, Ljörn could tell that the hearthfire was out. It was at least twice the length of a longhouse, yet not enough for all of Hjalvir’s company, although it would do for the crew. A small wooden extension was built on the roof, which was almost certainly the chimney.
 
-Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. Ljörn watched as the would-be chieftain stumbled forward, chuckling at the sight of such a wild land. "Agmundaland!" he proclaimed. "I, have come!"
+Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. Ljörn watched the would-be chieftain stumble forward, chuckling at the sight of such a wild land. "Graennaland!" he proclaimed. "I, have come!"

@@ -34,6 +34,9 @@ Sometimes, when not doing anything or listening to someone talk, Rúna would spa
 
 Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
 
+### Voice
+Rúna speaks informally with a slight stutter.
+
 ### Ljörn
 Rúna is noticeably kinder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
