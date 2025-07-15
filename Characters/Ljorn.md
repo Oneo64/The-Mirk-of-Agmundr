@@ -41,7 +41,7 @@ When Ljörn gets frustrated, he quietly uses strong language under his breath, b
 Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favorite food is dried, hard bread with the crust because it's chewy.
 
 ### Voice
-Ljörn doesn't speak much. When speaking to strangers, he tends to give one word answers. He speaks casually and informally, and sometimes he would grumble or mumble answers. Despite his casual and informal speech, he also speaks very directly, but never blunt. On top of that, he occasionally pauses between his speech.
+Ljörn doesn't speak much. When speaking to strangers, he tends to give one word answers. He speaks casually and informally, and sometimes he would grumble or mumble answers. Despite his casual and informal speech, he also speaks very directly, but never bluntly. If he does bluntly blurt something out, he only does it rarely when he's surprised. On top of that, he occasionally pauses between his speech.
 
  - "What do you mean?"
  - "I... don't think-"
@@ -52,6 +52,8 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
  - "Yes."
  - "No."
  - "I am not an outlaw. They smelled us here!"
+ - "Nightmare."
+ - "Please unhand me."
 
 ### Paranoia
 Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. He avoids reading the story *Draugrinn ór Mínu Minni*, or any stories with undead in them.[^2]

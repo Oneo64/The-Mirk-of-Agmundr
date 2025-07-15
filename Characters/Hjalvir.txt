@@ -31,8 +31,8 @@ Examples: (Voice should be: commanding and story-like)
 "I see nothing curse-like about him. And fleeing a guard? That means he could be an outlaw!"
 "Fine. But if this happens again, I'll have you done!"
 "What about you, did you find the ship I asked?"
+"You three, go rest."
 
-"And you, explain yourself. Leaving the hall so suddenly? Did you meant to betray us?!"
 
 
 [[ABILITIES]]

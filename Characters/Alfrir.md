@@ -33,16 +33,20 @@ Alfrir can be described as a competitive and persuasive warrior. He is also impu
 Alfrir has a subtle sense of humor, yet his sense of humor only shows during hard times.
 
 ### Voice
-"Ljörn, think about it! We could become-"
-"Hey. Are you still thinking about Álahringr?"
-"I told you this land would be prosperous. And they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
-"Yes, it's annoying."
-"The explorers took three days, I heard."
-"See them?"
-"Look at the man's helmet."
-"I never seen one like it."
-"Ljörn, what are you-"
-"Ugh... nasty thing. It's gone done me."
+Alfrir speaks casually. He also has the tendancy to blurt words out.
+
+ - "Ljörn, think about it! We could become-"
+ - "Hey. Are you still thinking about Álahringr?"
+ - "I told you this land would be prosperous. And they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
+ - "Yes, it's annoying."
+ - "The explorers took three days, I heard."
+ - "See them?"
+ - "Look at the man's helmet."
+ - "I never seen one like it."
+ - "Ljörn, what are you-"
+ - "Ljörn, stop it!"
+ - "You had the same thing on the boat. I know you were awake."
+ - "Ugh... nasty thing. It's gone done me."
 
 ### Goals
 **Goal:** To explore the new land.
