@@ -6,17 +6,15 @@ It was a Mjöllnir. His fingers trembled slightly as he held the cold symbol, ho
 
 The flapping sail bore a red colour with a blue cross, and a rough texture from the thick flax fibres. A wolf’s skull hung from the bow’s tip, swaying and knocking on the wood.
 
-The blond man looked up into the sky. There was no use smelling the air for an oceany scent; it was everywhere. But by the mirk of the clouds, it was going to rain.
+The blond man looked up into the sky. There was no use smelling the air for an oceany scent; it was everywhere. But by the mirk of the clouds, it was going to rain. He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn’t let any tempest deter them, even if the waves were mad.
 
-He glanced at the stern, where a plank rested against the cargo. A black circular symbol drawn on its surface; it shimmered red in the shade. He knew that was the symbol of a Vegvísir. He heard that such a symbol wouldn’t let any tempest deter them, even if the waves were mad.
+The blond man turned his gaze towards the thing they were sailing towards. It was a stripe of a dark colour, but he knew what it was: land.
 
-The blond man looked at the thing they were sailing towards. It was a stripe of a dark colour, but he knew what it was: land.
+"Hey. Are you still thinking about Álahringr?" a low voice said behind him.
 
-"Hey. Are you still thinking about Álahringr?" a low voice said behind him. The blond man turned around to see his brother leaning towards him, his voice drained by the wind. He could tell his brother was amused.
+The blond man looked around to see his brother leaning towards him, his voice drained by the wind. He could tell his brother was amused.
 
-He was reminded of the time two days ago, when his brother persuaded him. Persuaded to join Hjalvir's colonising company.
-
-He was reminded of the time he promised himself never to embark upon another journey again. But the thought of peace compelled him, and so here he was.
+He was reminded of the time two days ago, when his brother persuaded him. Persuaded to join Hjalvir's colonising company. He was reminded of the time he promised himself never to embark upon another journey again. But the thought of peace compelled him, and so here he was.
 
 He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't a good teacher.
 
@@ -32,9 +30,7 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 "The explorers took three days," his brother answered. "I heard."
 
-Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face.
-
-He returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
+Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face. He returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
 The blond man glanced at the other longship. His weapons, spear and sword, were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
@@ -82,7 +78,7 @@ Ljörn hugged his cloak like many others. He watched Hjalvir and his daughter ma
 
 A pool of water gathered where Ljörn didn't notice, but he felt it flood his boots. At least his foot didn't feel like it was swollen anymore. He considered keeping his foot in there, but knew he probably shouldn't. Hesitantly, he took his foot out and took the water in with his bucket, then poured it out of the boat.
 
-He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I... see!" he hurriedly said.
+He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I... look!" he hurriedly said.
 
 Alfrir was confused at what Ljörn saw. When Ljörn turned his gaze back to the sea, he saw that the shadow was gone. He let out a breath he had been holding.
 
@@ -90,9 +86,7 @@ Another wave crashed into the ship. The splash splattered all over the cargo. Th
 
 <!-- SCENARIO 5: The boat arrives !-->
 
-The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land.
-
-The land had a wide beach. Several paces inland, there was a small rise to a meadow. There was a dark silhouette on the grassland, probably just a boulder. Behind it laid a forest, trees swaying in the rain.
+The haze was still in the air when the rain loosened. The wind drove the ship nearer to the coast. The sun, now a cosy colour, touched the horizon's glow. Ljörn watched Hjalvir as he went to the bow, squinting at the northern land. The land had a wide beach. Several paces inland, there was a small rise to a meadow. There was a dark silhouette on the grassland, probably just a boulder. Behind it laid a forest, trees swaying in the rain.
 
 Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only bumped upwards by the slight slope of the shore.
 

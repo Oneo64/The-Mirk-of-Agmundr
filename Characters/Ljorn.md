@@ -51,7 +51,7 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
  - "What?"
  - "Yes."
  - "No."
- - "No. I told you I didn't. They... they smelled us here."
+ - "I am not an outlaw. They smelled us here!"
 
 ### Paranoia
 Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. He avoids reading the story *Draugrinn ór Mínu Minni*, or any stories with undead in them.[^2]

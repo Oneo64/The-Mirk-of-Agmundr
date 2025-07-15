@@ -27,8 +27,8 @@ Examples: (Voice should be: commanding and story-like)
 "Where are those fools? They were behind us!"
 "I don't remember you joining me. You are called...?"
 "So you return!"
-"One of you two tell me, who led them here? Did you?"
-"I see nothing curse-like about him. And that means he may be an outlaw!"
+"Someone must have led them here. Who led them here? Did you?"
+"I see nothing curse-like about him. And fleeing a guard? That means he could be an outlaw!"
 "Fine. But if this happens again, I'll have you done!"
 "What about you, did you find the ship I asked?"
 
