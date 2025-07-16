@@ -45,7 +45,7 @@ A distinctive rustle came from the tall grass. His eyes darted to the bush, but 
 
 A voice questioned him. "What are you doing?"
 
-Ljörn looked to the side and flinched. Ingólfr had returned from his scouting mission, and is now standing before him. "I felt ill," he lied.
+Ljörn looked to the side and flinched. Ingólfr had returned from his scouting mission, and is now standing before him. He didn't want to admit that he was anxious. "I felt ill," he lied.
 
 "You should be sleeping then," Ingólfr responded. His tone didn't carry any suspicion.
 

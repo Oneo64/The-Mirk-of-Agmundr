@@ -51,11 +51,11 @@ The Völva turned around. When Ljörn saw her face, her eyes were covered by a t
 
 "Do you?" the Völva questioned him. "To seek the woes of this land, this stead, or the lead?"
 
-Ljörn didn't know what she was talking about.
+Confused, Ljörn didn't know what she was talking about.
 
-Then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, geb mek witamaz þanei izwiz wissēz, jūz lētō mek auk spellą..."
+Then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
 
-The Völva's voice deteriorated, becoming a ghastly whisper. She was now speaking cryptically, but this time, Ljörn understood.
+The Völva's voice deteriorated, becoming more like the whisper of a raspy old man. She was now speaking cryptically, but this time, Ljörn understood.
 
 *Goblet one may find,*
 
@@ -75,6 +75,6 @@ The Völva's voice deteriorated, becoming a ghastly whisper. She was now speakin
 
 Ljörn was afraid. He had already forgotten what he was so paranoid of before meeting her, and now he had taken several steps back when she had begun her spell. And she is still going, her speech back to that ancient tongue.
 
-The Völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Enough?"
+The Völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Know you then, or what?"
 
 "Yes, yes," Ljörn blurted out. He shot her a nervous smile and quickly left her alone on the beach.

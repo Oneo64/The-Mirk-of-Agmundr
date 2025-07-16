@@ -44,8 +44,8 @@ Alfrir speaks casually. He also has the tendancy to blurt words out.
  - "Look at the man's helmet."
  - "I never seen one like it."
  - "Ljörn, what are you-"
- - "Ljörn, stop it!"
- - "You had the same thing on the boat. I know you were awake."
+ - "Ljörn, stop that!"
+ - "Don't lie. You had the same thing on the boat. I know you were awake, so don't fool me now."
  - "Ugh... nasty thing. It's gone done me."
 
 ### Goals
