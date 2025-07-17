@@ -48,7 +48,7 @@ Ljörn followed after. The rock was slippery; he thought he would slide off, and
 
 "Ack!" However, as he landed, he slipped on the grass and hit the ground anyway. He began to roll straight for the river. Panicking, he grabbed a handful of grass and stopped himself just before he dropped into the icy water.
 
-When Ljörn got to his feet, Alfrir wasn't around. "Alfrir, where are you?"
+When Ljörn got to his feet, Alfrir wasn't around. "Where are you?"
 
 "I'm on the hill!"
 
@@ -58,11 +58,33 @@ And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty si
 
 ---
 
-<!-- TEST !-->
+Now, it is evening. Ingólfr had a driftwood branch for a quarterstaff, taken for his defence. Ljörn's arms were full of dry sticks as he came through the longhouse door, flanked by Ingólfr. There was a woman with a fire-steel and a smaller lump of material in her hands, striking a fire for the hearth.
 
-When the next morning came, it was a boring day. The wolves were gone and so Hjalvir, the man who led them, paired Ljörn with Ingólfr to go into the forest for firewood. Ingólfr had made it clear that Ljörn should carry the sticks (for the fire since they had no felling-axes) while he himself gathered them.
+"In there," Ingólfr said.
 
-Now, it is night time again. The fire was brighter than before.
+Ljörn dumped the sticks into it, and the woman struck her fire-steel again. A spark happened and the hearth caught fire.
+
+They cooked up a pot of stew. It was a combination of goat milk, eggs, and some of the dried fish they had brought. When the stew in the pot was done, they took turns and filled their bowls with some of it.
+
+Ljörn returned to his seat, his hand with a bowl of the stew.
+
+"Finally, food that isn't fish!" Alfrir said, sitting on his box with his bowl. "Smells fine too, don't you think?"
+
+Ljörn wasn't satisfied. He was looking into his. The stew was milky white with a bit of yellow from the yolk. "There's still fish in the bowl," he said.
+
+"Yes, but this one's got eggs," Alfrir said.
+
+Ljörn was still going to taste fish. At least the meal wasn't just dried, salted fish.
+
+Hjalvir stood up, walking to the end of the hearth. He raised his bowl and bellowed, "Friends! Hear me dearly! Before we start, I must speak!"
+
+Ljörn looked at Hjalvir. He hadn't started eating, but wasn't expecting there to be an announcement.
+
+Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we have sailed! Even now we have not our tools, but soldiers of Randúlfr we are no more! Þórr has seen our struggle, and given this warm soup we have been, now we can relish in it!"
+
+Ljörn found his spoon, and Alfrir too. The stew was indeed warm, and tasted not like cod. He ate his stew, and soon finished it.
+
+---
 
 Sága continued her tale of Jóki. Ljörn forced himself to listen through it, no matter how repulsive he felt.
 

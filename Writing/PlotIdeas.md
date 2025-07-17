@@ -92,7 +92,9 @@ Sága tells Alfrir that they can go and look for him, but Alfrir is already conv
 ## 11, The Flower and the Neck
 **Main point to convey:** The Nykr and Ljörn's discovery of a flower whose smell he likes
 
-Ljörn wakes up after out cold for a while. He gets lost and finds a river. There he encounters the Nykr. Hearing its voices, he becomes tempted to touch it's fur. But he resists, forcing the Nykr to return to the river. Ljörn chases it with his sword, but the Nykr escapes. Ljörn spots arctic thymes near the river.
+Ljörn wakes up after out cold for a while. He gets lost. Later, he encounters a bear. He is chased, so he climbs a tree and brandishes his sword. The bear climbs the tree anyway. He then cuts it across its front limb. The bear is discouraged and leaves.
+
+He then finds a river. There he encounters the Nykr. Hearing its voices, he becomes tempted to touch it's fur. But he resists, forcing the Nykr to return to the river. Ljörn chases it with his sword, but the Nykr escapes. Ljörn spots arctic thymes near the river.
 
 Cautiously, he picks the arctic thyme with his seax and smells them, and finds he actually likes the smell. He then remembers how he was reluctant to come to the new land, and realises he might like the land more than he thought. He hesitantly pockets the arctic thyme and leaves before the Nykr comes back.
 
