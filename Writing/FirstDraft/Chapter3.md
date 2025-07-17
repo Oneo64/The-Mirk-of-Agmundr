@@ -156,7 +156,7 @@ Ljörn returned to the Völva. He held the creature's appendages in a way so mor
 
 The Völva took the creature's appendages and said,  "Ah, the snake's head and tail!"
 
-Ljörn then realised what he was killed was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
+Ljörn then realised what he killed was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
 
 Taking the head and tail, the Völva tossed them into the fire before her. As they caught fire and quickly turned to ash, then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Ek hit blōtą geldō, swa jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
 
