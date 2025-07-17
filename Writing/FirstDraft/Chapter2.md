@@ -97,4 +97,6 @@ Hjalvir turned to Ingólfr, his voice lowering. "So, did you find the ship I ask
 
 Hjalvir paused for a moment as he thought of what to do with them. He took a look at Alfrir, then Ljörn and Ingólfr. "You three, go rest," Hjalvir said, dismissing them.
 
+<!-- CUT TEST !-->
+
 That night, Ljörn laid next to the wall away from the windows. He slept lightly, still unable to get the defencelessness out of his mind. And the cold of the night didn't help.

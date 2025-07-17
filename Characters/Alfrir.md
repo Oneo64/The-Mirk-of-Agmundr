@@ -37,15 +37,21 @@ Alfrir speaks casually. He also has the tendancy to blurt words out.
 
  - "Ljörn, think about it! We could become-"
  - "Hey. Are you still thinking about Álahringr?"
- - "I told you this land would be prosperous. And they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
+ - "I told you this land would be prosperous. And, they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
  - "Yes, it's annoying."
  - "The explorers took three days, I heard."
  - "See them?"
  - "Look at the man's helmet."
  - "I never seen one like it."
  - "Ljörn, what are you-"
+ - "Wait. Wait, the wolves."
+ - "I want to go there, we can see better."
+ - "They look as if they won't wake til noon."
+ - "We are two men. And, we didn't sail three days in rain and thunder just to idle in a house!"
+
  - "Ljörn, stop that!"
  - "Don't lie. You had the same thing on the boat. I know you were awake, so don't fool me now."
+
  - "Ugh... nasty thing. It's gone done me."
 
 ### Goals

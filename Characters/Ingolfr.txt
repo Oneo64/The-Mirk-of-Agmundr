@@ -19,10 +19,10 @@ Ingólfr can usually be found either wandering Álahringr's markets, or riding h
 
 
 [[PERSONALITY]]
-Ingólfr is brave and sometimes fearless. When a fight happens and he is involved, he is usually the first to shout a war cry.
+Ingólfr is brave and sometimes fearless. When a fight happens and he is involved, he is usually the first to shout a war cry. He is adventurous, and he tends to either go alone or lead a group. And since his desire to become a leader, he tends to try to control conversations with him by speaking in a calm but very leader-like manner.
 
-**Goal:** To become a true leader, or at least someone of high social status.
-**Motivation:** Might and glory.
+**Goal:** To become a true leader through exploration.
+**Motivation:** Honour.
 
 
 Voice should be: Commanding, but calmly
@@ -33,6 +33,7 @@ Voice should be: Commanding, but calmly
 "I couldn't see it. I watched even when the fog cleared."
 "Go inside, now."
 "We're surrounded by wolves. There's a whole pack of them."
+"Leaving again? And in the morning too. Do you think that's clever of you?"
 
 
 

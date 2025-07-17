@@ -1,4 +1,65 @@
 # Chapter 3: The Völva
+<!-- TEST !-->
+Ljörn was forced awake when the morning light shone on his eyes. The first thing he smelled was leaf and sea. He sat up, slightly slouching. His hand felt his seax, making sure he still had it. He looked to his side and saw Alfrir still asleep.
+
+"Alfrir," he said, shaking his brother awake.
+
+Alfrir came to his senses. Without a word, he sat up.
+
+Ljörn stood and went to check the windows again. Of course, the wolves weren't there. He relaxed a bit. Grabbing his shield, he slung it over his shoulder and prepared to leave the longhouse.
+
+"Wait," Alfrir said. "Wait, the wolves."
+
+"They are gone," Ljörn said, watching Alfrir get up too. He turned back to the door and pushed it ajar. Peering outside, he couldn't see nor find any animals.
+
+"Are you sure?" Alfrir asked.
+
+"Yes," Ljörn said.
+
+Alfrir looked outside the small crack between the doors. "Can't be too safe," he murmured.
+
+Ljörn agreed with him. He unsheathed his seax and slowly pushed the door open. The two stepped back and prepared themselves.
+
+The coast was clear. The land could be clearly seen now. Downhill, there was a widening river that went into the sea. Beyond the river, the grass sloped up again to a jaggier land, with rocks protruding out the earth.
+
+"I want to go there," Alfrir said, obviously talking about the other side of the river. "We can see better."
+
+"What? No," Ljörn responded, refusing the proposal. He just wanted to walk around the longhouse to see it around, not go beyond the river to a place where they're vulnerable!
+
+"I think we should wait," he said.
+
+"Wait for what?" Alfrir said, looking back at the other colonists who were still sleeping. "They look as if they won't wake til noon."
+
+Ljörn hesitated. He looked back with Alfrir. He didn't want to leave until the others were awake; he was still anxious about several things.
+
+"We are two men," Alfrir pushed. "And, we didn't sail three days in rain and thunder just to not explore the land!"
+
+Ljörn was starting to regret waking Alfrir. Yet, he was on the new, discovered land now. And that meant there wasn't any use to sit around and do nothing. "Fine," he mumbled.
+
+Alfrir turned back and went back to his sleeping spot and gathered his shield. He slung it over his shoulder like his brother, and walked out of the longhouse.
+
+Ljörn followed Alfrir as they stepped into the grass and made their ways towards the river. They stopped at the bank and looked into the water. To him, the river looked shallow. He bent down and stuck a finger into the water, and felt it was freezing cold. He then lifted his head and saw a dry log lying across the river, but it was too risky.
+
+They looked for a way across the river and eventually found one: a rock in the middle of the river.
+
+Alfrir went first. He hopped onto the rock and onto the other side.
+
+Ljörn followed after. The rock was slippery; he thought he would slide off, and so he impulsively jumped to the other side.
+
+"Ack!" However, as he landed, he slipped on the grass and hit the ground anyway. He began to roll straight for the river. Panicking, he grabbed a handful of grass and stopped himself just before he dropped into the icy water.
+
+When Ljörn got to his feet, Alfrir wasn't around. "Alfrir, where are you?"
+
+"I'm on the hill!"
+
+Ljörn climbed the slope and reached the top of the mound. There he saw Alfrir gazing out at the far ends of the beach.
+
+And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty sight. In the distance, there was a cliff, the forest extending to the top of it. The forest, tall firs and spruces, loomed to their right side. He took a deep breath, taking in the new air. It didn't smell like wood or sea anymore, and he relieved the scent of land again.
+
+---
+
+<!-- TEST !-->
+
 When the next morning came, it was a boring day. The wolves were gone and so Hjalvir, the man who led them, paired Ljörn with Ingólfr to go into the forest for firewood. Ingólfr had made it clear that Ljörn should carry the sticks (for the fire since they had no felling-axes) while he himself gathered them.
 
 Now, it is night time again. The fire was brighter than before.
