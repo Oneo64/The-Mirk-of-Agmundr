@@ -1,6 +1,6 @@
 # Chapter 2: Hunting in the Night
 <!-- SCENARIO 1: Hall !-->
-Ljörn sat, cross-legged against the wall as he stared into the hearthfire. It was low. Too low. The flames brightened and dimmed, looking as if they were dwindling. The fire provided enough light to see in the dark, yet no warmth could be felt. It was miraculous they got the fire going, since the sticks were wet to begin with.
+Ljörn sat against the wall as he stared into the hearthfire. It was low. Too low. The flames brightened and dimmed, looking as if they were dwindling. The fire provided enough light to see in the dark, yet no warmth could be felt. It was miraculous they got the fire going, since the sticks were wet to begin with.
 
 There was a ghostly sound from the wind blowing past the windows. That's where Ljörn didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
 

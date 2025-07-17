@@ -24,19 +24,23 @@ The coast was clear. The land could be clearly seen now. Downhill, there was a w
 
 "I want to go there," Alfrir said, obviously talking about the other side of the river. "We can see better."
 
-"What? No," Ljörn responded, refusing the proposal. He just wanted to walk around the longhouse to see it around, not go beyond the river to a place where they're vulnerable! "I think we should wait," he said.
+"What? No," Ljörn said, refusing his brother's idea. He just wanted to walk around the longhouse to take a look at it, not go beyond the river to a place where they're vulnerable! "I think we should wait," he said.
 
 "Wait for what?" Alfrir said, looking back at the other colonists who were still sleeping. "They look as if they won't wake til noon."
 
 Ljörn hesitated. His brother was right, they haven't had good sleep for several days. But apparently, Alfrir wasn't tired. Ljörn didn't want to leave until the others were awake; he was still anxious about several things.
 
-"We are two men," Alfrir pushed. "And, we didn't sail three days in rain and thunder just to not explore the land!"
+"We are two men," Alfrir said. "And, we didn't sail three days in rain and thunder just to not explore the land!"
 
 Ljörn was starting to regret waking Alfrir. Yet, he was on the new, discovered land now. And that meant there wasn't any use to sit around and do nothing. "Fine," he mumbled.
 
 Alfrir turned back and went back to his sleeping spot and gathered his shield. He slung it over his shoulder like his brother, and walked out of the longhouse.
 
-Ljörn followed Alfrir as they stepped into the grass and made their ways towards the river. They stopped at the bank and looked into the water. To him, the river looked shallow. He bent down and stuck a finger into the water, and felt it was freezing cold. He then lifted his head and saw a dry log lying across the river, but it was too risky.
+Ljörn followed Alfrir as they stepped into the grass and made their ways towards the river. There wasn't a path, but that didn't bother Ljörn; he used to take walks in Álahringr's neighboring forest. The brothers stopped at the bank, and Ljörn looked into the water. The river was waist-deep. He bent down and stuck a finger into the water, and felt that it was freezing cold.
+
+"We could try the log," Alfrir suggested.
+
+Ljörn looked to his side and saw the dry log lying across the river, old and too dangerous to balance on it. "No," he said. "It's not good."
 
 They looked for a way across the river and eventually found one: a rock in the middle of the river.
 
@@ -44,9 +48,9 @@ Alfrir went first. He hopped onto the rock and onto the other side.
 
 Ljörn followed after. The rock was slippery; he thought he would slide off, and so he impulsively jumped to the other side.
 
-"Ack!" However, as he landed, he slipped on the grass and hit the ground anyway. He began to roll straight for the river. Panicking, he grabbed a handful of grass and stopped himself just before he dropped into the icy water.
+"Ack!" However, as he landed, he slipped on the grass and hit the ground anyway. He began to roll straight for the river. Panicking, he grabbed a handful of grass and stopped himself just before he plummeted into the icy water.
 
-When Ljörn got to his feet, Alfrir wasn't around. "Where are you?"
+Ljörn got to his feet, using a nearby rock to balance himself. He looekd around for Alfrir, but he wasn't there. "Alfrir? Where are you?"
 
 "I'm on the hill!"
 
@@ -110,7 +114,7 @@ Ljörn started to doubt their luck and started thinking about their woes. His pa
 
 "I... she's outside," Alfrir said.
 
-Ljörn looked around the room. Like Alfrir said, she wasn't in the hall. This time, without a fuss, he stood up. He took a torch stick and stuck it in the hearth. When it caught fire, he held it up and left the longhouse.
+Ljörn looked around the room. Like Alfrir said, she wasn't in the hall. This time, without a fuss, he stood up. He slung his shield around his back, took an unlit torch stick, and stuck it in the hearth. When it caught fire, he held it up and left the longhouse.
 
 The cold breeze hit his face when he pushed the door open. He closed the door behind him as gently as he could, but his anxiety didn't make it easy. Once the door closed shut, he stepped away from the longhouse and looked out into the yonder grasslands. His torch gave him light so he could see, its flames warm and flickering. There was no one in sight. But when he looked towards the forest, he froze.
 
@@ -118,7 +122,7 @@ It was the wolves. There were about a dozen of them moving through the trees and
 
 Ljörn turned around to the shore, hoping he would find her there instead. And as he slowly walked there and reached the edge of the meadow, he saw the Völva.
 
-There she was on the sand, gazing out into the ocean as if she was consulting the gods on the weather. She was in a dark dress and a deer pelt cloak. And the most shamanic thing about her, a crooked staff that she held with several beads and skulls hanging from the end.
+There she was on the sand, gazing out into the ocean as if she was consulting the gods on the weather. She was in a dark dress and a deer pelt cloak. And the most shamanic thing about her, a crooked staff that she held with several beads and skulls hanging from the end. In front of her, there was a small fire that burned sticks and grass gathered from around.
 
 When Ljörn saw her, he hesitated. He thought he felt a bit of fear boil in his heart, but ignored it and approached her. As he neared her, he saw that the skulls on her staff were of ravens and owls, and the beads were all made of the richest ambers he had seen.
 
@@ -130,7 +134,31 @@ The Völva turned around. When Ljörn saw her face, her eyes were covered by a t
 
 Confused, Ljörn didn't know what she was talking about.
 
-Then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
+"Well?" she asked.
+
+Ljörn wasn't sure what he was paranoid of, so he said, "The woes of this land."
+
+"Then you must pay," she said. She pointed at a nearby bush. "Bring me the head and tail!"
+
+Ljörn, still confused, look at the bush. Was there something in it? He picked up a large pebble and threw it into the bush. Nothing came out. He inched closer to it, his shield ready and his torch held like a sword. The breeze seemed cooler the closer he got to the bush.
+
+A blur sprung out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and it's pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
+
+He was disgusted. He had never seen a creature like it before, even with his experience of exploring forests at his homeland. He lobbed his torch at the creature with all his might, and hit it right.
+
+But that made the creature more aggressive. It slithered after him. He backed away, looking around for any more projectiles to throw at the thing. He found a rock and picked it up, and with it he threw it at the creature. He missed.
+
+The creature sprung at him again and held onto his shield. With a surprise, Ljörn dropped it onto the sand and jumped back. He grabbed a handful of sand and threw it all over his dropped shield and the creature. He grabbed another rock and threw it at the creature again, this time striking it's head. The creature fell and writhed on the ground. And without waiting, he grabbed his shield and smote it, killing the creature.
+
+Ljörn stepped back to better see it again. He slowly approached it and gave it a nudge with his foot, making sure it was dead. "What is this...?" he whispered to himself as he bent down to look at it closer. He felt an urge to stand up so he wasn't so close to it, but he resisted. This was the creature that he needed to take parts from. He drew his knife and cut its head and tail, leaving the body on the shore.
+
+Ljörn returned to the Völva. He held the creature's appendages in a way so more blood would not get onto his hands. "Here," he quietly said, offering them to her.
+
+The Völva took the creature's appendages and said,  "Ah, the snake's head and tail!"
+
+Ljörn then realised what he was killed was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
+
+Taking the head and tail, the Völva tossed them into the fire before her. As they caught fire and quickly turned to ash, then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Ek hit blōtą geldō, swa jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
 
 The Völva's voice deteriorated, becoming more like the whisper of a raspy old man. She was now speaking cryptically, but this time, Ljörn understood.
 

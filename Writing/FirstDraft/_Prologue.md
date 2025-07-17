@@ -45,7 +45,7 @@ Ljörn hesitated by the idea of leaving home to an unknown land. But Alfrir, the
 
 "Good, I hoped you would," the father said. He turned to Ljörn, the other son. "You?"
 
-Ljörn didn't think it was a good idea. "I... don't think-" he started, but was cut off by Alfrir.
+Ljörn didn't think it was a good idea. "I... don't think-," he started, but was cut off by Alfrir.
 
 "Ljörn, think about it! We could become-"
 
