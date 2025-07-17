@@ -140,15 +140,15 @@ Ljörn wasn't sure what he was paranoid of, so he said, "The woes of this land."
 
 "Then you must pay," she said. She pointed at a nearby bush. "Bring me the head and tail!"
 
-Ljörn, still confused, look at the bush. Was there something in it? He picked up a large pebble and threw it into the bush. Nothing came out. He inched closer to it, his shield ready and his torch held like a sword. The breeze seemed cooler the closer he got to the bush.
+Ljörn, still confused, looked at the bush. Was there something in it? He picked up a large pebble and threw it into the bush. Nothing came out. He inched closer to it, his shield ready and his torch held like a sword. The breeze seemed cooler the closer he got to the bush.
 
-A blur sprung out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and it's pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
+A blur sprung out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and its pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
 
 He was disgusted. He had never seen a creature like it before, even with his experience of exploring forests at his homeland. He lobbed his torch at the creature with all his might, and hit it right.
 
 But that made the creature more aggressive. It slithered after him. He backed away, looking around for any more projectiles to throw at the thing. He found a rock and picked it up, and with it he threw it at the creature. He missed.
 
-The creature sprung at him again and held onto his shield. With a surprise, Ljörn dropped it onto the sand and jumped back. He grabbed a handful of sand and threw it all over his dropped shield and the creature. He grabbed another rock and threw it at the creature again, this time striking it's head. The creature fell and writhed on the ground. And without waiting, he grabbed his shield and smote it, killing the creature.
+The creature sprung at him again and held onto his shield. With a surprise, Ljörn dropped it onto the sand and jumped back. He grabbed a handful of sand and threw it all over his dropped shield and the creature. He grabbed another rock and threw it at the creature again, this time striking its head. The creature fell and writhed on the ground. And without waiting, he grabbed his shield and smote it, killing the creature.
 
 Ljörn stepped back to better see it again. He slowly approached it and gave it a nudge with his foot, making sure it was dead. "What is this...?" he whispered to himself as he bent down to look at it closer. He felt an urge to stand up so he wasn't so close to it, but he resisted. This was the creature that he needed to take parts from. He drew his knife and cut its head and tail, leaving the body on the shore.
 
