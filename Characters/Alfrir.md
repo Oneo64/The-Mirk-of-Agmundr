@@ -49,7 +49,7 @@ Alfrir speaks casually. He also has the tendancy to blurt words out.
  - "They look as if they won't wake til noon."
  - "We are two men. And, we didn't sail three days in rain and thunder just to idle in a house!"
  - "Finally, food that isn't fish! Smells fine too, don't you think?"
-
+ - "Yes, but this one's got eggs."
  - "Ljörn, stop that!"
  - "Don't lie. You had the same thing on the boat. I know you were awake, so don't fool me now."
 

@@ -92,7 +92,9 @@ As the story continued, Ljörn found himself increasingly paranoid. The silence 
 
 Ljörn couldn't take it anymore. But he didn't yell nor shout, but he stared into the fire, watching it dance like the great, burning Sól...
 
-*It wasn't a fire, burning in a hearth. It was the sky. The vast, blue heavens, of which held Sól. Ljörn found himself back at the ruins again. Ingwaz swung its atgeir at him. Ljörn tried to block its blow, but it was so strong that his shield split into two. He stumbled to the ground and shifted backwards, watching the corpse advance onto him. His shield was broken in his hand. His spear was dropped. His sword was still unsheathed.*
+*It wasn’t a fire, burning in a hearth. It was the sky. The vast, blue heavens, of which held Sól. Ljörn found himself back at the ruins again. Ingwaz swung its atgeir at him. Ljörn tried to block its blow, but it was so strong that his shield split into two. Beaten by its strength, he stumbled onto the ground.*
+
+*Ljörn shifted backwards, the corpse advancing towards him as it brandished its atgeir. His shield was broken in his hand. His spear was dropped. His sword was still unsheathed.*
 
 *The draugr stood over him and raised its weapon, ready to strike Ljörn dead. It cleaved its blade towards him, but he raised his shield again. His shield's boss met the blade, deflecting it to the side.*
 
@@ -183,3 +185,11 @@ Ljörn was afraid. He had already forgotten what he was so paranoid of before me
 The Völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Know you then, or what?"
 
 "Yes, yes," Ljörn blurted out. He shot her a nervous smile and quickly left her alone on the beach.
+
+Ljörn hurried back to the longhouse, eager to get away from the völva as soon as possible. But when he stopped at the front door of the house, he thought back on what the Völva said. He could only remember the part where she said, "waken one will be, a corpse none shall see." He shivered.
+
+Ljörn looked at the shore again. The Völva snuffed her fire out and was returning to the longhouse. Looking to the side, Hjalvir's ship was tied to a stake in the ground by its mast. It sat there, lifted up from the sand and placed back down by the water.
+
+The Völva was heading back to the longhouse. Quickly hiding in the bushes, he waited for the Völva to pass by and enter the house. He creeped through the wild grass towards the boat. He stuck his head out and glanced around. No one was on watch. He looked at the boat again.
+
+"Maybe I can cut the rope and wait for the high tide, or..." he thought. Looking at the boat again, he planned on how he would make an escape. Then, his hopes fell. The boat's sails were torn!

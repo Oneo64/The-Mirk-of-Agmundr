@@ -26,7 +26,7 @@ As they talked, Hjalvir stood up and paced around the room. He stopped by the se
 
 The man, whom Hjalvir had seemed to choose, was dressed in the thickest amount of clothing Ljörn had ever seen, twice as much as he would bother to wear. Dressed in a bear cloak without the head, a dark brown tunic he was (although the dim made it seem black), his long brown hair was like that of Alfrir's, except with glory. Ljörn didn't like him already.
 
-"I don't remember you joining me. You are called...?" Hjalvir asked, impressed at the man's boldness to wear so much.
+"I don't remember you joining me. You are called?" Hjalvir asked, impressed at the man's boldness to wear so much.
 
 The man raised his head, eyes locking onto Hjalvir's. "Ingólfr," the man said.
 
@@ -51,7 +51,7 @@ Ljörn looked to the side and flinched. Ingólfr had returned from his scouting 
 
 Ljörn was going to say he couldn't fall asleep because of his lack of defence, but when he opened his mouth to speak, he heard movement in the bushes again. They sharply turned, eyes searching and scanning the grass from which the sound came. He was sure this time it wasn't the rain or the wind.
 
-The door opened with a slight creak. "Ljörn, what are you-," Alfrir stopped himself as he saw what they were looking at.
+The door opened with a slight creak. "Ljörn, what are you—," Alfrir stopped himself as he saw what they were looking at.
 
 <!-- SCENARIO 3: Wolves !-->
 

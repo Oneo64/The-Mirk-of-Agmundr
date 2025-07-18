@@ -18,7 +18,7 @@ He was reminded of the time two days ago, when his brother persuaded him. Persua
 
 He remembered when Sága, the explorer's daughter, showed up at their doorstep to advertise the expedition. He remembered walking on the streets of Álahringr, overhearing her promoting him to her father, since she thought he would be a useful mentor, like a guidebook for the supernatural. He wasn't a good teacher.
 
-The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "I-"
+The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "I—"
 
 "I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And, they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
 
