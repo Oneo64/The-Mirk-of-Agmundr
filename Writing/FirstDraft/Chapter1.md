@@ -1,8 +1,8 @@
 # Chapter 1: Nine Hundred and Twenty Two
 <!-- SCENARIO 1: Story introduction !-->
-The sun was low. Two longboats had their full sails flapping, carried north with the gale. There wasn’t a single sea bird in the sky, not even the sound of their call. On one of the ships, they had animals. And amongst the crew, a blond-haired man sat on his box. He wistfully stared at his amulet.
+Two longboats had their full sails flapping, carried north by the gale. The sun was low. Not a single sea bird flew in the sky, not even the sound of their call. On one of the ships, they had animals. And amongst the crew, a blond-haired man sat on his box.
 
-It was a Mjöllnir. His fingers trembled slightly as he held the cold symbol, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak.
+This blond man was wistfully staring at his amulet. It was a Mjöllnir. His fingers trembled slightly as he held the cold symbol, hoping it would protect him. He stared at it for a moment, then tucked it back into his cloak.
 
 The flapping sail bore a red colour with a blue cross, and a rough texture from the thick flax fibres. A wolf’s skull hung from the bow’s tip, swaying and knocking on the wood.
 
