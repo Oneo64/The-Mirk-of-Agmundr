@@ -94,7 +94,7 @@ Ljörn couldn't take it anymore. But he didn't yell nor shout, but he stared int
 
 *It wasn’t a fire, burning in a hearth. It was the sky. The vast, blue heavens, of which held Sól. Ljörn found himself back at the ruins again. Ingwaz swung its atgeir at him. Ljörn tried to block its blow, but it was so strong that his shield split into two. Beaten by its strength, he stumbled onto the ground.*
 
-*Ljörn shifted backwards, the corpse advancing towards him as it brandished its atgeir. His shield was broken in his hand. His spear was dropped. His sword was still unsheathed.*
+*Ljörn shifted backwards, the corpse advancing towards him as it brandished its atgeir. His shield was broken in his hand. His spear was dropped out of reach. His sword was still unsheathed.*
 
 *The draugr stood over him and raised its weapon, ready to strike Ljörn dead. It cleaved its blade towards him, but he raised his shield again. His shield's boss met the blade, deflecting it to the side.*
 
