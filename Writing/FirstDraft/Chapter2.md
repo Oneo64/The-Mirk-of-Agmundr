@@ -30,19 +30,19 @@ Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we 
 
 There was a cheer, and they began. It was warm and tasted different, and the chunks of fish were at the bottom. Ljörn quickly ate it all.
 
-Once all the throng were finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box.
+Once all the throng were finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box. He had a half-full belly, and that was enough.
 
 <!-- SCENARIO 2: Flashback !-->
 
-Sága was reading through a book, which she had preserved from the rain. She stood, closing the book she was reading. She went to Hjalvir and talked to him in a quiet voice that Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room. "I have a tale to tell!" Sága announced.
+He looked across the room and spotted Sága reading through a book, which she had preserved from the rain. He wondered what she was reading.
+
+Then she stood, closing the book she was reading. She went to Hjalvir and talked to him in a quiet voice that Ljörn couldn’t hear. After a bit of talking, she turned to everyone else in the room. “I have a tale to tell!” she announced.
 
 The chatter quieted down, and the warriors, who were still awake, turned their attention to her.
 
 Sága pulled her chair closer to the hearth, sitting down as she continued. "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
 
-As Sága continued on with her tale, Ljörn felt an uneasy feeling growing inside him. He looked away from her and tried to focus on anything other than it. But the word *draugrinn* echoed clearly inside Ljörn’s mind.
-
-Ljörn forced himself to listen through it, no matter how repulsive he felt. He wasn't the type to get caught up in tales like these, but for some reason, he couldn't calm down. As the story continued, he found himself increasingly paranoid. The silence outside was killing him.
+As Sága continued on with her tale, Ljörn felt an uneasy feeling growing inside him. He looked away from her and tried to focus on anything other than it. But the word *draugrinn* echoed clearly inside Ljörn’s mind. He wasn't the type to get caught up in tales like these, but for some reason, he couldn't calm down. As the story continued, he found himself increasingly paranoid. The silence outside was killing him.
 
 "Then Yngvarr stumbled and tripped over his feet. The draugr stood over him, and he slashed him dead!" Sága said.
 
