@@ -12,9 +12,9 @@ The warrior he was talking about was wearing a helmet. It was one of those Engli
 
 "I never seen one like it," Alfrir added.
 
-Their small talk died down. A moment later, the pot began to emit a nice aroma. The stew was a combination of goat milk, eggs, and some of the dried fish they had brought. When the stew in the pot was done, they took turns and filled their bowls with some of it.
+Their small talk died down. A moment later, the pot began to emit a nice aroma. The stew was a combination of goat milk, eggs, and some of the dried fish they had brought. When the stew in the pot was done, everyone in the room took turns and filled their bowls with some of it.
 
-Ljörn returned to his seat, his hand with a bowl of the stew. He was hungry for a meal that wasn't dried salted fish, even though he knew the stew had the fish he had eaten on the boat.
+Ljörn returned to his seat, his hand with a bowl of the stew. He was hungry for a meal that wasn't dried salted fish, even though he knew the stew had the fish from the boat.
 
 "Finally, food that isn't fish!" Alfrir said, sitting on his box with his bowl. "Smells fine too, don't you think?"
 
