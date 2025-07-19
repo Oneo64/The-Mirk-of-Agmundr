@@ -18,7 +18,7 @@ Ljörn stood and went to check the windows again. Of course, the wolves weren't 
 
 Alfrir looked outside the small crack between the doors. "Can't be too safe," he murmured.
 
-Ljörn agreed with him. He unsheathed his seax and slowly pushed the door open. The two stepped back and prepared themselves.
+"Mmm," Ljörn murmured. He unsheathed his seax and slowly pushed the door open. The two stepped back and prepared themselves.
 
 The coast was clear. With the rainy haze gone, the land looked clearer than ever. Downhill, there was a widening river that went into the sea. Beyond the river, the grass sloped up again to a jaggier land, with rocks protruding out of the earth.
 
