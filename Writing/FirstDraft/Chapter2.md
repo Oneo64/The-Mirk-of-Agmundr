@@ -138,7 +138,7 @@ The völva’s voice became more like the whisper of a raspy old man. She was no
 
 Ljörn was afraid. He had already forgotten what he was so paranoid of before meeting her, and now he had taken several steps back when she had begun her spell. And she is still going, her speech back to that ancient tongue.
 
-The völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Know you then, or what?"
+The völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Enough?"
 
 "Yes, yes," Ljörn blurted out. He shot her a nervous smile and quickly left her alone on the beach.
 
