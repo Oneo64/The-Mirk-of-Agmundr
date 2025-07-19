@@ -30,9 +30,9 @@ Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we 
 
 There was a cheer, and they began. It was warm and tasted different, and the chunks of fish were at the bottom. Ljörn quickly ate it all.
 
-Once all the throng were finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box. He had a half-full belly, and that was enough.
+Once all the throng were finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box. After eating that stew, he had a half-full belly, and that was enough.
 
-Relaxing from the rough days of rowing and sailing in bad weather, he leaned back a little more. His gaze began to wander. He glanced at the men Alfrir talked about earlier. They had full hauberks, unlike him, who only had a byrnie.
+Relaxing from the rough days of rowing and sailing in bad weather, he leaned back a little more. Now that he was on this new land, there was certainly no going back. His gaze began to wander. He glanced at the men Alfrir talked about earlier. They had full hauberks, unlike him, who only had a byrnie.
 
 As his gaze continued to wander the room, it fell on Sága, who was across the room. She was reading through a book, which she had preserved from the rain. He wondered what she was reading.
 
@@ -68,7 +68,9 @@ Ljörn glanced at Alfrir. He was upset, but he didn't defend himself. "Get off m
 
 Alfrir hesitated, then sat back down.
 
-Ljörn started to doubt their luck and started thinking about their woes. His paranoia started to grow on him. "I need to see the seeress," he said. "Where is she?"
+Ljörn's mind started to wander, and the first thing that came into his mind was what he had just seen. Putting those thoughts down, he let himself wander in his thoughts again.
+
+But those thoughts drifted back into his mind. He tried to forget about them, but then he'd find himself thinking about them again. Unable to forget what he had seen, his paranoia started to grow on him. Then, he looked at Alfrir and spoke up. "I need to see the seeress," he said. "Where is she?"
 
 "I... she's outside," Alfrir said.
 
