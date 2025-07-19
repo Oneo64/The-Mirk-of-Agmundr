@@ -1,8 +1,6 @@
 # Chapter 2: The Völva
-<!-- SCENARIO 1: Hall !-->
-A pot sat upon the hearth as it boiled softly. Ljörn stared at it, waiting for a meal to be made. There was a ghostly sound from the wind blowing past the windows. That's where he didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
-
-Now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn't quite enough), he wouldn't feel anxious.
+<!-- SCENARIO 1: Meal !-->
+A pot sat upon the hearth as it boiled softly. Ljörn stared at it, waiting for a meal to be made. There was a ghostly sound from the wind blowing past the windows. That's where he didn't sit under, or else the cold would have worsened his wet clothing. But now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn’t quite enough), he wouldn’t feel anxious.
 
 Alfrir was beside Ljörn. He always sat like that when he wasn't wistful. He kept glancing at the group of well-dressed men, as if he were thinking to talk about them. "See them?" Alfrir started, whispering. He nodded in their direction.
 
@@ -28,13 +26,13 @@ Then Hjalvir stood up, walking to the end of the hearth. He raised his bowl and 
 
 Ljörn looked at Hjalvir. He hadn't started eating, but wasn't expecting there to be an announcement.
 
-Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we have sailed! Even now we have not our tools, but soldiers of Randúlfr we are no more! Þórr has seen our struggle, and given this warm soup we have been, now we can relish in it!"
+Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we have sailed! Soldiers of Randúlfr we are no more! Þórr has seen our struggle, and given this warm soup we have been, now we can relish in it!"
 
 There was a cheer, and they began. It was warm and tasted different, and the chunks of fish were at the bottom. Ljörn quickly ate it all.
 
 Once all the throng were finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box.
 
-<!-- SCENARIO 2: Lore !-->
+<!-- SCENARIO 2: Flashback !-->
 
 Sága was reading through a book, which she had preserved from the rain. She stood, closing the book she was reading. She went to Hjalvir and talked to him in a quiet voice that Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room. "I have a tale to tell!" Sága announced.
 
@@ -75,6 +73,8 @@ Ljörn started to doubt their luck and started thinking about their woes. His pa
 "I... she's outside," Alfrir said.
 
 Ljörn looked around the room. Like Alfrir said, she wasn't in the hall. Without a fuss, he stood up. He slung his shield around his back, took an unlit torch stick, and stuck it in the hearth. When it caught fire, he held it up and left the longhouse.
+
+<!-- SCENARIO 3: Outside and the volva !-->
 
 The cold breeze hit his face when he pushed the door open. He closed the door behind him as gently as he could, but his anxiety didn't make it easy. The rain, now lightly showering, made a rustling sound in the grass. The moon was the only light source, making the landscape hauntingly beautiful. But despite the prettiness of the land, he began to feel like he was being followed. He breathed heavily. His torch gave him light so he could see, its flames warm and flickering. He looked left and right, but no matter how hard he looked, there wasn't a single sign of danger. But when he looked at the forest again, he froze.
 
