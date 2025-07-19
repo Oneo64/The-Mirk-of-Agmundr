@@ -1,14 +1,8 @@
-# Chapter 2: Hunting in the Night
+# Chapter 2: The Völva
 <!-- SCENARIO 1: Hall !-->
-Ljörn sat against the wall as he stared into the hearthfire. It was low. Too low. The flames brightened and dimmed, looking as if they were dwindling. The fire provided enough light to see in the dark, yet no warmth could be felt. It was miraculous they got the fire going, since the sticks were wet to begin with.
+A pot sat upon the hearth as it boiled softly. Ljörn stared at it, waiting for a meal to be made. There was a ghostly sound from the wind blowing past the windows. That's where he didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
 
-There was a ghostly sound from the wind blowing past the windows. That's where Ljörn didn't sit under, or else the cold would have worsened his wet clothing. Someone from the other side of the room muffled their cough.
-
-Ljörn was thinking about the second longboat, waiting for their arrival. It had been tens of minutes since they set foot on the new land. Before the storm happened, they were right behind the ship he took. Has it not come yet? The only tools he had were his seax, still in his sheath. And like many other warriors in the room, his shield. He didn't have his helmet, his byrnie, or his spear. His shield was the only thing that comforted him, the only thing that provided comfort through protection.
-
-Most of the throng had fallen asleep, but the warriors were restless. From the quiet chatter in the room, Ljörn could tell they were worried about the same thing.
-
-There were only a few available chairs. Hjalvir sat on one, the others reserved for Sága and a few other well-dressed men. Sága was reading through a book, which she had preserved from the rain.
+Now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn't quite enough), he wouldn't feel anxious.
 
 Alfrir was beside Ljörn. He always sat like that when he wasn't wistful. He kept glancing at the group of well-dressed men, as if he were thinking to talk about them. "See them?" Alfrir started, whispering. He nodded in their direction.
 
@@ -20,82 +14,163 @@ The warrior he was talking about was wearing a helmet. It was one of those Engli
 
 "I never seen one like it," Alfrir added.
 
-As they talked, Hjalvir stood up and paced around the room. He stopped by the sea-facing window and peered out into the ocean. He was worried about the same thing Ljörn was worried about.
+Their small talk died down. A moment later, the pot began to emit a nice aroma. The stew was a combination of goat milk, eggs, and some of the dried fish they had brought. When the stew in the pot was done, they took turns and filled their bowls with some of it.
 
-"Where are those fools?" Hjalvir said. "They were behind us!" He looked away from the window and scanned the various people in the shelter. Ljörn instantly knew what he was thinking and hoped it wasn't going to be him. Hjalvir skipped all the women and children, and the men who were too weak to step out at this time. Then his gaze landed on a particular one.
+Ljörn returned to his seat, his hand with a bowl of the stew. He was hungry for a meal that wasn't dried salted fish, even though he knew the stew had the fish he ate on the boat.
 
-The man, whom Hjalvir had seemed to choose, was dressed in the thickest amount of clothing Ljörn had ever seen, twice as much as he would bother to wear. Dressed in a bear cloak without the head, a dark brown tunic he was (although the dim made it seem black), his long brown hair was like that of Alfrir's, except with glory. Ljörn didn't like him already.
+"Finally, food that isn't fish!" Alfrir said, sitting on his box with his bowl. "Smells fine too, don't you think?"
 
-"I don't remember you joining me. You are called?" Hjalvir asked, impressed at the man's boldness to wear so much.
+Ljörn wasn't as satisfied as his brother. He was looking into his. The stew was milky white with a bit of yellow from the yolk. "There's still fish in the bowl," he muttered.
 
-The man raised his head, eyes locking onto Hjalvir's. "Ingólfr," the man said.
+"Yes, but this one's got eggs," Alfrir said.
 
-"Ingólfr," Hjalvir repeated. "You seem prepared. Find out what's happening to the second ship."
+Then Hjalvir stood up, walking to the end of the hearth. He raised his bowl and bellowed, "Friends, before we start our dinner, hear me dearly!"
 
-Ingólfr bowed his head once. He left the hall, leaving it quiet again.
+Ljörn looked at Hjalvir. He hadn't started eating, but wasn't expecting there to be an announcement.
 
-Sága stood, closing the book she was reading. She went to Hjalvir and talked to him in a quiet voice that Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room. "I have a tale to tell!" Sága announced. The chatter quieted down, and the warriors, who were still awake, turned their attention to her. She pulled her chair closer to the hearth, sitting down as she continued. "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
+Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we have sailed! Even now we have not our tools, but soldiers of Randúlfr we are no more! Þórr has seen our struggle, and given this warm soup we have been, now we can relish in it!"
 
-"Draugrinn..." The word echoed in Ljörn's mind. He then felt ill, reminded of an unsavoury past. He quickly stood from where he sat. "S-sorry, I... I feel ill," he stammered, making himself an excuse to leave. He grabbed his shield and hastily made for the front door. Someone shouted at him to come back, but he ignored them.
+There was a cheer, and they began. It was warm and tasted different, and the chunks of fish were at the bottom. Ljörn quickly ate it all.
 
-<!-- SCENARIO 2: Outside !-->
-The grass was still swaying in the wind when Ljörn came out. The rain, now lightly showering, made a rustling sound in the grass. The moon was the only light source, making the landscape hauntingly beautiful. But despite the prettiness of the land, he began to feel like he was being followed. He breathed heavily. He looked left and right, but no matter how hard he looked, there wasn't a single sign of danger.
+Once all the throng were all finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box.
 
-A distinctive rustle came from the tall grass. His eyes darted to the bush, but he saw nothing in it.
+<!-- SCENARIO 2: Lore !-->
 
-A voice questioned him. "What are you doing?"
+Sága was reading through a book, which she had preserved from the rain. She stood, closing the book she was reading. She went to Hjalvir and talked to him in a quiet voice that Ljörn couldn't hear. After a bit of talking, she turned to everyone else in the room. "I have a tale to tell!" Sága announced.
 
-Ljörn looked to the side and flinched. Ingólfr had returned from his scouting mission, and is now standing before him. He didn't want to admit that he was anxious. "I felt ill," he lied.
+The chatter quieted down, and the warriors, who were still awake, turned their attention to her.
 
-"You should be sleeping then," Ingólfr responded. His tone didn't carry any suspicion.
+Sága pulled her chair closer to the hearth, sitting down as she continued. "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
 
-Ljörn was going to say he couldn't fall asleep because of his lack of defence, but when he opened his mouth to speak, he heard movement in the bushes again. They sharply turned, eyes searching and scanning the grass from which the sound came. He was sure this time it wasn't the rain or the wind.
+As Sága continued on with her tale, Ljörn felt an uneasy feeling growing inside him. He looked away from her and tried to focus on anything other than it. But the word *draugrinn* echoed clearly inside of Ljörn’s mind.
 
-The door opened with a slight creak. "Ljörn, what are you—," Alfrir stopped himself as he saw what they were looking at.
+---
 
-<!-- SCENARIO 3: Wolves !-->
+Ljörn forced himself to listen through it, no matter how repulsive he felt. He wasn't the type to get caught up in tales like these, but for some reason, he couldn't calm down. As the story continued, he found himself increasingly paranoid. The silence outside was killing him.
 
-A wolf was peering out from the grass, dangerously close to the three. It slowly made a step out of the bush, closer to the two men. Its fur was light grey, with dark tips; and cunning eyes, but not cunning like evil.
+As the story continued, Ljörn found himself increasingly paranoid. The silence outside was killing him.
 
-"Shoo!" Ingólfr said, attempting to make the wolf leave.
+"Then Yngvarr stumbled and tripped over his feet. The draugr stood over him, and he slashed him dead!" Sága said.
 
-It didn't go away. Another wolf trotted by and stopped to a halt next to the other one. The two wolves had the same fur colour and the same snout shape.
+Ljörn couldn’t take it anymore. But he didn’t yell. Nor did he shout or make a scene, but instead he stared into the fire, watching it dance like the great, burning Sól...
 
-Ljörn realised what was happening.
+*It wasn’t a fire, burning in a hearth. It was the sky. The vast, blue heavens, of which held Sól. Ljörn found himself back at the ruins again. Ingwaz swung its atgeir at him. Ljörn tried to block its blow, but it was so strong that his shield split into two. Beaten by its strength, he stumbled onto the ground.*
 
-"Go inside, now," Ingólfr urgently said.
+*Ljörn shifted backwards, the corpse advancing towards him as it brandished its atgeir. His shield was broken in his hand. His spear was dropped out of reach. His sword was still unsheathed.*
 
-Ljörn backed away, then turned and pushed the door open. Ingólfr came in too, and they shut the door with a slam. Then it rattled, and the sound of an exhale from the foot of the door. Ljörn held the door shut.
+*The draugr stood over him and raised its weapon, ready to strike Ljörn dead. It cleaved its blade towards him, but he raised his shield again. His shield's boss met the blade, deflecting it to the side.*
+
+*The draugr raised its weapon again, for sure to kill him now. But just before the smite, his accomplice slashed it from the face to the stomach. It lived, and Ljörn was alone again.*
+
+Ljörn jolted and squirmed as if trying to scatter back to his feet.
+
+"Ljörn, stop that!" Alfrir whispered. He put both hands on Ljörn's shoulders, keeping him from squirming. A few people took a glance at them, and returned their minds to Sága's tale.
+
+Ljörn was breathing heavily. He looked at Alfrir. "Nightmare," he lied. But even with Alfrir now thinking he had a nightmare, that didn't calm him down. He got that uneasy feeling of being followed again. He looked at both sides, at the windows and at the door, at the back and behind the boxes, and in the ceiling where the logs supported the roof; but he couldn't find the ghostly figure anywhere.
+
+"Don't lie," Alfrir said. "You had the same thing on the boat. I know you were awake, so don't fool me now."
+
+Ljörn glanced at Alfrir. He was upset, but he didn't defend himself. "Get off me," he sharply said. His heart was beating like he was sprinting a moment ago.
+
+Alfrir hesitated, then sat back down.
+
+Ljörn started to doubt their luck and started thinking about their woes. His paranoia started to grow on him. "I need to see the seeress," he said. "Where is she?"
+
+"I... she's outside," Alfrir said.
+
+Ljörn looked around the room. Like Alfrir said, she wasn't in the hall. Without a fuss, he stood up. He slung his shield around his back, took an unlit torch stick, and stuck it in the hearth. When it caught fire, he held it up and left the longhouse.
+
+---
+
+The cold breeze hit his face when he pushed the door open. He closed the door behind him as gently as he could, but his anxiety didn't make it easy. The rain, now lightly showering, made a rustling sound in the grass. The moon was the only light source, making the landscape hauntingly beautiful. But despite the prettiness of the land, he began to feel like he was being followed. He breathed heavily. His torch gave him light so he could see, its flames warm and flickering. He looked left and right, but no matter how hard he looked, there wasn't a single sign of danger. But when he looked at the forest again, he froze.
+
+There was a pack of wolves. There were about a dozen of them moving through the trees and shrubs. They noticed him. Ljörn panicked, but then he saw them hesitate. And they continued on, ignoring Ljörn even when he was alone out in the open. Perhaps it was the fire-torch he was holding that discouraged them.
+
+Ljörn turned around to the shore, hoping he would find her there instead. And as he slowly walked there and reached the edge of the meadow, he saw the völva.
+
+There she was on the sand, gazing out into the ocean as if she was consulting the gods on the weather. She was in a dark dress and a deer pelt cloak. And the most shamanic thing about her, a crooked staff that she held with several beads and skulls hanging from the end. In front of her, there was a small fire that burned sticks and grass gathered from around.
+
+When Ljörn saw her, he hesitated. He thought he felt a bit of fear boil in his heart, but ignored it and approached her. As he neared her, he saw that the skulls on her staff were of ravens and owls, and the beads were all made of the richest ambers he had seen.
+
+And then Ljörn said, "I seek our woes."
+
+The völva turned around. She was elderly, at least twice as old as he was. She wore the claw of a bear on her head like a necklace, and the real necklace she wore around her neck was strung full of fangs and talons.
+
+"Do you?" the völva questioned him. "To seek the woes of this land, this stead, or the lead?"
+
+Confused, Ljörn didn't know what she was talking about.
+
+"Well?" she asked.
+
+Ljörn wasn't sure what he was paranoid of, so he said, "The woes of this land."
+
+"Then you must pay," she said. She pointed at a nearby bush. "Bring me the head and tail!"
+
+Ljörn, still confused, looked at the bush. Was there something in it? He picked up a large pebble and threw it into the bush. Nothing came out.
+
+He put his torch down, drew his sword, and inched closer to it. He held his shield ready for anything that could come out. The breeze seemed cooler the closer he got to the bush.
+
+A blur sprang out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and its pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
+
+He was disgusted. He had never seen a creature like it before, even with his experience of exploring forests in his homeland. Not sure whether to hit it with his sword or not, he picked his torch up again and lobbed it at the creature with all his might, hitting it right.
+
+But that made the creature more aggressive. It slithered after him. He swung his sword, but the creature jumped at him again and held onto his shield. With a surprise, he dropped it onto the sand and backed away. 
+
+Ljörn grabbed a handful of sand and threw it all over his dropped shield and the creature. Right after that, he closed in and with a cleave he chopped it in half.
+
+It writhed, squirmed, and came off his shield. He then picked his shield up and smote the creature, killing it.
+
+Ljörn stepped back to better see it again. He slowly approached it and gave it a nudge with his sword, making sure it was dead. "What is this...?" he whispered to himself as he bent down to look at it closer. He felt an urge to stand up so he wasn't so close to it, but he resisted. This was the creature that he needed to take parts from. He put away his sword and drew a knife. He cut its head and tail, leaving the body on the shore.
+
+Ljörn returned to the völva. He held the creature's appendages in a way so more blood would not get onto his hands. "Here," he quietly said, offering them to her.
+
+The völva took the creature's appendages and said,  "Ah, the snake's head and tail!"
+
+Ljörn then realised what he had slain was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
+
+Taking the head and tail, the völva tossed them into the fire before her. As they caught fire and quickly turned to ash, then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Ek hit blōtą geldō, swa jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
+
+The völva’s voice became more like the whisper of a raspy old man. She was now speaking cryptically, but this time, Ljörn understood.
+
+*Goblet one may find,*
+
+*sunken in bushes' hind;*
+
+*waken one will be,*
+
+*a corpse none shall see.*
+
+Ljörn was afraid. He had already forgotten what he was so paranoid of before meeting her, and now he had taken several steps back when she had begun her spell. And she is still going, her speech back to that ancient tongue.
+
+The völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Know you then, or what?"
+
+"Yes, yes," Ljörn blurted out. He shot her a nervous smile and quickly left her alone on the beach.
+
+Ljörn hurried back to the longhouse, eager to get away from the völva as soon as possible. But when he stopped at the front door of the house, he thought back on what the völva said. He could only remember the part where she said, "waken one will be, a corpse none shall see." He shivered.
+
+Ljörn looked at the shore again. The völva snuffed her fire out and started to return to the longhouse. Looking to the side, Hjalvir's ship was tied to a stake in the ground by its mast. It sat there, lifted from the sand and placed back down by the water.
+
+---
 
 "So you return!" Hjalvir was standing up, looming behind the hearthfire. He glared at Ljörn like a traitor, his voice grown stern.
 
-Sága wasn't telling a story anymore. She was quiet again, looking confusedly at Ljörn and Ingólfr.
+Sága wasn't telling a story anymore. She was quiet again, looking confusedly at Ljörn.
 
-Ljörn shifted uncomfortably. "I..." he trailed off, not knowing how to continue.
+"There's wolves," Ljörn said.
 
-Ingólfr spoke up with the greater problem in his mind. "We're surrounded by wolves," he reported. "There's a whole pack of them. If it weren't for him, I may've been dead."
-
-Ljörn peeked out the slim window. Sure enough, the pack of wolves were there, going round the longhouse as if looking for an entrance. One approached the window and smelled it. He drew his seax and thrusted through, but missed when the wolf recoiled.
-
-"Someone must have led them here. Who led them here?" Hjalvir said frustratingly. He then faced Ljörn, his suspicion growing onto the blond-haired man. "Did you?"
+"You must have led them here," Hjalvir said frustratingly, his suspicion growing onto the blond-haired man. "Did you?"
 
 "No," Ljörn quickly said.
 
 "Father, he means no harm," Sága said. "I think he is only cursed. Back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost."
 
-"I see nothing curse-like about him," Hjalvir argued. "And fleeing a guard? That means he could be an outlaw!"
+"I see nothing curse-like about him," Hjalvir said. "And fleeing a guard? That means he could be an outlaw!"
 
 "I am not an outlaw," Ljörn said, taken aback by the accusation. "They smelled us here!" he protested, trying to make him see reason. There couldn't have been another way. Even the idea of leading wolves to the longhouse was a stupid idea; he would've been torn to pieces.
 
-Hjalvir stared at Ljörn. He slowly gained his calm, but he wasn't fully convinced by their explanations. "Fine," he said. "But if this happens again, I'll have you done!"
+Hjalvir stared at Ljörn. He slowly gained his calm, but he wasn't fully convinced by their explanations. He dismissingly waved his hand.
 
 The room quieted down. All Ljörn could hear were the hearth, the rain, and several people's snores and chatter. He couldn't hear the wolves anymore. That meant they were gone, probably because they couldn't come in. He looked at Hjalvir to make sure there wasn't going to be any more strife.
-
-Hjalvir turned to Ingólfr, his voice lowering. "So, did you find the ship I asked?" he said.
-
-"I couldn't see it," Ingólfr said. "I watched even when the fog cleared."
-
-Hjalvir paused for a moment as he thought of what to do with them. He took a look at Alfrir, then Ljörn and Ingólfr. "You three, go rest," Hjalvir said, dismissing them.
 
 <!-- CUT TEST !-->
 

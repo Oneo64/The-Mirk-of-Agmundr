@@ -122,7 +122,7 @@ The cold breeze hit his face when he pushed the door open. He closed the door be
 
 It was the wolves. There were about a dozen of them moving through the trees and shrubs. They noticed him. Ljörn panicked, but then he saw them hesitate. And they continued on, ignoring Ljörn even when he was alone out in the open. Perhaps it was the fire-torch he was holding that discouraged them.
 
-Ljörn turned around to the shore, hoping he would find her there instead. And as he slowly walked there and reached the edge of the meadow, he saw the Völva.
+Ljörn turned around to the shore, hoping he would find her there instead. And as he slowly walked there and reached the edge of the meadow, he saw the völva.
 
 There she was on the sand, gazing out into the ocean as if she was consulting the gods on the weather. She was in a dark dress and a deer pelt cloak. And the most shamanic thing about her, a crooked staff that she held with several beads and skulls hanging from the end. In front of her, there was a small fire that burned sticks and grass gathered from around.
 
@@ -130,9 +130,9 @@ When Ljörn saw her, he hesitated. He thought he felt a bit of fear boil in his 
 
 And then Ljörn said, "I seek our woes."
 
-The Völva turned around. She was elderly, at least twice as old as he was. She wore the claw of a bear on her head like a necklace, and the real necklace she wore around her neck was strung full of fangs and talons.
+The völva turned around. She was elderly, at least twice as old as he was. She wore the claw of a bear on her head like a necklace, and the real necklace she wore around her neck was strung full of fangs and talons.
 
-"Do you?" the Völva questioned him. "To seek the woes of this land, this stead, or the lead?"
+"Do you?" the völva questioned him. "To seek the woes of this land, this stead, or the lead?"
 
 Confused, Ljörn didn't know what she was talking about.
 
@@ -154,15 +154,15 @@ The creature sprang at him again and held onto his shield. With a surprise, Ljö
 
 Ljörn stepped back to better see it again. He slowly approached it and gave it a nudge with his foot, making sure it was dead. "What is this...?" he whispered to himself as he bent down to look at it closer. He felt an urge to stand up so he wasn't so close to it, but he resisted. This was the creature that he needed to take parts from. He drew his knife and cut its head and tail, leaving the body on the shore.
 
-Ljörn returned to the Völva. He held the creature's appendages in a way so more blood would not get onto his hands. "Here," he quietly said, offering them to her.
+Ljörn returned to the völva. He held the creature's appendages in a way so more blood would not get onto his hands. "Here," he quietly said, offering them to her.
 
-The Völva took the creature's appendages and said,  "Ah, the snake's head and tail!"
+The völva took the creature's appendages and said,  "Ah, the snake's head and tail!"
 
 Ljörn then realised what he had slain was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
 
-Taking the head and tail, the Völva tossed them into the fire before her. As they caught fire and quickly turned to ash, then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Ek hit blōtą geldō, swa jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
+Taking the head and tail, the völva tossed them into the fire before her. As they caught fire and quickly turned to ash, then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Ek hit blōtą geldō, swa jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
 
-The Völva's voice deteriorated, becoming more like the whisper of a raspy old man. She was now speaking cryptically, but this time, Ljörn understood.
+The völva’s voice became more like the whisper of a raspy old man. She was now speaking cryptically, but this time, Ljörn understood.
 
 *Goblet one may find,*
 
@@ -172,24 +172,12 @@ The Völva's voice deteriorated, becoming more like the whisper of a raspy old m
 
 *a corpse none shall see.*
 
-*The ship one will take,*
-
-*mast and full sails fade;*
-
-*but ware the torn red flax,*
-
-*his mind fears and lacks.*
-
 Ljörn was afraid. He had already forgotten what he was so paranoid of before meeting her, and now he had taken several steps back when she had begun her spell. And she is still going, her speech back to that ancient tongue.
 
-The Völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Know you then, or what?"
+The völva finished her chanting and ended her trance-like state. She stared into Ljörn's eyes and asked one word. "Know you then, or what?"
 
 "Yes, yes," Ljörn blurted out. He shot her a nervous smile and quickly left her alone on the beach.
 
-Ljörn hurried back to the longhouse, eager to get away from the völva as soon as possible. But when he stopped at the front door of the house, he thought back on what the Völva said. He could only remember the part where she said, "waken one will be, a corpse none shall see." He shivered.
+Ljörn hurried back to the longhouse, eager to get away from the völva as soon as possible. But when he stopped at the front door of the house, he thought back on what the völva said. He could only remember the part where she said, "waken one will be, a corpse none shall see." He shivered.
 
-Ljörn looked at the shore again. The Völva snuffed her fire out and started to return to the longhouse. Looking to the side, Hjalvir's ship was tied to a stake in the ground by its mast. It sat there, lifted from the sand and placed back down by the water.
-
-The Völva was heading back to the longhouse. Quickly chucking his torch into the river, he hid in the bushes. He waited for the Völva to pass by and enter the house, then he began moving. He crept through the wild grass towards the boat. He stuck his head out and glanced around. No one was on watch. He looked at the boat again.
-
-"Maybe I can cut the rope and wait for the high tide, or..." he thought. Looking at the boat again, he planned on how he would escape. Then, his hopes fell. The boat's sails have been torn!
+Ljörn looked at the shore again. The völva snuffed her fire out and started to return to the longhouse. Looking to the side, Hjalvir's ship was tied to a stake in the ground by its mast. It sat there, lifted from the sand and placed back down by the water.

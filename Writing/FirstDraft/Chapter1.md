@@ -32,7 +32,7 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face. He returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
-The blond man glanced at the other longship. His weapons, spear and sword, were stored on that ship, kept somewhere within its cargo boxes. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
+His weapons, spear and sword, were stored inside the box he sat on. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
 As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
 
@@ -92,6 +92,6 @@ It was dark, but Ljörn could make out some things about the land. They were sai
 
 Hjalvir shouted a bracing warning. Ljörn gripped the side of the ship and braced himself, but was surprised when the ship only bumped upwards by the slight slope of the shore.
 
-Ljörn turned around to see the land again. It was only then that he noticed the dark silhouette wasn’t a rock at all. It was a lonely hall with a tarf roof, blending amongst nature’s green. From the lack of light, Ljörn could tell that the hearthfire was out. It was at least twice the length of a longhouse, yet not enough for all of Hjalvir’s company, although it would do for the crew. A small wooden extension was built on the roof, which was almost certainly the chimney.
+Ljörn turned around to see the land again. It was only then that he noticed the dark silhouette wasn’t a rock at all. It was a lonely hall with a tarf roof, blending amongst nature’s green. From a faint light coming from thin slits in the house walls (those are the windows), Ljörn could tell that the hearthfire was being maintained. It was at least twice the length of a longhouse, yet not enough for all of Hjalvir’s company, although it would do for the crew. A small wooden extension was built on the roof, which was almost certainly the chimney.
 
 Hjalvir was the first to set foot upon the wet sand, his boots sinking into the beach water as it soiled and washed them with every wave. Ljörn watched the would-be chieftain stumble forward, chuckling at the sight of such a wild land. "Agmundaland!" he proclaimed. "I, have come!"
