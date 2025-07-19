@@ -18,7 +18,7 @@ Ljörn stood and went to check the windows again. Of course, the wolves weren't 
 
 Alfrir looked outside the small crack between the doors. "Can't be too safe," he murmured.
 
-"Mmm," Ljörn murmured. He unsheathed his seax and slowly pushed the door open. The two stepped back and prepared themselves.
+Ljörn unsheathed his seax and slowly pushed the door open. The two stepped back and prepared themselves.
 
 The coast was clear. With the rainy haze gone, the land looked clearer than ever. Downhill, there was a widening river that went into the sea. Beyond the river, the grass sloped up again to a jaggier land, with rocks protruding out of the earth.
 
@@ -146,7 +146,7 @@ Ljörn, still confused, looked at the bush. Was there something in it? He picked
 
 A blur sprang out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and its pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
 
-He was disgusted. He had never seen a creature like it before, even with his experience of exploring forests at his homeland. He lobbed his torch at the creature with all his might, and hit it right.
+He was disgusted. He had never seen a creature like it before, even with his experience of exploring forests in his homeland. He lobbed his torch at the creature with all his might, and hit it right.
 
 But that made the creature more aggressive. It slithered after him. He backed away, looking around for any more projectiles to throw at the thing. He found a rock and picked it up, and with it he threw it at the creature. He missed.
 
