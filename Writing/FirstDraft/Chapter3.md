@@ -10,7 +10,7 @@ Ljörn stood and went to check the windows again. Of course, the wolves weren't 
 
 "Wait," Alfrir said. "Wait, the wolves."
 
-"They are gone," Ljörn said, watching Alfrir get up too. He turned back to the door and pushed it ajar. Peering outside, he couldn't see nor find any animals.
+"They are gone," Ljörn said, watching Alfrir get up too. He turned back to the door and pushed it ajar. Peering outside, he couldn't see or find any animals.
 
 "Are you sure?" Alfrir asked.
 
@@ -20,7 +20,7 @@ Alfrir looked outside the small crack between the doors. "Can't be too safe," he
 
 Ljörn agreed with him. He unsheathed his seax and slowly pushed the door open. The two stepped back and prepared themselves.
 
-The coast was clear. The land could be clearly seen now. Downhill, there was a widening river that went into the sea. Beyond the river, the grass sloped up again to a jaggier land, with rocks protruding out the earth.
+The coast was clear. With the rainy haze gone, the land looked clearer than ever. Downhill, there was a widening river that went into the sea. Beyond the river, the grass sloped up again to a jaggier land, with rocks protruding out of the earth.
 
 "I want to go there," Alfrir said, obviously talking about the other side of the river. "We can see better."
 
@@ -28,19 +28,19 @@ The coast was clear. The land could be clearly seen now. Downhill, there was a w
 
 "Wait for what?" Alfrir said, looking back at the other colonists who were still sleeping. "They look as if they won't wake til noon."
 
-Ljörn hesitated. His brother was right, they haven't had good sleep for several days. But apparently, Alfrir wasn't tired. Ljörn didn't want to leave until the others were awake; he was still anxious about several things.
+Ljörn hesitated. His brother was right, they haven't had a good sleep for several days. But apparently, Alfrir wasn't tired. Ljörn didn't want to leave until the others were awake; he was still anxious about several things.
 
 "We are two men," Alfrir said. "And, we didn't sail three days in rain and thunder just to not explore the land!"
 
-Ljörn was starting to regret waking Alfrir. Yet, he was on the new, discovered land now. And that meant there wasn't any use to sit around and do nothing. "Fine," he mumbled.
+Ljörn was starting to regret waking Alfrir. Yet, he was already on the new land, and that meant there wasn't any use to sit around doing nothing. "Fine," he mumbled.
 
-Alfrir turned back and went back to his sleeping spot and gathered his shield. He slung it over his shoulder like his brother, and walked out of the longhouse.
+Alfrir turned back and went back to his sleeping spot and gathered his shield. Like his brother, he slung it over his shoulder and walked out of the longhouse.
 
-Ljörn followed Alfrir as they stepped into the grass and made their ways towards the river. There wasn't a path, but that didn't bother Ljörn; he used to take walks in Álahringr's neighboring forest. The brothers stopped at the bank, and Ljörn looked into the water. The river was waist-deep. He bent down and stuck a finger into the water, and felt that it was freezing cold.
+Ljörn followed Alfrir as they stepped into the grass and made their ways towards the river. There wasn't a path, but that didn't bother Ljörn; he used to take walks in Álahringr's neighbouring forest. The brothers stopped at the bank, and Ljörn looked into the water. The river was waist-deep. He bent down and stuck a finger into the water, feeling that it was freezing cold.
 
 "We could try the log," Alfrir suggested.
 
-Ljörn looked to his side and saw the dry log lying across the river, old and too dangerous to balance on it. "No," he said. "It's not good."
+Ljörn looked to his side and saw the dry log lying across the river, old and too dangerous to balance on. "No," he said. "It's not good."
 
 They looked for a way across the river and eventually found one: a rock in the middle of the river.
 
@@ -50,13 +50,13 @@ Ljörn followed after. The rock was slippery; he thought he would slide off, and
 
 "Ack!" However, as he landed, he slipped on the grass and hit the ground anyway. He began to roll straight for the river. Panicking, he grabbed a handful of grass and stopped himself just before he plummeted into the icy water.
 
-Ljörn got to his feet, using a nearby rock to balance himself. He looekd around for Alfrir, but he wasn't there. "Alfrir? Where are you?"
+Ljörn got to his feet, using a nearby rock to balance himself. He looked around for Alfrir, but he wasn't there. "Alfrir? Where are you?"
 
 "I'm on the hill!"
 
 Ljörn climbed the slope and reached the top of the mound. There he saw Alfrir gazing out at the far ends of the beach.
 
-And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty sight. In the distance, there was a cliff, the forest extending to the top of it. The forest, tall firs and spruces, loomed to their right side. He took a deep breath, taking in the new air. It didn't smell like wood or sea anymore, and he relieved the scent of land again.
+And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty sight. In the distance, there was a cliff with the forest stretching to the top of it. The forest, tall firs and spruces, loomed to their right side. He took a deep breath, taking in the new air. It didn't smell like wood or sea anymore, and he relieved the scent of land again.
 
 Now, it is evening. Ingólfr had a driftwood branch for a quarterstaff, taken for his defence. Ljörn's arms were full of dry sticks as he came through the longhouse door, flanked by Ingólfr. There was a woman with a fire-steel and a smaller lump of material in her hands, striking a fire for the hearth.
 
@@ -90,7 +90,7 @@ As the story continued, Ljörn found himself increasingly paranoid. The silence 
 
 "Then Yngvarr stumbled and tripped over his feet. The draugr stood over him, and he slashed him dead!" Sága said.
 
-Ljörn couldn't take it anymore. But he didn't yell nor shout, but he stared into the fire, watching it dance like the great, burning Sól...
+Ljörn couldn’t take it anymore. But he didn’t yell. Nor did he shout or make a scene, but instead he stared into the fire, watching it dance like the great, burning Sól...
 
 *It wasn’t a fire, burning in a hearth. It was the sky. The vast, blue heavens, of which held Sól. Ljörn found himself back at the ruins again. Ingwaz swung its atgeir at him. Ljörn tried to block its blow, but it was so strong that his shield split into two. Beaten by its strength, he stumbled onto the ground.*
 
@@ -188,8 +188,8 @@ The Völva finished her chanting and ended her trance-like state. She stared int
 
 Ljörn hurried back to the longhouse, eager to get away from the völva as soon as possible. But when he stopped at the front door of the house, he thought back on what the Völva said. He could only remember the part where she said, "waken one will be, a corpse none shall see." He shivered.
 
-Ljörn looked at the shore again. The Völva snuffed her fire out and was returning to the longhouse. Looking to the side, Hjalvir's ship was tied to a stake in the ground by its mast. It sat there, lifted up from the sand and placed back down by the water.
+Ljörn looked at the shore again. The Völva snuffed her fire out and started to return to the longhouse. Looking to the side, Hjalvir's ship was tied to a stake in the ground by its mast. It sat there, lifted from the sand and placed back down by the water.
 
-The Völva was heading back to the longhouse. Quickly hiding in the bushes, he waited for the Völva to pass by and enter the house. He creeped through the wild grass towards the boat. He stuck his head out and glanced around. No one was on watch. He looked at the boat again.
+The Völva was heading back to the longhouse. Quickly chucking his torch into the river, he hid in the bushes. He waited for the Völva to pass by and enter the house, then he began moving. He crept through the wild grass towards the boat. He stuck his head out and glanced around. No one was on watch. He looked at the boat again.
 
-"Maybe I can cut the rope and wait for the high tide, or..." he thought. Looking at the boat again, he planned on how he would make an escape. Then, his hopes fell. The boat's sails were torn!
+"Maybe I can cut the rope and wait for the high tide, or..." he thought. Looking at the boat again, he planned on how he would escape. Then, his hopes fell. The boat's sails were torn!
