@@ -1,6 +1,6 @@
 # Chapter 2: The Völva
 <!-- SCENARIO 1: Meal !-->
-A pot sat upon the hearth, boiling softly. As Ljörn waited for the meal to cook, he listened to the ghostly sound of the wind blowing past the windows. He avoided sitting near the windows, as the cold would have worsened his already wet clothing. But now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn’t quite enough), he wouldn’t feel anxious.
+A pot sat upon the hearth, boiling softly. As Ljörn waited for the meal to cook, he listened to the ghostly sound of the wind blowing past the windows. He avoided sitting near the windows, as the cold would have worsened his already wet clothing. But now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn’t quite enough), he wouldn't feel anxious.
 
 Alfrir was beside Ljörn. He always sat like that when he wasn't wistful. He kept glancing at the group of well-dressed men, as if he were thinking to talk about them. "See them?" Alfrir started, whispering. He nodded in their direction.
 
