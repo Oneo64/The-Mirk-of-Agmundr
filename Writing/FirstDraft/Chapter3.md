@@ -130,7 +130,7 @@ When Ljörn saw her, he hesitated. He thought he felt a bit of fear boil in his 
 
 And then Ljörn said, "I seek our woes."
 
-The Völva turned around. When Ljörn saw her face, her eyes were covered by a thin, dark cloth. She wore the claw of a bear on her head like a necklace, and the real necklace she wore around her neck was strung full of fangs and talons.
+The Völva turned around. She was elderly, at least twice as old as he was. She wore the claw of a bear on her head like a necklace, and the real necklace she wore around her neck was strung full of fangs and talons.
 
 "Do you?" the Völva questioned him. "To seek the woes of this land, this stead, or the lead?"
 
@@ -144,13 +144,13 @@ Ljörn wasn't sure what he was paranoid of, so he said, "The woes of this land."
 
 Ljörn, still confused, looked at the bush. Was there something in it? He picked up a large pebble and threw it into the bush. Nothing came out. He inched closer to it, his shield ready and his torch held like a sword. The breeze seemed cooler the closer he got to the bush.
 
-A blur sprung out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and its pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
+A blur sprang out of it and hit Ljörn's shield! He flinched and took a step back, looking over his shield to see what had hit it. Then, he saw a long creature. It was covered in scales and had a lizard-like head. It had beady eyes and its pupils were slits. It looked like Jörmungandr, but smaller like a rodent. It hissed at him and coiled, warning him to stay back.
 
 He was disgusted. He had never seen a creature like it before, even with his experience of exploring forests at his homeland. He lobbed his torch at the creature with all his might, and hit it right.
 
 But that made the creature more aggressive. It slithered after him. He backed away, looking around for any more projectiles to throw at the thing. He found a rock and picked it up, and with it he threw it at the creature. He missed.
 
-The creature sprung at him again and held onto his shield. With a surprise, Ljörn dropped it onto the sand and jumped back. He grabbed a handful of sand and threw it all over his dropped shield and the creature. He grabbed another rock and threw it at the creature again, this time striking its head. The creature fell and writhed on the ground. And without waiting, he grabbed his shield and smote it, killing the creature.
+The creature sprang at him again and held onto his shield. With a surprise, Ljörn dropped it onto the sand and jumped back. He grabbed a handful of sand and threw it all over his dropped shield and the creature. He grabbed another rock and threw it at the creature again, this time striking its head. The creature fell and writhed on the ground. And without waiting, he grabbed his shield and smote it, killing the creature.
 
 Ljörn stepped back to better see it again. He slowly approached it and gave it a nudge with his foot, making sure it was dead. "What is this...?" he whispered to himself as he bent down to look at it closer. He felt an urge to stand up so he wasn't so close to it, but he resisted. This was the creature that he needed to take parts from. He drew his knife and cut its head and tail, leaving the body on the shore.
 
@@ -158,7 +158,7 @@ Ljörn returned to the Völva. He held the creature's appendages in a way so mor
 
 The Völva took the creature's appendages and said,  "Ah, the snake's head and tail!"
 
-Ljörn then realised what he killed was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
+Ljörn then realised what he had slain was a snake. He glanced back at the headless, tailless snake body he left beside the bush which it came out of.
 
 Taking the head and tail, the Völva tossed them into the fire before her. As they caught fire and quickly turned to ash, then she looked into the sky and her eyes went blank. She began to talk in tongues, chanting some old language he never heard or read before. "Nerþuz, Þunraz, Wōðanaz, Frawjaz, jūz mek geb witamaz þanei izwiz wissēz, jūz mek lētō auk spellą! Ek hit blōtą geldō, swa jūz mek frōdī auk Lernas waiwanunz, auk jūz hes walanunz manō!"
 
@@ -192,4 +192,4 @@ Ljörn looked at the shore again. The Völva snuffed her fire out and started to
 
 The Völva was heading back to the longhouse. Quickly chucking his torch into the river, he hid in the bushes. He waited for the Völva to pass by and enter the house, then he began moving. He crept through the wild grass towards the boat. He stuck his head out and glanced around. No one was on watch. He looked at the boat again.
 
-"Maybe I can cut the rope and wait for the high tide, or..." he thought. Looking at the boat again, he planned on how he would escape. Then, his hopes fell. The boat's sails were torn!
+"Maybe I can cut the rope and wait for the high tide, or..." he thought. Looking at the boat again, he planned on how he would escape. Then, his hopes fell. The boat's sails have been torn!
