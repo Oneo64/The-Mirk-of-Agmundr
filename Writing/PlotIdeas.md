@@ -1,5 +1,5 @@
 # Outline
-To escape war, a northman suffering from PTSD is pressured by his brother to sail with him for a new land. After meeting the shore of the new land, he must overcome his disorders as they attempt to establish a farmstead without succumbing to the horrors that dwell there.
+To escape war, a northman suffering from PTSD is pressured by his brother to sail with him for a new land. After arriving, he must overcome his fears as they attempt to establish a farmstead without succumbing to the horrors that dwell there.
 
 ## Main Characters
 Ljörn, Alfrir, Rúna, Sága, Agmundr

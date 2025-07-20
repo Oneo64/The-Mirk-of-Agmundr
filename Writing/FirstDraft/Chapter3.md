@@ -56,3 +56,5 @@ Ljörn got to his feet, using a nearby rock to balance himself. He looked around
 Ljörn climbed the slope and reached the top of the mound. There he saw Alfrir gazing out at the far ends of the beach.
 
 And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty sight. In the distance, there was a cliff with the forest stretching to the top of it. The forest, tall firs and spruces, loomed to their right side. He took a deep breath, taking in the new air. It didn't smell like wood or sea anymore, and he relieved the scent of land again.
+
+After dagmal, Hjalvir called them all to gather in front of the longhouse. ""
