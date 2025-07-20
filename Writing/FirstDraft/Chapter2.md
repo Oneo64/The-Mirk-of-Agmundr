@@ -22,11 +22,11 @@ Ljörn wasn't as satisfied as his brother. He was looking into his. The stew was
 
 "Yes, but this one's got eggs," Alfrir said.
 
-Then Hjalvir stood up, walking to the end of the hearth. He raised his bowl and bellowed, "Friends, before we start our dinner, hear me dearly!"
+Then Hjalvir stood up, walking to the end of the hearth. He waited for everyone to quiet down and turn their heads to him. He raised his bowl and bellowed, "Friends, before we start our dinner, hear me dearly!"
 
 Ljörn looked at Hjalvir. He hadn't started eating, but wasn't expecting there to be an announcement.
 
-Once everyone turned their heads to Hjalvir, he continued, "Far from Iceland we have sailed! Soldiers of Randúlfr we are no more! Þórr has seen our struggle, and given this warm soup we have been, now we can relish in it!"
+Hjalvir continued, "Far from Iceland we have sailed! Soldiers of Randúlfr we are no more! Þórr has seen our struggle, and given this warm soup we have been, now we can relish in it!"
 
 There was a cheer, and they began. It was warm and tasted different, and the chunks of fish were at the bottom. Ljörn quickly ate it all.
 

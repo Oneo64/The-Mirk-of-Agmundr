@@ -6,7 +6,7 @@ Ljörn was forced awake when the morning light shone on his eyes. The first thin
 
 Alfrir came to his senses. Without a word, he sat up.
 
-Ljörn stood and went to check the windows again. Of course, the wolves weren't there. He relaxed a bit. Grabbing his shield, he slung it over his shoulder and prepared to leave the longhouse.
+Ljörn stood and went to check the windows again. Of course, there weren't wolves. It was last night when he awoke in the night, hearing wolves surrounding the community hall, which then left after they couldn't get inside. He relaxed a bit. Grabbing his shield, he slung it over his shoulder and prepared to leave the longhouse.
 
 "Wait," Alfrir said. "Wait, the wolves."
 
