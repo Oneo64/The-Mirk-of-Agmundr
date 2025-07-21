@@ -68,7 +68,7 @@ Rúna is a herbalist and can identify many common herbs that grow in the north. 
 ### Lyre
 Rúna can play the lyre; however, she isn't brave enough to play it in the presence of strangers.
 
-Rúna only knows one music piece, which she made when it drifted into her mind. She called it *Skaldstrú*, which literally just means bard's beliefs.
+Rúna only knows one music piece, which she made when it drifted into her mind. She called it *Skáldstrúa*, which literally just means bard's beliefs.
 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defense against wild animals.

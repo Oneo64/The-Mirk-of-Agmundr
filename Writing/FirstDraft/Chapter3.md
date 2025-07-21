@@ -57,9 +57,23 @@ Ljörn climbed the slope and reached the top of the mound. There he saw Alfrir g
 
 And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty sight. In the distance, there was a cliff with the forest stretching to the top of it. The forest, tall firs and spruces, loomed to their right side. He took a deep breath, taking in the new air. It didn't smell like wood or sea anymore, and he relieved the scent of land again.
 
-After dagmal, Alfrir and Ljörn began to fell a tree.
+After dagmal, Alfrir and Ljörn began felling trees. The forest was right beside them, yet they lingered at the edge. Ljörn swung his axe, chipping away the tree log. They went on for a while until a creak was heard within the stump.
 
-<!-- messenger calls for the both of them !-->
+"It's falling!" Ljörn called out, warning anyone nearby to watch out. He hit it again, and the tree wobbled. It then bent, and with a rustling crash, fell onto the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, the two, and two other men, all lifted up the trunk and carried it back to the farmstead.
+
+This was what Ljörn's brother did before the journey, although Ljörn himself would help him carry the logs back. He was supposed to be a woodcutter, one who chops firewood for his family. But now he could call himself *explorer* or *settler*, because when they got back, someone approached him.
+
+"Dan *(a common honourific)*, the leader wills you," he said, huffing from his jog. "And him," he added, gesturing to Alfrir.
+
+Ljörn glanced at his brother, then back at the messenger. "Hjalvir?" he asked. "Where is he?"
+
+"He's in the hall," the messenger said.
+
+Alfrir watched Ljörn's summoning take place. "I need to attend too?" he asked, anticipating it.
+
+"Yes," he said. "He's organising an exploration group to the forest."
+
+Ljörn knew it wasn't going to go well. He hesitated at the thought of going.
 
 <!-- hjalvir talks to them, with sága !-->
 
