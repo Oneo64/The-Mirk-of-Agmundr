@@ -30,7 +30,7 @@ The blond man let out a breath. He turned away. He could still feel that irritat
 
 "The explorers took three days," his brother answered. "I heard."
 
-Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face. He returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
+Hearing this was the last day he would spend at sea, the blond man allowed a weak smile on his face. He returned his gaze to the ocean. He glanced at his own visage, wavering on the water's surface. He was long-haired, coloured more like old wheat than golden blond. He had it kept back by a cloth strip so it wouldn't get in his face, yet he wouldn't cut it. He had a stubble, but that was because he had only lived twenty-five winters. But despite his drowsiness, the manner his pale blue eyes were shaped, a dry, droopy leaf, made it seem as if he hadn't had a good night's sleep in days.
 
 His weapons, spear and sword, were stored inside the box he sat on. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
