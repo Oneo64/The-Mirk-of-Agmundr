@@ -1,7 +1,7 @@
 # Chapter 3: Tree and Lyng
 After dagmal, Ljörn and Alfrir began felling trees. The forest was right beside them, yet they lingered at the edge. Ljörn swung his axe, chipping away the tree log. They went on for a while until they heard a creak within the stump.
 
-"It's... it's falling!" Ljörn called out, warning anyone nearby to watch out. He hit it again, and the tree wobbled. It then bent, and with a rustling crash, fell to the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, both of them, and two other men, all lifted the trunk and carried it back to the farmstead.
+"It's... it's falling!" Ljörn called out, warning anyone nearby to watch out. He hit it again, and the tree wobbled, then bent, and with a rustling crash, fell to the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, both of them, and two other men, all lifted the trunk and carried it back to the farmstead.
 
 Before their journey, Ljörn was a woodcutter and a farmer. Splitting firewood and pulling weeds were his work; occasionally, he would help Alfrir fell trees and carry them back home. But after they took the fallen tree back to the farmstead, he could call himself an explorer, because a messenger came.
 
@@ -13,13 +13,13 @@ Dan was a common honourific, and yet, Ljörn had never been addressed like that.
 
 At the messenger's words, Ljörn got the feeling it wouldn't end well. Even though he'd take peaceful walks in the forest, he always avoided getting near the deeper, darker parts of the forest; he was afraid of them. And looking into the forest nearby, it looked a little darker than the ones he was used to.
 
-Alfrir watched as the summoning took place. "I need to attend too?" he asked, anticipating it.
+Alfrir, excited at the messenger's news, turned his attention to him. "I need to attend too?" he asked with anticipation.
 
 The messenger nodded. "Yes, you do too," he said. "Um... There's another one I must tell, so good luck."
 
 Hurriedly, the messenger left them there. Ljörn hesitated at the thought of going, but remembered it was by Hjalvir's request.
 
-"Let's go," Alfrir said.
+"Let's go," Alfrir said, heading for the community hall first.
 
 <!-- scenario: inside hall !-->
 
@@ -51,7 +51,9 @@ Once back, he glanced at Alfrir, who still hadn't gotten into his armour. "Go do
 
 "Right. I'll be back," Alfrir said, and left them to wear his armour. His set was similar to Ljörn’s, except for a few things that were different: he had a hauberk instead of a byrnie, his helmet had eye rings, like a spangenhelm, and he didn't have a sword. Such a helmet like that would make a warrior look terrifying. But when Alfrir wore it, his boyish eyes made being afraid of him confusing.
 
-When they all gathered, Ljörn, Alfrir, Sága, and Ingólfr, that was when the doors opened. A woman came in. She closed the door, careful not to make a bang. She walked towards them, her stride telling Ljörn she wasn’t very flamboyant at all. She wore a dress; however, it only reached the middle of her foot and knee. She had wavy brown hair, green almond eyes, and a light splatter of freckles across her face. Notably, she kept a distance from everyone else, yet enough to say she was with the party.
+When they all gathered, Ljörn, Alfrir, Sága, and Ingólfr, that was when the doors opened. A woman came in. She closed the door, careful not to make a bang. She walked towards them, her stride telling Ljörn she wasn’t very flamboyant at all.
+
+She wore a blue dress that reached to the middle of her calves, and a yellow, frayed cloak with a couple of brooches. She had wavy brown hair, green almond eyes, and a light splatter of freckles across her face. Notably, she kept a distance from everyone else, yet enough to say she was with the party.
 
 "Ah, the herbalist," Hjalvir said, greeting the newcomer. "I assume you know what you'll be?"
 
@@ -99,15 +101,15 @@ And so they stopped there for a rest. Alfrir sat down on a rock, and Sága did t
 
 Alfrir took the berry and looked at it too. "These look like blueberries," he said.
 
-It seemed like the berry bush had also gotten Rúna's attention. She had a sprig in her hand, curiously examining the berries on it. They did look like blueberries, but it didn't look right to Ljörn.
+It seemed like the berry bush had also gotten Rúna's attention. She had a sprig in her hand, curiously examining the berries on it. "This is new," she muttered.
 
 "What's that?" Sága asked.
 
 "It's... I don't know," Alfrir said. "It's some kind of berry."
 
-Sága looked perplexed. "What's so interesting? These... these are just blueberries."
+Sága looked perplexed. "What's so interesting? They are just blueberries."
 
-"No," Alfrir said. "Blueberries don't look like this, these are more like olives."
+"Blueberries don't look like this, these are more like olives," Alfrir said.
 
 Just like that, their banter over whether those berries were blueberries continued, until finally, Sága decided to taste them. She plucked another one, slit it with her knife, and put a drop onto her tongue. She said no more after that.
 
@@ -117,15 +119,15 @@ After their rest, Ingólfr led them deeper. They reached the top of the hill, an
 
 A dead pine tree had fallen, completely uprooted by what seemed to be a storm. And there it laid on a great mound. This mound wasn't like a hill; it was too round and too unnatural, sticking out like a sore thumb.
 
-Ljörn’s gaze lingered upon the mound for a moment. He then got an idea of what it might be, a grave of someone, but thinking about it made his heart unpleasantly race. He reached out and tapped Alfrir on the shoulder, and gestured at the mound. "Do you see that?"
+Ljörn’s gaze lingered upon the mound for a moment. He then got an idea of what it might be, a grave of someone, but thinking about it made his heart unpleasantly race. He reached out and tapped Alfrir on the shoulder, and gestured at the mound. "What's that?"
 
-Alfrir glanced at the mound. "Are you seeing things again?"
+Alfrir glanced in the direction Ljörn pointed out, not seeing the uncanny mound. "Are you seeing things again?"
 
-"No," Ljörn said. "I mean the hill."
+"No, I'm not. Look over there," Ljörn said, pointing at it again. "That hill."
 
-Alfrir took a second look, and finally noticed it. He turned to the other two and notified them. "Hey, look over there!"
+Taking a second glance, Alfrir finally noticed the mound that Ljörn had seen. "Wait, I see it now," he said. Then, he turned to the other two and said, "Hey, look over there! Do you see that?"
 
-Ingólfr and Sága both stopped in their tracks to look at the unnatural mound. "Did the cheiftain not warn us of witchcraft?" he asked with uncertainly.
+Ingólfr and Sága both stopped in their tracks to look at the unnatural mound. "Did the cheiftain not warn us of witchcraft?" he asked with uncertainty.
 
 "We might find something good," Sága said.
 
@@ -141,7 +143,7 @@ Steeling himself, Ljörn gripped his spear with both hands and decided to advanc
 
 Ingólfr showed no sign of fear as he led them along the foot of the mound. They circled it, not stepping onto the slope of the hill. Oddly enough, no trees grew on the mound.
 
-The land flattened as they continued going around the mound. The grass looked dryer, even malnourished, compared to the other parts of the forest floor. Ljörn saw a rusty axe head lying on the side of the hill. He shivered, breathed, and glanced to the nearby shrub as if someone might be hiding in there.
+The land flattened as they continued going around the mound. The grass looked dryer, even malnourished, compared to the other parts of the forest floor. Ljörn saw a rusty axe head lying on the side of the hill. He shivered, breathed, and glanced at the nearby shrub as if someone might be hiding in there.
 
 Then there was a shout. Alfrir was bent over, pointing at a shiny, metallic object in the grass. "I found something," he called to the others.
 
@@ -149,12 +151,18 @@ Ljörn went and looked at what Alfrir had found. It was a bronze goblet. There w
 
 Ingólfr, who had seen it too, glanced around their surroundings. "Wait," he said, stopping Alfrir before he could pick it up. "Search around first," he said. Looking towards Ljörn and the herbalist, who were still the last two in the group, he continued, "You two, come here and watch the goblet."
 
-Hesitant to leave his finding, Alfrir left and joined Sága as she followed Ingólfr's orders. Stiffly, Rúna shifted towards the goblet and stood there. She held the edge of her cloak and felt the fray.
+Hesitant to leave his finding, Alfrir left and joined Sága as she followed Ingólfr's orders. Stiffly, Rúna shifted towards the goblet and stood there. Whilst the others searched to ensure the goblet wasn't a part of a trap, Ljörn watched over the goblet. He tapped it with the bottom shaft of his spear. Nothing happened.
 
-Whilst the others searched to ensure the goblet wasn't a part of a trap, Ljörn watched over the goblet. He tapped it with the bottom shaft of his spear. Nothing happened.
+Glancing to the side, Ljörn saw Rúna as she held the edge of her cloak, feeling its fray.
 
-They looked behind trees, bushes, and foliage, and yet, they found nothing more than a squirrel that went up the trees.
+They looked behind trees, bushes, and foliage. Sága stepped through a patch of tall grass and disappeared out of sight. After a bit of searching, a loud rustle came from her direction.
 
-"There's nothing there!" Alfrir called out, finding nothing after a short while. Without waiting further, he went back to the goblet and reached for it.
+Ingólfr glanced over his shoulder and turned in the direction of the sound. His hand went to the pommel of his sword, and he shouted, “What was that?”
 
-He picked the goblet up. He was fine, and the brass cup was normal. He tucked the goblet into his belt and readjusted his cloak, concealing it behind the blue cloth.
+"It's only a squirrel!" Sága answered. She stepped back out of the bushes, brushing off her tunic.
+
+After a short while, Alfrir returned to the goblet. "There isn't anything here," he said. Then, without waiting any more, he reached for it.
+
+"W-wait—" Ljörn said, raising his hand to stop his brother from touching the goblet.
+
+But Alfrir had already picked the goblet up. Surprisingly, nothing bad happened to him. He tucked the goblet into his belt and readjusted his cloak, concealing it behind the blue cloth.
