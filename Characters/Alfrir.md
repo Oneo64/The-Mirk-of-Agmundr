@@ -52,6 +52,7 @@ Alfrir speaks casually. He also has the tendancy to blurt words out.
  - "Yes, but this one's got eggs."
  - "Ljörn, stop that!"
  - "Don't lie. You had the same thing on the boat. I know you were awake, so don't fool me now."
+- "Right. I'll be back."
 
  - "Ugh... nasty thing. It's gone done me."
 

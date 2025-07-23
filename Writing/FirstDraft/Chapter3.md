@@ -1,67 +1,7 @@
 # Chapter 3: Tree and Lyng
-Ljörn was forced awake when the morning light shone on his eyes. The first thing he smelled was leaf and sea. He sat up, slightly slouching. His hand felt his seax, making sure he still had it. He looked to his side and saw Alfrir still asleep.
+After dagmal, Ljörn and Alfrir began felling trees. The forest was right beside them, yet they lingered at the edge. Ljörn swung his axe, chipping away the tree log. They went on for a while until they heard a creak within the stump.
 
-"Alfrir," he said, shaking his brother awake.
-
-Alfrir came to his senses. Without a word, he sat up.
-
-Ljörn stood and went to check the windows again. Of course, there weren't wolves. It was last night when he heard wolves surrounding the community hall, who then left after they couldn't get inside. He relaxed a bit. Grabbing his shield, he slung it over his shoulder and prepared to leave the longhouse.
-
-"Wait," Alfrir said. "Wait, the wolves."
-
-"They are gone," Ljörn said, watching Alfrir get up too. He turned back to the door and pushed it ajar. Peering outside, he couldn't see or find any animals.
-
-"Are you sure?" Alfrir asked.
-
-"Yes," Ljörn said.
-
-Alfrir looked outside the small crack between the doors. "Can't be too safe," he murmured.
-
-Ljörn pulled his sword out and slowly pushed the door open. The two stepped back and prepared themselves.
-
-The coast was clear. With the rainy haze gone, the land looked clearer than ever. Downhill, there was a widening river that went into the sea. Beyond the river, the grass sloped up again to a jaggier land, with rocks protruding out of the earth.
-
-Relieved, Ljörn sheathed his sword.
-
-"I want to go there," Alfrir said, obviously talking about the other side of the river. "We can see better."
-
-"What? No," Ljörn said, refusing his brother's idea. He just wanted to walk around the longhouse to take a look at it, not go beyond the river to a place where they're vulnerable! "I think we should wait," he said.
-
-"Wait for what?" Alfrir said, looking back at the other colonists who were still sleeping. "They look as if they won't wake til noon."
-
-Ljörn hesitated. His brother was right, they haven't had a good sleep for several days. But apparently, Alfrir wasn't tired. Ljörn didn't want to leave until the others were awake; he was still anxious about several things.
-
-"We are two men," Alfrir said. "And, we didn't sail three days in rain and thunder just to not explore the land!"
-
-Ljörn was starting to regret waking Alfrir. Yet, he was already on the new land, and that meant there wasn't any use to sit around doing nothing. "Fine," he mumbled.
-
-Alfrir turned back and went back to his sleeping spot and gathered his shield. Like his brother, he slung it over his shoulder and walked out of the longhouse.
-
-Ljörn followed Alfrir as they stepped into the grass and made their ways towards the river. There wasn't a path, but that didn't bother Ljörn; he used to take walks in Álahringr's neighbouring forest. The brothers stopped at the bank, and Ljörn looked into the water. The river was waist-deep. He bent down and stuck a finger into the water, feeling that it was freezing cold.
-
-"We could try the log," Alfrir suggested.
-
-Ljörn looked to his side and saw the dry log lying across the river, old and too dangerous to balance on. "No," he said. "It's not good."
-
-They looked for a way across the river and eventually found one: a rock in the middle of the river.
-
-Alfrir went first. He hopped onto the rock and onto the other side.
-
-Ljörn followed after. The rock was slippery; he thought he would slide off, and so he impulsively jumped to the other side.
-
-"Ack!" However, as he landed, he slipped on the grass and hit the ground anyway. He began to roll straight for the river. Panicking, he grabbed a handful of grass and stopped himself just before he plummeted into the icy water.
-
-Ljörn got to his feet, using a nearby rock to balance himself. He looked around for Alfrir, but he wasn't there. "Alfrir? Where are you?"
-
-"I'm on the hill!"
-
-Ljörn climbed the slope and reached the top of the mound. There he saw Alfrir gazing out at the far ends of the beach.
-
-And when Ljörn looked at the landscape of Agmundaland, it was quite a pretty sight. In the distance, there was a cliff with the forest stretching to the top of it. The forest, tall firs and spruces, loomed to their right side. He took a deep breath, taking in the new air. It didn't smell like wood or sea anymore, and he relieved the scent of land again.
-
-After dagmal, Alfrir and Ljörn began felling trees. The forest was right beside them, yet they lingered at the edge. Ljörn swung his axe, chipping away the tree log. They went on for a while until they heard a creak within the stump.
-
-"It's... It's falling!" Ljörn called out, warning anyone nearby to watch out. He hit it again, and the tree wobbled. It then bent, and with a rustling crash, fell to the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, both of them, and two other men, all lifted the trunk and carried it back to the farmstead.
+"It's... it's falling!" Ljörn called out, warning anyone nearby to watch out. He hit it again, and the tree wobbled. It then bent, and with a rustling crash, fell to the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, both of them, and two other men, all lifted the trunk and carried it back to the farmstead.
 
 Before their journey, Ljörn was a woodcutter and a farmer. Splitting firewood and pulling weeds were his work; occasionally, he would help Alfrir fell trees and carry them back home. But after they took the fallen tree back to the farmstead, he could call himself an explorer, because a messenger came.
 
@@ -81,11 +21,13 @@ Hurriedly, the messenger left them there. Ljörn hesitated at the thought of goi
 
 "Let's go," Alfrir said.
 
-Pushing through the doors of the hall, they found Hjalvir, Sága, and someone else standing closely in a corner. They made their way to them and gathered there. "If you find anything strange, don't mess with it. Something might—"
+<!-- scenario: inside hall !-->
+
+Pushing through the doors of the hall, they found Hjalvir and Sága, and someone else standing closely in a corner. They made their way to them and gathered there. "If you find anything strange, don't mess with it. Something might—"
 
 They stopped talking as they noticed Ljörn and Alfrir join them.
 
-"You're here now," Hjalvir said. "We're now waiting for another, she should be here in a minute."
+"You're here now," Hjalvir said. "We're now waiting for another, she should be here in a moment."
 
 Ljörn said nothing, but nodded to show his understanding.
 
@@ -95,7 +37,9 @@ When Ljörn turned his gaze to the other man, he was one whom Ljörn had never s
 
 "Dan, why did you summon me?" Ljörn asked, turning back to Hjalvir. "I'm only a farmer."
 
-"Farmer? Hah!" Hjalvir said with a laugh. "Have you not come with weapons and armour? I have heard about your adventure to that ruin. You'll be a good guide for the group, and your brother too." Hjalvir turned to the bear-cloaked man, and continued, "You will lead the group."
+"Farmer? Hah!" Hjalvir said with a laugh. "Have you not come with weapons and armour? I have heard about your adventure to that ruin. You'll be a good guide for the group, and your brother too." Hjalvir turned to the bear-cloaked man, and continued, "You will lead the group. You are called...?"
+
+"Ingólfr," said bear-cloaked man.
 
 Ljörn bowed his head, understanding his place in the group. He was still hesitant, but decided to go along with them. He wouldn't dare defy Hjalvir. "I'll go and don my armour," he said.
 
@@ -107,20 +51,90 @@ Once back, he glanced at Alfrir, who still hadn't gotten into his armour. "Go do
 
 "Right. I'll be back," Alfrir said, and left them to wear his armour. His set was similar to Ljörn’s, except for a few things that were different: he had a hauberk instead of a byrnie, his helmet had eye rings, like a spangenhelm, and he didn't have a sword. Such a helmet like that would make a warrior look terrifying. But when Alfrir wore it, his boyish eyes made being afraid of him confusing.
 
-When they all gathered, Ljörn, Alfrir, Sága, and the bear-cloaked man, that was when the doors opened. A woman came in. She closed the door, careful not to make a bang. She walked towards them, her stride telling Ljörn she wasn’t very flamboyant at all. She wore a dress; however, it only reached the middle of her foot and knee. She had wavy brown hair and a light splatter of freckles across her face. Notably, she kept a distance from everyone else, yet enough to say she was with the party.
+When they all gathered, Ljörn, Alfrir, Sága, and Ingólfr, that was when the doors opened. A woman came in. She closed the door, careful not to make a bang. She walked towards them, her stride telling Ljörn she wasn’t very flamboyant at all. She wore a dress; however, it only reached the middle of her foot and knee. She had wavy brown hair, green almond eyes, and a light splatter of freckles across her face. Notably, she kept a distance from everyone else, yet enough to say she was with the party.
 
 "Ah, the herbalist," Hjalvir said, greeting the newcomer. "I assume you know what you'll be?"
 
 The woman glanced at Hjalvir. "Y-yes," she said.
 
-With that, Hjalvir continued what he was saying earlier. "Now that everyone has gathered, remember. If you find anything strange, don't mess with it. We have no power over what... over what witchcraft may happen."
+Satisfied, Hjalvir continued what he was saying earlier. "Now that everyone has gathered, remember. If you find anything strange, don't mess with it. We have no power over what... over what witchcraft may happen."
 
 "You are not coming?" Sága asked.
 
 "No," Hjalvir said. "I need to stay behind and oversee the farmers. You can go now."
 
-<!-- rúna arrives !-->
+<!-- scenario: forest !-->
 
-<!-- go to the forest !-->
+With that, the group of five left the longhouse and headed towards the woods. The forest was darker than Ljörn expected, trees taller to cast shadows over the ground. The earth was uneven, sloping upwards to a hill. Croaks of ravens echoed, and as they passed a tree, the flapping of wings. Ljörn strode near to the group, although he was last. He now had his spear, and he held it protectively close. There was a snap, and he flinched, glancing at it; it was only a fox.
 
-<!-- find crowberries !-->
+The herbalist was also startled by the fox. It dashed away, disappearing into the vegetation.
+
+Ingólfr was leading, flanked by Alfrir and Sága. Besides Ljörn, the only one behind them was the herbalist. And she was quiet too, not speaking much. Ljörn followed the group, listening as the three conversed amongst themselves in the front. It was small talk, and he wasn't very interested in it until Sága asked, "Is it true that he is cursed?"
+
+"Cursed?" Alfrir said, repeating Sága's words. "What are you implying?"
+
+"I'm saying back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost," she said.
+
+Alfrir glanced back at Ljörn, who shot him a blank look. "Do not defile him like that," he said with disdain.
+
+Sága's gossip didn't make Ljörn feel better. It was a bit bold for his liking, hearing her call him bewitched. Taking a breath, he glanced around again, eyes darting to the silhouettes of trees, making sure there wasn't anything in the distance. As his gaze was to the side, he heard the herbalist speak.
+
+"Are you really?" she hesitantly asked.
+
+"Really what?" Ljörn asked.
+
+"Emm... well..." she said, trailing off at his question.
+
+Ljörn stayed silent, reluctant to answer her. He glanced at her. "What's your name?" he asked, trying to change the subject.
+
+"I'm Rúna," she said.
+
+"Ljörn," he simply responded. For a while, he was silent. He could still hear faint rustling in the trees, wind blowing through the woods, and now with each step, a crunch came. He kept on with the group, now walking with his spear like a walking stick.
+
+It hadn't been long walking in the forest until they came across a glade. The grass had gotten taller, but not enough to reach their knees. Shrubs with black-colored berries grew there next to another small cliff, making the clearing seem lusher than it was.
+
+"We rest here," Ingólfr said.
+
+And so they stopped there for a rest. Alfrir sat down on a rock, and Sága did too, but Ljörn didn't sit to rest. Wandering around, he walked along the edge of the clearing. When he walked near the berry bushes, he noticed that they looked odd. Picking one with his hand, he sniffed it, went to Alfrir, and showed him the berry. "Look at this," he said.
+
+Alfrir took the berry and looked at it too. "These look like blueberries," he said.
+
+It seemed like the berry bush had also gotten Rúna's attention. She had a sprig in her hand, curiously examining the berries on it. They did look like blueberries, but it didn't look right to Ljörn.
+
+"What's that?" Sága asked.
+
+"It's... I don't know," Alfrir said. "It's some kind of berry."
+
+Sága looked perplexed. "What's so interesting? These... these are just blueberries."
+
+"No," Alfrir said. "Blueberries don't look like this, these are more like olives."
+
+Just like that, their banter over whether those berries were blueberries continued, until finally, Sága decided to taste them. She plucked another one, slit it with her knife, and put a drop onto her tongue. She said no more after that.
+
+Rúna gathered some of the berries into a small cloth sack she brought. With her seax (it was shorter than Ljörn's, more of an eating knife), she carefully cut the sprigs and let their fruit fall into the bag she held underneath.
+
+After their rest, Ingólfr led them deeper. They reached the top of the hill, and there they saw the border to another forest. It was mirkier, darker, with denser trees, some of which had gone lopsided from bad weather. Heather sprouted from the ground, and a faint haze lay in the distance. A few birds flew by, although they had stopped chirping.
+
+A dead pine tree had fallen, completely uprooted by what seemed to be a storm. And there it laid on a great mound. This mound wasn't like a hill; it was too round and too unnatural, sticking out like a sore thumb.
+
+Ljörn’s gaze lingered upon the mound for a moment. He then got an idea of what it might be, a grave of someone, but thinking about it made his heart unpleasantly race. He reached out and tapped Alfrir on the shoulder, and gestured at the mound. "Do you see that?"
+
+Alfrir glanced at the mound. "Are you seeing things again?"
+
+"No," Ljörn said. "I mean the hill."
+
+Alfrir took a second look, and finally noticed it. He turned to the other two and notified them. "Hey, look over there!"
+
+Ingólfr and Sága both stopped in their tracks to look at the unnatural mound. "Did the cheiftain not warn us of witchcraft?" he asked with uncertainly.
+
+"We might find something good," Sága said.
+
+Ljörn huffed. He was starting to regret telling Alfrir about what he saw.
+
+"Fine," Ingólfr said.
+
+Ljörn stopped there, watching them willingly go towards the mound. He was unsure whether to follow or not; the mirky forest's presence overwhelmed him, getting to his unease. He cast a sideways glance, and saw that Rúna also stayed behind. She clutched her bag, watching them go towards it.
+
+Their gaze met. He could see the same uncertainty in her eyes; the forest's ominous presence affected her as well.
+
+Steeling himself, Ljörn gripped his spear with both hands and decided to advance towards the unnatural mound along with the others.
