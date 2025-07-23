@@ -137,4 +137,24 @@ Ljörn stopped there, watching them willingly go towards the mound. He was unsur
 
 Their gaze met. He could see the same uncertainty in her eyes; the forest's ominous presence affected her as well.
 
-Steeling himself, Ljörn gripped his spear with both hands and decided to advance towards the unnatural mound along with the others.
+Steeling himself, Ljörn gripped his spear with both hands and decided to advance towards the unnatural mound along with the others. Rúna followed after.
+
+Ingólfr showed no sign of fear as he led them along the foot of the mound. They circled it, not stepping onto the slope of the hill. Oddly enough, no trees grew on the mound.
+
+The land flattened as they continued going around the mound. The grass looked dryer, even malnourished, compared to the other parts of the forest floor. Ljörn saw a rusty axe head lying on the side of the hill. He shivered, breathed, and glanced to the nearby shrub as if someone might be hiding in there.
+
+Then there was a shout. Alfrir was bent over, pointing at a shiny, metallic object in the grass. "I found something," he called to the others.
+
+Ljörn went and looked at what Alfrir had found. It was a bronze goblet. There were smooth, dark gems embedded on it, most likely obsidian. The goblet was half-corroded, but it looked like it could still be drunk from.
+
+Ingólfr, who had seen it too, glanced around their surroundings. "Wait," he said, stopping Alfrir before he could pick it up. "Search around first," he said. Looking towards Ljörn and the herbalist, who were still the last two in the group, he continued, "You two, come here and watch the goblet."
+
+Hesitant to leave his finding, Alfrir left and joined Sága as she followed Ingólfr's orders. Stiffly, Rúna shifted towards the goblet and stood there. She held the edge of her cloak and felt the fray.
+
+Whilst the others searched to ensure the goblet wasn't a part of a trap, Ljörn watched over the goblet. He tapped it with the bottom shaft of his spear. Nothing happened.
+
+They looked behind trees, bushes, and foliage, and yet, they found nothing more than a squirrel that went up the trees.
+
+"There's nothing there!" Alfrir called out, finding nothing after a short while. Without waiting further, he went back to the goblet and reached for it.
+
+He picked the goblet up. He was fine, and the brass cup was normal. He tucked the goblet into his belt and readjusted his cloak, concealing it behind the blue cloth.
