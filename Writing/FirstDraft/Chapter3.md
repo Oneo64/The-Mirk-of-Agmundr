@@ -1,7 +1,7 @@
 # Chapter 3: Tree and Lyng
 After dagmal, Ljörn and Alfrir began felling trees. The forest was right beside them, yet they lingered at the edge. Ljörn swung his axe, chipping away the tree log. They went on for a while until they heard a creak within the stump.
 
-"It's... it's falling!" Ljörn called out, warning anyone nearby to watch out. He hit it again, and the tree wobbled, then bent, and with a rustling crash, fell to the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, both of them, and two other men, all lifted the trunk and carried it back to the farmstead.
+"It's falling—!" Ljörn shouted out, warning anyone nearby to watch out. He hit it again, and the tree wobbled, then bent, and with a rustling crash, fell to the ground. They surrounded the tree's crown, cleaving off the branches and tossing them to the side. Once the tree was bare, both of them, and two other men, all lifted the trunk and carried it back to the farmstead.
 
 Before their journey, Ljörn was a woodcutter and a farmer. Splitting firewood and pulling weeds were his work; occasionally, he would help Alfrir fell trees and carry them back home. But after they took the fallen tree back to the farmstead, he could call himself an explorer, because a messenger came.
 
@@ -11,7 +11,7 @@ Dan was a common honourific, and yet, Ljörn had never been addressed like that.
 
 "He's in the hall," the messenger said. "He's gathering a group to go into the forest."
 
-At the messenger's words, Ljörn got the feeling it wouldn't end well. Even though he'd take peaceful walks in the forest, he always avoided getting near the deeper, darker parts of the forest; he was afraid of them. And looking into the forest nearby, it looked a little darker than the ones he was used to.
+At the messenger's words, Ljörn got a gut feeling that it wouldn't end well. Even though he'd take peaceful walks in the forest, he always avoided getting near the deeper, darker parts of the forest; he was afraid of them. And looking into the forest nearby, it looked a little darker than the ones he was used to.
 
 Alfrir, excited at the messenger's news, turned his attention to him. "I need to attend too?" he asked with anticipation.
 
@@ -39,7 +39,7 @@ When Ljörn turned his gaze to the other man, he was one whom Ljörn had never s
 
 "Farmer? Hah!" Hjalvir said with a laugh. "Have you not come with weapons and armour? I have heard about your adventure to that ruin. You'll be a good guide for the group, and your brother too." Hjalvir turned to the bear-cloaked man, and continued, "You will lead the group. You are called...?"
 
-"Ingólfr," said bear-cloaked man.
+"Ingólfr," said the bear-cloaked man.
 
 Ljörn bowed his head, understanding his place in the group. He was still hesitant, but decided to go along with them. He wouldn't dare defy Hjalvir. "I'll go and don my armour," he said.
 
@@ -67,11 +67,11 @@ Satisfied, Hjalvir continued what he was saying earlier. "Now that everyone has 
 
 <!-- scenario: forest !-->
 
-With that, the group of five left the longhouse and headed towards the woods. The forest was darker than Ljörn expected, trees taller to cast shadows over the ground. The earth was uneven, sloping upwards to a hill. Croaks of ravens echoed, and as they passed a tree, the flapping of wings. Ljörn strode near to the group, although he was last. He now had his spear, and he held it protectively close. There was a snap, and he flinched, glancing at it; it was only a fox.
+With that, the group of five left the longhouse and headed towards the woods. The forest was darker than Ljörn expected, trees taller to cast shadows over the ground. The earth was uneven, sloping upwards to a hill. Croaks of ravens echoed, and as they passed a tree, the flapping of wings was heard. Ljörn strode near to the group, although he was last. He now had his spear, and he held it protectively close. There was a snap, and he flinched, gripping his spear tighter as he glanced at it; it was only a fox.
 
 The herbalist was also startled by the fox. It dashed away, disappearing into the vegetation.
 
-Ingólfr was leading, flanked by Alfrir and Sága. Besides Ljörn, the only one behind them was the herbalist. And she was quiet too, not speaking much. Ljörn followed the group, listening as the three conversed amongst themselves in the front. It was small talk, and he wasn't very interested in it until Sága asked, "Is it true that he is cursed?"
+Ingólfr was leading, flanked by Alfrir and Sága. Besides Ljörn, the only one behind them was the herbalist. And she was quiet too, not speaking much. Ljörn followed the group, listening as the three conversed amongst themselves in the front. It was small talk, and he wasn't very interested in it until Sága asked, "Is it true that he was cursed?"
 
 "Cursed?" Alfrir said, repeating Sága's words. "What are you implying?"
 
@@ -83,11 +83,11 @@ Sága's gossip didn't make Ljörn feel better. It was a bit bold for his liking,
 
 "Are you really?" she hesitantly asked.
 
-"Really what?" Ljörn asked.
+"Really what?" Ljörn asked. He knew what she was talking about, but still asked; he was reluctant to answer.
 
 "Emm... well..." she said, trailing off at his question.
 
-Ljörn stayed silent, reluctant to answer her. He glanced at her. "What's your name?" he asked, trying to change the subject.
+Ljörn stayed silent, not answering her anyway. Then he glanced at her. "What's your name?" he quietly asked, trying to change the subject.
 
 "I'm Rúna," she said.
 
