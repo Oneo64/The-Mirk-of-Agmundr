@@ -48,9 +48,9 @@ His gaze strayed to the hearth. The firewood smouldered, the warmth of their col
 
 *Ljörn took his chance, and he pulled his seax out and lobbed it towards the man’s face. The man flinched and took a step back, but the knife didn’t land. Ljörn dropped his shield and was just about to flee, but then...*
 
-Ljörn jolted and squirmed as if trying to scatter back to his feet.
+Ljörn jolted and squirmed as if trying to scatter back to his feet. His hand shot to his seax.
 
-"Ljörn, stop that!" Alfrir whispered. He put both hands on Ljörn's shoulders, keeping him from squirming. A few people glanced at them.
+"Ljörn, stop that!" Alfrir whispered. He put both hands on Ljörn's shoulders, keeping him from squirming. He hadn't taken it out. A few people glanced at them, then went back to minding their own business.
 
 Ljörn was breathing heavily. He looked at Alfrir. "Nightmare," he lied. But even with Alfrir now thinking he had a nightmare, that didn’t calm him down. His gaze darted to both sides, then to the windows, and the door.
 
