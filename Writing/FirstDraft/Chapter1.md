@@ -38,7 +38,7 @@ As he gazed into the water, he saw a shadow move. His heart quickened, but he co
 
 "Ljörn!"
 
-The blond man jumped, coming back to his senses at his brother's call. "What?" the blond man sharply asked, breath still ragged. He was confused. For a moment, he was sure he had been found. And then he was back on the boat, his seeker gone!
+The blond man jumped, coming back to his senses at his brother's call. "What?" the blond man sharply asked, breath still ragged. He was confused.
 
 "You're doing it again," his brother said.
 
