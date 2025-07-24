@@ -56,7 +56,7 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
  - "Get off me."
 
 ### PTSD
-Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night.
+Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, and sometimes, controlled anger outbursts.
 
 If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
 
