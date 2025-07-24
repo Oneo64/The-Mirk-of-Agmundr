@@ -20,7 +20,7 @@ He remembered when Sága, the explorer's daughter, showed up at their doorstep t
 
 The blond man didn't respond for a moment. "Alfrir," he sighed, his voice low. "I—"
 
-"I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And, they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."
+"I told you this land would be prosperous," said his brother, unintentionally cutting off the words of the blond man. "And, they're going to Fjörðvík, father is. You don't need to worry about them."
 
 The blond man let out a breath. He turned away. He could still feel that irritating sensation of dampness in his socks. He could still taste the basic flavour of fish in his mouth. "Are your boots... wet, too?"
 
@@ -34,7 +34,7 @@ Hearing this was the last day he would spend at sea, the blond man allowed a wea
 
 His weapons, spear and sword, were stored inside the box he sat on. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
-As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly, deathly face rose from the water. It was dead for at least a hundred years, its skin withered and wrinkled like a rotten grape. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
+As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly face rose from the water. It had a deformed helmet, its face masked with maille. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
 
 "Ljörn!"
 

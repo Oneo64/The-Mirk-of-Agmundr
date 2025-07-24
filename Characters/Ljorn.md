@@ -55,14 +55,10 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
  - "Nightmare."
  - "Get off me."
 
-### Paranoia
-Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. He avoids reading the story *Draugrinn ór Mínu Minni*, or any stories with undead in them.[^2]
+### PTSD
+Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night.
 
-Occasionally, Ljörn is reminded of his experience with the draugr and becomes paranoid, thinking he's been followed. He only calms down by forgetting it or knowing he's near a bundle of juniper needles[^3], though the thought still lingers.
-
-If confronted about his behavior, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behavior only once, Ljörn told him not to worry.
-
-His PTSD is triggered by seeing sitting/moving corpses (or anything that looks like it), seeing silhouettes in the dark, seeing rusty weapons, seeing deep spaces like a dark cave or a deep ocean, being in dark forests, being in ruined castles, or hearing the word *draugr*.
+If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
 
 ### Rúna
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
@@ -87,7 +83,7 @@ FEAR -> REALISATION -> COURAGE
 
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from a previous adventure in the ruins of an old castle, where he fought draugar.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience.
 
 Because Ljörn was shot in the shoulder with an arrow during a raid, his left arm was weakened.
 
@@ -96,5 +92,4 @@ Ljörn knows how to play Rægatafl, a local board game.
 
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Before his adventure, Ljörn knew the story told in *Draugrinn ór Mínu Minni*. Yngvarr, a character in the story, died when a draugr knocked him over and slashed him. During Ljörn's trip to the castle ruin, a draugr knocked him over (like Yngvarr) and almost killed him. When he and his accomplices fled, the draugr chased them. Ljörn only thought they lost the draugr when he heard the forest was quiet during their camp for the night. That moment is where his odd behaviors come from.
-[^3]: Juniper is a type of greater protection herb.
+[^2]: Ljörn developed PTSD when his home village was raided by Norwegian Vikings during nighttime.
