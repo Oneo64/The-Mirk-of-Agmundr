@@ -92,6 +92,3 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
  - **Rúna's voice drops to a mutter.**
  - **Rúna:** "Sakka þik." *(Thank you.)*
  - **Rúna turns and leaves the seller's stand.**
-
-## Notes
-[^1]: Veldismagn requires to be drawn with blood, which is why it unnerved Rúna.
