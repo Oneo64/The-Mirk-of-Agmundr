@@ -26,7 +26,7 @@ Rúna has long, armpit-length, light brown hair that is wavy and flows freely. H
 When she is outside, she tends to wear a dark yellow woolen cloak with a slightly frayed edge, held by a bronze double brooch with a chain. She casually wears a simple, muted blue calf-length tunic, a braided leather ring belt, and leather shoes. On her belt, there is a small sheathed seax for defense. She wears a necklace with an iron Talmundúr amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
 
 ## Personality
-Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious, 
+Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious, but she is reluctant to enter dark forests no matter how interesting it is.
 
 Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something.
 

@@ -32,13 +32,13 @@ Hearing this was the last day he would spend at sea, the blond man allowed a wea
 
 His weapons, spear and sword, were stored inside the box he sat on. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
-<!-- As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly face rose from the water. It had a deformed helmet, its face masked with maille. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
+As he looked into the water, his gaze wandered off and locked onto the following longship. Remembering what enemies looked like, his heart quickened, but he couldn’t take his mind away. His breath became ragged, glancing around at the ocean around him as if he might see an enemy ship in the distance.
 
 "Ljörn!"
 
 The blond man jumped, coming back to his senses at his brother's call. "What?" the blond man sharply asked, breath still ragged. He was confused.
 
-"You're doing it again," his brother said. !-->
+"You're doing it again," his brother said.
 
 <!-- SCENARIO 2: The wind weakens and Hjalvir's introduction !-->
 

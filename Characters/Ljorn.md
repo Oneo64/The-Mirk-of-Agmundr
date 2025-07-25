@@ -32,8 +32,6 @@ When he travels or prepares for combat, Ljörn puts on a nasal helmet and his by
 ## Personality
 Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
 
-To strangers, Ljörn acts uncaring and unassertive, ignoring things that don't concern him. For example, if a thief stole something from someone he doesn't know, he'll ignore the commotion.
-
 Ljörn doesn't have a good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher.
 
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
@@ -56,7 +54,7 @@ Ljörn doesn't speak much. When speaking to strangers, he tends to give one word
  - "Get off me."
 
 ### PTSD
-Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, and sometimes, controlled anger outbursts.
+Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.
 
 If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
 
