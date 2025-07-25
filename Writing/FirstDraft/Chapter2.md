@@ -36,7 +36,7 @@ Relaxing from the rough days of rowing and sailing in bad weather, he leaned bac
 
 His gaze strayed to the hearth. The firewood smouldered, the warmth of their colour flickering between red and orange. He felt the heat of the flame on his skin. Watching the fire dance, he let his mind wander.
 
-*A burning house appeared in Ljörn’s imagination. It was the home of Kolr, who was the blacksmith who made his sword. Kicking down the door, he ran in to find him, searching the room. Kolr was gone. He couldn't find him.*
+*A burning house appeared in Ljörn’s imagination. It was the home of Kolr, who was the blacksmith who made his sword. He was back in Álahringr! Kicking down the door, he ran in to find him, searching the room. Kolr was gone. He couldn't find him.*
 
 *A smouldering plank dropped from the ceiling, and he flinched. He jumped out of the blazing house and raised his shield as he saw an archer release an arrow towards him. But he was too slow. It struck his shield-arm's shoulder and he fell backwards.*
 

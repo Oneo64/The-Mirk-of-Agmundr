@@ -12,7 +12,7 @@ The blond man turned his gaze towards the thing they were sailing towards. It wa
 
 "Hey. Are you still thinking about Álahringr?" a low voice said behind him.
 
-The blond man looked around to see his brother leaning towards him, his voice drained by the wind. He could tell his brother was amused.
+The blond man looked around to see his brother leaning towards him. Despite being mostly drained by the wind, he could tell his brother was amused.
 
 He was reminded of the time two days ago, when his brother persuaded him. Persuaded to join Hjalvir's colonising company. He had initially refused to go, but the thought of peace and wealth compelled him, and so here he was.
 
@@ -32,13 +32,13 @@ Hearing this was the last day he would spend at sea, the blond man allowed a wea
 
 His weapons, spear and sword, were stored inside the box he sat on. He felt… helpless without the feeling of the scabbard belt hugging his shoulders. His hand slowly found his seax and felt the leather of its sheath.
 
-As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly face rose from the water. It had a deformed helmet, its face masked with maille. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
+<!-- As he gazed into the water, he saw a shadow move. His heart quickened, but he couldn't take his mind away. A gnarly face rose from the water. It had a deformed helmet, its face masked with maille. It lifted a blade, preparing to smite him down, like an executioner with him on a chopping block large enough for his stomach rather than his neck.
 
 "Ljörn!"
 
 The blond man jumped, coming back to his senses at his brother's call. "What?" the blond man sharply asked, breath still ragged. He was confused.
 
-"You're doing it again," his brother said.
+"You're doing it again," his brother said. !-->
 
 <!-- SCENARIO 2: The wind weakens and Hjalvir's introduction !-->
 
@@ -76,9 +76,9 @@ Ljörn hugged his cloak like many others. He watched Hjalvir and his daughter ma
 
 A pool of water gathered where Ljörn didn't notice, but he felt it flood his boots. At least his foot didn't feel like it was swollen anymore. He considered keeping his foot in there, but knew he probably shouldn't. Hesitantly, he took his foot out and took the water in with his bucket, then poured it out of the boat.
 
-He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I... look!" he hurriedly said.
+<!-- He glanced at the ocean. Then, he saw the shadow again. Before he could see more, the rain got into his eyes. He blinked, broke eye contact, and turned back to his brother. "I... I... look!" he hurriedly said.
 
-Alfrir was confused at what Ljörn saw. When Ljörn turned his gaze back to the sea, he saw that the shadow was gone. He let out a breath he had been holding.
+Alfrir was confused at what Ljörn saw. When Ljörn turned his gaze back to the sea, he saw that the shadow was gone. He let out a breath he had been holding. !-->
 
 Another wave crashed into the ship. The splash splattered all over the cargo. The magic of the symbol did its best to dry out the wood of the crates, but still, water seeped through the inbetweens of their boards.
 
