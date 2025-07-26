@@ -135,7 +135,7 @@ Ljörn huffed. He was starting to regret telling Alfrir about what he saw.
 
 "Fine," Ingólfr said.
 
-Ljörn stopped there, watching them willingly go towards the mound. He was unsure whether to follow or not; the mirky forest's presence overwhelmed him, getting to his unease. He cast a sideways glance, and saw that Rúna also stayed behind. She clutched her bag, watching them go towards it.
+Ljörn stopped there, watching them willingly go towards the mound. He was unsure whether to follow or not; the mirky forest’s presence overwhelmed him, getting to his unease. He cast a sideways glance and saw that Rúna had also stayed behind. She clutched her bag, watching them as they marched towards it.
 
 Their gaze met. He could see the same uncertainty in her eyes; the forest's ominous presence affected her as well.
 
