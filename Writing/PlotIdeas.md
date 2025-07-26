@@ -56,11 +56,18 @@ A magical goat comes out of the forest to visit the farmstead. They think it's T
 ## 13. Sight of the Sacred's Spjall
 The völva claims she had a dream of Alfrir's goblet, and its very similar to Ljörn's dream. Ljörn and Alfrir are convinced the goblet is evil or something, so they try to discard it by throwing it into the river.
 
-Later that night, Ljörn wakes up after hearing a noise. He wakes Rúna first, then Alfrir. He then tells them what he heard. Alfrir wakes Sága. Ljörn looks out the windows and see no wolves or bears. They leave (Ljörn pulls his sword out before leaving) to check what that noise was. They see a silhouette of someone (the draugr) in the distance, near the river, looking for something.
+Later that night, Ljörn wakes up after hearing a noise. He looks out the windows and see no wolves or bears. He then leaves (he pulls his sword out before leaving) to check what that noise was. He sees a silhouette of someone (the draugr) in the distance, near the river, looking for something.
 
-They chase after the draugr, but it flees and disappears into the forest.
+He chases after the draugr and fight it. But during the fight, he gets shield bashed by the draugr and is thrown to the ground. But then, Rúna finds him (she heard Ljörn leave, and now has a spear), and she pokes the draugr. But the draugr throws her off and slashes her backside.
+
+Ljörn then runs his blade through the draugr (out of anger), and the draugr escapes by turning into mist. He carries Rúna back to the hall where she is treated.
 
 ## 14. The Revenant's Woe
+Ljörn sits beside the bed where Rúna is recovering. He thinks about what happened. Later, he gets Alfrir (the tables have turned, now its Ljörn persuading Alfrir) to go to the draugr mound and kill it. Alfrir agrees, and gets Sága to go. The three set out into the forest to find the mound.
 
-## 15. ending chapter name here (placeholder)
-placeholder
+When they reach the mound, it begins to rain and thunder. Ljörn looks up into the sky and sees something that looks like a cart being pulled by two animals. Motivated, they enter the mound and kill the draugr. Ljörn kills it by cleaving his sword into its head (his spear is broken during the fight).
+
+## 15. Memory
+Rúna has recovered now.
+
+Ljörn looks into the river and notices that he now has a beard, and his reflection reminds him of his father (the reader knows when he quietly whispers the word "father" to himself). He touches his beard and gets homesick.
