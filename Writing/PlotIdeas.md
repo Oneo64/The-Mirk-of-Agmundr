@@ -63,7 +63,9 @@ He chases after the draugr and fight it. But during the fight, he gets shield ba
 Ljörn then runs his blade through the draugr (out of anger), and the draugr escapes by turning into mist. He carries Rúna back to the hall where she is treated.
 
 ## 14. The Revenant's Woe
-Ljörn sits beside the bed where Rúna is recovering. He thinks about what happened. Later, he gets Alfrir (the tables have turned, now its Ljörn persuading Alfrir) to go to the draugr mound and kill it. Alfrir agrees, and gets Sága to go. The three set out into the forest to find the mound.
+Ljörn sits beside the bed where Rúna is recovering. He thinks about what happened.
+
+Later, he gets Alfrir (the tables have turned, now its Ljörn persuading Alfrir) to go to the draugr mound and kill it. Alfrir agrees, and gets Sága to go. The three set out into the forest to find the mound.
 
 When they reach the mound, it begins to rain and thunder. Ljörn looks up into the sky and sees something that looks like a cart being pulled by two animals. Motivated, they enter the mound and kill the draugr. Ljörn kills it by cleaving his sword into its head (his spear is broken during the fight).
 
