@@ -7,7 +7,9 @@ At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he 
 
 *With a snatch, he picked the goblet up before the gnarly hand could get hold of it again. It was made of brass with dark gems embedded along the top. It was slightly dented and scratched, bearing the markings of having been untouched in the wilderness for so long.*
 
-*Then a cold air blew upon him, making all his hair stand on end. There was a whisper in his ears, the tongue sounding familiar yet unfamiliar at the same time. "Kom hingat, gef mér bollann eða þú ert at deyja," it said to him.*
+*Then a cold air blew upon him, making all his hair stand on end. There was a whisper in his ears, the tongue sounding familiar yet unfamiliar at the same time.*
+
+*"Enginn þú, hvar ertu?" it said to him. "Kom hingat, gef mér bollann eða þú ert at deyja."*
 
 *He spun around, expecting someone behind him. But there wasn’t anyone there. He glanced around, and when his gaze passed the sea, he saw that the waves were smooth as ice. He looked again at the coastline.*
 
