@@ -1,5 +1,5 @@
 # Chapter 2: Tree and Lyng
-After Ljörn got off the ship, he carried his box into the hall. There were already a few people there, explorers who stayed behind to build the shelter for the colonists, who welcomed him and Alfrir in. A pot sat on the hearth, boiling softly.
+After Ljörn got off the ship, he carried his box into the hall. There were already a few people there, explorers who stayed behind to build the shelter for the colonists, who welcomed him and Alfrir in. A pot sat on the hearth, boiling softly. He put his box against the wall and sat on it, taking a rest.
 
 Whilst Ljörn waited for the meal to cook, he listened to the ghostly sound of the wind blowing past the windows. He avoided sitting near them, as the cold would have worsened his already wet clothing. But now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn’t quite enough), he wouldn't feel anxious.
 
