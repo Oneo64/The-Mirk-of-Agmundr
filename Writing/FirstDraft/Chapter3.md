@@ -43,4 +43,8 @@ Ljörn gave a low mumble. He didn't put much thought into it for a second. Alfri
 
 "I dreamt of that goblet," Alfrir continued. "It was going into the sand, and... I... I saw a figure."
 
-Alfrir went on, describing almost the same dream Ljörn had. Alfrir had seen himself in a forest, the hand in the earth rather than in the sand of the shore; the corpse had the same gnash across its face, the same ragged clothes, and the same speech.
+Alfrir went on, describing almost the same dream Ljörn had. Alfrir had seen himself in a forest, the hand in the earth rather than in the sand of the shore; the corpse had the same gnash across its face, the same ragged clothes, and the same speech. They looked at each other.
+
+"Where is it?" Ljörn asked.
+
+Alfrir got off his bed and opened his box. He took the goblet out. It still looked mundane, despite all Ljörn saw in his dream.

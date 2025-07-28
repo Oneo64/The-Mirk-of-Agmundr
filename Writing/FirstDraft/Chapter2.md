@@ -51,13 +51,7 @@ Once back, he glanced at Alfrir, who still hadn't gotten into his armour. "Go do
 
 "Right. I'll be back," Alfrir said, and left them to wear his armour. His set was similar to Ljörn’s, except for a few things that were different: he had a hauberk instead of a byrnie, his helmet had eye rings, like a spangenhelm, and he didn't have a sword. Such a helmet like that would make a warrior look terrifying. But when Alfrir wore it, his boyish eyes made being afraid of him confusing.
 
-When they all gathered, Ljörn, Alfrir, Sága, and the bear-cloaked leader, that was when the doors opened. A woman came in. She closed the door, careful not to make a bang. She walked towards them, her stride telling Ljörn she wasn’t very flamboyant at all.
-
-She wore a blue dress that reached to the middle of her calves, and a yellow, frayed cloak with a couple of brooches. She had wavy brown hair, green almond eyes, and a light splatter of freckles across her face. Her sash, which she wore around her waist, carried a small cloth bag. Notably, she kept a distance from everyone else, yet close enough to say she was with the party.
-
-"Ah, the herbalist," Hjalvir said, greeting the newcomer. "I assume you know what you'll be?"
-
-The woman glanced at Hjalvir. "Y-yes," she said.
+When they all gathered, Ljörn, Alfrir, Sága, and the bear-cloaked leader, that was when the doors opened. Someone came in and closed the door, careful not to make a bang, and she walked towards them with an unassuming stride. She wore a blue dress that reached to the middle of her calves, and a yellow, frayed cloak with a couple of brooches. She had wavy brown hair, green almond eyes, and a light splatter of freckles across her face. Her sash, which she wore around her waist, carried a small cloth bag. Notably, she kept a distance from everyone else, yet close enough to say she was with the party. She gave a quiet greeting and didn’t say anything else after that.
 
 Satisfied, Hjalvir continued what he was saying earlier. "Now that everyone has gathered, remember. If you find anything strange, don't mess with it. We have no power over what... over what witchcraft may happen."
 
@@ -69,9 +63,9 @@ Satisfied, Hjalvir continued what he was saying earlier. "Now that everyone has 
 
 With that, the group of five left the longhouse and headed towards the woods. The forest was darker than Ljörn expected, trees taller to cast shadows over the ground. The earth was uneven, sloping upwards to a hill. Croaks of ravens echoed, and as they passed a tree, the flapping of wings was heard. Ljörn strode near to the group, although he was last. He now had his spear, and he held it protectively close. There was a snap, and he flinched, gripping his spear tighter as he glanced at it; it was only a fox.
 
-The herbalist was also startled by the fox. It dashed away, disappearing into the vegetation.
+The quiet woman was also startled by the fox. It dashed away, disappearing into the vegetation.
 
-The bear-cloaked man was leading, flanked by Alfrir and Sága. Besides Ljörn, the only one behind them was the herbalist. And she was quiet too, not speaking much. Ljörn followed the group, listening as the three conversed amongst themselves in the front. It was small talk, and he wasn't very interested in it until Sága asked, "Is it true that he was cursed?"
+The bear-cloaked man was leading, flanked by Alfrir and Sága. Besides Ljörn, the only one behind them was the quiet woman. And she was quiet too, not speaking much. Ljörn followed the group, listening as the three conversed amongst themselves in the front. It was small talk, and he wasn't very interested in it until Sága asked, "Is it true that he was cursed?"
 
 "Cursed?" Alfrir said, repeating Sága's words. "What are you implying?"
 
@@ -79,7 +73,7 @@ The bear-cloaked man was leading, flanked by Alfrir and Sága. Besides Ljörn, t
 
 Alfrir glanced back at Ljörn, who shot him a blank look. "Do not defile him like that," he said with disdain.
 
-Sága's gossip didn't make Ljörn feel better. It was a bit bold for his liking, hearing her call him bewitched. Taking a breath, he glanced around again, eyes darting to the silhouettes of trees, making sure there wasn't anything in the distance. As his gaze was to the side, he heard the herbalist speak.
+Sága's gossip didn't make Ljörn feel better. It was a bit bold for his liking, hearing her call him bewitched. Taking a breath, he glanced around again, eyes darting to the silhouettes of trees, making sure there wasn't anything in the distance. As his gaze was to the side, he heard the quiet woman speak.
 
 "Are you really?" she hesitantly asked.
 
