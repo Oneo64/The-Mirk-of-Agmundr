@@ -1,6 +1,6 @@
 # Örúlfr
 
-<table><tbody>
+<table align=right><tbody>
 	<tr> <th colspan=2>Örúlfr</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
