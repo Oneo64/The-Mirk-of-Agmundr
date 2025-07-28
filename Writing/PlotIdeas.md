@@ -70,6 +70,6 @@ Later, he gets Alfrir (the tables have turned, now its Ljörn persuading Alfrir)
 When they reach the mound, it begins to rain and thunder. Ljörn looks up into the sky and sees something that looks like a cart being pulled by two animals. Motivated, they enter the mound and kill the draugr. Ljörn kills it by cleaving his sword into its head (his spear is broken during the fight).
 
 ## 15. Memory
-Rúna has recovered now.
-
 Ljörn looks into the river and notices that he now has a beard, and his reflection reminds him of his father (the reader knows when he quietly whispers the word "father" to himself). He touches his beard and gets homesick.
+
+Later that night, Ljörn sits in what is now his home, which he shares with Alfrir, Rúna, and Sága. They eat dinner there. After eating a stew, he, Alfrir, and Sága agree to leave tomorrow, back to the draugr mound to take its treasures.
