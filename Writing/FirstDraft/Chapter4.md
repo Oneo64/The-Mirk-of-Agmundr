@@ -1,9 +1,9 @@
 # Chapter 4: The Goblet of the Night
 At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he smell; None he saw, and none he heard. Then, there he was.
 
-*He saw a shiny goblet sitting half buried in the sand of the shore. The waves crashed into the beach, and the moon was very bright. The farmstead wasn’t there anymore, but a vast expanse of forest and hill. Approaching the goblet, his hand reached for it, curious what it was.*
+*A shiny goblet sat half-buried in the sand of the shore. The waves crashed into the beach, and the moon was very bright. The farmstead wasn't there anymore, but a vast expanse of forest and hill. Approaching the goblet, his hand reached for it, curious what it was.*
 
-*A gnarly hand shot out of the sand, grabbing the goblet. It pulled it lower into the sand, sinking like it were in quicksand. With surprise, he kicked the cup away and dashed towards it, attempting to reach for the cup again. The hand shifted in the sand, racing against him for the goblet.*
+*Gnarly and withered, a hand shot out of the sand and grabbed the cup. It pulled it downwards, sinking like it were in quicksand. With surprise, he kicked the cup away and dashed towards it, attempting to reach for the cup again. The hand shifted in the sand, racing against him for the goblet.*
 
 *With a snatch, he picked the goblet up before the gnarly hand could get hold of it again. It was made of brass with dark gems embedded along the top. It was slightly dented and scratched, bearing the markings of having been untouched in the wilderness for so long.*
 
@@ -41,4 +41,6 @@ Ljörn gave a low mumble. He didn't put much thought into it for a second. Alfri
 
 "Wait, you—" Ljörn muttered. "What?"
 
-"I dreamt of that goblet," Alfrir continued. "It... it was going into the sand, and... I saw... I saw a figure."
+"I dreamt of that goblet," Alfrir continued. "It was going into the sand, and... I... I saw a figure."
+
+Alfrir went on, describing almost the same dream Ljörn had. Alfrir had seen himself in a forest, the hand in the earth rather than in the sand of the shore; the corpse had the same gnash across its face, the same ragged clothes, and the same speech.
