@@ -1,6 +1,5 @@
-<center>*Chapter 3*
-
-NEGOTIATIONS</center>
+*<p align=center>Chapter 3</p>*
+<p align=center>NEGOTIATIONS</p>
 At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he smell; None he saw, and none he heard. Then, there he was.
 
 *A shiny goblet sat half-buried in the sand of the shore. The waves crashed into the beach, and the moon was very bright. The farmstead wasn't there anymore, but a vast expanse of forest and hill. Approaching the goblet, his hand reached for it, curious what it was.*
