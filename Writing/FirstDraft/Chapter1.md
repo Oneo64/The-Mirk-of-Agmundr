@@ -1,4 +1,6 @@
-# Chapter 1: Nine Hundred and Twenty Two
+<center>*Chapter 1*
+
+NINE HUNDRED AND TWENTY TWO</center>
 <!-- SCENARIO 1: Story introduction !-->
 Two longboats had their full sails flapping, carried north by the gale. The sun was low. Not a single sea bird flew in the sky, not even the sound of their call. On one of the ships, they had animals. And amongst the crew, a blond-haired man sat on his box.
 

@@ -1,4 +1,6 @@
-# Chapter 4: The Goblet of the Night
+<center>*Chapter 3*
+
+NEGOTIATIONS</center>
 At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he smell; None he saw, and none he heard. Then, there he was.
 
 *A shiny goblet sat half-buried in the sand of the shore. The waves crashed into the beach, and the moon was very bright. The farmstead wasn't there anymore, but a vast expanse of forest and hill. Approaching the goblet, his hand reached for it, curious what it was.*
@@ -33,18 +35,6 @@ Alfrir groaned, drowsy after waking up from seemingly nothing. He glanced at Lj�
 
 "I don't feel well," Alfrir said. He held his forehead.
 
-Ljörn nodded. For a moment, they didn't talk. He glanced at the burning hearth that was in the middle of the room, and averted his eyes.
+Ljörn nodded. He glanced at the burning hearth that was in the middle of the room, and averted his eyes. He laid back onto his hay-bed and slept.
 
-"I saw... that goblet," Alfrir said, breaking the silence.
-
-Ljörn gave a low mumble. He didn't put much thought into it for a second. Alfrir said he had seen the goblet, which he found back at that suspicious mound, and Ljörn had also dreamt of the goblet. Realisation began to dawn.
-
-"Wait, you—" Ljörn muttered. "What?"
-
-"I dreamt of that goblet," Alfrir continued. "It was going into the sand, and... I... I saw a figure."
-
-Alfrir went on, describing almost the same dream Ljörn had. Alfrir had seen himself in a forest, the hand in the earth rather than in the sand of the shore; the corpse had the same gnash across its face, the same ragged clothes, and the same speech. They looked at each other.
-
-"Where is it?" Ljörn asked.
-
-Alfrir got off his bed and opened his box. He took the goblet out. It still looked mundane, despite all Ljörn saw in his dream.
+In the next morning, after they had split up, Alfrir went to his usual woodcutting, and Ljörn, who had sought out Rúna. She was probably the only person he knew now who was as quiet as he was, and didn't remind him of raids. He asked her if she knew any herbs for the mind, and yet she couldn't suggest any; she said she wasn't that skilled.
