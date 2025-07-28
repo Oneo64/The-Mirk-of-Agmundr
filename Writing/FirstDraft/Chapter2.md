@@ -1,4 +1,64 @@
 # Chapter 2: Tree and Lyng
+After Ljörn got off the ship, he carried his box into the hall. There were already a few people there, explorers who stayed behind to build the shelter for the colonists, who welcomed him and Alfrir in. A pot sat on the hearth, boiling softly.
+
+Whilst Ljörn waited for the meal to cook, he listened to the ghostly sound of the wind blowing past the windows. He avoided sitting near them, as the cold would have worsened his already wet clothing. But now with his scabbard by his side, he felt more at ease. As long as he had some protection beside him (his seax wasn’t quite enough), he wouldn't feel anxious.
+
+Alfrir was beside Ljörn. He always sat like that when he wasn't wistful. He kept glancing at the group of well-dressed men, as if he were thinking to talk about them. "See them?" Alfrir started, whispering. He nodded in their direction.
+
+Ljörn looked at the people his brother was talking about. "Yes," he muttered.
+
+"Look at the man's helmet," his brother said. "Nice find, no?"
+
+The warrior he was talking about was wearing a helmet. It was one of those English helmets, with the cheek armour and the brass lining.
+
+"I never seen one like it," Alfrir added.
+
+Their small talk died down. A moment later, the pot began to emit a nice aroma. The stew was a combination of goat milk, eggs, and some of the dried fish they had brought. When the stew in the pot was done, everyone in the room took turns and filled their bowls with some of it.
+
+Ljörn returned to his seat, his hand with a bowl of the stew. He was hungry for a meal that wasn't dried salted fish, even though he knew the stew had the fish from the boat.
+
+"Finally, food that isn't fish!" Alfrir said, sitting on his box with his bowl. "Smells fine too, don't you think?"
+
+Ljörn wasn't as satisfied as his brother. He was looking into his. The stew was milky white with a bit of yellow from the yolk. "There's still fish in the bowl," he said.
+
+"Yes, but this one's got eggs," Alfrir said.
+
+Then Hjalvir stood up, walking to the end of the hearth. He waited for everyone to quiet down and turn their heads to him. He raised his bowl and bellowed, "Friends, before we start our dinner, hear me dearly!"
+
+Ljörn looked at Hjalvir. He hadn't started eating, but wasn't expecting there to be an announcement.
+
+Hjalvir continued, "Far from Iceland we have sailed! We are here, the first men to see a new world! And Þórr, he has seen our struggle, and has given this warm soup to us, now we can relish in it!"
+
+There was a cheer, and they began. It was warm and tasted different, and the chunks of fish were at the bottom. Ljörn quickly ate it all.
+
+Once all the throng were finished, the room quieted down again. Bowls were put away, and Ljörn also put his back into his box. After eating that stew, he had a half-full belly, and that was enough.
+
+Relaxing from the rough days of rowing and sailing in bad weather, he leaned back a little more. Now that he was on this new land, there was certainly no going back. His gaze began to wander. He glanced at the men Alfrir talked about earlier. They had full hauberks, unlike him, who only had a byrnie.
+
+His gaze strayed to the hearth. The firewood smouldered, the warmth of their colour flickering between red and orange. He felt the heat of the flame on his skin. Watching the fire dance, he let his mind wander.
+
+*A burning house appeared in Ljörn’s imagination. It was the home of Kolr, who was the blacksmith who made his sword. He was back in Álahringr! Kicking down the door, he ran in to find him, searching the room. Kolr was gone. He couldn't find him.*
+
+*A smouldering plank dropped from the ceiling, and he flinched. He jumped out of the blazing house and raised his shield as he saw an archer release an arrow towards him. But he was too slow. It struck his shield-arm's shoulder and he fell backwards.*
+
+*Ljörn saw a foe, armoured and his face dark, approaching him, brandishing a long axe. He tried to stand up, but his arm was weak, and with a crack, his shield broke into two by the man’s axe blow.*
+
+*The foe advanced towards Ljörn. His shield was broken in his hand. His spear was dropped out of reach. His sword was still unsheathed. His foe stood over him and raised his weapon, ready to strike him dead.*
+
+*Then, the attacker cleaved his axe towards him, but Ljörn raised his shield again, this time the weapon bouncing off his shield's boss, deflecting it to the side.*
+
+*Ljörn took his chance, and he pulled his seax out and lobbed it towards the man’s face. The man flinched and took a step back, but the knife didn’t land. Ljörn dropped his shield and was just about to flee, but then...*
+
+Ljörn jolted and squirmed as if trying to scatter back to his feet. His hand shot to his seax.
+
+"Ljörn, stop that!" Alfrir whispered. He put both hands on Ljörn's shoulders, keeping him from squirming. He hadn't taken it out. A few people glanced at them, then went back to minding their own business.
+
+Ljörn was breathing heavily. He looked at Alfrir. "Nightmare," he lied. But even with Alfrir now thinking he had a nightmare, that didn’t calm him down. His gaze darted to both sides, then to the windows, and the door.
+
+"Don't lie," Alfrir said. "You had the same thing on the boat. I know you were awake, so don't fool me now."
+
+Ljörn glanced at Alfrir. He was upset, but he didn't defend himself. "Get off me," he sharply said. His heart was beating like he was sprinting a moment ago.
+
 Over that night, deeply did they sleep, except for Ljörn, who had a hard time. It was his worry, for every small sound outside kept him sleepless, until those sounds blended into the rain and he drifted off.
 
 Soon in the morning, they ate their breakfast, which was leftover stew from the night before. After that, Ljörn and Alfrir began felling trees. The forest was right beside them, yet they lingered at the edge. Ljörn swung his axe, chipping away the tree log. They went on for a while until they heard a creak within the stump.
