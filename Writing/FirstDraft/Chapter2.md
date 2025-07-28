@@ -170,7 +170,7 @@ Just like that, their banter over whether those berries were blueberries continu
 
 Rúna gathered some of the berries into a small cloth sack she brought. With her seax (it was shorter than Ljörn's, more of an eating knife), she carefully cut the sprigs and let their fruit fall into the bag she held underneath.
 
-After their rest, the leader led them deeper. They reached the top of the hill, and there they saw the border to another forest. It was mirkier, darker, with denser trees, some of which had gone lopsided from bad weather. Heather sprouted from the ground, and a faint haze lay in the distance. A few birds flew by, although they had stopped chirping.
+After their rest, the leader led them deeper. They reached the top of the hill, and there they saw the border to another forest. It was mirkier, darker, with denser trees, some of which had gone lopsided from bad weather. Heather sprouted from the ground, and a faint haze laid in the distance. A few birds flew by, although they had stopped chirping.
 
 A dead pine tree had fallen, completely uprooted by what seemed to be a storm. And there it laid on a great mound. This mound wasn't like a hill; it was too round and too unnatural, sticking out like a sore thumb.
 

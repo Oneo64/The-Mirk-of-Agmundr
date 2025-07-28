@@ -1,6 +1,8 @@
 *<p align=center>Chapter 3</p>*
 <p align=center>NEGOTIATIONS</p>
-At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he smell; None he saw, and none he heard. Then, there he was.
+Eager to leave the dark forest, Ljörn trod out with his exploration party back to the farmstead. They had reached there before the sun dipped low. Still, Ljörn was reluctant to take his armour off, keeping it on as he ate, and even when it was time for rest. And like always, once his equipment was put away, he had trouble falling asleep.
+
+Minutes had gone by, and he rolled again to make himself comfortable. At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he smell; None he saw, and none he heard. Then, there he was.
 
 *A shiny goblet sat half-buried in the sand of the shore. The waves crashed into the beach, and the moon was very bright. The farmstead wasn't there anymore, but a vast expanse of forest and hill. Approaching the goblet, his hand reached for it, curious what it was.*
 
@@ -10,7 +12,7 @@ At first, everything Ljörn saw was darkness. Nothing there he felt, nor did he 
 
 *Then a cold air blew upon him, making all his hair stand on end. There was a whisper in his ears, the tongue sounding familiar yet unfamiliar at the same time.*
 
-*"Enginn þú, hvar ertu?" it said to him. "Kom hingat, gef mér bollann eða þú ert at deyja."*
+*"Enginn þú, hvar ertu?" it said to him. "Kom hingat, gef mér bollann eða þú ert at deyja!"*
 
 *He spun around, expecting someone behind him. But there wasn’t anyone there. He glanced around, and when his gaze passed the sea, he saw that the waves were smooth as ice. He looked again at the coastline.*
 
