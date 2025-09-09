@@ -1,5 +1,4 @@
 # Ljörn
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljörn</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
