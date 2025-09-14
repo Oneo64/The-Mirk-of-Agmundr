@@ -26,7 +26,7 @@ Rúna has a sweet face and long, armpit-length, light brown hair that is wavy an
 When she is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain. She casually wears a simple, muted blue calf-length tunic, a braided leather ring belt, and leather shoes. On her belt, there is a small sheathed seax for defence. She wears a necklace with an iron Talmundúr amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
 
 ### Scar
-Rúna has a long scar on her back, gained from being slashed by Agmundr.
+Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
 
 ## Personality
 Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious, but she is reluctant to enter dark forests no matter how interesting it is.
