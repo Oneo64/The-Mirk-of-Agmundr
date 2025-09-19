@@ -52,8 +52,8 @@ Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn
 Rúna would sometimes accidentally call Ljörn *kæri*, then get embarrased when he notices.
 
 ### Goals
-**Goal:** To explore the new land.
-**Motivation:** To find new undiscovered herbs.
+ - **Goal:** To explore the new land.
+ - **Motivation:** To find new undiscovered herbs.
 
 ## Abilities
 ### Arts and Crafts

@@ -62,21 +62,21 @@ Ljörn finds that when Rúna is there, he can relax a little despite his paranoi
 
 ### Goals
 #### Goal arc A
-**Goal:** To return to Álahringr.
-**Motivation:** My family doesn't have a reliable protector.
+ - **Goal:** To return to Álahringr.
+ - **Motivation:** My family doesn't have a reliable protector.
 
 #### Goal arc B
-**Goal:** To survive.
-**Motivation:** Successfulness.
+ - **Goal:** To survive.
+ - **Motivation:** Successfulness.
 
 ### Arc
-Positive Arc
-FEAR -> REALISATION -> COURAGE
-**Ghost:** Unresolved PTSD from the past.
-**Lie:** I hate this land, I'm tired of adventure, and my family is in danger.
-**Want:** I want to return back to Álahringr.
-**Need:** I need to realise my visions aren't real because they only harm me.
-**Truth:** I should stay, because right now I'm in greater danger than my family.
+ - Positive Arc
+ - FEAR -> REALISATION -> COURAGE
+ - **Ghost:** Unresolved PTSD from the past.
+ - **Lie:** I hate this land, I'm tired of adventure, and my family is in danger.
+ - **Want:** I want to return back to Álahringr.
+ - **Need:** I need to realise my visions aren't real because they only harm me.
+ - **Truth:** I should stay, because right now I'm in greater danger than my family.
 
 ## Abilities
 ### Physicality
