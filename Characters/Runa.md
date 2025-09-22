@@ -39,7 +39,7 @@ Sometimes, when not doing anything or listening to someone talk, Rúna would spa
 Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
 
 ### Voice
-Rúna speaks informally with a slight stutter.
+Rúna speaks informally with a slight stutter. Her natural voice is soft and light.
 
  - "Are you really?"
  - "Emm... well..."
