@@ -9,6 +9,7 @@
 	<tr> <td>Age</td> <td>22</td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 900</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Njáll (father)<br>Þóne (mother)</td> </tr>
 	<tr> <td>Lover</td> <td>Ljörn</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
