@@ -23,7 +23,7 @@ Ljörn was a settler who traveled to a northern island under the command of Hjal
 Ljörn has shoulder-length, dark blond hair with gentle but messy waves. His hair is pulled back and then secured by a cloth strip tied around his head. He has a light stubble and fair skin. His eyes are hooded, downturned, and dark pale blue, making him seem sad or tired to many people. He stands at 5'9" and has an average build for a warrior.
 
 ### Casual wear
-When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a necklace of an iron Talmundúr amulet.
+When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a Mjöllnir amulet.
 
 ### Traveling
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
