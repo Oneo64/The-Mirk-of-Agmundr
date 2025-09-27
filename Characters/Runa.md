@@ -22,7 +22,7 @@
 Rúna was a settler, a herbologist, and a woodcarver.
 
 ## Appearance
-Rúna has a sweet face and long, armpit-length, light brown hair that is wavy and flows freely. She has green almond-shaped eyes, fair skin with a slight reddish hue, and soft, muted freckles scattered across her face. She is slim and curvaceous, and her height is 5'4".
+Rúna has long, armpit-length, light brown hair that is wavy and flows freely. She has a sweet face, bearing green almond-shaped eyes and soft, muted freckles scattered across her face. She has fair skin that has a slight red hue. She is slim and curvaceous, and her height is 5'4".
 
 When she is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
 
@@ -32,13 +32,13 @@ Rúna wears a blue tunic dress with red edges, a braided leather ring belt, and 
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
 
 ## Personality
-Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious, but she is reluctant to enter dark forests no matter how interesting it is.
+Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious but reluctant to enter dark forests, no matter how interesting.
 
 Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something.
 
 Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things.
 
-Rúna's favorite food is roasted potatoes, especially those with salt. When she's nervous, she fidgets with the hem of her clothing.
+Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
 
 ### Voice
 Rúna speaks informally with a slight stutter. Her natural voice is soft and light.
@@ -48,7 +48,7 @@ Rúna speaks informally with a slight stutter. Her natural voice is soft and lig
  - "I'm Rúna."
 
 ### Ljörn
-Rúna is noticeably kinder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
+Rúna is noticeably kinder and bolder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
