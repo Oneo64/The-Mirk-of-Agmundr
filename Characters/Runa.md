@@ -16,15 +16,17 @@
 	<tr> <td>Gender</td> <td>Female</td> </tr>
 	<tr> <td>Height</td> <td>5'4"</td> </tr>
 	<tr> <td>Hair color</td> <td>Light brown</td> </tr>
-	<tr> <td>Eye color</td> <td>Pale green</td> </tr>
+	<tr> <td>Eye color</td> <td>Green</td> </tr>
 </tbody></table>
 
 Rúna was a settler, a herbologist, and a woodcarver.
 
 ## Appearance
-Rúna has a sweet face and long, armpit-length, light brown hair that is wavy and flows freely. Her almond-shaped eyes are large and pale green, and her skin is pale with a slight reddish hue, marked by soft freckles scattered across her face. She is slim and curvaceous, and her height is 5'4".
+Rúna has a sweet face and long, armpit-length, light brown hair that is wavy and flows freely. She has green almond-shaped eyes, fair skin with a slight reddish hue, and soft, muted freckles scattered across her face. She is slim and curvaceous, and her height is 5'4".
 
-When she is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain. She casually wears a simple, muted blue calf-length tunic, a braided leather ring belt, and leather shoes. On her belt, there is a small sheathed seax for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
+When she is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
+
+Rúna wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
 
 ### Scar
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
