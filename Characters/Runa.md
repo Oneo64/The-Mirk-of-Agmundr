@@ -28,6 +28,8 @@ When she is outside, she tends to wear a dark yellow woollen cloak with a slight
 
 Rúna wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
 
+Sometimes Rúna's smiles are a sort of wobbly, nervous smile (kind of like in a ":3" face, but only in the most subtle way).
+
 ### Scar
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
 
