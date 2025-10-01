@@ -48,7 +48,7 @@ If confronted about his behaviour, Ljörn would either try to dismiss it or not 
 ### Rúna
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
 
-Since Ljörn is the second-born son of his family and is introverted, he doesn't get as many hugs as his other siblings. He also stopped receiving any after arriving in Newfoundland. Because of this, he cherishes bold gestures with Rúna, such as long hugs and hand-holding. He doesn't mind sitting very close together for prolonged periods, but he would never initiate it because he isn't used to doing that.
+When it comes to physical closeness, Ljörn becomes very shy. Since he is the second-born son of his family and is introverted, he doesn't get as many hugs as his other siblings. He also stopped receiving any after arriving in Newfoundland. Because of this, he cherishes bold gestures with Rúna, such as long hugs and hand-holding. He doesn't mind sitting very close together for prolonged periods, but he would never initiate it because he isn't used to doing that.
 
 ### Voice Examples
  - "What do you mean?"
