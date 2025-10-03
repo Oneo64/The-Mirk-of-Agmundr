@@ -2,6 +2,7 @@
 
 <table align=right><tbody>
 	<tr> <th colspan=2>Rúna</th> </tr>
+	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Woodcarver</td> </tr>
