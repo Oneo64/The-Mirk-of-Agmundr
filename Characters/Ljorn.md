@@ -92,10 +92,6 @@ Because Ljörn was shot in the shoulder with an arrow during a raid, his left ar
 ### Rægatafl
 Ljörn knows how to play Rægatafl, a local board game.
 
-## Notes
-[^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Ljörn developed PTSD when his home village was raided by Norwegian Vikings during nighttime.
-
 ## Name Translations
  - **Younger Futhark:** ᛚᛁᚢᚱᚾ
  - **English, Norwegian, Swedish, Danish:** Ljorn
@@ -104,3 +100,7 @@ Ljörn knows how to play Rægatafl, a local board game.
  - **Simplified Chinese:** 李约恩
  - **Korean:** 료른
  - **Japanese:** リョルン
+
+## Notes
+[^1]: Ljörn's sword is a Peterson Type L sword.
+[^2]: Ljörn developed PTSD when his home village was raided by Norwegian Vikings during nighttime.
