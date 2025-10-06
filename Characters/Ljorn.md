@@ -96,6 +96,8 @@ Ljörn knows how to play Rægatafl, a local board game.
  - **Younger Futhark:** ᛚᛁᚢᚱᚾ
  - **English, Norwegian, Swedish, Danish:** Ljorn
  - **Latin:** Liœrn
+ - **Greek:** Λιορν
+ - **Russian:** Лёрн
  - **Traditional Chinese:** 李約恩
  - **Simplified Chinese:** 李约恩
  - **Korean:** 료른

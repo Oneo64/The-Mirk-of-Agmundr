@@ -104,6 +104,8 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
  - **Younger Futhark:** ᚱᚢᚾᛅ
  - **English, Norwegian, Swedish, Danish:** Runa
  - **Latin:** Rūna
+ - **Greek:** Ρούνα
+ - **Russian:** Руна
  - **Traditional Chinese:** 魯娜
  - **Simplified Chinese:** 鲁娜
  - **Korean:** 루나
