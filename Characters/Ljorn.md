@@ -95,3 +95,12 @@ Ljörn knows how to play Rægatafl, a local board game.
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
 [^2]: Ljörn developed PTSD when his home village was raided by Norwegian Vikings during nighttime.
+
+## Name Translations
+ - **Younger Futhark:** ᛚᛁᚢᚱᚾ
+ - **English, Norwegian, Swedish, Danish:** Ljorn
+ - **Latin:** Liœrn
+ - **Traditional Chinese:** 李約恩
+ - **Simplified Chinese:** 李约恩
+ - **Korean:** 료른
+ - **Japanese:** リョルン

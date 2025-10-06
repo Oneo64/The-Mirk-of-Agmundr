@@ -99,3 +99,12 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
  - **Rúna's voice drops to a mutter.**
  - **Rúna:** "Sakka þér." *(Thank you.)*
  - **Rúna turns and leaves the seller's stand.**
+
+## Name Translations
+ - **Younger Futhark:** ᚱᚢᚾᛅ
+ - **English, Norwegian, Swedish, Danish:** Runa
+ - **Latin:** Rūna
+ - **Traditional Chinese:** 魯娜
+ - **Simplified Chinese:** 鲁娜
+ - **Korean:** 루나
+ - **Japanese:** ルーナ
