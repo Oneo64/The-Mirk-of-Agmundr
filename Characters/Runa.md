@@ -3,6 +3,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Rúna</th> </tr>
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr/blob/main/Characters/Art/Runa/RunaNoCloak.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Woodcarver</td> </tr>
@@ -85,16 +86,16 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 **Average interaction with a merchant:**
 
  - **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
- - **Seller:** "Vorna summ, kæri?" *(Need something, dear?)*
- - **Rúna:** "Ött... færr zin. Fyrir tyður." *(Just... a bit of ginger. For aches.)*
+ - **Seller:** "Virna sum þing, kæri?" *(Need something, dear?)*
+ - **Rúna:** "Ateinn... færr zin. Fyrir tyður." *(Just... a bit of ginger. For aches.)*
  - **The seller nods and gestures towards a pile of ginger.**
- - **Seller:** "Þessir ar frá útlandr, svo þessir mændu ar lítt grípligt. Átt kúnnir." *(They're imported, so it they might be a little expensive. Eight coins.)*
- - **Rúna:** "Hvöð-" *(Wait-)*
+ - **Seller:** "Þettar ar frá útlandum, svo þettar mændu ar lítt grípligr. Átt kúnnar." *(They're imported, so it they might be a little expensive. Eight coins.)*
+ - **Rúna:** "Hveða—" *(Wait—)*
  - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
- - **Seller:** "Finnligt mótullhnititt. Ar það fángva?" *(Nice cloak pin. Is it bronze?)*
+ - **Seller:** "Það ar finnligt mótullhnit. Ar það frá fángvi?" *(Nice cloak pin. Is it bronze?)*
  - **Rúna flusters lightly at the unexpected comment.**
- - **Rúna:** "J-já. Það... það ar frá minn ellrimöðriss." *(Y-yes. It's... it's from my grandmother.)*
- - **Seller:** "Það hem nýtr fyrir þinn." *(It suits you well.)*
+ - **Rúna:** "J-já. Það... það ar frá mín ellrimóðir." *(Y-yes. It's... it's from my grandmother.)*
+ - **Seller:** "Það hemir nýtr fyrir þíns." *(It suits you well.)*
  - **Rúna's voice drops to a mutter.**
- - **Rúna:** "Sakka þik." *(Thank you.)*
+ - **Rúna:** "Sakka þér." *(Thank you.)*
  - **Rúna turns and leaves the seller's stand.**

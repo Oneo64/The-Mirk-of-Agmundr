@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljörn</th> </tr>
 	<tr> <th colspan=2>ᛚᛁᚢᚱᚾ</th> </tr>
-	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr/blob/main/Characters/Art/Ljorn/PortraitLowRes.png" alt="test" width="250"></th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr/blob/main/Characters/Art/Ljorn/PortraitLowRes.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
