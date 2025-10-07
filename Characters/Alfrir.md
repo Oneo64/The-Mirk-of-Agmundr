@@ -2,6 +2,7 @@
 
 <table align=right><tbody>
 	<tr> <th colspan=2>Alfrir</th> </tr>
+	<tr> <th colspan=2>ᛅᛚᚠᚱᛁᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
@@ -80,3 +81,13 @@ Alfrir can only speak Oddarish. Sometimes he can pick up small hints from a Cent
 
 ### Rægatafl
 Alfrir knows how to play Rægatafl.
+
+## Name Translations
+ - **Younger Futhark:** ᛅᛚᚠᚱᛁᚱ
+ - **English, Danish, Norwegian, Swedish, German, Latin:** Alfrir
+ - **Greek:** Αλφρίρ
+ - **Russian:** Альфрир
+ - **Traditional Chinese:** 阿爾弗里爾
+ - **Simplified Chinese:** 阿尔弗里尔
+ - **Korean:** 알퍼
+ - **Japanese:** アルフリル
