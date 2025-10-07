@@ -72,7 +72,7 @@ For some reason, Sága knows how to hypnotize a chicken.
  - **English, Danish, Norwegian, Swedish:** Saga
  - **German:** Sauga
  - **Latin:** Sāga
- - **Greek:** Λιορν
+ - **Greek:** Σάγα
  - **Russian:** Сага
  - **Traditional Chinese:** 薩嘉
  - **Simplified Chinese:** 萨嘉
