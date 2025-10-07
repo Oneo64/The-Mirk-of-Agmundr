@@ -2,6 +2,7 @@
 
 <table align=right><tbody>
 	<tr> <th colspan=2>Sága</th> </tr>
+	<tr> <th colspan=2>ᛋᛅᚢᚴᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
@@ -65,6 +66,18 @@ Apart from Old Norse, Sága can speak Proto-Germanic.
 
 ### Hypnotism
 For some reason, Sága knows how to hypnotize a chicken.
+
+## Name Translations
+ - **Younger Futhark:** ᛋᛅᚢᚴᛅ
+ - **English, Danish, Norwegian, Swedish:** Saga
+ - **German:** Sauga
+ - **Latin:** Sāga
+ - **Greek:** Λιορν
+ - **Russian:** Сага
+ - **Traditional Chinese:** 薩嘉
+ - **Simplified Chinese:** 萨嘉
+ - **Korean:** 사가
+ - **Japanese:** サーガ
 
 ## Notes
 [^1]: Ljörn has PTSD.
