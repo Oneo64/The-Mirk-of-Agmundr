@@ -38,7 +38,7 @@ He wears a maille-less Gjermundbu helmet in combat. He has a spear and a white, 
 
 ### Arc
  - Positive Arc
- - PERSUASIVE -> REGRET -> OPEN-MINDED
+ - PERSUASIVE &rarr; REGRET &rarr; OPEN-MINDED
  - **Ghost:** Ljörn is too passive.
  - **Lie:** Ljörn needs to be as mature and as lively as me.
  - **Want:** I want Ljörn to not be a coward.
@@ -56,7 +56,7 @@ He wears a maille-less Gjermundbu helmet in combat. He has a spear and a white, 
  - **Goal:** To explore the new land.
  - **Motivation:** Successfulness and wealthiness.
 
-## Example Dialogue
+## Example Dialogues
  - "Ljörn, think about it! We could become-"
  - "Hey. Are you still thinking about Álahringr?"
  - "I told you this land would be prosperous. And, they're going to Fjörðvík, father is. The war won't touch them there. You don't need to worry about them."

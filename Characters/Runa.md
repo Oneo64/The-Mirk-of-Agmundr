@@ -43,25 +43,14 @@ Rúna has a small degree of perfectionism. However, her perfectionism isn't the 
 
 Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
-Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
+Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing. She speaks informally with a slight stutter. Her natural voice is soft and light.
 
 ### Ljörn
 Rúna is noticeably kinder and bolder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
-Rúna would sometimes accidentally call Ljörn *kæri*, then get embarrased when he notices.
-
-### Voice
-Rúna speaks informally with a slight stutter. Her natural voice is soft and light.
-
- - "Are you really?"
- - "Emm... well..."
- - "I'm Rúna."
-
-### Goals
- - **Goal:** To explore the new land.
- - **Motivation:** To find new undiscovered herbs.
+Rúna would sometimes accidentally call Ljörn *kæri*, then get embarrassed when he notices.
 
 ## Abilities
 ### Arts and Crafts
@@ -83,7 +72,16 @@ Rúna is a herbalist and can identify many common herbs that grow in the north. 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defense against wild animals.
 
-## Examples of Rúna's speech and reactions
+## Goals
+ - **Goal:** To explore the new land.
+ - **Motivation:** To find new undiscovered herbs.
+
+## Example Dialogues
+ - "Are you really?"
+ - "Emm... well..."
+ - "I'm Rúna."
+
+### Examples of Rúna's speech and reactions
 **Average interaction with a merchant:**
 
  - **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
