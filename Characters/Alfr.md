@@ -17,7 +17,7 @@
 	<tr> <td>Gender</td> <td>Male</td> </tr>
 	<tr> <td>Height</td> <td>5'8"</td> </tr>
 	<tr> <td>Hair color</td> <td>Brown</td> </tr>
-	<tr> <td>Eye color</td> <td>$${\color{red}Red}$$</td> </tr>
+	<tr> <td>Eye color</td> <td>Dark blue</td> </tr>
 </tbody></table>
 
 Álfr is a settler from Álahringr who travelled to a northern island as part of Hjalvir's company, and is also the one who persuaded Ljörn to go there with him.
