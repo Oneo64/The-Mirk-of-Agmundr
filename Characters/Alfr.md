@@ -17,13 +17,13 @@
 	<tr> <td>Gender</td> <td>Male</td> </tr>
 	<tr> <td>Height</td> <td>5'8"</td> </tr>
 	<tr> <td>Hair color</td> <td>Brown</td> </tr>
-	<tr> <td>Eye color</td> <td>Dark blue</td> </tr>
+	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
 Álfr is a settler from Álahringr who travelled to a northern island as part of Hjalvir's company, and is also the one who persuaded Ljörn to go there with him.
 
 ## Appearance
-Álfr has fair skin, which is slightly tanned, dark blue eyes, brown hair that extends to his armpits, and stubble.
+Álfr has fair skin, which is slightly tanned, blue eyes, brown hair that extends to his armpits, and stubble.
 
 He wears a blue woollen cap with green accents, a dark blue shawl, a maille hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12-inch-long seax, and he wears boots on his feet. He wears an iron Talmundúr amulet. He is 5'8" tall.
 
