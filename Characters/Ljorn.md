@@ -64,12 +64,18 @@ When it comes to physical closeness, Ljörn becomes very shy. Since he is the se
 
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from several encounters, including a draugr, a wild bear, and two Norwegian Vikings.
 
-Because Ljörn was shot in the shoulder with an arrow during a raid, his left arm was weakened.
+Ljörn's left arm is weak because of an arrow injury during a raid on his home village. He can hold his shield up fine, but he is more tired from taking blows.
 
 ### Hunting
-Ljörn can hunt deer. He hunts by throwing his spear at prey, aiming for the shoulder or flank.
+Ljörn can hunt deer. He hunts by throwing his spear at prey, aiming for the shoulder or flank. He also knows how to skin them for their hides.
+
+### Stealth
+Because of his hunting skill, Ljörn is also good at moving stealthily, especially in forest terrain.
+
+### Tree-climbing
+Ljörn once climbed a tree in an attempt to escape a bear.
 
 ### Rægtafl
 Ljörn knows how to play Rægtafl, but he isn't the best at it.
