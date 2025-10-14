@@ -6,7 +6,7 @@
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
-	<tr> <td>Hobbies</td> <td>Forest Explotation<br>Rægtafl</td> </tr>
+	<tr> <td>Hobbies</td> <td>Forest Explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
