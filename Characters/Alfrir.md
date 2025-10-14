@@ -5,7 +5,8 @@
 	<tr> <th colspan=2>ᛅᛚᚠᚱᛁᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
-	<tr> <td>Occupation</td> <td>Settler</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
+	<tr> <td>Hobbies</td> <td>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
@@ -79,7 +80,7 @@ He has six years worth of spear fighting practice, and makes him above average i
 ### Language
 Alfrir can only speak Oddarish. Sometimes he can pick up small hints from a Centrumic conversation due to familiarity and similarly, but can also lead to misunderstanding.
 
-### Rægatafl
+### Rægtafl
 Alfrir knows how to play Rægatafl.
 
 ## Name Translations

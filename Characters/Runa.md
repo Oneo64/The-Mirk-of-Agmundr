@@ -6,7 +6,8 @@
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr/blob/main/Characters/Art/Runa/RunaNoCloak.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
-	<tr> <td>Occupation</td> <td>Woodcarver</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
+	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>22</td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 900</td> </tr>
@@ -40,7 +41,7 @@ Rúna is slightly introverted. She is bashful, easily flustered, and sometimes a
 
 Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something.
 
-Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things.
+Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
 Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
 

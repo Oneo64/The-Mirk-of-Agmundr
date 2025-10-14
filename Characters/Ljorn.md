@@ -5,7 +5,8 @@
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/Aldraheimr/blob/main/Characters/Art/Ljorn/PortraitLowRes.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
-	<tr> <td>Occupation</td> <td>Settler</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
+	<tr> <td>Hobbies</td> <td>Hunting<br>Rægtafl<br>Tree-felling<br>Woodcutting</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
@@ -19,7 +20,7 @@
 	<tr> <td>Eye color</td> <td>Dark pale blue</td> </tr>
 </tbody></table>
 
-Ljörn was a settler who traveled to a northern island under the command of Hjalvir.
+Ljörn was a settler who traveled to a northern island under the command of Hjalvir. He is now a farmer. In his spare time, he hunts deer and brings his game home.
 
 ## Appearance
 Ljörn has armpit-length, dark blond hair with gentle but messy waves. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard, which makes his jawline look soft, and fair skin. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He has an ottermode build and stands at a height of 5'9".
@@ -89,7 +90,10 @@ Ljörn fights with a spear and shield, and his combat abilities with weapons are
 
 Because Ljörn was shot in the shoulder with an arrow during a raid, his left arm was weakened.
 
-### Rægatafl
+### Hunting
+Ljörn can hunt deer.
+
+### Rægtafl
 Ljörn knows how to play Rægatafl, a local board game.
 
 ## Name Translations
