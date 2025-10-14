@@ -69,7 +69,7 @@ Ljörn fights with a spear and shield, and his combat abilities with weapons are
 Ljörn's left arm is weak because of an arrow injury during a raid on his home village. He can hold his shield up fine, but he is more tired from taking blows.
 
 ### Hunting
-Ljörn can hunt deer. He hunts by throwing his spear at prey, aiming for the shoulder or flank. He also knows how to skin them for their hides.
+Ljörn can hunt deer. He hunts by throwing his spear at prey, aiming for the shoulder or flank, then finishes them off with his seax. He also knows how to skin them for their hides.
 
 ### Stealth
 Because of his hunting skill, Ljörn is also good at moving stealthily, especially in forest terrain.
