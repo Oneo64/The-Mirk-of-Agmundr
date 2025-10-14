@@ -70,7 +70,7 @@ Rúna is a herbalist and can identify many common herbs that grow in the north. 
  - Ekraldys toadstools are poisonous
 
 ### Physicality
-Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defense against wild animals.
+Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defence against wild animals.
 
 ## Goals
  - **Goal:** To explore the new land.
