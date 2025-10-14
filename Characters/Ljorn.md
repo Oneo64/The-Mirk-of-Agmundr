@@ -71,7 +71,6 @@ Ljörn's left arm is weak because of an arrow injury during a raid on his home v
 ### Hunting
 Ljörn can hunt deer. He hunts by throwing his spear at prey, aiming for the shoulder or flank, then finishes them off with his seax. He also knows how to skin them for their hides.
 
-### Stealth
 Because of his hunting skill, Ljörn is also good at moving stealthily, especially in forest terrain.
 
 ### Tree-climbing
