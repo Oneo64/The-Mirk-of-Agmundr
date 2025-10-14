@@ -1,12 +1,12 @@
-# Alfrir
+# Álfr
 
 <table align=right><tbody>
-	<tr> <th colspan=2>Alfrir</th> </tr>
+	<tr> <th colspan=2>Álfr</th> </tr>
 	<tr> <th colspan=2>ᛅᛚᚠᚱᛁᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
-	<tr> <td>Hobbies</td> <td>Rægtafl</td> </tr>
+	<tr> <td>Hobbies</td> <td>Forest Explotation<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
@@ -20,22 +20,22 @@
 	<tr> <td>Eye color</td> <td>Dark blue</td> </tr>
 </tbody></table>
 
-Alfrir is an explorer from Álahringr.
+Álfr is a settler from Álahringr who travelled to a northern island as part of Hjalvir's company, and is also the one who persuaded Ljörn to go there with him.
 
 ## Appearance
-Alfrir has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
+Álfr has fair skin which is slightly tanned, dark blue eyes, brown hair that goes all the way down to his armpits, and a stubble.
 
 He wears a blue woolen cap with green accents, dark blue shawl, a maille hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12 inch long seax, and he wears boots on his feet. He wears an iron Talmundúr amulet. He is 5'8" centimeters tall.
 
 He wears a maille-less Gjermundbu helmet in combat. He has a spear, and a white round shield with a black symbol (Helm of Awe) painted on it.
 
 ## Personality
-Alfrir can be described as a competitive and persuasive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or people with greater political power.
+Álfr can be described as a competitive and persuasive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings, and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or people with greater political power.
 
-Alfrir has a subtle sense of humor, yet his sense of humor only shows during hard times.
+Álfr has a subtle sense of humor, yet his sense of humor only shows during hard times.
 
 ### Voice
-Alfrir speaks casually. He also has the tendancy to blurt words out.
+Álfr speaks casually. He also has the tendancy to blurt words out.
 
  - "Ljörn, think about it! We could become-"
  - "Hey. Are you still thinking about Álahringr?"
@@ -54,41 +54,36 @@ Alfrir speaks casually. He also has the tendancy to blurt words out.
  - "Yes, but this one's got eggs."
  - "Ljörn, stop that!"
  - "Don't lie. You had the same thing on the boat. I know you were awake, so don't fool me now."
-- "Right. I'll be back."
-
+ - "Right. I'll be back."
  - "Ugh... nasty thing. It's gone done me."
 
 ### Goals
-**Goal:** To explore the new land.
-**Motivation:** Successfulness and wealthiness.
+ - **Goal:** To explore the new land.
+ - **Motivation:** Successfulness and wealthiness.
 
 ### Arc
-Positive Arc
-PERSUASIVE -> REGRET -> OPEN-MINDED
-**Ghost:** Ljörn is too passive.
-**Lie:** Ljörn needs to be as mature and as lively as me.
-**Want:** I want Ljörn to not be a coward.
-**Need:** I need to realise that Ljörn is under pressure.
-**Truth:** Ljörn wants personal peace.
+ - Positive Arc
+ - PERSUASIVE -> REGRET -> OPEN-MINDED
+ - **Ghost:** Ljörn is too passive.
+ - **Lie:** Ljörn needs to be as mature and as lively as me.
+ - **Want:** I want Ljörn to not be a coward.
+ - **Need:** I need to realise that Ljörn is under pressure.
+ - **Truth:** Ljörn wants personal peace.
 
 ## Abilities
 ### Physicality
-Alfrir has combat experience from raiding a castle ruins, fighting against couple of draugar. This raiding was with his brother Ljörn, and three other people (Baulnir, Elkfriða, and Sága).
-
-He has six years worth of spear fighting practice, and makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike.
-
-### Language
-Alfrir can only speak Oddarish. Sometimes he can pick up small hints from a Centrumic conversation due to familiarity and similarly, but can also lead to misunderstanding.
+Álfr has six years worth of spear fighting practice, and makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike.
 
 ### Rægtafl
-Alfrir knows how to play Rægatafl.
+Álfr knows how to play Rægtafl.
 
 ## Name Translations
- - **Younger Futhark:** ᛅᛚᚠᚱᛁᚱ
- - **English, Danish, Norwegian, Swedish, German, Latin:** Alfrir
- - **Greek:** Αλφρίρ
- - **Russian:** Альфрир
- - **Traditional Chinese:** 阿爾弗里爾
- - **Simplified Chinese:** 阿尔弗里尔
- - **Korean:** 알퍼
- - **Japanese:** アルフリル
+ - **Younger Futhark:** ᛅᚢᛚᚠᚱ
+ - **Icelandic:** Álfur
+ - **English, Danish, Norwegian, Swedish, German, Latin:** Alf
+ - **Greek:** Άλφρ
+ - **Russian:** Альф
+ - **Traditional Chinese:** 阿爾夫
+ - **Simplified Chinese:** 阿尔夫
+ - **Korean:** 알프
+ - **Japanese:** アルフ
