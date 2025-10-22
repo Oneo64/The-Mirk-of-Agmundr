@@ -51,7 +51,7 @@ Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PT
 If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
 
 ### Rúna
-[*See: Rúna.md*](Rúna.md)
+[*See: Rúna.md*](Runa.md)
 
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
 
