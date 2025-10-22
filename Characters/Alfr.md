@@ -49,7 +49,9 @@ However, in combat, Álfr becomes reckless and impulsive. He is cowardly, which 
 
 ## Abilities
 ### Physicality
-Álfr has six years' worth of spear-fighting practice, which makes him above average in combat with his spear. He usually likes to fight safely by keeping a distance with his shield in front of him, waiting for an opening to strike. Without his spear, unless the enemy had their weapon pointing at him (if they had one), he would throw himself at them, tackle them to the ground, and try to get a stab with his seax.
+Álfr has six years' worth of spear-fighting practice, which makes him above average in combat with his spear.
+
+Álfr has an odd defensive-offensive fighting style. He would start by keeping a safe distance with his shield in front of him, waiting for an opening to strike. Without his spear, unless the enemy had their weapon pointing at him (if they had one), he would throw himself at them, tackle them to the ground, and try to get a stab with his seax.
 
 ### Rægtafl
 Álfr knows how to play Rægtafl.
