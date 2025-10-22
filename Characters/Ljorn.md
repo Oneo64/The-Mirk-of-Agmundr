@@ -34,11 +34,13 @@ When he travels or prepares for combat, Ljörn puts on a nasal helmet and his by
 ## Personality
 Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
 
-Ljörn doesn't have a good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher.
+Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher.
 
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
-Ljörn's favorite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favorite food is dried, hard bread with the crust because it's chewy.
+Ljörn's favourite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
+
+Ljörn's natural voice has a warm tone. His voice is slightly gravelly. It isn't deep or light, sitting around the middle. When tired, he gains a slightly hoarse voice, but he would be muttering nonetheless.
 
 ### Voice
 Ljörn doesn't speak much. When speaking to strangers, he tends to give one word answers. He speaks casually and informally, and sometimes he would grumble or mumble answers. Despite his casual and informal speech, he also speaks very directly, but never bluntly. If he does bluntly blurt something out, he only does it rarely when he's surprised. On top of that, he occasionally pauses between his speech. *(See Example Dialogues below to see examples of how he speaks.)*

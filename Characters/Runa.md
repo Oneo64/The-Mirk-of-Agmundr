@@ -43,7 +43,9 @@ Rúna has a small degree of perfectionism. However, her perfectionism isn't the 
 
 Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
-Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing. She speaks informally with a slight stutter. Her natural voice is soft and light.
+Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing. She speaks informally with a slight stutter.
+
+Rúna's natural voice is soft and light. Her voice is smooth but is not thick or viscous, like a healing balm.
 
 ### Ljörn
 Rúna is noticeably kinder and bolder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
