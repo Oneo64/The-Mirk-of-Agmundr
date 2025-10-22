@@ -34,9 +34,11 @@ In combat, Álfr wears a maskless Gjermundbu helmet and a maille hauberk. He has
 
 However, in combat, Álfr becomes reckless and impulsive. He is cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
 
+Since Álfr is impulsive, he has the habit of blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
+
 Álfr has a subtle sense of humour, yet it only shows during stressful times.
 
-Álfr speaks casually and tends to blurt his words out. His love languages are acts of service and words of affirmation.
+Álfr's love languages are acts of service and words of affirmation. With people he is very close to, his outer bold self softens.
 
 ### Arc
  - Positive Arc
