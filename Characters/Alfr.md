@@ -30,11 +30,11 @@ He wears a blue woollen cap with green accents, a dark blue shawl, a maille haub
 He wears a maille-less Gjermundbu helmet in combat. He has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
 
 ## Personality
-Álfr can be described as a competitive and persuasive warrior. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings and is careful not to knock anything over or do anything clumsy. However, he can show cowardice to the unknown, to people with much more fighting power, or to people with greater political power.
+Álfr is competitive and persuasive. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings and is careful not to knock anything over or do anything clumsy.
 
-Álfr has a subtle sense of humour, yet it only shows during hard or stressful times.
+Álfr is cowardly when facing the unknown or people with more power.
 
-Álfr speaks casually and tends to blurt his words out.
+Álfr speaks casually and tends to blurt his words out. He has a subtle sense of humour, yet it only shows during stressful times.
 
 Álfr's love languages are acts of service are words of affirmation.
 
