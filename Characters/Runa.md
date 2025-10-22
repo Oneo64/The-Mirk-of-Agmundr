@@ -48,6 +48,8 @@ Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem
 Rúna's natural voice is soft and light. Her voice is smooth but is not thick or viscous, like a healing balm.
 
 ### Ljörn
+[See: Ljörn.md](Ljörn.md)
+
 Rúna is noticeably kinder and bolder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.

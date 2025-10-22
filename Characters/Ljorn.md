@@ -51,6 +51,8 @@ Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PT
 If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
 
 ### Rúna
+[See: Rúna.md](Rúna.md)
+
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia.
 
 When it comes to physical closeness, Ljörn becomes very shy. Since he is the second-born son of his family and is introverted, he doesn't get as many hugs as his other siblings. He also stopped receiving any after arriving in Newfoundland. Because of this, he cherishes bold gestures with Rúna, such as long hugs and hand-holding. He doesn't mind sitting very close together for prolonged periods, but he would never initiate it because he isn't used to doing that.
