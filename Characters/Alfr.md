@@ -36,6 +36,8 @@ He wears a maille-less Gjermundbu helmet in combat. He has a spear and a white, 
 
 Álfr speaks casually and tends to blurt his words out.
 
+Álfr's love languages are acts of service are words of affirmation.
+
 ### Arc
  - Positive Arc
  - PERSUASIVE &rarr; REGRET &rarr; OPEN-MINDED
