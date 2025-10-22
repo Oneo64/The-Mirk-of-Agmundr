@@ -23,20 +23,20 @@
 Álfr is a settler from Álahringr who travelled to a northern island as part of Hjalvir's company, and is also the one who persuaded Ljörn to go there with him.
 
 ## Appearance
-Álfr has fair skin, which is slightly tanned, blue eyes, brown hair that extends to his armpits, and stubble.
+Álfr has armpit-length brown hair, a stubble beard, and skin that is slightly tanned. His blue eyes have a boyish shape, as described by Ljörn. He stands at a height of 5'8".
 
-He wears a blue woollen cap with green accents, a dark blue shawl, a maille hauberk, a dark green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12-inch-long seax, and he wears boots on his feet. He wears an iron Talmundúr amulet. He is 5'8" tall.
+Álfr wears a blue cap with green accents, a dark blue shawl, a muted green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12-inch-long seax, and he wears boots on his feet. He wears an iron Mjöllnir amulet.
 
-He wears a maille-less Gjermundbu helmet in combat. He has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
+In combat, Álfr wears a maskless Gjermundbu helmet and a maille hauberk. He has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
 
 ## Personality
-Álfr is competitive and persuasive. He is also impulsive, sometimes not thinking before acting out. He is also mindful of his surroundings and is careful not to knock anything over or do anything clumsy.
+Álfr is competitive and persuasive. He is mindful of his surroundings and is careful not to knock anything over or do anything clumsy.
 
-Álfr is cowardly when facing the unknown or people with more power.
+However, in combat, Álfr becomes reckless and impulsive. He is cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
 
-Álfr speaks casually and tends to blurt his words out. He has a subtle sense of humour, yet it only shows during stressful times.
+Álfr has a subtle sense of humour, yet it only shows during stressful times.
 
-Álfr's love languages are acts of service are words of affirmation.
+Álfr speaks casually and tends to blurt his words out. His love languages are acts of service and words of affirmation.
 
 ### Arc
  - Positive Arc
