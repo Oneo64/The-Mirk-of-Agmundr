@@ -52,6 +52,8 @@ Rúna's natural voice is soft and light. Her voice is smooth but is not thick or
 
 Rúna is noticeably kinder and bolder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
+Rúna cherishes words of affirmation and quality time the most.
+
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
 Rúna would sometimes accidentally call Ljörn *kæri*, then get embarrassed when he notices.
