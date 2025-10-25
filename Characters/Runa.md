@@ -68,10 +68,13 @@ Rúna is a herbalist and can identify many common herbs that grow in the north. 
 **Rúna knows that:**
 
  - Ginger can be used to treat aches
- - Catnip and Chamomile is a herb for relaxation
+ - Catnip and Chamomile are herbs for relaxation
  - Juniper is a greater protection herb
  - Mint and Yarrow are lesser protection herbs
  - Ekraldys toadstools are poisonous
+
+### Weaving
+Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She also knows how to add a differently-coloured hem, but embroidery is too difficult for her.
 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defence against wild animals.
