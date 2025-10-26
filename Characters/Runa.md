@@ -59,23 +59,26 @@ Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn
 
 ## Abilities
 ### Arts and Crafts
+#### Woodcarving
 Since Rúna is a woodcarver, she can carve wood into spoons, forks, animal figurines, or runesticks. Her figurine work isn't very detailed, but they're shapely enough to tell what they are.
 
-Rúna has a set of woodcarving tools, which help her shape and detail wood.
+Rúna owns a set of woodcarving tools, which help her shape and detail wood.
+
+#### Weaving and Sewing
+Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She knows how to add a differently-coloured hem, but not embroidery.
+
+#### Dyeing
+Rúna knows how to dye clothing unprofessionally.
 
 ### Herbalism
 Rúna is a herbalist and can identify many common herbs that grow in the north. However, she only knows the usage of a few plants.
 
-**Rúna knows that:**
-
+#### Rúna knows that:
  - Ginger can be used to treat aches
  - Catnip and Chamomile are herbs for relaxation
  - Juniper is a greater protection herb
  - Mint and Yarrow are lesser protection herbs
  - Ekraldys toadstools are poisonous
-
-### Weaving
-Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She also knows how to add a differently-coloured hem, but embroidery is too difficult for her.
 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defence against wild animals.
