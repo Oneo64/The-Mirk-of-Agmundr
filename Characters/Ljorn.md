@@ -40,10 +40,10 @@ When Ljörn gets frustrated, he quietly uses strong language under his breath, b
 
 Ljörn's favourite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
 
-Ljörn's natural voice has a lukewarm and gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
-
 ### Voice
-Ljörn doesn't speak much. When speaking to strangers, he tends to give one word answers. He speaks casually and informally, and sometimes he would grumble or mumble answers. Despite his casual and informal speech, he also speaks very directly, but never bluntly. If he does bluntly blurt something out, he only does it rarely when he's surprised. On top of that, he occasionally pauses between his speech. *(See Example Dialogues below to see examples of how he speaks.)*
+Ljörn speaks informally. He doesn't talk a lot, often answering people with one or two words. During his shy moments, he mutters or sometimes even grumbles. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
+
+Ljörn's natural voice has a lukewarm and gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
 
 ### PTSD
 Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.

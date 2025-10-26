@@ -43,7 +43,10 @@ Rúna has a small degree of perfectionism. However, her perfectionism isn't the 
 
 Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
-Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing. She speaks informally with a slight stutter.
+Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
+
+### Voice
+Rúna speaks informally with a slight stutter.
 
 Rúna's natural voice is soft and light. Her voice is smooth but is not thick or viscous, like a healing balm.
 
@@ -92,16 +95,16 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 **Average interaction with a merchant:**
 
  - **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
- - **Seller:** "Virna sum þing, kæri?" *(Need something, dear?)*
- - **Rúna:** "Ateinn... færr zin. Fyrir tyður." *(Just... a bit of ginger. For aches.)*
+ - **Seller:** "Vinnaðu sumt þing, kæri?" *(Need something, dear?)*
+ - **Rúna:** "Ateinn... færr gvir. Fyrir töður." *(Just... a bit of ginger. For aches.)*
  - **The seller nods and gestures towards a pile of ginger.**
- - **Seller:** "Þettar ar frá útlandum, svo þettar mændu ar lítt grípligr. Átt kúnnar." *(They're imported, so it they might be a little expensive. Eight coins.)*
- - **Rúna:** "Hveða—" *(Wait—)*
+ - **Seller:** "Þettar ar frá útlandum, svo þettar getir verið lítt grípligr. Átt kúnnar." *(They're imported, so it they might be a little expensive. Eight coins.)*
+ - **Rúna:** "Hveðu—" *(Wait—)*
  - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
- - **Seller:** "Það ar finnligt mótullhnit. Ar það frá fángvi?" *(Nice cloak pin. Is it bronze?)*
+ - **Seller:** "Það ar finnligt mótullhnit. Ar það ór fángvi?" *(Nice cloak pin. Is it bronze?)*
  - **Rúna flusters lightly at the unexpected comment.**
- - **Rúna:** "J-já. Það... það ar frá mín ellrimóðir." *(Y-yes. It's... it's from my grandmother.)*
- - **Seller:** "Það hemir nýtr fyrir þíns." *(It suits you well.)*
+ - **Rúna:** "J-já. Það... það ar frá mín elmóður." *(Y-yes. It's... it's from my grandmother.)*
+ - **Seller:** "Það hemir nýtr fyrir þér." *(It suits you well.)*
  - **Rúna's voice drops to a mutter.**
  - **Rúna:** "Sakka þér." *(Thank you.)*
  - **Rúna turns and leaves the seller's stand.**
