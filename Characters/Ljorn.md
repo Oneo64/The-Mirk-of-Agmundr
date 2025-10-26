@@ -40,7 +40,7 @@ When Ljörn gets frustrated, he quietly uses strong language under his breath, b
 
 Ljörn's favourite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
 
-Ljörn's natural voice has a lukewarm and gravelly texture, but it has a cold tone. When he is tired, his voice becomes slightly hoarse.
+Ljörn's natural voice has a lukewarm and gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
 
 ### Voice
 Ljörn doesn't speak much. When speaking to strangers, he tends to give one word answers. He speaks casually and informally, and sometimes he would grumble or mumble answers. Despite his casual and informal speech, he also speaks very directly, but never bluntly. If he does bluntly blurt something out, he only does it rarely when he's surprised. On top of that, he occasionally pauses between his speech. *(See Example Dialogues below to see examples of how he speaks.)*
