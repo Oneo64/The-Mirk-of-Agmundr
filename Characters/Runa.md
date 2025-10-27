@@ -70,6 +70,9 @@ Rúna knows how to sew basic clothing and apparel, learned from Þóne (her moth
 #### Dyeing
 Rúna knows how to dye clothing unprofessionally.
 
+### Cooking
+Rúna knows how to make simple soups, stews, and prepare meats like steaks and fish.
+
 ### Herbalism
 Rúna is a herbalist and can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
 
@@ -79,9 +82,6 @@ Rúna is a herbalist and can identify many common herbs that grow in the north, 
  - Juniper is a greater protection herb
  - Mint and Yarrow are lesser protection herbs
  - Ekraldys toadstools are poisonous
-
-### Cooking and Food Preservation
-Rúna knows how to make simple soups, stews, and prepare meats like steaks and fish.
 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defence against wild animals.
