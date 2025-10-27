@@ -60,6 +60,7 @@ Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn
 ## Abilities
 ### Domestic Skills
  - **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
+- **Diary Work:** Rúna can make skyr, but not other dairy products like cheese and butter.
 - **Dyeing:** Rúna knows how to dye clothing unprofessionally.
 - **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She knows how to add a differently-coloured hem, but not embroidery.
 
