@@ -48,7 +48,7 @@ Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem
 ### Voice
 Rúna speaks informally and doesn't talk much, much like her reservedness. She stutters when embarrassed.
 
-Rúna's natural voice has a smooth, soft texture and a slightly lighter pitch, like the sound of a [slow-flowing river](https://www.youtube.com/watch?v=HQV4u0PjIq4).
+Rúna's natural voice has a smooth, soft texture and a slightly lighter pitch, like a healing balm or the sound of a [slow-flowing river](https://www.youtube.com/watch?v=HQV4u0PjIq4).
 
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
