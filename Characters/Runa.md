@@ -100,7 +100,7 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
  - **Seller:** "Þarftu einhvert, kæri?"
  - **Rúna:** "Bara... smá engifer. Fyrir verkjum."
  - **The seller nods and gestures towards a pile of ginger.**
- - **Seller:** "Þessi eru in fluttering svo þau megi að vera svolítið af dýr. Átta krónur."
+ - **Seller:** "Þessi eru innflutt svo þau megi að vera svolítið af dýr. Átta krónur."
  - **Rúna:** "Bíddu—" *(Wait—)*
  - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
  - **Seller:** "Möttulsprjónninn er fínur. Er það úr brons?"
