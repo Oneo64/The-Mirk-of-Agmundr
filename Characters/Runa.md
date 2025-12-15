@@ -97,18 +97,18 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 **Average interaction with a merchant:**
 
  - **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
- - **Seller:** "Vinnaðu sumt þing, kæri?" *(Need something, dear?)*
- - **Rúna:** "Ateinn... færr gvir. Fyrir töður." *(Just... a bit of ginger. For aches.)*
+ - **Seller:** "Þarftu einhvert, kæri?"
+ - **Rúna:** "Bara... smá engifer. Fyrir verkjum."
  - **The seller nods and gestures towards a pile of ginger.**
- - **Seller:** "Þettar ar frá útlandum, svo þettar getir verið lítt grípligr. Átt kúnnar." *(They're imported, so it they might be a little expensive. Eight coins.)*
- - **Rúna:** "Hveðu—" *(Wait—)*
+ - **Seller:** "Þessi eru in fluttering svo þau megi að vera svolítið af dýr. Átta krónur."
+ - **Rúna:** "Bíddu—" *(Wait—)*
  - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
- - **Seller:** "Það ar finnligt mótullhnit. Ar það ór fángvi?" *(Nice cloak pin. Is it bronze?)*
+ - **Seller:** "Möttulsprjónninn er fínur. Er það úr brons?"
  - **Rúna flusters lightly at the unexpected comment.**
- - **Rúna:** "J-já. Það... það ar frá mín elmóður." *(Y-yes. It's... it's from my grandmother.)*
- - **Seller:** "Það hemir nýtr fyrir þér." *(It suits you well.)*
+ - **Rúna:** "J-já. Það... það er frá ömmu minni."
+ - **Seller:** "Það lítur góður út á þig."
  - **Rúna's voice drops to a mutter.**
- - **Rúna:** "Sakka þér." *(Thank you.)*
+ - **Rúna:** "T-takk fyrir."
  - **Rúna turns and leaves the seller's stand.**
 
 ## Name Translations
