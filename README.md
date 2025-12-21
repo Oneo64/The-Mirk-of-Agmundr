@@ -1,6 +1,8 @@
 # Overview
 > The year is AD 922. To escape war, a northman suffering from PTSD is pressured by his brother to sail with him for a new land. After meeting the shore of the new land, he must overcome his disorders as they attempt to establish a farmstead without succumbing to the horrors that dwell there.
 
+**This is the main repository for the Mirk of Agmundr Worldbuilding Project!**
+
 The Mirk of Agmundr is a true medieval fantasy story and worldbuilding project set in the 10th century about the struggles of an Icelandic farmer settling in Newfoundland. There are many mythological aspects in this world, such as the presence of draugar (a magical revenant) and pagan magic. It was built, developed, and written by Oneo64.
 
 The Mirk of Agmundr was originally a spinoff of Aldraheimr (link available below), but quickly became its own thing. But unlike its predecessor, this world focuses on the much smaller context of a farmstead, the surrounding forest, and the land of Newfoundland, rather than an entire continent.
