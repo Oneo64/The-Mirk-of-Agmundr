@@ -9,6 +9,6 @@ The Mirk of Agmundr was originally a spinoff of Aldraheimr (link available below
 
 ---
 
-**Fantasy version:** https://github.com/Oneo64/Aldraheimr
+**(OLD) Fantasy version:** https://github.com/Oneo64/Aldraheimr
 
 Copyright © 2025 Oneo64
