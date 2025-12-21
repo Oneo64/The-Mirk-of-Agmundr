@@ -3,7 +3,7 @@
 
 The Mirk of Agmundr is a true medieval fantasy story and worldbuilding project set in the 10th century about the struggles of an Icelandic farmer settling in Newfoundland. There are many mythological aspects in this world, such as the presence of draugar (a magical revenant) and pagan magic. It was built, developed, and written by Oneo64.
 
-The Mirk of Agmundr was originally a spinoff of Aldraheimr (link available below), but quickly became its own thing.
+The Mirk of Agmundr was originally a spinoff of Aldraheimr (link available below), but quickly became its own thing. But unlike its predecessor, this world focuses on the much smaller context of a farmstead, the surrounding forest, and the land of Newfoundland, rather than an entire continent.
 
 ---
 
