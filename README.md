@@ -1,6 +1,6 @@
 Copyright © 2025 Oneo64
 
-**Story:** https://github.com/Oneo64/TheMirkOfAgmundrStory
+**Story:** https://github.com/Oneo64/The-Mirk-of-Agmundr-Story
 
 **Fantasy version:** https://github.com/Oneo64/Aldraheimr
 
