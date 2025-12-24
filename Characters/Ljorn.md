@@ -55,7 +55,7 @@ If confronted about his behaviour, Ljörn would either try to dismiss it or not 
 
 Ljörn finds that when Rúna is there, he can relax a little despite his paranoia. He thinks her as having the most soothing voice in the world, even though it's subjective and that he would never actually say so while sober. He cherishes physical touch and acts of service the most.
 
-When it comes to physical closeness and strong, affectionate words, Ljörn becomes very shy. Since he is the second-born son in his family and introverted, he doesn't receive as many hugs or compliments as his other siblings. He also stopped receiving any after arriving in Newfoundland. Because of this, he cherishes bold gestures with Rúna, such as long hugs and hand-holding. He doesn't mind sitting very close together for prolonged periods, but he would never initiate it because he isn't used to doing that.
+When it comes to physical closeness and strong, affectionate words, Ljörn becomes very shy and melts. Since he is the second-born son in his family and introverted, he doesn't receive as many hugs or compliments as his other siblings. He also stopped receiving any after arriving in Newfoundland. Because of this, he cherishes bold gestures with Rúna, such as long hugs and hand-holding. He doesn't mind sitting very close together for prolonged periods, but he would never initiate it because he isn't used to doing that.
 
 ### Arc
  - Positive Arc
