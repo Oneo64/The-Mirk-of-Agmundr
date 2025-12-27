@@ -5,9 +5,9 @@
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/RunaNoCloak.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Vegstötvun</td> <td>Hlattlausin Góð</td> </tr>
-	<tr> <td>Málbænfell</td> <td>Hjalvirs Þröng</td> </tr>
+	<tr> <td>Málbænfell</td> <td>Hjalvur Þröng</td> </tr>
 	<tr> <td>Viskar</td> <td>Innsetjukóna<br>Seljunkóna<br>Eikeskari</td> </tr>
-	<tr> <td>Áfreinmál</td> <td>Eikeskun<br>Stjörnurlókun<br>Þeyrunfell (sumstund)</td> </tr>
+	<tr> <td>Áfreinmál</td> <td>Eikeskun<br>Stjörnulókun<br>Þeyrunfell (sumstund)</td> </tr>
 	<tr> <th colspan=2>Sérságulig Áhjöll</th> </tr>
 	<tr> <td>Aldr</td> <td>22</td> </tr>
 	<tr> <td>Bornundagr</td> <td>Mörki 14, AD 900</td> </tr>
@@ -18,7 +18,7 @@
 	<tr> <td>Kondi</td> <td>Mandhlett</td> </tr>
 	<tr> <td>Kön</td> <td>Kóna</td> </tr>
 	<tr> <td>Hauði</td> <td>5'4"</td> </tr>
-	<tr> <td>Þeru litr</td> <td>Mólhrungr</td> </tr>
+	<tr> <td>Þerulitr</td> <td>Mólhrungr</td> </tr>
 	<tr> <td>Vyrslitr</td> <td>Grönn</td> </tr>
 </tbody></table>
 
