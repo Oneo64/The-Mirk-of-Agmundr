@@ -24,7 +24,7 @@
 
 !TRANSLATION IN PROCESS!
 
-Rúna var setjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok eptir lándsdagi munir hon at tenga hennar seljunbúð ok selja einhvestligu eskinga þvest hon hefir svakkið fyri því.
+Rúna var innsetjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok eptir lándsdagi munir hon at tenga hennar seljunbúð ok selja einhvestligu eskinga þvest hon hefir svakkið fyri því.
 
 ## Hrimli
 Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svétu andlitu, hafandi grönu almondfaðnu vyra ok mjúku fregur þvest ar spleist ána andlitinum hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
