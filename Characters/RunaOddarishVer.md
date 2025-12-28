@@ -18,8 +18,8 @@
 	<tr> <td>Kondi</td> <td>Mandhlett</td> </tr>
 	<tr> <td>Kön</td> <td>Kóna</td> </tr>
 	<tr> <td>Hauði</td> <td>5'4"</td> </tr>
-	<tr> <td>Þerulitr</td> <td>Mólhrungr</td> </tr>
-	<tr> <td>Vyrarlitr</td> <td>Grönn</td> </tr>
+	<tr> <td>Þerulíð</td> <td>Mólhrungr</td> </tr>
+	<tr> <td>Vyrarlíð</td> <td>Grönnu</td> </tr>
 </tbody></table>
 
 !TRANSLATION IN PROCESS!
@@ -27,19 +27,19 @@
 Rúna var innsetjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok eptir lándsdagi munir hon at tenga hennar seljunbúð ok selja einhvestligu eskinga þvest hon hefir svakkið fyri því.
 
 ## Hrimli
-Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svétu andlitu, hafandi grönu almondfaðnu vyrir ok mjúku fregur þvest ar spleist ána andlitinum hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
+Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svét andalíð, hafandi grönnu mýglafaðnu vyrir ok mjúku fregur þvest ar spleist ána andalíðinni hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
 
-Þvenn hon ar út, hon hefir andvýsalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
+Þvenn hon ar út, hon hefir andavýsalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
 
 Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sér þvenn ateins vegir hon til skaggnum.
 
 ### Beyra
-Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andlitinum ":3", ennþess ána lýtlöstu výsu.)*
+Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andalíðinni ":3", ennþess ána lýtlöstu výsu.)*
 
 ### Pröst
 Rúna hefir langt 10-gimmgírar pröst um skjorði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundi. Hon ar háflana upphælið núna ennþess getir hon stuðum at þela þæt.
 
-## Andvýsa
+## Andavýsa
 Rúna ar lýtlana innlífin. Hon ar snémbilig, létt at blyrta, ok munir stuðum at tilja sýnur vyrir væg frá mandi þver hon ar talandi með. Ennþráttass þess sérhlattum, hon ar eigi suðuligna feim. Hon ar báp af myrka skaggum ennþess ar óttvukið at vega inn þæt, eðjó hvassa mjök hefir hon áhugu um þæt.
 
 Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
