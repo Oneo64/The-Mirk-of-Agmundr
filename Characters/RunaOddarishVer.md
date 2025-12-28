@@ -37,10 +37,10 @@ Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hri
 Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andlitinum ":3", ennþess ána lýtlöstu výsu.)*
 
 ### Pröst
-Rúna hefir langt 10-gimmgírar pröst um sverði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundr. Hon ar háflana upphælin núna ennþess getir hon sumstund at þela þæt.
+Rúna hefir langt 10-gimmgírar pröst um sverði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundr. Hon ar háflana upphælið núna ennþess getir hon sumstund at þela þæt.
 
 ## Andvýsa
-Rúna ar lýtlana innlífin. Hon ar feimin, létt at blyrta, ok munir sumstund at tilja sæn vyra væg frá mandi þver hon ar segandi með. Ennþráttass þess sérhlattunum, hon ar eigi sannligna feimin. Hon ar báp af myrka skógum ennþess ar óttvukin af því, eðjó hvassa mjök hefir hon áhugu um þæt.
+Rúna ar lýtlana innlífin. Hon ar feimin, létt at blyrta, ok munir sumstund at tilja sæn vyra væg frá mandi þver hon ar segandi með. Ennþráttass þess sérhlattunum, hon ar eigi sannligna feimin. Hon ar báp af myrka skógum ennþess ar óttvukið af því, eðjó hvassa mjök hefir hon áhugu um þæt.
 
 Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
 
@@ -58,9 +58,9 @@ Rúnu ráidd ar fróandi ok hefir mjúkt slynnt fíðing ok lýtlana létt bémm
 
 Rúna ar svengléttna ljúfir ok þárrigir með Ljörn í svenginu hans. Þráttass hon leimar gunungna af hánum, hon munir at fanda veg til fyri því. Ljörn ok hennar heimmendr ar ateins fólkin þver hon ar viljandi til at jafa hennar svakka eðjó at framtekja eptir einhvest gjöldun.
 
-Rúna ýnar mjökast verktjófun ok góðmel. Sumstund munir hon at kalla Ljörn upp nafninu *kæri*, hrun kvámar vesið um ósksemjun þvenn hann sve.
+Rúna ýnar mjökast verktjófun ok góðmel. Sumstund munir hon at kalla Ljörn upp nafninu *kæri*, hrun vertar ósksamið þvenn hann sve.
 
-Rúna vitir um Ljörns svérksváða. Hon getir sér amlin þvenn hann speiðar eigi eða afflytjar hána.
+Rúna vitir um Ljörns svérksváða. Hon vertar amlið þvenn hann speiðar eigi eða afflytjar hána.
 
 ## Abilities
 ### Domestic Skills
