@@ -34,7 +34,7 @@ Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin
 Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sér þvenn ateins vegir hon til skaggnum.
 
 ### Beyra
-Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andalíðinni ":3", ennþess ána lýtlöstu výsu.)*
+Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andalíðinni ":3", ennþess ána lýtlöstu hlett.)*
 
 ### Pröst
 Rúna hefir langt 10-gimmgírar pröst um skjorði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundi. Hon ar háflana upphælið núna ennþess getir hon stuðum at þela þæt.
@@ -62,14 +62,14 @@ Rúna ýnar mjökast verktjófun ok góðmel. Stuðum munir hon at kalla Ljörn 
 
 Rúna vitir um Ljörns svérksváða. Hon vertar amlið þvenn hann speiðar eigi eða afflytjar hána.
 
-## Abilities
-### Domestic Skills
- - **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
-- **Diary Work:** Rúna can make skyr, but not other dairy products like cheese and butter.
-- **Dyeing:** Rúna knows how to dye clothing unprofessionally. She doesn't know how to make them.
-- **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She knows how to add a differently-coloured hem, but not embroidery.
+## Hvastar
+### Heimhvastar
+ - **Steikjunfell:** Rúna getir at brjúma teignu skjómma ok skæmbur, ok at þrasta kotunn semm fiskar ok stæk.
+- **Gráikverk:** Rúna getir at brjúma skyr, ennþess eigi anaðir gráikverks hlatta semm kvób eða smjör.
+- **Líðun:** Rúna þekkjar at líða görvi ennþess ána ósvakkamandligt hlett, ok hon þekkjar eigi um hvótaninn um at svekkja þæt.
+- **Þeyrun ok Júfun:** Rúna getir at þeyra teigið görvi ok lærði þæt frá Þóne (móður hennar). Hon þekkjar at júfa æss ána þóm með anaðir líðum, ennþess eigi þeyrunfleiti.
 
-### Herbalism
+### Eipþröstunfell
 Rúna can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
 
 #### Rúna knows that:
