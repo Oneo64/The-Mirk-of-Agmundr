@@ -39,16 +39,16 @@ Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hri
 ### Pröst
 Rúna hefir langt 10-gimmgírar pröst um sverði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundr. Hon ar háflana upphælin núna ennþess getir hon sumstund at þela þæt.
 
-## Personality
-Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious but reluctant to enter dark forests, no matter how interesting.
+## Andvýsa
+Rúna ar lýtlana innlífin. Hon ar feimin, létt at blyrta, ok mun sumstund at tilja sæn vyra væg frá mandi þver hon ar segandi með. Ennþráttass þess sérhlattunum, hon ar eigi sannligna feimin. Hon ar báp af myrka skógum ennþess ar óttvukin af því, eðjó hvassa mjök hefir hon áhugu um þæt.
 
-Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something.
+Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
 
-Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
+Þvenn hon ar eigi gerandi einhvest eða hlístandi ána mandi, Rúna mun sumstund at afna í mindinum sinum eða óraðnu hlattum. Ef hon ar ein, hon getir at byrja at sanga sér óraðin mjóndáss.
 
-Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
+Rúnu upphönd um mönu ar jöggskjómm. Þvenn hon ybbisk, hon lópar með serkæssinu hennar.
 
-### Voice
+### Ráidd ok sags výsu
 Rúna speaks informally and doesn't talk much, much like her reservedness. She stutters when embarrassed.
 
 Rúna's natural voice is soothing and has a smooth, soft texture and a slightly lighter pitch, like a healing balm or the sound of a [slow-flowing river](https://www.youtube.com/watch?v=HQV4u0PjIq4).
