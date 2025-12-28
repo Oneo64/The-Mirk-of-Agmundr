@@ -70,10 +70,10 @@ Rúna vitir um Ljörns svérksváða. Hon vertar amlið þvenn hann speiðar eig
 - **Þeyrun ok Júfun:** Rúna getir at þeyra teigið görvi ok lærði þæt frá Þóne (móður hennar). Hon þekkjar at júfa æss ána þóm með anaðir líðum, ennþess eigi þeyrunfleiti.
 
 ### Eipþröstunfell
-Rúna can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
+Rúna þekkjar at eikmetla máklu neðu eipa þvest aldisk í norði ennþess þekkjar hon ateins nýtunina um færu eipa ok hvótaninn um at þrasta þóm.
 
-#### Rúna knows that:
- - Ginger can be used to treat aches
+#### Rúna þekkjar áða:
+ - Gvappar ar nýtið at lækja mandu af meiðingtói
  - Catnip and Chamomile are herbs for relaxation
  - Juniper is a greater protection herb
  - Mint and Yarrow are lesser protection herbs
