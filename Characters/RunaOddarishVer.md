@@ -24,17 +24,19 @@
 
 !TRANSLATION IN PROCESS!
 
-Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
+Rúna var setjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok eptir reiningdagi mun hon at tenga hennar seljunbúð ok selja einhvestligu eskinga þvest hon hefir svakkið fyri því.
 
-## Appearance
-Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, bearing green almond-shaped eyes and soft, muted freckles scattered across her face. She has fair skin that has a slight red hue. She has an athletic and curvaceous build, and her height is 5'4".
+## Hrimli
+Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svétu andlitu, hafandi grönu almondfaðnu vyra ok mjúku fregur þvest ar spleist ána andlitinum hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
 
-When she is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
+Þvenn hon ar út, hon hefir andvýsalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
 
-Rúna wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
+Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sér þvenn ateins vegir hon til skóginn.
 
-### Smile
-When Rúna smiles warmly or nervously, her smile has a distinctive look where her lips are upturned and slightly wobbly, with a gentle peak in the middle. *(Kind of like a ":3" face, but only in the most subtle way.)*
+### Beyra
+Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andlitinum ":3", ennþess ána lýtlöstu výsu.)*
+
+---
 
 ### Scar
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
