@@ -19,7 +19,7 @@
 	<tr> <td>Kön</td> <td>Kóna</td> </tr>
 	<tr> <td>Hauði</td> <td>5'4"</td> </tr>
 	<tr> <td>Þerulitr</td> <td>Mólhrungr</td> </tr>
-	<tr> <td>Vyrslitr</td> <td>Grönn</td> </tr>
+	<tr> <td>Vyrarlitr</td> <td>Grönn</td> </tr>
 </tbody></table>
 
 !TRANSLATION IN PROCESS!
@@ -27,7 +27,7 @@
 Rúna var innsetjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok eptir lándsdagi munir hon at tenga hennar seljunbúð ok selja einhvestligu eskinga þvest hon hefir svakkið fyri því.
 
 ## Hrimli
-Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svétu andlitu, hafandi grönu almondfaðnu vyra ok mjúku fregur þvest ar spleist ána andlitinum hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
+Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svétu andlitu, hafandi grönu almondfaðnu vyrir ok mjúku fregur þvest ar spleist ána andlitinum hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
 
 Þvenn hon ar út, hon hefir andvýsalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
 
@@ -40,7 +40,7 @@ Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hri
 Rúna hefir langt 10-gimmgírar pröst um skjorði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundi. Hon ar háflana upphælið núna ennþess getir hon stuðum at þela þæt.
 
 ## Andvýsa
-Rúna ar lýtlana innlífin. Hon ar snögin, létt at blyrta, ok munir stuðum at tilja sæn vyra væg frá mandi þver hon ar talandi með. Ennþráttass þess sérhlattum, hon ar eigi suðuligna feim. Hon ar báp af myrka skaggum ennþess ar óttvukið at vega inn þæt, eðjó hvassa mjök hefir hon áhugu um þæt.
+Rúna ar lýtlana innlífin. Hon ar snémbilig, létt at blyrta, ok munir stuðum at tilja sýnur vyrir væg frá mandi þver hon ar talandi með. Ennþráttass þess sérhlattum, hon ar eigi suðuligna feim. Hon ar báp af myrka skaggum ennþess ar óttvukið at vega inn þæt, eðjó hvassa mjök hefir hon áhugu um þæt.
 
 Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
 
