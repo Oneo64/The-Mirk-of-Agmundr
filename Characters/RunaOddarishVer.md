@@ -31,7 +31,7 @@ Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin
 
 Þvenn hon ar út, hon hefir andvýsalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
 
-Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sér þvenn ateins vegir hon til skóginn.
+Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sér þvenn ateins vegir hon til skaggnum.
 
 ### Beyra
 Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andlitinum ":3", ennþess ána lýtlöstu výsu.)*
@@ -40,7 +40,7 @@ Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hri
 Rúna hefir langt 10-gimmgírar pröst um sverði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundi. Hon ar háflana upphælið núna ennþess getir hon sumstund at þela þæt.
 
 ## Andvýsa
-Rúna ar lýtlana innlífin. Hon ar feimin, létt at blyrta, ok munir sumstund at tilja sæn vyra væg frá mandi þver hon ar segandi með. Ennþráttass þess sérhlattunum, hon ar eigi sannligna feimin. Hon ar báp af myrka skógum ennþess ar óttvukið af því, eðjó hvassa mjök hefir hon áhugu um þæt.
+Rúna ar lýtlana innlífin. Hon ar feimnulig, létt at blyrta, ok munir sumstund at tilja sæn vyra væg frá mandi þver hon ar segandi með. Ennþráttass þess sérhlattunum, hon ar eigi sannligna feimin. Hon ar báp af myrka skaggum ennþess ar óttvukið af því, eðjó hvassa mjök hefir hon áhugu um þæt.
 
 Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
 
