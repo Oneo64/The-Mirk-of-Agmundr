@@ -29,9 +29,9 @@ Rúna var innsetjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok epti
 ## Hrimli
 Rúna hefir lang ymiðbaklang ok mólhrung þeru þvest ar foklig ok freinfastin. Hon ar kvámið vesið um svét andalíð, hafandi grönnu mýglafaðnu vyrir ok mjúku fregur þvest ar spleist ána andalíðinni hennar. Hon hefir mól skindu þvest ar lýtlana blyrtið mett. Hennar begi ar hrákkugr ok bogafaðinn, ok hon ar 5'4" um hauða.
 
-Þvenn hon ar út, hon hefir andavýsalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
+Þvenn hon ar út, hon hefir andamallalöðun at duna dimmjágu mótul þver hefir lýtlana óþangið æss, ok ar graptið saman af fángvi tvyðinhniti.
 
-Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sér þvenn ateins vegir hon til skaggnum.
+Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hringi, ok hrepsauta. Þæt ar lýtið sax þvest ar teið ána hennar búfn til fyri varðingi. Hon kveggjar Mjöllnisrózku. Hon ekknar snotþjótu (með hlíndbúfni) þvest hon tekjar með sir þvenn ateins vegir hon til skaggnum.
 
 ### Beyra
 Þvenn Rúna beyrir hvelsunugna aða ybbugna, hon beyra hefir sérhlattligu hrimla áða hennar vör ar lýtlana foklig ok slangin upp at æssinu ok miðjunni. *(Eins með andalíðinni ":3", ennþess ána lýtlöstu hlett.)*
@@ -39,12 +39,12 @@ Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hri
 ### Pröst
 Rúna hefir langt 10-gimmgírar pröst um skjorði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundi. Hon ar háflana upphælið núna ennþess getir hon stuðum at þela þæt.
 
-## Andavýsa
+## Andamall
 Rúna ar lýtlana innlífin. Hon ar snémbilig, létt at blyrta, ok munir stuðum at tilja sýnur vyrir væg frá mandi þver hon ar talandi með. Ennþráttass þess sérhlattum, hon ar eigi suðuligna feim. Hon ar báp af myrka skaggum ennþess ar óttvukið at vega inn þæt, eðjó hvassa mjök hefir hon áhugu um þæt.
 
 Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
 
-Þvenn hon ar eigi gerandi einhvest eða hlístandi ána mandi, Rúna munir stuðum at afna í mindinum sinum eða óraðnu hlattum. Ef hon ar ein, hon mundi at byrja at sanga sér óraðin mjóndáss.
+Þvenn hon ar eigi gerandi einhvest eða hlístandi ána mandi, Rúna munir stuðum at afna í mindinum sinum eða óraðnu hlattum. Ef hon ar ein, hon mundi at byrja at sanga sir óraðin mjóndáss.
 
 Rúnu upphönd um mönu ar jöggskjómm. Þvenn hon ybbisk, hon lópar með serkæssinu hennar.
 
@@ -56,7 +56,7 @@ Rúnu ráidd ar fróandi ok hefir mjúkt slynnt fíðing ok lýtlana létt bémm
 ### Ljörn
 [*Sve: Ljörn.md*](Ljorn.md)
 
-Rúna ar svengléttna ljúfir ok þárrigir með Ljörni þvenn hon ar í svenginu hans. Þráttass hon leimar gunungna af hánum, hon munir at fanda veg til fyri því. Ljörn ok hennar heimmendr ar ateins fólkin þver hon ar viljandi til at jafa hennar svakka eðjó at framtekja eptir einhvest gjöldun.
+Rúna ar svengléttna ljúfir ok þárrigir með Ljörni þvenn hon ar í svenginu hans. Þráttass hon leimar gunungna af hænum, hon munir at fanda veg til fyri því. Ljörn ok hennar heimmendr ar ateins fólkin þver hon ar viljandi til at jafa hennar svakka eðjó at framtekja eptir einhvest gjöldun.
 
 Rúna ýnar mjökast verktjófun ok góðmel. Stuðum munir hon at kalla Ljörn upp nafninu *kæri*, hrun vertar ósksamið þvenn hann sve.
 
