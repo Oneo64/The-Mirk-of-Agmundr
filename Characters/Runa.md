@@ -42,7 +42,7 @@ Rúna is slightly introverted. She is bashful, easily flustered, and sometimes a
 
 Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something.
 
-Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
+Rúna is absent-minded. Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
 Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
 
