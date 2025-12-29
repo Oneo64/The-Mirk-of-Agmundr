@@ -56,7 +56,7 @@ Rúnu ráidd ar fróandi ok hefir mjúkt slynnt fíðing ok lýtlana létt bémm
 ### Ljörn
 [*Sve: Ljörn.md*](Ljorn.md)
 
-Rúna ar svengléttna ljúfir ok þárrigir með Ljörni þvenn hon ar í svenginu hans. Þráttass hon leimar gunungna af hænum, hon munir at fanda veg til fyri því. Ljörn ok hennar heimmendr ar ateins fólkin þver hon ar viljandi til at jafa hennar svakka eðjó at framtekja eptir einhvest gjöldun.
+Rúna ar svengléttna ljúfir ok þárrigir hið Ljörn þvenn hon ar í svenginu hans. Þráttass hon leimar gunungna af hænum, hon munir at fanda veg til fyri því. Ljörn ok hennar heimmendr ar ateins fólkin þver hon ar viljandi til at jafa hennar svakka eðjó at framtekja eptir einhvest gjöldun.
 
 Rúna ýnar mjökast verktjófun ok góðmel. Stuðum munir hon at kalla Ljörn upp nafninu *kæri*, hrun vertar ósksamið þvenn hann sve.
 
@@ -67,7 +67,7 @@ Rúna vitir um Ljörns svérksváða. Hon vertar amlið þvenn hann speiðar eig
  - **Steikjunfell:** Rúna getir at brjúma teignu skjómma ok skæmbur, ok at þrasta kotunn semm fiskar ok stæk.
 - **Gráikverk:** Rúna getir at brjúma skyr, ennþess eigi anaðir gráikverks hlatta semm kvób eða smjör.
 - **Líðun:** Rúna þekkjar at líða görvi ennþess ána ósvakkamandligt hlett, ok hon þekkjar eigi um hvótaninn um at svekkja þæt.
-- **Þeyrun ok Júfun:** Rúna getir at þeyra teigið görvi ok lærði þæt frá Þóne (móður hennar). Hon þekkjar at júfa æss ána þóm með anaðir líðum, ennþess eigi þeyrunfleiti.
+- **Þeyrun ok Júfun:** Rúna getir at þeyra teigið görvi ok lærði þæt frá Þóne (móður hennar). Hon þekkjar at júfa æss ána þóm þvest hefir anaðir líðir, ennþess eigi þeyrunfleiti.
 
 ### Eipþröstunfell
 Rúna þekkjar at eikmetla máklu neðu eipa þvest aldisk í norði ennþess þekkjar hon ateins nýtunina um færu eipa ok hvótaninn um at þrasta þóm.
