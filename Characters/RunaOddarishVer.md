@@ -46,7 +46,7 @@ Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinn
 
 Þvenn hon ar eigi gerandi einhvest eða hlístandi ána mandi, Rúna munir stuðum at afna í mindinum sinum eða óraðnu hlattum. Ef hon ar ein, hon mundi at byrja at sanga sir óraðin mjóndáss.
 
-Rúnu upphönd um mönu ar jöggskjómm. Þvenn hon ybbisk, hon lópar með serkæssinu hennar.
+Rúnu upphönd um mönu ar jöggskjómm. Þvenn hon ybbisk, hon lópar með blássufíðinum hennar.
 
 ### Ráidd ok sags výsa
 Rúna talar óformligna ok eigi mjök, ollr eins með innlífi sinum. Hon stymmtar þvenn hon ar ósksamið.
