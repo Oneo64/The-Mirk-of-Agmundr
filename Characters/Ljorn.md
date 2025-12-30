@@ -50,6 +50,16 @@ Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PT
 
 If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
 
+#### Source of PTSD:
+ - Sudden raid by Norwegian Vikings during nighttime:
+   - Almost got hit by a falling, blazing beam
+   - Never saw Kolr again after his (Kolr's) house burned down, even though he was just an acquaintance
+   - Witnessed a foe raise a battleaxe over him after being shot and collapsed by an arrow
+ - Struggles of settlement in Agmundaland (Newfoundland):
+   - Got haunted by an angry draugr
+   - Got lost in the forest
+   - Settlement attacked by trolls, reinforcing paranoia
+
 ### Rúna
 [*See: Rúna.md*](Runa.md)
 
