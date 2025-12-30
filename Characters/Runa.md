@@ -38,11 +38,11 @@ When Rúna smiles warmly or nervously, her smile has a distinctive look where he
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
 
 ## Personality
-Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is curious but reluctant to enter dark forests, no matter how interesting.
+Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is somewhat polite (not formal) and tries to be kind, but is embarrassed by the idea of being called a saint.
 
-Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something.
+Rúna's curiosity comes in a nuanced way; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time is too afraid to seek more about them, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means.
 
-Rúna is absent-minded. Sometimes, when not doing anything or listening to someone talk, Rúna would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
+Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
 Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
 
@@ -54,7 +54,7 @@ Rúna's natural voice is soothing and has a smooth, soft texture and a slightly 
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
 
-Rúna is noticeably kinder and bolder to Ljörn in his presence. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
+Rúna is noticeably kinder and softer to Ljörn. When his presence is there, she becomes bolder, even in public. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
 Rúna cherishes acts of service and quality time the most. Sometimes, she accidentally calls Ljörn *kæri*, then gets embarrassed when he notices.
 

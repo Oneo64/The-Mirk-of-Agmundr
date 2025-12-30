@@ -22,7 +22,7 @@
 	<tr> <td>Vyrarlíð</td> <td>Grönnu</td> </tr>
 </tbody></table>
 
-!TRANSLATION IN PROCESS!
+**!TRANSLATION IN PROCESS!**
 
 Rúna var innsetjunkóna, eipþröstunkóna, ok eikeskari. Einar í viku ok eptir lándsdagi munir hon at tenga hennar seljunbúð ok selja einhvestligu eskinga þvest hon hefir svakkið fyri því.
 
