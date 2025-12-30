@@ -132,6 +132,9 @@ Ljörn knows how to play Rægtafl, but he isn't the best at it.
  - **Korean:** 료른
  - **Japanese:** リョルン
 
+## Trivia
+ - Even though Ljörn's name doesn't mean anything in Old Norse, it is a coincidence that his name is very similar to the English word lorn, meaning forlorn and abandoned, a very fitting word for his personality.
+
 ## Notes
 [^1]: Ljörn's sword is a Peterson Type L sword.
 [^2]: Ljörn developed PTSD when his home village was raided by Norwegian Vikings during nighttime.

@@ -122,3 +122,6 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
  - **Simplified Chinese:** 鲁娜
  - **Korean:** 루나
  - **Japanese:** ルーナ
+
+## Trivia
+ - Rúna's name means "rune or secret lore" in Old Norse, nicely fitting her curiosity for ancient mysteries and the darkness.
