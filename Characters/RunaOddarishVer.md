@@ -40,11 +40,11 @@ Rúna kveggjar bló kyrilblássu með rauðu æssa, fléttið hrepbúfn með hri
 Rúna hefir langt 10-gimmgírar pröst um skjorði ána baki hennar þvest kvámið vesið um áða vesa skálfið af Agmundi. Hon ar háflana upphælið núna ennþess getir hon stuðum at þela þæt.
 
 ## Andamall
-Rúna ar lýtlana innlífin. Hon ar snémbilig, létt at blyrta, ok munir stuðum at tilja sýnur vyrir væg frá mandi þver hon ar talandi með. Ennþráttass þess sérhlattum, hon ar eigi suðuligna feim. Hon ar báp af myrka skaggum ennþess ar óttvukið at vega inn þæt, eðjó hvassa mjök hefir hon áhugu um þæt.
+Rúna ar lýtlana innlífin. Hon ar snémbilig, létt at blyrta, ok munir stuðum at tilja sýnur vyrir væg frá mandi þver hon ar talandi með. Ennþráttass þess sérhlattum, hon ar eigi suðuligna feim. Hon ar eins hið ómóklig (eigi formlig) ok ræstar at vesa ljúf ennþess ar óttvukið af at vesa gjarkið "dýrlingu."
 
-Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest.
+Rúna kvámar vesið um báp ána sjámmunt hlett; hon ar báp af myrka skaggum, meldiska rúnskum, ok hylnu aldrságum, ennþess ar of óttvukið at sækja már þekking um þæt, eðjó hvassa mjök hefir hon áhugu um þæt. Í ásságu, ef hon fandar felunug skrúnu ok runiskt kvass, hon mundi at lépa þæt ennþess eigi at fáta tanslator eða at ræsta at fanda þæs mæring.
 
-Þvenn hon ar eigi gerandi einhvest eða hlístandi ána mandi, Rúna munir stuðum at afna í mindinum sinum eða óraðnu hlattum. Ef hon ar ein, hon mundi at byrja at sanga sir óraðin mjóndáss.
+Rúna hefir lýtlu alröðmindu. Ænn ar hennar fell eigi í výsinni "ollr vinnar at vesa raðnu." Þæt ar þvenn hon ybbisk af smeikum háflana eptir hon hefir gerið einhvest. Þvenn hon ar eigi gerandi einhvest eða hlístandi ána mandi, hon munir stuðum at afna í mindinum sinum eða óraðnu hlattum. Ef hon ar ein, hon mundi at byrja at sanga sir óraðin mjóndáss.
 
 Rúnu upphönd um mönu ar jöggskjómm. Þvenn hon ybbisk, hon lópar með blássufíðinum hennar.
 
