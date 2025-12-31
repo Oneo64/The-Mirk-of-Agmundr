@@ -118,6 +118,33 @@ Ljörn knows how to play Rægtafl, but he isn't the best at it.
  - "Nightmare."
  - "Get off me."
 
+## Lore
+Ljörn was born on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Álfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
+
+Ljörn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
+
+When he was alone, he would sneak into Kolr's workplace, who was his neighbour and also the blacksmith of the village, just to see what was in there and mess around with his tools. During winter, he sometimes would throw snowballs at the cows of local farmers. But this time, he was actually caught and was scolded by the cows' owner.
+
+However, he started to become quieter, reserved, and more mature with age, not wanting to play pretend anymore and instead playing Rægtafl (a strategic 2-player board game) with family.
+
+In his late teens, he began to show interest in hunting and was taken out to the wilderness by his father to learn how to hunt, first learning how to hunt deer. He was taught how to throw a spear and use it with a shield. Later, he would go out by himself and hunt down a deer all by himself.
+
+One day, when he was taking a leisurely stroll in the forest, he saw a pretty girl by the river (who was Rúna) and got a short-lived crush, but he slowly forgot about her as he only saw her silhouette. On this day, he cannot remember much about this interaction, including appearance and location, other than that he had a fleeting crush on someone.
+
+Ljörn witnessed his father, who was getting too old to fight, pass his sword to Úlfnir, who proudly carried it in public whenever he could.
+
+During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Álfr both fended off an adversary. Then, he saw Úlfnir attack an armoured warrior near the center of the village, and as he watched, another came up to his brother's side and planted an axe into his neck.
+
+Then, he was assailed by two men at once, one was armoured from head to toe in maille with a masked helmet and a Dane axe, the other with a bow. The bowman was already aiming at him. He raised his shield, but the arrow went straight through his shield and struck his left arm.
+
+Ljörn was pressed backward as the warrior came closer. He raised his shield again, just in time for it to be struck into deformation and away from his hand, landing onto the ground, useless.
+
+When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear was broken in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Álfr charged into his executioner and delayed the strike.
+
+Ljörn scrambled to his feet, grabbed the half of the broken spear with the spearhead, and went into the forest to hide there until the raiders left. After the raid, Ljörn returned and got his arrow taken out and treated. Now, being the oldest living son of his father, he was given Úlfnir's sword.
+
+Ever since the raid, he had been introverted. He would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
+
 ## Name Translations
  - **Younger Futhark:** ᛚᛁᚢᚱᚾ
  - **English:** Ljorn
