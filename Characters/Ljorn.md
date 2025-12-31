@@ -11,7 +11,7 @@
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Ulfnir (older brother)<br>Álfr (younger brother)<br>Yngvild (younger sister)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Úlfnir (older brother)<br>Álfr (younger brother)<br>Yngvild (younger sister)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -32,7 +32,7 @@ When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dr
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
+On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
 
 Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher.
 
@@ -46,9 +46,13 @@ Ljörn speaks informally and not much, often answering people with one or two wo
 Ljörn's natural voice is lukewarm and has a gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
 
 ### PTSD
-Ljörn has PTSD. He seems fine most of the time, but sometimes, it shows. His PTSD is triggered by seeing silhouettes in the dark, hearing shouting/grunts from pain, hearing loud horns, hearing metals hitting each other, or lying on his back while someone is standing in front of him. Sometimes, he might think he saw movement in the shadows and get paranoid. He would especially ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.
+Ljörn has PTSD. Although he seems fine most of the time, he has triggers relating to his traumatic experiences: seeing silhouettes in the dark and large amounts of wood burning (like a burning pole), and hearing shouts, pained grunts, loud horns, and metals hitting each other. But this is only half of the list of triggers.
 
-If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Alfrir noticed his behaviour only once, Ljörn told him not to worry.
+His outward demeanour when not having an episode is also affected. He has trouble forming any meaningful connections and would ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.
+
+If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Álfr noticed his behaviour only once, Ljörn told him not to worry.
+
+After leaving Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway.
 
 #### Source of PTSD:
  - Sudden raid by Norwegian Vikings during nighttime (was shaken awake from sleep to deal with this tragedy):
@@ -108,7 +112,7 @@ Ljörn knows how to play Rægtafl, but he isn't the best at it.
 ### Example Dialogue
  - "What do you mean?"
  - "I... don't think-"
- - "Alfrir. I-"
+ - "Álfr. I-"
  - "Are your boots... wet, too?"
  - "How long will this travelling last?"
  - "What?"
