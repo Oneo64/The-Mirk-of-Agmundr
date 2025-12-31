@@ -40,7 +40,7 @@ When Ljörn gets frustrated, he quietly uses strong language under his breath, b
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
 
-Ljörn's favourite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
+Ljörn's favourite food is venison, a meat he will devour if cooked well. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
 
 ### Voice
 Ljörn speaks informally and not much, often answering people with one or two words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
