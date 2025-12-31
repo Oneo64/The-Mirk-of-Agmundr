@@ -47,7 +47,7 @@ Rúna has a small degree of perfectionism. However, her perfectionism isn't the 
 Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
 
 ### Voice
-Rúna speaks informally and doesn't talk much, much like her reservedness. She usually pauses on the first word of her speech, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
+Rúna speaks informally and doesn't talk much, much like her reservedness. She usually pauses on the first word of her speech, or between clauses, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
 
 Rúna's natural voice is soothing, with a soft texture and a slightly lighter pitch, reminiscent of a healing balm or the sound of afternoon wind blowing through forest trees.
 
