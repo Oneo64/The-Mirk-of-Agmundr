@@ -34,9 +34,11 @@ When he travels or prepares for combat, Ljörn puts on a nasal helmet and his by
 ## Personality
 On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When he talks to strangers, he might make things awkward, but otherwise, he tries to be polite, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
 
-Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher.
+Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
 
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
+
+Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. So he lies to himself that it was given to him directly by his father.
 
 Ljörn's favourite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
 
