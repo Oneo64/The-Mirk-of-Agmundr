@@ -11,7 +11,7 @@
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Úlfnir (older brother)<br>Álfr (younger brother)<br>Yngvild (younger sister)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Úlfnir (older brother, dead)<br>Álfr (younger brother)<br>Yngvild (younger sister)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -60,6 +60,7 @@ After leaving Agmundaland, Ljörn was still afraid of several things. He feared 
  - Sudden raid by Norwegian Vikings during nighttime (was shaken awake from sleep to deal with this tragedy):
    - Almost got hit by a falling, blazing beam while inside a burning house (not his)
    - Never saw Kolr again after his (Kolr's) house burned down, even though they were only acquaintances
+   - Watched Úlfnir get brutally slain
    - Witnessed a foe raise a battleaxe over him after being shot and collapsed by an arrow
  - Struggles of settlement in Agmundaland (Newfoundland):
    - Got haunted by an angry draugr who had supernatural powers
