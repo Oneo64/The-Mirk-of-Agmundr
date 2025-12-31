@@ -38,7 +38,7 @@ Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to
 
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
-Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. So he lies to himself that it was given to him directly by his father.
+Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
 
 Ljörn's favourite food is venison. He keeps a small bag of dried strips in his pouch for later. His second favourite food is dried, hard bread with the crust because it's chewy.
 
