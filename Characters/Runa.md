@@ -49,7 +49,7 @@ Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem
 ### Voice
 Rúna speaks informally and doesn't talk much, much like her reservedness. She usually pauses on the first word of her speech, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
 
-Rúna's natural voice is soothing, with a soft texture and a slightly lighter pitch, reminiscent of a healing balm or the sound of wind blowing through forest trees.
+Rúna's natural voice is soothing, with a soft texture and a slightly lighter pitch, reminiscent of a healing balm or the sound of afternoon wind blowing through forest trees.
 
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
