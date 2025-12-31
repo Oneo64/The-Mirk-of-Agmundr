@@ -11,7 +11,7 @@
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Algord (father)<br>Mifrún (mother)<br>Úlfnir (older brother, dead)<br>Álfr (younger brother)<br>Yngvild (younger sister)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Algord <i>(father)</i><br>Mifrún <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Álfr <i>(younger brother)</i><br>Yngvild <i>(younger sister)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
