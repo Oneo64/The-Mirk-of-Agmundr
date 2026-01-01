@@ -27,7 +27,7 @@ Ljörn has armpit-length, dark blond hair with gentle but messy waves. His hair 
 
 Ljörn has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot.
 
-When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a Mjöllnir amulet.
+When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a Mjöllnir amulet.
 
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
 
