@@ -27,11 +27,11 @@ Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry
 ## Appearance
 Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has fair skin that has a slight red hue, an athletic and curvaceous build, and her height is 5'4".
 
-She has a sweet face, which is slightly round, even though she looks mature already. She has slightly wide-set, green, almond-shaped eyes, which are just downturned at the ends, and barely any freckles scattered across her face.
+She has a sweet face, which is slightly round, even though she looks mature already. She has green, almond-shaped eyes, which are just downturned at the ends and a little more wide-set than others, a straight nose, and barely any freckles scattered across her face.
 
-When she is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
+When Rúna is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
 
-Rúna wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
+Casually, she wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
 
 ### Smile
 When Rúna smiles warmly or nervously, her smile has a distinctive look where her lips are upturned and slightly wobbly, with a gentle peak in the middle. *(Kind of like a ":3" face, but only in the most subtle way.)*
