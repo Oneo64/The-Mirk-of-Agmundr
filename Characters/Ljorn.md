@@ -48,7 +48,7 @@ Ljörn speaks informally and not much, often answering people with one or two wo
 Ljörn's natural voice is lukewarm and has a gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
 
 ### PTSD
-Ljörn has PTSD. Although he seems fine most of the time, he has triggers relating to his traumatic experiences: seeing silhouettes in the dark and large amounts of wood burning (like a burning pole), and hearing shouts, pained grunts, loud horns, and metals hitting each other. But this is only half of the list of triggers.
+Ljörn has PTSD. Although he seems fine most of the time, he has triggers relating to his traumatic experiences. Some triggers, but not all, are: silhouettes in the dark, large amounts of wood burning (like a burning pole), and hostile or fighting sounds.
 
 His outward demeanour when not having an episode is also affected. He has trouble forming any meaningful connections and would ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.
 
