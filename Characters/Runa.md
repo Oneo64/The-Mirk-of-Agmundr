@@ -25,7 +25,7 @@
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
 
 ## Appearance
-Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, which is slightly round, even though she looks mature already. She has green, almond-shaped eyes, which are just downturned at the ends and a little more wide-set than others, a straight nose, and barely any freckles scattered across her face. She has fair skin that has a slight red hue, an athletic and curvaceous build, and her height is 5'4".
+Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, which is slightly round, although her jawline looks mature already. She has green, almond-shaped eyes, which are just downturned at the ends and a little more wide-set than others, a straight nose, and barely any freckles scattered across her face. She has fair skin that has a slight red hue, an athletic and curvaceous build, and her height is 5'4".
 
 When Rúna is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
 
