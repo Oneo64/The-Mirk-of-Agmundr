@@ -25,10 +25,10 @@ Ljörn was a settler who travelled to a northern island under the command of Hja
 ## Appearance
 Ljörn has armpit-length, dark blond hair with gentle but messy waves. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard, which makes his jawline look soft, and fair skin. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He has an ottermode build and stands at a height of 5'9".
 
-### Casual wear
+Ljörn has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot.
+
 When Ljörn is outside, he dons a woolen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a Mjöllnir amulet.
 
-### Traveling
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
