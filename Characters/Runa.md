@@ -87,6 +87,8 @@ Rúna owns a set of woodcarving tools, which help her shape and detail wood.
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defence against wild animals.
 
+Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to carrying heavy things such as firewood or sacks of crops.
+
 ## Goals
  - **Goal:** To explore the new land.
  - **Motivation:** To find new undiscovered herbs.
