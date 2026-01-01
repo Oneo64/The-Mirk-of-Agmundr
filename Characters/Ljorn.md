@@ -54,7 +54,7 @@ His outward demeanour when not having an episode is also affected. He has troubl
 
 Most of the time, when Ljörn is confronted about his behaviour, he would either try to dismiss it or not answer at all, like when he told Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
-After leaving Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway.
+After leaving Iceland for Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
 #### Source of PTSD:
  - Sudden raid by Norwegian Vikings during nighttime (was shaken awake from sleep to deal with this tragedy):
