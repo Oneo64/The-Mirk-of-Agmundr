@@ -52,7 +52,7 @@ Ljörn has PTSD. Although he seems fine most of the time, he has triggers relati
 
 His outward demeanour when not having an episode is also affected. He has trouble forming any meaningful connections and would ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.
 
-If confronted about his behaviour, Ljörn would either try to dismiss it or not answer at all. Although Álfr noticed his behaviour only once, Ljörn told him not to worry.
+Most of the time, when Ljörn is confronted about his behaviour, he would either try to dismiss it or not answer at all, like when he told Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
 After leaving Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway.
 
