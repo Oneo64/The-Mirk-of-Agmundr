@@ -3,7 +3,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Rúna</th> </tr>
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
-	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/RunaNoCloak.png" alt="test" width="270"></th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/Portrait2.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
@@ -62,7 +62,7 @@ Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn
 
 ## Abilities
 ### Domestic Skills
- - **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
+- **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
 - **Diary Work:** Rúna can make skyr, but not other dairy products like cheese and butter.
 - **Dyeing:** Rúna knows how to dye clothing unprofessionally. She doesn't know how to make them.
 - **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She knows how to add a differently-coloured hem, but not embroidery.
@@ -71,11 +71,11 @@ Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn
 Rúna can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
 
 #### Rúna knows that:
- - Ginger can be used to treat aches
- - Catnip and Chamomile are herbs for relaxation
- - Juniper is a greater protection herb
- - Mint and Yarrow are lesser protection herbs
- - Ekraldys toadstools are poisonous
+- Ginger can be used to treat aches
+- Catnip and Chamomile are herbs for relaxation
+- Juniper is a greater protection herb
+- Mint and Yarrow are lesser protection herbs
+- Ekraldys toadstools are poisonous
 
 ### Woodcarving
 Since Rúna is a woodcarver, she can carve wood into spoons, forks, animal figurines, or runesticks. Her figurine work isn't very detailed, but they're shapely enough to tell what they are.
@@ -88,42 +88,54 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to carrying heavy things such as firewood or sacks of crops.
 
 ## Goals
- - **Goal:** To explore the new land.
- - **Motivation:** To find new undiscovered herbs.
+- **Goal:** To explore the new land.
+- **Motivation:** To find new undiscovered herbs.
 
 ## Example Dialogues
- - "Are you really?"
- - "Emm... well..."
- - "I'm Rúna."
+- "Are you really?"
+- "Emm... well..."
+- "I'm Rúna."
 
 ### Examples of Rúna's speech and reactions
 **Average interaction with a merchant:**
 
- - **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
- - **Seller:** "Þarftu eitthvað, kæri?"
- - **Rúna:** "Bara... smá engifer við verkjum."
- - **The seller nods and gestures towards a pile of ginger.**
- - **Seller:** "Þessi eru innflutt svo þau megi vera svolítið af dýr. Átta krónur."
- - **Rúna:** "Bíddu—"
- - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
- - **Seller:** "Sá möttulsprjónn er fínur. Er það úr bronsi?"
- - **Rúna flusters lightly at the unexpected comment.**
- - **Rúna:** "J-já. Það... það er frá ömmu minni."
- - **Seller:** "Það lítur vel út á þér."
- - **Rúna's voice drops to a mutter.**
- - **Rúna:** "T-takk fyrir."
- - **Rúna turns and leaves the seller's stand.**
+- **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
+- **Seller:** "Þarftu eitthvað, kæri?"
+- **Rúna:** "Bara... smá engifer við verkjum."
+- **The seller nods and gestures towards a pile of ginger.**
+- **Seller:** "Þessi eru innflutt svo þau megi vera svolítið af dýr. Átta krónur."
+- **Rúna:** "Bíddu—"
+- **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
+- **Seller:** "Sá möttulsprjónn er fínur. Er það úr bronsi?"
+- **Rúna flusters lightly at the unexpected comment.**
+- **Rúna:** "J-já. Það... það er frá ömmu minni."
+- **Seller:** "Það lítur vel út á þér."
+- **Rúna's voice drops to a mutter.**
+- **Rúna:** "T-takk fyrir."
+- **Rúna turns and leaves the seller's stand.**
 
 ## Name Translations
- - **Younger Futhark:** ᚱᚢᚾᛅ
- - **English, Danish, Norwegian, Swedish, German:** Runa
- - **Latin:** Rūna
- - **Greek:** Ρούνα
- - **Russian:** Руна
- - **Traditional Chinese:** 魯娜
- - **Simplified Chinese:** 鲁娜
- - **Korean:** 루나
- - **Japanese:** ルーナ
+- **Younger Futhark:** ᚱᚢᚾᛅ
+- **English, Danish, Norwegian, Swedish, German:** Runa
+- **Latin:** Rūna
+- **Greek:** Ρούνα
+- **Russian:** Руна
+- **Traditional Chinese:** 魯娜
+- **Simplified Chinese:** 鲁娜
+- **Korean:** 루나
+- **Japanese:** ルーナ
 
 ## Trivia
- - Rúna's name means "rune or secret lore" in Old Norse, nicely fitting her curiosity for ancient mysteries and the darkness.
+- Rúna's name means "rune or secret lore" in Old Norse, nicely fitting her curiosity for ancient mysteries and the darkness.
+
+## Drawing metrics
+This is a reference section containing the metrics needed to draw Rúna.
+
+- **Facial specifications:**
+  - **Face size:** 5.3 inches
+  - **Eye size:** 2.5:1 to 3:1 width-height ratio
+  - **Eye spacing:** 110% the width of eye
+- **Other specifications:**
+  - **Shoulders:** 15 inches wide (2.83x face size)
+  - **Arm (width at elbows):** 3.5 inches wide (0.66x face size)
+  - **Waist:** 10.6 inches wide (2x face size)
