@@ -34,10 +34,9 @@ When he travels or prepares for combat, Ljörn puts on a nasal helmet and his by
 ## Personality
 On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places).
 
-Although strangers describe Ljörn as an unfriendly person due to his reservedness and maturity, he tries to be polite whenever possible, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
+Although strangers describe Ljörn as an unfriendly person due to his reservedness and maturity, he tries to be polite whenever possible, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or superiors. He is stubborn; he usually sticks to his decisions.
 
-Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
-
+Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mumble a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
@@ -54,7 +53,9 @@ Ljörn's natural voice is lukewarm and has a gravelly texture, but it has a cold
 ### PTSD
 Ljörn has PTSD. Although he seems fine most of the time, he has triggers relating to his traumatic experiences. Some triggers, but not all, are: silhouettes in the dark, large amounts of wood burning (like a burning pole), and hostile or fighting sounds.
 
-His outward demeanour when not having an episode is also affected. He has trouble forming any meaningful connections and would ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences. Sometimes, Ljörn has anger outbursts, although he tries to control or suppress himself.
+His outward demeanour when not having an episode is also affected. He has trouble forming any meaningful connections and would ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences.
+
+During an episode, Ljörn has anger outbursts, although he tries to control or suppress himself. After the episode subsides and he has gotten himself alone, he would cry soundlessly for a while before pulling himself together.
 
 Most of the time, when Ljörn is confronted about his behaviour, he would either try to dismiss it or not answer at all, like when he told Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
