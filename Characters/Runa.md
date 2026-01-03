@@ -113,7 +113,7 @@ Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to c
 - **Rúna:** "J-já. Það... það er frá ömmu minni."
 - **Seller:** "Það lítur vel út á þér."
 - **Rúna's voice drops to a mutter.**
-- **Rúna:** "T-takk fyrir."
+- **Rúna:** "T-takk."
 - **Rúna turns and leaves the seller's stand.**
 
 ## Name Translations
