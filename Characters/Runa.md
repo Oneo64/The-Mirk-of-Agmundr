@@ -1,5 +1,4 @@
 # Rúna
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Rúna</th> </tr>
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
