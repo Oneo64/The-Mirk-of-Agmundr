@@ -32,13 +32,17 @@ When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and d
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). When interacting with strangers, he becomes awkward and may become unfriendly and unwarm. Otherwise, he tries to be polite, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
+On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places).
+
+Although strangers describe Ljörn as an unfriendly person due to his reservedness and maturity, he tries to be polite whenever possible, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or higher-ups. He is stubborn; he usually sticks to his decisions.
 
 Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mutter a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
 
 When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
+
+In a lot of situations, Ljörn seeks peace and doesn't really like war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die in a planned battle.
 
 Ljörn's favourite food is venison, a meat he will devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
 
