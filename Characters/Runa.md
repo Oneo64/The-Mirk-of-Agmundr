@@ -25,11 +25,13 @@
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
 
 ## Appearance
-Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, which is slightly round, although her jawline looks mature already. She has green, almond-shaped eyes, which are just downturned at the ends and slightly wide-set, a straight nose, and barely any freckles scattered across her face. She has fair skin that has a slight red hue, an athletic and curvaceous build, and her height is 5'4".
+Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, which is slightly round, although her jawline looks mature already. She has green, almond-shaped eyes that are somewhat downturned at the ends and slightly wide-set, a straight nose, and barely any freckles scattered across her face. She has fair skin that has a slight red hue, an athletic and curvaceous build slightly broadened over laborious work, and her height is 5'4".
 
-When Rúna is outside, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
+When Rúna is outside in a cold place, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
 
-Casually, she wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
+Every day, she wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
+
+Her amulet and her cloak's brooch are both passed down to her from her grandmother.
 
 ### Smile
 When Rúna smiles warmly or nervously, her smile has a distinctive look where her lips are upturned and slightly wobbly, with a gentle peak in the middle. *(Kind of like a ":3" face, but only in the most subtle way.)*
@@ -56,7 +58,7 @@ Rúna's natural voice is soothing, with a soft texture and a slightly lighter pi
 
 Rúna is noticeably kinder and softer to Ljörn. When his presence is there, she becomes bolder, even in public. Even though she finds his occasional stubbornness a little difficult, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
-Rúna cherishes acts of service and quality time the most. Sometimes, she accidentally calls Ljörn *kæri*, then gets embarrassed when he notices.
+Rúna cherishes acts of service and quality time the most. Sometimes, she accidentally calls Ljörn *kæri*, then gets embarrassed when he notices. Sometimes, when he isn't wearing his equipment, she would sneakily try them on.
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
