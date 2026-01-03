@@ -76,7 +76,6 @@ Rúna can identify many common herbs that grow in the north, but she only knows 
 - Catnip and Chamomile are herbs for relaxation
 - Juniper is a greater protection herb
 - Mint and Yarrow are lesser protection herbs
-- Ekraldys toadstools are poisonous
 
 ### Woodcarving
 Since Rúna is a woodcarver, she can carve wood into spoons, forks, animal figurines, or runesticks. Her figurine work isn't very detailed, but they're shapely enough to tell what they are.
