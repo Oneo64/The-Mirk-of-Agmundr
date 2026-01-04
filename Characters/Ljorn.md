@@ -29,7 +29,7 @@ Ljörn has three prominent scars on his body: two on both of his knees from a fa
 
 When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a Mjöllnir amulet.
 
-When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie, and he equips himself with his spear and round shield.
+When he travels or prepares for combat, Ljörn puts on a nasal helmet and his byrnie (a maille shirt that stops below his hips), and he equips himself with his spear and round shield.
 
 ## Personality
 On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places).
