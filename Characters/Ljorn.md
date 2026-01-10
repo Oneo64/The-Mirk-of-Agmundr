@@ -23,7 +23,7 @@
 Ljörn was a settler who travelled to a northern island under the command of Hjalvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
-Ljörn has armpit-length, dark blond hair with gentle but messy waves. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard, which makes his jawline look soft, and fair skin. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He has an ottermode build and stands at a height of 5'9".
+Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard, which makes his jawline look soft, and fair skin. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He has an ottermode build and stands at a height of 5'9".
 
 Ljörn has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot.
 
@@ -32,7 +32,7 @@ When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and d
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and short byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-On the surface, Ljörn is reserved and slightly introverted. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places).
+On the surface, Ljörn is reserved, slightly introverted, and seems fairly and normally casual without closing his emotions off in an ice-cold box. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). He also has a keen survival instinct, being able to quickly and accordingly act on what to do to survive in stressful or urgent situations.
 
 Although strangers describe Ljörn as an unfriendly person due to his reservedness and maturity, he tries to be polite whenever possible, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or superiors. He is stubborn; he usually sticks to his decisions.
 
@@ -43,7 +43,9 @@ Ljörn has a love-hate relationship with his sword. Even though he carries it ar
 
 In a lot of situations, Ljörn seeks peace and doesn't really like war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die in a planned battle before he succumbs to age.
 
-Ljörn's favourite food is venison, a meat he will devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
+Ljörn has several notable habits, such as using sticks (or sometimes, the end of his spear) to draw and fiddle with dirt, crossing his fingers when in a relaxed position, or sometimes talking to himself with mostly short phrases. When nervous, he caresses the right side of his neck. His favourite food is venison, a meat he will devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
+
+Outside safe spaces, it is exceedingly hard to make Ljörn genuinely smile for more than a few seconds. He rarely laughs out loud, as most of his laughs are subdued snorts of air or whispered chuckling.
 
 ### Voice
 Ljörn speaks informally and not much, often answering people with one or two words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
