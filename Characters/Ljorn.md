@@ -41,7 +41,7 @@ When Ljörn gets frustrated, he quietly uses strong language under his breath, b
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
 
-In a lot of situations, Ljörn seeks peace and doesn't really like war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die in a planned battle before he succumbs to age.
+In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
 
 Ljörn has several notable habits, such as using sticks (or sometimes, the end of his spear) to draw and fiddle with dirt, crossing his fingers when in a relaxed position, or sometimes talking to himself with mostly short phrases. When nervous, he caresses the right side of his neck. His favourite food is venison, a meat he will devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
 
