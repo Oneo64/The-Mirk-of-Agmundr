@@ -32,18 +32,23 @@ When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and d
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and short byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-On the surface, Ljörn is reserved, slightly introverted, and seems fairly and normally casual without closing his emotions off in an ice-cold box. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). He also has a keen survival instinct, being able to quickly and accordingly act on what to do to survive in stressful or urgent situations.
+On the surface, Ljörn is reserved, slightly introverted, and seems fairly and normally casual without closing his emotions off in an ice-cold box. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). He also has a keen survival instinct, enabling him to quickly and effectively act in stressful or urgent situations to ensure his survival.
 
 Although strangers describe Ljörn as an unfriendly person due to his reservedness and maturity, he tries to be polite whenever possible, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or superiors. He is stubborn; he usually sticks to his decisions.
 
 Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mumble a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
-When Ljörn gets frustrated, he quietly uses strong language under his breath, but he avoids using extreme insults or belittling.
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
 
 In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
 
-Ljörn has several notable habits, such as using sticks (or sometimes, the end of his spear) to draw and fiddle with dirt, crossing his fingers when in a relaxed position, or sometimes talking to himself with mostly short phrases. When nervous, he caresses the right side of his neck. His favourite food is venison, a meat he will devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
+Ljörn has several notable habits:
+- When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
+- When frustrated, he quietly uses strong language under his breath, but avoids using extreme insults or belittling.
+- When nervous, he caresses the right side of his neck.
+- When relaxed and sitting on a chair, he crosses his fingers together.
+
+Ljörn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
 
 Outside safe spaces, it is exceedingly hard to make Ljörn genuinely smile for more than a few seconds. He rarely laughs out loud, as most of his laughs are subdued snorts of air or whispered chuckling.
 

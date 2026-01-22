@@ -41,11 +41,18 @@ Rúna has a long, 10-inch sword scar on her back, gained from being slashed by A
 ## Personality
 Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is somewhat polite (not formal) and tries to be kind, but is embarrassed by the idea of being called a saint.
 
-Rúna's curiosity comes in a nuanced way; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time is too afraid to seek more about them, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means.
+Rúna's curiosity is nuanced; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time, she's too afraid to seek more about them, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means.
 
 Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
 
-Rúna's favourite food is egg soup. When she's nervous, she fidgets with the hem of her clothing.
+Rúna also has several notable habits:
+- When alone, she entertains herself by quietly humming/singing random melodies.
+- When frustrated, she breathes in through her teeth, making a quiet hissing sound.
+- When listening to someone, she slightly tilts her head to the side.
+- When nervous, she fidgets with the hem of her clothing.
+- When walking around, she avoids stepping on small cracks, seams, and imperfections.
+
+Rúna's favourite food is egg soup.
 
 ### Voice
 Rúna speaks informally and doesn't talk much, much like her reservedness. She usually hesitates on the first word of her speech or between clauses, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
