@@ -110,10 +110,10 @@ Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to c
 - **Seller:** "Þarftu eitthvað, kæri?"
 - **Rúna:** "Bara... smá engifer við verkjum."
 - **The seller nods and gestures towards a pile of ginger.**
-- **Seller:** "Þessi eru innflutt svo þau megi vera svolítið af dýr. Átta krónur."
-- **Rúna:** "Bíddu—"
+- **Seller:** "Þessi eru innflutt svo þau megi vera svolítið af dýr, svo átta krónur."
+- **Rúna:** "Ókei. Bíddu—"
 - **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
-- **Seller:** "Sá möttulsprjónn er fínur. Er það úr bronsi?"
+- **Seller:** "Sá möttulsprjónn er fínn. Er það úr bronsi?"
 - **Rúna flusters lightly at the unexpected comment.**
 - **Rúna:** "J-já. Það... það er frá ömmu minni."
 - **Seller:** "Það lítur vel út á þér."
