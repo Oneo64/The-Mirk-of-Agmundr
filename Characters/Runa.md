@@ -41,9 +41,11 @@ Rúna has a long, 10-inch sword scar on her back, gained from being slashed by A
 ## Personality
 Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is somewhat polite (not formal) and tries to be kind, but is embarrassed by the idea of being called a saint.
 
-Rúna's curiosity is nuanced; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time, she's too afraid to seek more about them, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means.
+Rúna's curiosity is nuanced; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time, she won't seek more about them because she does it only for the thrill and nothing more, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means.
 
-Rúna has a small degree of perfectionism. However, her perfectionism isn't the "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things. If she is alone, she would start humming/singing random music.
+However, Rúna has a small degree of perfectionism, but it isn't the usual "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things.
+
+Although Rúna acts timidly, that trait disappears as soon as someone misidentifies a plant (she might correct them without stuttering), tries to stop her from taking a look at something interesting (she might plead or be annoyed), or interrupts her during a rite (she might be upset).
 
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
