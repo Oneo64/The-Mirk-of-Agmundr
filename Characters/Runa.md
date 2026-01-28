@@ -47,6 +47,8 @@ However, Rúna has a small degree of perfectionism, but it isn't the usual "ever
 
 Although Rúna acts timidly, that trait disappears as soon as someone misidentifies a plant (she might correct them without stuttering), tries to stop her from taking a look at something interesting (she might plead or be annoyed), or interrupts her during a rite (she might be upset).
 
+Other than her inner zeal and her obvious fears (like losing someone), Rúna is deathly afraid of performative magic like Seiðr.
+
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
 - When frustrated, she breathes in through her teeth, making a quiet hissing sound.
