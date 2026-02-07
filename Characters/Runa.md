@@ -52,7 +52,6 @@ Other than her inner zeal and her obvious fears, Rúna is deathly afraid of perf
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
 - When frustrated, she breathes in through her teeth, making a quiet hissing sound.
-- When listening to someone, she slightly tilts her head to the side.
 - When nervous, she fidgets with the hem of her clothing.
 - When walking around, she avoids stepping on small cracks, seams, and imperfections.
 
