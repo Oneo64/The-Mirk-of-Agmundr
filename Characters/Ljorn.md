@@ -32,11 +32,11 @@ When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and d
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and short byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-On the surface, Ljörn is reserved, slightly introverted, and seems fairly and normally casual without closing his emotions off in an ice-cold box. He does not speak much and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). He also has a keen survival instinct, enabling him to quickly and effectively act in stressful or urgent situations to ensure his survival.
+On the surface, Ljörn is an introverted man who just has a peaceful demeanour. He has trouble expressing himself and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). Although many people see him as an unfriendly person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
 
-Although strangers describe Ljörn as an unfriendly person due to his reservedness and maturity, he tries to be polite whenever possible, saying necessary things such as sorry or excuse me, and bowing his head, especially to his elders or superiors. He is stubborn; he usually sticks to his decisions.
+Outside safe spaces, it is exceedingly hard to make him genuinely smile for more than a few seconds. He rarely laughs out loud, as most of his laughs are subdued snorts of air or whispered chuckling.
 
-Ljörn doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mumble a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
+Moreover, Ljörn is stubborn and sticks to his decisions once made, but he doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mumble a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
 
@@ -50,35 +50,17 @@ Ljörn has several notable habits:
 
 Ljörn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
 
-Outside safe spaces, it is exceedingly hard to make Ljörn genuinely smile for more than a few seconds. He rarely laughs out loud, as most of his laughs are subdued snorts of air or whispered chuckling.
-
 ### Voice
 Ljörn speaks informally and not much, often answering people with one or two words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
 
 Ljörn's natural voice is lukewarm and has a gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
 
 ### PTSD
-Ljörn has PTSD. Although he seems fine most of the time, he has triggers relating to his traumatic experiences. Some triggers, but not all, are: silhouettes in the dark, large amounts of wood burning (like a burning pole), and hostile or fighting sounds.
+Ljörn has PTSD. He has trouble forming any meaningful connections and ignores confronting robbers or thieves (unless it affects him or his affiliates). He has insomnia, having trouble falling asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
 
-His outward demeanour when not having an episode is also affected. He has trouble forming any meaningful connections and would ignore confronting robbers or thieves, unless he were the victim. Additionally, he has trouble sleeping at night, afraid he might wake up to a fight again, and he also gets nightmares of his past experiences.
-
-During an episode, Ljörn has anger outbursts, although he tries to control or suppress himself. After the episode subsides and he has gotten himself alone, he would cry soundlessly for a while before pulling himself together.
-
-Most of the time, when Ljörn is confronted about his behaviour, he would either try to dismiss it or not answer at all, like when he told Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
+During an episode, Ljörn would pace around and try to get himself into an open area. He would become very irritable, but he controls his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
 After leaving Iceland for Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
-
-#### Source of PTSD:
- - Sudden raid by Norwegian Vikings during nighttime (was shaken awake from sleep to deal with this tragedy):
-   - Almost got hit by a falling, blazing beam while inside a burning house (not his)
-   - Never saw Kolr again after his (Kolr's) house burned down, even though they were only acquaintances
-   - Watched Úlfnir get brutally slain
-   - Witnessed a foe raise a battleaxe over him after being shot and collapsed by an arrow
- - Struggles of settlement in Agmundaland (Newfoundland):
-   - Got haunted by an angry draugr who had supernatural powers
-   - Got lost in the forest
-   - Had a miserable week-long trip sailing to Agmundaland, even though it was just wet boots, cold weather, and bad food compared to the raid
-   - Settlement attacked by trolls, reinforcing paranoia
 
 ### Rúna
 [*See: Rúna.md*](Runa.md)
@@ -138,7 +120,7 @@ Ljörn knows how to play Rægtafl, but he isn't the best at it.
  - "Get off me."
 
 ## Lore
-Ljörn was born on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Álfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
+Ljörn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Álfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
 
 Ljörn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
 
@@ -152,11 +134,11 @@ One day, when he was taking a leisurely stroll in the forest, he saw a pretty gi
 
 Ljörn witnessed his father, who was getting too old to fight, pass his sword to Úlfnir, who proudly carried it in public whenever he could.
 
-During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Álfr both fended off an adversary. Then, he saw Úlfnir attack an armoured warrior near the center of the village, and as he watched, another came up to his brother's side and planted an axe into his neck.
+During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Álfr both fended off an adversary.
 
-Then, he was assailed by two men at once, one was armoured from head to toe in maille with a masked helmet and a Dane axe, the other with a bow. The bowman was already aiming at him. He raised his shield, but the arrow went straight through his shield and struck his left arm.
+Ljörn watched as Úlfnir attacked an armoured warrior near the center of the village. But another came up to his brother's side and planted an axe into his neck, and he saw his brother fall.
 
-Ljörn was pressed backward as the warrior came closer. He raised his shield again, just in time for it to be struck into deformation and away from his hand, landing onto the ground, useless.
+Then, he was assailed by two men at once, one was armoured from head to toe in maille with a masked helmet and a Dane axe, the other with a bow. The bowman was already aiming at him. He raised his shield, but the arrow went straight through his shield and struck his left arm. He was pressed backward as the warrior came closer. He raised his shield again, just in time for it to be struck into deformation and away from his hand, landing onto the ground, useless.
 
 When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear was broken in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Álfr charged into his executioner and delayed the strike.
 
