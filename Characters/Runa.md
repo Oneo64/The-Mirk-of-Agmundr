@@ -39,13 +39,11 @@ When Rúna smiles warmly or nervously, her smile has a distinctive look where he
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
 
 ## Personality
-Rúna is bashful, easily flustered, and averts her eyes when talking to people she doesn't know well. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things.
-
-But under her demeanour, Rúna has a fascination with ancient ruins and secret lore, compelling her to explore a little to know more about them, though she avoids going on dangerous expeditions and is also deathly afraid of performative magic.
+Rúna is bashful and kind, but can be absent-minded in the way that when not doing anything or listening to someone talk, she would space out and start wondering about random things. But under her demeanour, she has a fascination with ancient ruins and secret lore, compelling her to explore a little to know more about them, though she avoids going on dangerous expeditions and is also deathly afraid of performative magic.
 
 Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
-Although Rúna acts timidly, that trait disappears as soon as someone misidentifies a plant (she might correct them without stuttering), tries to stop her from taking a look at something interesting (she might plead or be annoyed), or interrupts her during a rite (she might be upset).
+Although Rúna acts timidly, she really hates hindrances and ignorance to the point where her bashfulness turns into outright zeal as soon as someone misidentifies a plant *(she would correct them without stuttering)*, tries to stop her from taking a look at something interesting *(she would plead dramatically or be annoyed)*, or interrupts her during a rite *(she would be upset)*.
 
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
@@ -53,7 +51,7 @@ Rúna also has several notable habits:
 - When nervous, she fidgets with the hem of her clothing.
 - When walking around, she avoids stepping on small cracks, seams, and imperfections.
 
-Rúna's favourite food is egg soup.
+Rúna's favourite food is chicken stew, but due to the scarcity of chicken meat, she insists on having egg soup instead.
 
 ### Voice
 Rúna speaks informally and doesn't talk much, much like her reservedness. She usually hesitates on the first word of her speech or between clauses, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
