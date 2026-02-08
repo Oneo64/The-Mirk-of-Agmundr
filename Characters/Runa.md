@@ -43,7 +43,7 @@ Rúna is bashful and kind, but can be absent-minded in the way that when not doi
 
 Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
-Although Rúna acts timidly, she really hates hindrances and ignorance to the point where her bashfulness turns into outright zeal as soon as someone misidentifies a plant *(she would correct them without stuttering)*, tries to stop her from taking a look at something interesting *(she would plead dramatically or be annoyed)*, or interrupts her during a rite *(she would be upset)*.
+Although Rúna acts timidly, she really hates hindrances and ignorance (in her field) to the point where her bashfulness disappears, turning into sternness or outright zeal. When someone misidentifies a plant, she would respond by correcting them without a stutter. When someone tries to stop her from taking a look at something she found interesting, she would sulk or plead dramatically.
 
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
@@ -51,7 +51,7 @@ Rúna also has several notable habits:
 - When nervous, she fidgets with the hem of her clothing.
 - When walking around, she avoids stepping on small cracks, seams, and imperfections.
 
-Rúna's favourite food is chicken stew, but due to the scarcity of chicken meat, she insists on having egg soup instead.
+Rúna's favourite food is chicken stew, but due to the scarcity of chicken meat, she insists on having egg soup instead. She likes the smell of arctic thyme.
 
 ### Voice
 Rúna speaks informally and doesn't talk much, much like her reservedness. She usually hesitates on the first word of her speech or between clauses, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
