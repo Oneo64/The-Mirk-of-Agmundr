@@ -41,9 +41,9 @@ Rúna has a long, 10-inch sword scar on her back, gained from being slashed by A
 ## Personality
 Rúna is bashful, easily flustered, and averts her eyes when talking to people she doesn't know well. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things.
 
-Rúna's curiosity is nuanced; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time, she won't seek more about them because she does it only for the thrill and nothing more, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means. She is deathly afraid of performative magic.
+Rúna has a fascination with ancient ruins and secret lore, compelling her to explore a little to know more about them, though she avoids going on dangerous expeditions and is also deathly afraid of performative magic.
 
-Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. However, since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
+Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
 Although Rúna acts timidly, that trait disappears as soon as someone misidentifies a plant (she might correct them without stuttering), tries to stop her from taking a look at something interesting (she might plead or be annoyed), or interrupts her during a rite (she might be upset).
 
