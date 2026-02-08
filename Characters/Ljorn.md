@@ -32,7 +32,7 @@ When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and d
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and short byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-On the surface, Ljörn is an introverted man who just has a peaceful demeanour. He has trouble expressing himself and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). Although many people see him as an unfriendly person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
+On the surface, Ljörn is an introverted man who just has a peaceful demeanour. He has trouble expressing himself and prefers quiet and solitary areas, although he doesn't mind being in public (or crowded places). Although many people see him as an unfriendly person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors. He is also willing to go on reckless, solo problem-solving sprees, even if it harms him more than doing good to others.
 
 Outside safe spaces, it is exceedingly hard to make him genuinely smile for more than a few seconds. He rarely laughs out loud, as most of his laughs are subdued snorts of air or whispered chuckling.
 
@@ -41,6 +41,8 @@ Moreover, Ljörn is stubborn and sticks to his decisions once made, but he doesn
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
 
 In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
+
+After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Álfr. He had also grown in his own fighting style, where he became more focused in his offensive fighting art and more verbal in throwing condescending remarks.
 
 Ljörn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
