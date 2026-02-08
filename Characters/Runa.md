@@ -61,7 +61,7 @@ Rúna's natural voice is soothing, with a soft texture and a slightly lighter pi
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
 
-Rúna is noticeably kinder and softer to Ljörn. When he is present, she becomes bolder and more playful, even in public. Even though she finds his stubbornness difficult to deal with and feels uncomfortable with his "mild" language, she works around it by telling him off. Ljörn is, besides her family members, one of the only people to whom she would gift her crafts without expecting anything in return.
+Rúna is noticeably kinder and softer to Ljörn. When he is present, she becomes bolder and more playful, letting out all her restrained behaviour by teasing his PTSD. Even though she finds his stubbornness difficult to deal with and feels uncomfortable with his "mild" language, she works around it by telling him off. Ljörn is, besides her family members, one of the only people to whom she would gift her crafts without expecting anything in return.
 
 Rúna cherishes acts of service and quality time the most. Sometimes, she accidentally calls Ljörn *kæri*, then gets embarrassed when he notices. Sometimes, when he isn't wearing his equipment, she would sneakily try them on.
 
