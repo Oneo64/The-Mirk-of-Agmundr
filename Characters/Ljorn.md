@@ -97,28 +97,6 @@ Ljörn once climbed a tree in an attempt to escape a bear.
 ### Rægtafl
 Ljörn knows how to play Rægtafl, but he isn't the best at it.
 
-## Goals
-### Goal arc A
- - **Goal:** To return to Álahringr.
- - **Motivation:** My family doesn't have a reliable protector.
-
-### Goal arc B
- - **Goal:** To survive.
- - **Motivation:** Successfulness.
-
-### Example Dialogue
- - "What do you mean?"
- - "I... don't think-"
- - "Álfr. I-"
- - "Are your boots... wet, too?"
- - "How long will this travelling last?"
- - "What?"
- - "Yes."
- - "No."
- - "I am not an outlaw. They smelled us here!"
- - "Nightmare."
- - "Get off me."
-
 ## Lore
 Ljörn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Álfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
 
