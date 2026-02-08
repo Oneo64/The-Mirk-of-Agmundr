@@ -39,15 +39,13 @@ When Rúna smiles warmly or nervously, her smile has a distinctive look where he
 Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
 
 ## Personality
-Rúna is slightly introverted. She is bashful, easily flustered, and sometimes averts her eyes when talking to people she doesn't know well. But despite these traits, she isn't shy. She is somewhat polite (not formal) and tries to be kind, but is embarrassed by the idea of being called a saint.
+Rúna is bashful, easily flustered, and averts her eyes when talking to people she doesn't know well. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things.
 
-Rúna's curiosity is nuanced; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time, she won't seek more about them because she does it only for the thrill and nothing more, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means.
+Rúna's curiosity is nuanced; she's curious about dark forests, ancient ruins, and even secret lore, but at the same time, she won't seek more about them because she does it only for the thrill and nothing more, no matter how intriguing. For example, if she finds a mysterious scroll with mysterious text, she might take a look at it out of pure curiosity, but won't actually seek a translator or try to find out what it means. She is deathly afraid of performative magic.
 
-However, Rúna has a small degree of perfectionism, but it isn't the usual "everything must be tidy" way. It's when she sometimes worries if she's done anything wrong, almost immediately after she does something. She is also absent-minded; when not doing anything or listening to someone talk, she would space out and start wondering about random things.
+Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. However, since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
 Although Rúna acts timidly, that trait disappears as soon as someone misidentifies a plant (she might correct them without stuttering), tries to stop her from taking a look at something interesting (she might plead or be annoyed), or interrupts her during a rite (she might be upset).
-
-Other than her inner zeal and her obvious fears, Rúna is deathly afraid of performative magic like Seiðr, the magic a draugr or nykr has, or (for example) the sorceries that wizards do.
 
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
@@ -65,7 +63,7 @@ Rúna's natural voice is soothing, with a soft texture and a slightly lighter pi
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
 
-Rúna is noticeably kinder and softer to Ljörn. When he is present, she becomes bolder, even in public. Even though she finds his occasional stubbornness a little difficult and feels uncomfortable with his "mild" language, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
+Rúna is noticeably kinder and softer to Ljörn. When he is present, she becomes bolder, even in public. Even though she finds his occasional stubbornness a little difficult and feels uncomfortable with his... "mild" language, she works around it. Ljörn is, besides her family members, one of the only people she would gift her crafts to without expecting anything in return.
 
 Rúna cherishes acts of service and quality time the most. Sometimes, she accidentally calls Ljörn *kæri*, then gets embarrassed when he notices. Sometimes, when he isn't wearing his equipment, she would sneakily try them on.
 
