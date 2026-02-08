@@ -36,8 +36,6 @@ On the surface, Ljörn is an introverted man who just has a peaceful demeanour. 
 
 Even though Ljörn is hesitant about being completely alone, he is willing to go on careless solo problem-solving sprees, even if it harms him more than doing good to others. There is, however, a limit to how much he does this. For example, he would go alone to a nearby village to track down an enemy, but would never go on a multiday adventure without a strong reason.
 
-Outside safe spaces, it is exceedingly hard to make him genuinely smile for more than a few seconds. He rarely laughs out loud, as most of his laughs are subdued snorts of air or whispered chuckling.
-
 Moreover, Ljörn is stubborn and sticks to his decisions once made, but he doesn't have good self-esteem. When he receives a compliment, he tends to downplay it or mumble a thanks. He doesn't think he's a good teacher even after someone has learned something valuable from him.
 
 Ljörn has a love-hate relationship with his sword. Even though he carries it around with him and is willing to use it in self-defence, it reminds him of his dead older brother. To cope, he lies to himself that it was given to him directly by his father.
