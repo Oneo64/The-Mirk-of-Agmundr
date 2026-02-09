@@ -40,7 +40,7 @@ Ljörn has a love-hate relationship with his sword. Even though he carries it ar
 
 In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
 
-After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Álfr. He had also grown in his own fighting style, where he became more focused in his offensive fighting art and more verbal in throwing condescending remarks.
+After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Álfr. He had also grown in his own fighting style, where he became more focused in his offensive fighting art and more verbal in throwing condescending remarks, although his emotional give-it-all style was still there.
 
 Ljörn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
