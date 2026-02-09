@@ -30,13 +30,11 @@
 In combat, Álfr wears a maskless Gjermundbu helmet and a maille hauberk. He has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
 
 ## Personality
-Álfr is competitive and persuasive. He is mindful of his surroundings and is careful not to knock anything over or do anything clumsy.
+As a bold person, Álfr is competitive, persuasive, and mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is also cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
 
-However, in combat, Álfr becomes reckless and impulsive. He is cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
+Not only that, Álfr's impulsiveness in combat leaks into his speech, blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
 
-Since Álfr is impulsive, he has the habit of blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
-
-Álfr has a subtle sense of humour, yet it only shows during stressful times. His sense of humour is often a subtly childish and playful humour, even though he is very mature at other times.
+During stressful times, Álfr gains his sense of ridiculous humour, often childish and playful. Still, he is very mature at other times.
 
 Álfr's love languages are acts of service and words of affirmation. With people he is very close to, his outer bold self softens.
 
