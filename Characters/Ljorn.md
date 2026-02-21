@@ -110,7 +110,7 @@ In his late teens, he began to show interest in hunting and was taken out to the
 
 One day, when he was taking a leisurely stroll in the forest, he saw a pretty girl by the river (who was Rúna) and got a short-lived crush, but he slowly forgot about her as he only saw her silhouette. On this day, he cannot remember much about this interaction, including appearance and location, other than that he had a fleeting crush on someone.
 
-Ljörn witnessed his father, who was getting too old to fight, pass his sword to Úlfnir, who proudly carried it in public whenever he could.
+Ljörn witnessed the moment when his father passed his sword to Úlfnir, the oldest brother in the family. His father had received his sword from his father (in this case, Ljörn's paternal grandfather), who had ultimately acquired it after returning from a Viking raid. The brother proudly carried it in public whenever he could. Ljörn, for the first few weeks, felt jealous of him.
 
 During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Álfr both fended off an adversary.
 
