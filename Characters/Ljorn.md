@@ -32,9 +32,9 @@ When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and d
 When he travels or prepares for combat, Ljörn puts on a nasal helmet and short byrnie, and he equips himself with his spear and round shield.
 
 ## Personality
-On the surface, Ljörn is an introverted man who just has a peaceful demeanour. He has trouble expressing his wants and prefers quiet, solitary areas, but he never tries to close off his emotions, allowing himself to be openly happy and angry. Although many people see him as an unfriendly person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
+On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
 
-Ljörn is stubborn and sticks to his decisions once made, but he doesn't have good self-esteem. Even though he is hesitant about being completely alone, he is willing to go on careless solo problem-solving sprees so that he can feel capable, even if it harms him more than doing good to others. There is, however, a limit to how much he does this. For example, he would go alone to a nearby village to track down an enemy, but would never go on a multiday adventure without a strong reason.
+But Ljörn is stubborn and has a low sense of self-worth, often becoming conflicted between greatness and humility. He also has trouble expressing his wants, always hesitating or avoiding saying them.
 
 In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
 
