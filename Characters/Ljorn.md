@@ -54,9 +54,9 @@ Ljörn speaks informally and not much, often answering people with one or two wo
 Ljörn's natural voice is lukewarm and has a gravelly texture, but it has a cold tone, like the sound of a warm, murky rainstorm. When he is tired, his voice becomes slightly hoarse.
 
 ### PTSD
-Ljörn has PTSD. He has trouble forming any meaningful connections and ignores confronting robbers or thieves (unless it affects him or his affiliates). He has insomnia, having trouble falling asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
+Ljörn has PTSD. He has trouble forming any meaningful connections and ignores confronting robbers or thieves (unless it affects him or his affiliates). At night, he becomes very susceptible to noises like banging or movement. He has insomnia, having trouble falling asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
 
-During an episode, Ljörn would pace around and try to get himself into an open area. He would become very irritable, but he controls his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
+During an episode, Ljörn would pace around and try to get himself into an open area. He becomes very irritable, but he tries to control his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
 After leaving Iceland for Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
