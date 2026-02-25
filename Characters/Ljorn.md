@@ -80,7 +80,7 @@ Whenever Rúna gets playful with him, Ljörn finds it annoying to deal with, yet
 
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from several encounters, including a draugr, a wild bear, and two Norwegian Vikings.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from several encounters, including surviving a wild bear and two Norwegian Vikings, and killing a draugr.
 
 Ljörn's left arm is weak because of an arrow injury during a raid on his home village. He can hold his shield up fine, but he is more tired from taking blows.
 
