@@ -23,13 +23,13 @@
 Ljörn was a settler who travelled to a northern island under the command of Hjalvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
-Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard, which makes his jawline look soft, and fair skin. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He has an ottermode build and stands at a height of 5'9".
+Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard (about an inch long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He stands at a height of 5'9".
 
-Ljörn's skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He also has two smaller, insignificant scars, one dead center on his nose from acne, and a small scar on his right wrist from a slip while sharpening an axe.
+Ljörn's skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He has a smaller scar on his right wrist from a slip while sharpening an axe.
 
-When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. Casually, he wears a muted blue tunic, brown pants, a belt, and leather boots. He wears a baldric scabbard with a sword.[^1] He has a leather pouch and a small seax on his belt. Ljörn wears a Mjöllnir amulet.
+When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. On most days, he wears one of the most common combinations of Norse clothing: a muted tunic (blue), brown pants, a belt, simple boots, and a Mjöllnir necklace. For his weapons, he wears an undecorated baldric scabbard (his sword inside) and a small seax.[^1]
 
-When he travels or prepares for combat, Ljörn puts on a nasal helmet and short byrnie, and he equips himself with his spear and round shield.
+Very frequently can Ljörn be seen wearing his short byrnie, even indoors or during formal occasions. When he travels or prepares for combat, he dons a nasal helmet and equips himself with his spear and round shield.
 
 ## Personality
 On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
