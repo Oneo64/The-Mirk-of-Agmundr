@@ -23,7 +23,7 @@
 Ljörn was a settler who travelled to a northern island under the command of Hjalvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
-Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard (about an inch long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He stands at a height of 5'9".
+Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard (about one or two inchs long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He stands at a height of 5'9".
 
 Ljörn's skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He has a smaller scar on his right wrist from a slip while sharpening an axe.
 
