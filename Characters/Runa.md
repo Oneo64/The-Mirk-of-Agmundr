@@ -56,7 +56,7 @@ Rúna's favourite food is chicken stew, but due to the scarcity of chicken meat,
 ### Voice
 Rúna speaks informally and doesn't talk much, much like her reservedness. She usually hesitates on the first word of her speech or between clauses, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
 
-Rúna's natural voice is soothing, with a soft texture and a slightly lighter pitch, reminiscent of a healing balm or the sound of afternoon wind blowing through birch forest trees.
+Rúna's natural voice is soothing, with a soft texture and a slightly lighter pitch.
 
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
