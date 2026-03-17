@@ -51,7 +51,7 @@ Ljörn's favourite food is venison, a meat he will quickly devour if cooked well
 ### Voice
 Ljörn speaks informally and not much, often answering people with one or two words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
 
-Ljörn's natural voice sounds gravelly but has a cold tone. When he is tired, his voice becomes slightly hoarse.
+Ljörn has a cold, gravelly voice which hoarsens when he is tired.
 
 ### PTSD
 Ljörn has PTSD. He has trouble forming any meaningful connections and ignores confronting robbers or thieves (unless it affects him or his affiliates). At night, he becomes very susceptible to noises like banging or movement. He has insomnia, having trouble falling asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
