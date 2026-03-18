@@ -49,7 +49,7 @@ Ljörn has several notable habits:
 Ljörn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
 
 ### Voice
-Ljörn speaks informally and not much, often answering people with one or two words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
+Ljörn speaks informally and not much, often answering people with one or two words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly and as bluntly as possible. Unless he is startled, he never blurts out his words. *(See Example Dialogues below to see examples of how he speaks.)*
 
 Ljörn has a cold, gravelly voice which hoarsens when he is tired.
 
