@@ -1,5 +1,4 @@
 # Örúlfr
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Örúlfr</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
@@ -20,8 +19,7 @@
 Örúlfr is seen carrying a quiver.
 
 ## Personality
-
-
+WIP
 
 ### Goals
 **Goal:** To protect the company.

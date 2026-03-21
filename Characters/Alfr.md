@@ -1,5 +1,4 @@
 # Álfr
-
 <table align=right><tbody>
 	<tr> <th colspan=2>Álfr</th> </tr>
 	<tr> <th colspan=2>ᛅᚢᛚᚠᚱ</th> </tr>
