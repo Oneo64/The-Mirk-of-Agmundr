@@ -27,14 +27,12 @@ Sága casually wears a dark red tunic, brown pants, a ring belt, and a pair of s
 When Sága is outside, she wears a dark brown cloak with double brooches. When she is training or travelling, she carries her nasal helmet, kite shield, and baldric scabbard.
 
 ## Personality
-Sága, like her father, is adventurous and curious. Normally, Sága wouldn't strike up conversation as fast and as eagerly as an extrovert would, but once she gets into a conversation, especially small talk, she becomes very talkative.
+Like her father, Sága is an adventurous and ambitious explorer, wanting to be independent for others' approval. However, she can become a little hard to deal with, especially when she defends things that she believes in. Not only that, she is reckless in her own independence as she tries to achieve them through careless decisions.
 
-Sága likes to tell stories, especially heroic sagas (hence her name) that she's read. When asked, her favorite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village.
-
-Sometimes, Sága tries to be independent to prove her worth, even if whatever she's going to do would be considered reckless by many.
+Outside of adventure and fighting, Sága likes to tell stories to her friends and companions, especially heroic sagas that she's read or heard before. Her favourite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village. *(For example, I think she would fangirl over LotR if that story existed in her time.)*
 
 ### Voice
-Sága speaks in a poetic way as if she's telling a story.
+Sága speaks formally and sometimes, poetically. She has a naturally deep voice with a sharp tone.
 
  - "I have a tale to tell!"
  - "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
