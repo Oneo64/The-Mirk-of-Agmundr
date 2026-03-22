@@ -58,7 +58,7 @@ Ljörn has PTSD. He has trouble forming any meaningful connections and ignores c
 
 During an episode, Ljörn would pace around and try to get himself into an open area. He becomes very irritable, but he tries to control his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Alfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
-After leaving Iceland for Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
+After leaving Iceland for Agmundarland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
 ### Rúna
 [*See: Rúna.md*](Runa.md)

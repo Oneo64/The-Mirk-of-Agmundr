@@ -7,6 +7,8 @@ The Mirk of Agmundr is a true medieval fantasy story and worldbuilding project s
 
 The Mirk of Agmundr was originally a spinoff of Aldraheimr (link available below), but quickly became its own thing. But unlike its predecessor, this world focuses on the much smaller context of a farmstead, the surrounding forest, and the land of Newfoundland, rather than an entire continent.
 
+**NOTE: Agmundarland refers to Newfoundland.**
+
 ---
 
 **(OLD) Fantasy version:** https://github.com/Oneo64/Aldraheimr
