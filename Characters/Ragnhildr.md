@@ -16,7 +16,7 @@
 Ragnhildr the Half-giant was a healer who went alongside Hjálvir to settle on a northern island.
 
 ## Appearance
-Ragnhildr has a noticeably large appearance, being as tall as a man. She has red hair, dark, weathered eyes, and rough skin, giving her the appearance of a jötunn. On the right side of her cheek is a thin, long, vertical scar.
+Ragnhildr has a noticeably large appearance, being as tall as a man. She has red hair, dark, weathered eyes, and rough skin, giving her the appearance of a jötunn. On the right side of her cheek is a thin, long, vertical scar. She is undeniably tall and has a sturdy build, giving her a somewhat rounded appearance.
 
 Most of the time, Ragnhildr is wearing a rough, dark green dress and a large brown scarf.
 
