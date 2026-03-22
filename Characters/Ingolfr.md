@@ -15,7 +15,7 @@
 Ingólfr was one of the settlers.
 
 ## Appearance
-Ingólfr has long, dark brown hair that's been pulled back and secured with a cloth strip, with a few stray locks of hair falling over his face. He has upturned hazel eyes and pale skin.
+Ingólfr has long, dark brown hair that's been pulled back and secured with a cloth strip, with a few stray locks of hair falling over his face. He has upturned hazel eyes and pale skin. He is tall and lean.
 
 Ingólfr usually wears a brown cloak, a muted red tunic, brown pants, a buckled belt, and a pair of shoes. He wears a Mjöllnir necklace and has a sword and scabbard. When travelling, he dons a hauberk and a round shield.
 

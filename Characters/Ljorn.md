@@ -23,9 +23,9 @@
 Ljörn was a settler who travelled to a northern island under the command of Hjálvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
-Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard (about two inches long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He stands at a height of 5'9".
+Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. He has a short, full beard (about two inches long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people.
 
-Ljörn's skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He has a smaller scar on his right wrist from a slip while sharpening an axe.
+Ljörn has a lean body softened by a thin layer of fat, and he stands at a height of 5'9". His skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He has a smaller scar on his right wrist from a slip while sharpening an axe.
 
 When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. On most days, he wears one of the most common combinations of Norse clothing: a muted blue tunic, brown pants, a belt, simple boots, and a Mjöllnir necklace. For his weapons, he wears an undecorated baldric scabbard (his sword inside) and a small seax.[^1]
 
