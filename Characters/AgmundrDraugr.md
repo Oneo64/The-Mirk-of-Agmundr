@@ -9,7 +9,7 @@
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human draugr</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
-	<tr> <td>Height</td> <td>5'11"</td> </tr>
+	<tr> <td>Height</td> <td>6'0"</td> </tr>
 	<tr> <td>Hair color</td> <td>Black</td> </tr>
 	<tr> <td>Eye color</td> <td>Greyed out</td> </tr>
 </tbody></table>
@@ -17,7 +17,7 @@
 Agmundr was Hjalvir's father who traveled to Agmundaland. It died after being killed by the natives and was buried in a mound.
 
 ## Appearance
-Agmundr appears to be withered, with greyed out eyes, and sparse black hair. It stands at about 5'11", which is taller than many people. It has a gnarly wound in its stomach as if someone drove a sharp object though it.
+Agmundr appears to be withered, with greyed out eyes, and sparse black hair. It stands at about 6'0", which is taller than many people. It has a gnarly wound in its stomach as if someone drove a sharp object though it.
 
 It wears a suit of old maille, worn pants, a belt and a pair of shoes. On its head sits a rusty helmet. Agmundr carries a longseax.
 
