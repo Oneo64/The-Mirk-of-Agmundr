@@ -29,7 +29,7 @@ When Sága is outside, she wears a dark brown cloak with double brooches. When s
 ## Personality
 Like her father, Sága is an adventurous and ambitious explorer, wanting to be independent for others' approval. However, she can become a little hard to deal with, especially when she defends things that she believes in. Not only that, she is reckless in her own independence as she tries to achieve them through careless decisions.
 
-Outside of adventure and fighting, Sága likes to tell stories to her friends and companions, especially heroic sagas that she's read or heard before. Her favourite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village. *(For example, I think she would fangirl over LotR if that story existed in her time.)*
+Outside of adventure and fighting, Sága likes to tell stories to her friends and companions, especially heroic sagas that she's read or heard before. Her favourite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village. *(For example, I think she would fangirl over The Hobbit / LotR if that story existed in her time.)*
 
 ### Voice
 Sága speaks formally and sometimes, poetically. She has a naturally deep voice with a sharp tone.
