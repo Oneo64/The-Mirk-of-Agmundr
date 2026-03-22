@@ -17,7 +17,7 @@
 	<tr> <td>Eye color</td> <td>Green</td> </tr>
 </tbody></table>
 
-Hjálvir the Uncoverer was a Viking explorer who lead a group of settlers to Agmundarland.
+Hjálvir the Uncoverer was a Viking explorer who led a group of settlers to Agmundarland, establishing a settlement there. He is now a chieftain, overseeing his place with pride.
 
 ## Appearance
 Hjálvir has a lean body and is around 5'9" in height. His hair is black with grey streaks, paired with a full, scruffy beard. His green eyes are deep-set and have a naturally withered shape, giving him a scary appearance.
