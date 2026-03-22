@@ -120,11 +120,13 @@ Ljörn watched as Úlfnir attacked an armoured warrior near the center of the vi
 
 Then, he was assailed by two men at once, one was armoured from head to toe in maille with a masked helmet and a Dane axe, the other with a bow. The bowman was already aiming at him. He raised his shield, but the arrow went straight through his shield and struck his left arm. He was pressed backward as the warrior came closer. He raised his shield again, just in time for it to be struck into deformation and away from his hand, landing onto the ground, useless.
 
-When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear was broken in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Alfr charged into his executioner and delayed the strike.
+When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear broke in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Alfr charged into his executioner and delayed the strike.
 
-Ljörn scrambled to his feet, grabbed the half of the broken spear with the spearhead, and went into the forest to hide there until the raiders left. After the raid, Ljörn returned and got his arrow taken out and treated. Now, being the oldest living son of his father, he was given Úlfnir's sword.
+Ljörn scrambled to his feet, grabbed the half of the broken spear with the spearhead, and fled into the forest. He stayed the night there, feeling cold and helpless in the dark.
 
-Ever since the raid, he had been introverted. He would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
+When morning came, Ljörn woke to the sunlight, feeling dizzy and unable to see well due to blood loss. He snuck back into the village after realising the invaders had left. He had his arrow wound removed and treated. Now, being the oldest living son of his father, he was given Úlfnir's sword.
+
+Ever since the raid, he had become introverted. He would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
 
 ## Name Translations
  - **Younger Futhark:** ᛚᛁᚢᚱᚾ
