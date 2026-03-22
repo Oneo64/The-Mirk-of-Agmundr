@@ -17,14 +17,14 @@
 	<tr> <td>Eye color</td> <td>Slightly brownish green (right)<br>Green (left)</td> </tr>
 </tbody></table>
 
-Sága is an explorer from Álahringr.
+Sága is an explorer.
 
 ## Appearance
-Sága has shoulder-length curly black hair and fair skin. Her eyes are captivatingly green, and her right eye is slightly browner than her left. Her eyebrows are thinner, and her ears are slightly pointed. She is 5'5" tall and has an athletic and rectangular build.
+Sága has shoulder-length curly black hair and fair skin. Her eyes are captivatingly green, and her right eye is slightly browner than her left. Her eyebrows are thinner, and her ears are slightly pointed. She is 5'5" tall and has a straight, lean figure with a small bust.
 
-Sága casually wears a dark red tunic, brown pants, a ring belt, and a pair of shoes. She wears a necklace of a strange-looking pebble she found near the river.
+Sága casually wears a dark red tunic, brown pants, a ring belt, and a pair of shoes. She wears a necklace of a strange-looking pebble she found near the river. Somewhere in her storage, she keeps a dark red dress with brown embroidery, but she doesn't wear it as often.
 
-When Sága is outside, she wears a dark brown cloak with double brooches. When Sága is training or traveling, she carries her nasal helmet, kite shield, and baldric scabbard.
+When Sága is outside, she wears a dark brown cloak with double brooches. When she is training or travelling, she carries her nasal helmet, kite shield, and baldric scabbard.
 
 ## Personality
 Sága, like her father, is adventurous and curious. Normally, Sága wouldn't strike up conversation as fast and as eagerly as an extrovert would, but once she gets into a conversation, especially small talk, she becomes very talkative.
