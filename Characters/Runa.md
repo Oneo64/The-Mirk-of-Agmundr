@@ -16,7 +16,7 @@
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>
-	<tr> <td>Height</td> <td>5'4"</td> </tr>
+	<tr> <td>Height</td> <td>5'3"</td> </tr>
 	<tr> <td>Hair color</td> <td>Light brown</td> </tr>
 	<tr> <td>Eye color</td> <td>Green</td> </tr>
 </tbody></table>
@@ -24,7 +24,7 @@
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
 
 ## Appearance
-Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, bearing green, almond-shaped eyes that are slightly wide-set, a straight nose, and barely any freckles scattered across her face. She has fair skin that has a slight red hue, an athletic and curvaceous build slightly broadened over laborious work, and her height is 5'4".
+Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, bearing green, almond-shaped eyes that are slightly wide-set, a straight nose, and barely any freckles scattered across her face. She has fair skin that has a slight red hue, an athletic and curvaceous build slightly broadened over laborious work, and her height is 5'3".
 
 When Rúna is outside in a cold place, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
 
