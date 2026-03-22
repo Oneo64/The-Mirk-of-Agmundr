@@ -12,7 +12,7 @@
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>
-	<tr> <td>Height</td> <td>5'4"</td> </tr>
+	<tr> <td>Height</td> <td>5'5"</td> </tr>
 	<tr> <td>Hair color</td> <td>Black</td> </tr>
 	<tr> <td>Eye color</td> <td>Slightly brownish green (right)<br>Green (left)</td> </tr>
 </tbody></table>
@@ -20,7 +20,7 @@
 Sága is an explorer from Álahringr.
 
 ## Appearance
-Sága has shoulder-length curly black hair and fair skin. Her eyes are captivatingly green, and her right eye is slightly browner than her left. Her eyebrows are thinner, and her ears are slightly pointed. She is 5'4" tall.
+Sága has shoulder-length curly black hair and fair skin. Her eyes are captivatingly green, and her right eye is slightly browner than her left. Her eyebrows are thinner, and her ears are slightly pointed. She is 5'5" tall.
 
 Sága casually wears a dark red tunic, brown pants, a ring belt, and a pair of shoes. She wears a necklace of a strange-looking pebble she found near the river.
 
