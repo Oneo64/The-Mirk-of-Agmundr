@@ -1,0 +1,2 @@
+# Karl
+Karl is the son of Ljörn and Rúna, who appears a decade and a half after the main events of the Mirk of Agmundr. He is depicted as having wavy, light brown hair and downturned blue eyes, and freckles across his cheeks.
