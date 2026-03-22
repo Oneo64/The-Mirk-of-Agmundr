@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Ragnhildr</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Healer</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Mid 40s</td> </tr>
@@ -13,7 +13,7 @@
 	<tr> <td>Height</td> <td>5'9"</td> </tr>
 </tbody></table>
 
-Ragnhildr the Half-giant was a healer who went alongside Hjalvir to settle on a northern island.
+Ragnhildr the Half-giant was a healer who went alongside Hjálvir to settle on a northern island.
 
 ## Appearance
 Ragnhildr has a noticeably large appearance, being as tall as a man. She has red hair, dark, weathered eyes, and rough skin, giving her the appearance of a jötunn. On the right side of her cheek is a thin, long, vertical scar.

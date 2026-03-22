@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/Portrait12.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
 	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>

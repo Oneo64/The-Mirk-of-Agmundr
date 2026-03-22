@@ -1,9 +1,9 @@
-# Álfr
+# Alfr
 <table align=right><tbody>
-	<tr> <th colspan=2>Álfr</th> </tr>
-	<tr> <th colspan=2>ᛅᚢᛚᚠᚱ</th> </tr>
+	<tr> <th colspan=2>Alfr</th> </tr>
+	<tr> <th colspan=2>ᛅᛚᚠᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Forest Explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
@@ -19,23 +19,23 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Álfr is a settler from Álahringr who travelled to a northern island as part of Hjalvir's company, and is also the one who persuaded Ljörn to go there with him.
+Alfr is a settler from Álahringr who travelled to a northern island as part of Hjálvir's company, and is also the one who persuaded Ljörn to go there with him.
 
 ## Appearance
-Álfr has armpit-length brown hair, a stubble beard, and skin that is slightly tanned. His blue eyes have a boyish shape, as described by Ljörn. He stands at a height of 5'8".
+Alfr has armpit-length brown hair, a stubble beard, and skin that is slightly tanned. His blue eyes have a boyish shape, as described by Ljörn. He stands at a height of 5'8".
 
-Álfr wears a blue cap with green accents, a dark blue shawl, a muted green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12-inch-long seax, and he wears boots on his feet. He wears an iron Mjöllnir amulet.
+Alfr wears a blue cap with green accents, a dark blue shawl, a muted green tunic, and a pair of brown pants. He has a pouch and a bearded axe on his belt, a 12-inch-long seax, and he wears boots on his feet. He wears an iron Mjöllnir amulet.
 
-In combat, Álfr wears a maskless Gjermundbu helmet and a maille hauberk. He has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
+In combat, Alfr wears a maskless Gjermundbu helmet and a maille hauberk. He has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
 
 ## Personality
-As a bold person, Álfr is competitive, persuasive, and mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is also cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
+As a bold person, Alfr is competitive, persuasive, and mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is also cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
 
-Not only that, Álfr's impulsiveness in combat leaks into his speech, blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
+Not only that, Alfr's impulsiveness in combat leaks into his speech, blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
 
-During stressful times, Álfr gains his sense of ridiculous humour, often childish and playful. Still, he is very mature at other times.
+During stressful times, Alfr gains his sense of ridiculous humour, often childish and playful. Still, he is very mature at other times.
 
-Álfr's love languages are acts of service and words of affirmation. With people he is very close to, his outer bold self softens.
+Alfr's love languages are acts of service and words of affirmation. With people he is very close to, his outer bold self softens.
 
 ### Arc
  - Positive Arc
@@ -48,12 +48,12 @@ During stressful times, Álfr gains his sense of ridiculous humour, often childi
 
 ## Abilities
 ### Physicality
-Álfr has six years' worth of spear-fighting practice, which makes him above average in combat with his spear.
+Alfr has six years' worth of spear-fighting practice, which makes him above average in combat with his spear.
 
-Álfr has an odd defensive-offensive fighting style. He would start by keeping a safe distance with his shield in front of him, waiting for an opening to strike. Without his spear, unless the enemy had their weapon pointing at him (if they had one), he would throw himself at them, tackle them to the ground, and try to get a stab with his seax.
+Alfr has an odd defensive-offensive fighting style. He would start by keeping a safe distance with his shield in front of him, waiting for an opening to strike. Without his spear, unless the enemy had their weapon pointing at him (if they had one), he would throw himself at them, tackle them to the ground, and try to get a stab with his seax.
 
 ### Rægtafl
-Álfr knows how to play Rægtafl.
+Alfr knows how to play Rægtafl.
 
 ## Goals
  - **Goal:** To explore the new land.
@@ -81,8 +81,8 @@ During stressful times, Álfr gains his sense of ridiculous humour, often childi
  - "Ugh... nasty thing. It's gone done me."
 
 ## Name Translations
- - **Younger Futhark:** ᛅᚢᛚᚠᚱ
- - **Icelandic:** Álfur
+ - **Younger Futhark:** ᛅᛚᚠᚱ
+ - **Icelandic:** Alfur
  - **English, Danish, Norwegian, Swedish, German, Latin:** Alf
  - **Greek:** Άλφρ
  - **Russian:** Альф

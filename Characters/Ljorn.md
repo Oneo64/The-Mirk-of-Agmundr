@@ -4,14 +4,14 @@
 	<tr> <th colspan=2>ᛚᛁᚢᚱᚾ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/PortraitLowRes.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjalvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Hunting<br>Tree-felling<br>Woodcutting</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25</td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mifrún <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Álfr <i>(younger brother)</i><br>Yngvild <i>(younger sister)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mifrún <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfr <i>(younger brother)</i><br>Yngvild <i>(younger sister)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -20,7 +20,7 @@
 	<tr> <td>Eye color</td> <td>Dark pale blue</td> </tr>
 </tbody></table>
 
-Ljörn was a settler who travelled to a northern island under the command of Hjalvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
+Ljörn was a settler who travelled to a northern island under the command of Hjálvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
 Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. His hair is combed, pulled back, and then secured by a cloth strip tied around his head. He has a short, full beard (about two inches long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people. He stands at a height of 5'9".
@@ -38,7 +38,7 @@ But Ljörn is stubborn and has a low sense of self-worth, often becoming conflic
 
 In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
 
-After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Álfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
+After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Alfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
 
 Ljörn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
@@ -56,7 +56,7 @@ Ljörn has a cold, gravelly voice which hoarsens when he is tired.
 ### PTSD
 Ljörn has PTSD. He has trouble forming any meaningful connections and ignores confronting robbers or thieves (unless it affects him or his affiliates). At night, he becomes very susceptible to noises like banging or movement. He has insomnia, having trouble falling asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
 
-During an episode, Ljörn would pace around and try to get himself into an open area. He becomes very irritable, but he tries to control his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Álfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
+During an episode, Ljörn would pace around and try to get himself into an open area. He becomes very irritable, but he tries to control his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Alfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
 
 After leaving Iceland for Agmundaland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
@@ -98,7 +98,7 @@ Ljörn once climbed a tree in an attempt to escape a bear.
 Ljörn knows how to play Rægtafl, but he isn't the best at it.
 
 ## Lore
-Ljörn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Álfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
+Ljörn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Alfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
 
 Ljörn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
 
@@ -114,13 +114,13 @@ Ljörn witnessed the moment when his father passed his sword to Úlfnir, the old
 
 Úlfnir proudly carried his inherited sword in public whenever he could. Ljörn, for the first few weeks, felt jealous of him.
 
-During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Álfr both fended off an adversary.
+During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Alfr both fended off an adversary.
 
 Ljörn watched as Úlfnir attacked an armoured warrior near the center of the village. But another came up to his brother's side and planted an axe into his neck, and he saw his brother fall.
 
 Then, he was assailed by two men at once, one was armoured from head to toe in maille with a masked helmet and a Dane axe, the other with a bow. The bowman was already aiming at him. He raised his shield, but the arrow went straight through his shield and struck his left arm. He was pressed backward as the warrior came closer. He raised his shield again, just in time for it to be struck into deformation and away from his hand, landing onto the ground, useless.
 
-When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear was broken in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Álfr charged into his executioner and delayed the strike.
+When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear was broken in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Alfr charged into his executioner and delayed the strike.
 
 Ljörn scrambled to his feet, grabbed the half of the broken spear with the spearhead, and went into the forest to hide there until the raiders left. After the raid, Ljörn returned and got his arrow taken out and treated. Now, being the oldest living son of his father, he was given Úlfnir's sword.
 
