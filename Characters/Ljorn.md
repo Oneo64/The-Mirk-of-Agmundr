@@ -34,7 +34,7 @@ Very frequently can Ljörn be seen wearing his short byrnie, even indoors or dur
 ## Personality
 On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
 
-But Ljörn is stubborn and has a low sense of self-worth, often becoming conflicted between greatness and humility. He also has trouble expressing his wants, always hesitating or avoiding saying them.
+However, Ljörn is stubborn and has a low sense of self-worth, often becoming conflicted between greatness and humility. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them.
 
 In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
 
