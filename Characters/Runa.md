@@ -122,9 +122,9 @@ But to their unfortunate luck, their new settlement was attacked by local tribes
 
 Then there was a night when Rúna was awoken by a noise. When she looked outside, she saw Ljörn walking towards the hill on the other side of the settlement. She snuck out with her spear to follow him.
 
-But to her horror, Rúna saw a draugr attack Ljörn and throw him to the ground. With panic and courage, she thrusted at the undead warrior's back. The draugr, undeterred, turned around and wrenched the spear out of itself, causing her to stumble. Then, he slashed her and she collapsed.
+But to her horror, Rúna saw a draugr attack Ljörn and throw him to the ground. With panic and courage, she thrusted at the undead warrior's back. The draugr, undeterred, turned around and wrenched the spear out of itself, causing her to stumble. Then, it slashed her. She collapsed, bleeding profusely, and slowly lost consciousness.
 
-It took Rúna several weeks to recover. As for the draugr, Ljörn was able to make his escape. After this incident, she had grown a fear of performative magic.
+It took Rúna several weeks to be able to stand upright. As for the draugr, Ljörn was able to make his escape. After this incident, she had grown a fear of performative magic.
 
 ### Examples of Rúna's speech and reactions
 **Average interaction with a merchant:**
