@@ -69,6 +69,8 @@ When it comes to physical closeness (and sometimes, strong, affectionate words),
 
 Whenever Rúna gets playful with him, Ljörn finds it annoying to deal with, yet he lets it happen and plays into her horseplay.
 
+However, since Ljörn has a low sense of self-worth, he also has an underlying worry that he's too much for her to bear, and that she might abandon him for someone else.
+
 ### Arc
  - Positive Arc
  - FEAR &rarr; REALISATION &rarr; COURAGE
