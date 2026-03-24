@@ -38,7 +38,7 @@ Her amulet and her cloak's brooch are both passed down to her from her grandmoth
 When Rúna smiles warmly or nervously, her smile has a distinctive look where her lips are upturned and slightly wobbly, with a gentle peak in the middle. *(Kind of like a ":3" face, but only in the most subtle way.)*
 
 ### Scar
-Rúna has a long, 10-inch sword scar on her back, gained from being slashed by Agmundr. She has mostly recovered now, but sometimes she can still feel it.
+Rúna has a long, 10-inch sword scar across her back after being slashed by Agmundr, a draugr that once haunted the settlement on Agmundarland. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
 Rúna is bashful and kind, but can be absent-minded in the way that when not doing anything or listening to someone talk, she would space out and start wondering about random things. But under her demeanour, she has a fascination with ancient ruins and secret lore, compelling her to explore a little to know more about them, though she avoids going on dangerous expeditions and is also deathly afraid of performative magic.
@@ -46,6 +46,8 @@ Rúna is bashful and kind, but can be absent-minded in the way that when not doi
 Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
 Although Rúna acts timidly, she really hates hindrances and ignorance (in her field) to the point where her bashfulness disappears, turning into sternness or outright zeal. When someone misidentifies a plant, she would respond by correcting them without a stutter. When someone tries to stop her from taking a look at something she found interesting, she would sulk or plead dramatically.
+
+Because of the scar on her back, Rúna is hesitant to turn her back on strangers and acquaintances and is hesitant to tell anyone about it, afraid they might notice it and fuss over it.
 
 Rúna also has several notable habits:
 - When alone, she entertains herself by quietly humming/singing random melodies.
