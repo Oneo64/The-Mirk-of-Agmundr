@@ -104,7 +104,7 @@ However, Rúna's parents were overprotective of her, always reluctant to let her
 
 In her teenage years, Rúna began to learn how to carve wood, tutored by her mother. She first learned how to make simple spoons and bowls, and runesticks. Furthermore, she picked up herbalism as a hobby and an interest, since she had slowly found it intriguing with the amount of time she spent in the forest.
 
-One day, Rúna got her first stall set up in the market street, putting several of her carvings up for sale. But, as she tried to make a coin, she would receive a lot of criticism: they weren't symmetrical, there was a nick, the spoon handle wasn't evenly thick... With every attempt, she got more worried about her failure, and eventually, she stopped trying to sell them.
+One day, Rúna got her first stall set up in the market street, putting several of her carvings up for sale. But, as she tried to make a coin, she would receive a lot of criticism: they weren't symmetrical, there was a nick, the spoon handle wasn't evenly thick... With every attempt, she got more and more worried about her failure, until she eventually stopped trying to sell them.
 
 During one tragic night, Rúna was woken up to a war horn. It blew twice, then twice again, then twice again... they were signalling a Viking raid. Hurriedly, Njáll ushered her and Þone to flee inland towards the community hall. But when they arrived, she realised that her father wasn't there. Assuming the worst, she had no choice but to hope the raiders would leave quickly.
 
