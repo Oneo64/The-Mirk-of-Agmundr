@@ -126,7 +126,7 @@ Ljörn scrambled to his feet, grabbed the half of the broken spear with the spea
 
 When morning came, Ljörn woke to the sunlight, feeling dizzy and unable to see well due to blood loss. He snuck back into the village after realising the invaders had left. He had his arrow wound removed and treated. Now, being the oldest living son of his father, he was given Úlfnir's sword.
 
-Ever since the raid, he had become introverted. He would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
+Ever since the raid, Ljörn had become introverted. Despite his distress, he was told by his family members that he should get over it. Not only that, he would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
 
 ## Name Translations
  - **Younger Futhark:** ᛚᛁᚢᚱᚾ
