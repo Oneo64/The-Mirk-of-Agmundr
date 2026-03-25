@@ -69,7 +69,9 @@ Ljörn cherishes physical touch and acts of service the most. When it comes to p
 
 However, since Ljörn has a low sense of self-worth, he has an underlying worry that he's too much for her to bear, and that she might abandon him for someone else.
 
-### Example dialogue
+### Example dialogues
+*These are real dialogues from stories featuring Ljörn.*
+
 #### Main story
 - "Yes." *(Obeying an order from Hjálvir.)*
 - "Get off me." *(He says this sharply after a flashback.)*
@@ -79,6 +81,7 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 
 #### Other stories
 - "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
+- "Umm... like..." *(He says this as he's nervously trying something new.)*
 - "Halfwit swines." *(Insulting his attackers after getting into a bar fight.)*
 - "The usual stew and mead." *(Ordering his food in a tavern.)*
 - "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
