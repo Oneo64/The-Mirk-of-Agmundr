@@ -80,6 +80,7 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 #### Other stories
 - "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
 - "Halfwit swines." *(Insulting his attackers after getting into a bar fight.)*
+- "The usual stew and mead." *(Ordering his food in a tavern.)*
 - "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 
 ### Arc
