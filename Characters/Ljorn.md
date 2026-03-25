@@ -63,7 +63,7 @@ After leaving Iceland for Agmundarland, Ljörn was still afraid of several thing
 ### Rúna
 [*See: Rúna.md*](Runa.md)
 
-Ljörn finds that when Rúna is there, he can relax a little despite his paranoia. Whenever she gets playful with him, he finds it annoying to deal with, yet he lets it happen and plays into her horseplay. Furthermore, he finds her smaller habits endearing, such as fidgeting and avoiding cracks on the ground.
+Ljörn finds that when Rúna is there, he can relax a little despite his paranoia. Whenever she gets playful with him, he finds it a bit exasperating to deal with, yet he lets it happen and plays into her horseplay. Furthermore, he finds her smaller habits endearing, such as fidgeting and avoiding cracks on the ground.
 
 Ljörn cherishes physical touch and acts of service the most. When it comes to physical closeness (and sometimes, strong, affectionate words), he would become very shy and melt. Since he is the second-born son in his family and introverted, he doesn't receive as many hugs or compliments as his other siblings. He also stopped getting any after arriving in Newfoundland. Because of this, he cherishes bold gestures with Rúna, such as long hugs and hand-holding. He doesn't mind sitting very close together for prolonged periods, but he would never initiate it because he isn't used to doing that.
 
