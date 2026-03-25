@@ -69,6 +69,19 @@ Ljörn cherishes physical touch and acts of service the most. When it comes to p
 
 However, since Ljörn has a low sense of self-worth, he has an underlying worry that he's too much for her to bear, and that she might abandon him for someone else.
 
+### Example dialogue
+#### Main story
+- "Yes." *(Obeying an order from Hjálvir.)*
+- "Get off me." *(He says this sharply after a flashback.)*
+- "There's still fish in the bowl." *(He says this after his brother is relieved that they're eating soup instead of dried fish.)*
+- "How long will this travelling last?" *(Complaining about the length of his longboat trip.)*
+- "No, I'm not. Look over there. That hill." *(He spots a draugr mound and was being questioned whether he was hallucinating.)*
+
+#### Other stories
+- "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
+- "Halfwit swines." *(Insults his attackers after getting into a bar fight.)*
+- "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
+
 ### Arc
  - Positive Arc
  - FEAR &rarr; REALISATION &rarr; COURAGE

@@ -71,6 +71,10 @@ Rúna cherishes acts of service and quality time the most. Sometimes, she would 
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
+### Example dialogue
+- "Are you really?" *(Was curious about Ljörn's "curse".)*
+- "Umm... well..."
+
 ## Abilities
 ### Domestic Skills
 - **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
@@ -125,24 +129,6 @@ Then there was a night when Rúna was awoken by a noise. When she looked outside
 But to her horror, Rúna saw a draugr attack Ljörn and throw him to the ground. With panic and courage, she thrusted at the undead warrior's back. The draugr, undeterred, turned around and wrenched the spear out of itself, causing her to stumble. Then, it slashed her. She collapsed, bleeding profusely, and slowly lost consciousness.
 
 It took Rúna several weeks to be able to stand upright. As for the draugr, Ljörn was able to make his escape. After this incident, she had grown a fear of performative magic.
-
-### Examples of Rúna's speech and reactions
-**Average interaction with a merchant:**
-
-- **Rúna walks on the local market street, looking for ginger. She finds a stand by a short woman, with an assortment of herbs laid out on the table. She stops by the stand.**
-- **Seller:** "Þarftu eitthvað, kæri?"
-- **Rúna:** "Bara... smá engifer við verkjum."
-- **The seller nods and gestures towards a pile of ginger.**
-- **Seller:** "Þessi eru innflutt svo þau megi vera svolítið af dýr, svo átta krónur."
-- **Rúna:** "Ókei. Bíddu—"
-- **Rúna opens her coin purse and takes out eight coins, leaving the bag empty. She gives them to the seller and receives a root of ginger.**
-- **Seller:** "Sá möttulsprjónn er fínn. Er það úr bronsi?"
-- **Rúna flusters lightly at the unexpected comment.**
-- **Rúna:** "J-já. Það... það er frá ömmu minni."
-- **Seller:** "Það lítur vel út á þér."
-- **Rúna's voice drops to a mutter.**
-- **Rúna:** "T-takk."
-- **Rúna turns and leaves the seller's stand.**
 
 ## Name Translations
 - **Younger Futhark:** ᚱᚢᚾᛅ
