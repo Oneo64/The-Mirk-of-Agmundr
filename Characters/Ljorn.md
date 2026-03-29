@@ -36,7 +36,7 @@ On the surface, Ljörn is an introverted man who just has a peaceful demeanour, 
 
 However, Ljörn is stubborn and has a low sense of self-worth, often becoming conflicted between greatness and humility. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them.
 
-In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons. And surprisingly, his death wish, unadmittedly, is to die honourably in a planned battle before he succumbs to age.
+In many situations, Ljörn seeks peace and dislikes war or heated arguments. Despite this, he carries his weapons and views war as "a thing that must be done".
 
 After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Alfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
 
