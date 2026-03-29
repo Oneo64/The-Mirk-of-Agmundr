@@ -97,7 +97,7 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He knows Glíma and learned how to do basic blocks, strikes, and disarms. He has combat experience from several encounters, including surviving a wild bear and two Norwegian Vikings, and killing a draugr.
+Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He has trained in glíma, learning how to do takedowns and how to pin someone to the ground. He has combat experience from several encounters, including surviving a wild bear and two Norwegian Vikings, and killing a draugr.
 
 Ljörn's left arm is weak because of an arrow injury during a raid on his home village. He can hold his shield up fine, but he is more tired from taking blows.
 

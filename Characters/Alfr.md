@@ -26,7 +26,7 @@ Alfr has armpit-length brown hair, a stubble beard, and skin that is slightly ta
 
 Alfr wears a blue cap with green accents, a dark blue shawl, a muted green tunic, a pair of pants, and some boots. He wears an iron Mjöllnir amulet.
 
-In combat, Alfr wears a maille hauberk and has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
+In combat, Alfr wears a maille shirt and has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
 
 ## Personality
 As a bold person, Alfr is competitive, persuasive, and mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is also cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
