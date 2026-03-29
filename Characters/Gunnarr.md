@@ -19,13 +19,14 @@
 Gunnarr is an explorer from a wealthy family.
 
 ## Appearance
-Gunnarr has long, golden-blond hair, young-looking blue eyes, and smooth skin. He has an angular jawline. He wears dark blue clothing and a dark cloak.
-
-In combat, Gunnarr wears a spectacle helmet and a maille shirt. He wields a spear and shield.
+Gunnarr has long, golden-blond hair, young-looking blue eyes, and smooth skin. He has an angular jawline. He wears dark blue clothing and a dark cloak. In combat, he wears a spectacle helmet and a maille shirt. He wields a spear and shield.
 
 ## Personality
-WIP
+Gunnarr is a calm yet curious adventurer. Despite his young appearance, he is fearless and will not back down in the face of danger. However, he is a little narcissistic, thinking he should have at least a bit of attention wherever he goes.
 
 ## Abilities
 ### Physicality
-Gunnarr is very good with his spear combat, being trained in both shielded and shieldless styles.
+Gunnarr is very good with his spear combat, being trained in both shielded and shieldless styles. He can also wrestle well.
+
+### Rægtafl
+Gunnarr knows how to play Rægtafl.
