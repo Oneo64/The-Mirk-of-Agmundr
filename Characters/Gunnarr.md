@@ -11,7 +11,7 @@
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
-	<tr> <td>Height</td> <td>5'8"</td> </tr>
+	<tr> <td>Height</td> <td>5'9"</td> </tr>
 	<tr> <td>Hair color</td> <td>Blond</td> </tr>
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
