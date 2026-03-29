@@ -19,14 +19,20 @@
 Gunnarr is an explorer from a wealthy family.
 
 ## Appearance
-Gunnarr is a good-looking young man with long, golden-blond hair, blue eyes, and smooth skin. He has an angular jawline and high cheekbones. He wears dark blue clothing and a dark cloak. In combat, he wears a spectacle helmet and a maille shirt. He wields a spear and shield.
+Gunnarr is a handsome young man with long, golden-blond hair, blue eyes, and smooth, tanned skin. He has an angular jawline and high cheekbones. He wears dark blue clothing and a dark cloak. In combat, he wears a spectacle helmet and a maille shirt. He wields a spear and shield.
 
 ## Personality
-Gunnarr is a calm yet curious adventurer. Despite his young appearance, he is fearless and will not back down in the face of danger. However, he is a little narcissistic, thinking he should have at least a bit of attention wherever he goes.
+Gunnarr is a calm yet curious adventurer. Despite his young appearance, he is fearless and will not back down in the face of danger. However, he is somewhat narcissistic, thinking he deserves at least some attention wherever he goes.
+
+### Rúna
+Before the events of the main story, Gunnarr had a small but unrequited crush on Rúna. He would react nicer to her and blush at every kind gesture. However, after he found out about her relationship with Ljörn, he backed down and pretended he had nothing to do with her. Till this day, he still gets a little flustered around her.
 
 ## Abilities
 ### Physicality
-Gunnarr is very good with his spear combat, being trained in both shielded and shieldless styles. He can also wrestle well.
+Gunnarr is very good with his spear combat, being trained in both shielded and shieldless styles. Not only that, he can wrestle quite well if he gets disarmed.
+
+### Hunting & Archery
+Gunnarr can hunt deer using a bow. He is also a good shot with the bow, but only when the target is stationary.
 
 ### Rægtafl
 Gunnarr knows how to play Rægtafl.

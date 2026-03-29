@@ -71,6 +71,9 @@ Rúna cherishes acts of service and quality time the most. Sometimes, she would 
 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
+### Gunnarr
+Rúna thinks Gunnarr is a genuinely good person but doesn't know about his late crush.
+
 ### Example dialogue
 - "Are you really?" *(Was curious about Ljörn's "curse".)*
 - "Umm... well..."
