@@ -29,7 +29,9 @@ Before the events of the main story, Gunnarr had a small but unrequited crush on
 
 ## Abilities
 ### Physicality
-Gunnarr is very good with his spear combat, being trained in both shielded and shieldless styles. Not only that, he can wrestle quite well if he gets disarmed.
+Gunnarr is very good with his spear combat, being trained in both shielded and shieldless styles. He also has a seax that he can use proficiently.
+
+Not only that, Gunnarr can wrestle quite well if he gets disarmed. With this skill, he can easily wrestle, pin, and tackle someone down.
 
 ### Hunting & Archery
 Gunnarr can hunt deer using a bow. He is also a good shot with the bow, but only when the target is stationary.
