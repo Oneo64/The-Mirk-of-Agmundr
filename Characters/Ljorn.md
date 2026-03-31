@@ -1,7 +1,7 @@
 # Ljörn Aðalgeirsson
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljörn</th> </tr>
-	<tr> <th colspan=2>ᛚᛁᚢᚱᚾ</th> </tr>
+	<tr> <th colspan=2>ᛚᛁᚬᚱᚾ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/PortraitLowRes.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
@@ -146,7 +146,7 @@ When morning came, Ljörn woke to the sunlight, feeling dizzy and unable to see 
 Ever since the raid, Ljörn had become introverted. Despite his distress, he was told by his family members that he should "just get over it." Not only that, he would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
 
 ## Name Translations
-- **Younger Futhark:** ᛚᛁᚢᚱᚾ
+- **Younger Futhark:** ᛚᛁᚬᚱᚾ
 - **English:** Ljorn
 - **Danish, Norwegian:** Ljørn
 - **Swedish:** Ljörn
