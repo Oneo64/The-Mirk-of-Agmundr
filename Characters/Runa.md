@@ -24,15 +24,11 @@
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
 
 ## Appearance
-Rúna has long, mid-back-length, light brown hair that is wavy and flows freely. She has a sweet face, bearing green almond-shaped eyes that are slightly wide-set, giving her a dreamy appearance. She has fair skin with a slight pink hue and very faint freckles scattered across her face.
-
-Rúna has a curvaceous figure that is slightly athletic, and her height is 5'3".
+Rúna's hair is long, reaching mid-back length, and has a light brown, wavy texture that flows freely. Her green, almond-shaped eyes are slightly wide-set, giving her a dreamy appearance. She has fair skin with a slight pink hue and very faint freckles scattered across her face. She also has a curvaceous figure that is slightly athletic, and her height is 5'3".
 
 When Rúna is outside in a cold place, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain.
 
 Every day, she wears a blue tunic dress with red edges, a braided leather ring belt, and leather shoes. There is a small sheathed seax fastened to her belt for defence. She wears a Mjöllnir amulet. She owns a short spear (with a sling), which she carries only when she goes into the forest.
-
-Her amulet and her cloak's brooch are both passed down to her from her grandmother.
 
 ### Smile
 When Rúna smiles warmly or nervously, her smile has a distinctive look where her lips are upturned and slightly wobbly, with a gentle peak in the middle. *(Kind of like a ":3" face, but only in the most subtle way.)*
@@ -146,8 +142,9 @@ It took Rúna several weeks to be able to stand upright. As for the draugr, Ljö
 
 ## Trivia
 - Rúna's name means "rune or secret lore" in Old Norse, nicely fitting her curiosity for ancient mysteries and the darkness.
+- Her amulet and the brooch on her cloak are both passed down to her from her grandmother.
 
-## Drawing metrics
+<details close><summary>Drawing Metrics</summary>
 This is a reference section containing the metrics needed to draw Rúna.
 
 - **Facial specifications:**
@@ -158,3 +155,4 @@ This is a reference section containing the metrics needed to draw Rúna.
   - **Shoulders:** 15 inches wide (2.83x face size)
   - **Arm (width at elbows):** 3.5 inches wide (0.66x face size)
   - **Waist:** 10.6 inches wide (2x face size)
+</details>
