@@ -22,14 +22,12 @@
 Alfr is a settler from Álahringr who travelled to a northern island as part of Hjálvir's company, and is also the one who persuaded Ljörn to go there with him.
 
 ## Appearance
-Alfr has armpit-length brown hair, a stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
+Alfr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
 
-Alfr wears a blue cap with green accents, a dark blue shawl, a muted green tunic, a pair of pants, and some boots. He wears an iron Mjöllnir amulet.
-
-In combat, Alfr wears a maille shirt and has a spear and a white, round shield with an Ægishjálmr (Helm of Awe) symbol painted on it.
+Alfr wears a blue cap with green accents, a dark blue shawl, and a muted green tunic, with a Mjöllnir amulet for divine protection. In combat, he wears a maille shirt and brings a spear and a shield.
 
 ## Personality
-As a bold person, Alfr is competitive, persuasive, and mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is also cowardly, which surfaces when he faces foes with more power or adversaries with unknown strength.
+As a bold person, Alfr is adventurous and competitive, persuasive with his companions. He is mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is a coward, fleeing in the face of powerful foes or adversaries of unknown danger.
 
 Not only that, Alfr's impulsiveness in combat leaks into his speech, blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
 

@@ -17,7 +17,7 @@
 	<tr> <td>Gender</td> <td>Male</td> </tr>
 	<tr> <td>Height</td> <td>5'9"</td> </tr>
 	<tr> <td>Hair color</td> <td>Dark blond</td> </tr>
-	<tr> <td>Eye color</td> <td>Dark pale blue</td> </tr>
+	<tr> <td>Eye color</td> <td>Pale blue</td> </tr>
 </tbody></table>
 
 Ljörn was a settler who travelled to a northern island under the command of Hjálvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
