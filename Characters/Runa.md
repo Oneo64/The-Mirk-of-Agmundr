@@ -30,11 +30,8 @@ Rúna has a curvaceous figure that is slightly athletic, and her height is 5'3".
 
 When Rúna is outside in a cold place, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain. Every day, she wears a blue tunic dress with red edges and a Mjöllnir amulet, and carries a small seax fastened to her belt for defence.
 
-### Smile
-When Rúna smiles warmly or nervously, her smile has a distinctive look where her lips are upturned and slightly wobbly, with a gentle peak in the middle. *(Kind of like a ":3" face, but only in the most subtle way.)*
-
 ### Scar
-Rúna has a long, 10-inch sword scar across her back after being slashed by Agmundr, a draugr that once haunted the settlement on Agmundarland. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
+Rúna has a long, gnarly scar across her back after being slashed by a sword. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
 Rúna is bashful and kind, but can be absent-minded in the way that when not doing anything or listening to someone talk, she would space out and start wondering about random things. But under her demeanour, she has a fascination with ancient ruins and secret lore, compelling her to explore a little to know more about them, though she avoids going on dangerous expeditions and is also deathly afraid of performative magic.

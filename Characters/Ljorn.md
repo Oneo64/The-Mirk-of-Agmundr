@@ -28,7 +28,7 @@ Ljörn is a weathered man with long and wavy dark blond hair, paired with a shor
 Ljörn wears a simple blue tunic and a Mjöllnir necklace. He is often seen wearing his maille shirt and his sword baldric, even indoors or during formal occasions. He also has a nasal helmet, a spear, and a shield.
 
 ### Scars
-Ljörn's skin is scarred. He has a gnarly one on his left shoulder from an arrow, and two on his knees from a falling accident.
+Ljörn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
 On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
