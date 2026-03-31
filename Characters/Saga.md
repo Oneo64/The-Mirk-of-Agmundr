@@ -65,9 +65,9 @@ Apart from Old Norse, Sága can speak Proto-Germanic.
 For some reason, Sága knows how to hypnotize a chicken.
 
 ## Name Translations
- - **Younger Futhark:** ᛋᛅᚢᚴᛅ
+ - **Younger Futhark:** ᛋᚬᚴᛅ
  - **English, Danish, Norwegian, Swedish:** Saga
- - **German:** Sauga
+ - **German:** Saga
  - **Latin:** Sāga
  - **Greek:** Σάγα
  - **Russian:** Сага
