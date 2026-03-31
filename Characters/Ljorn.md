@@ -27,7 +27,7 @@ Ljörn has armpit-length, dark blond hair with gentle but messy waves, often des
 
 Ljörn has a lean body softened by a thin layer of fat, and he stands at a height of 5'9". His skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He has a smaller scar on his right wrist from a slip while sharpening an axe.
 
-When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. On most days, he wears one of the most common combinations of Norse clothing: a muted blue tunic, brown pants, a belt, simple boots, and a Mjöllnir necklace. For his weapons, he wears an undecorated baldric scabbard (his sword inside) and a small seax.[^1]
+When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. On most days, he wears one of the most common combinations of Norse clothing: a muted blue tunic, brown pants, a belt, simple boots, and a Mjöllnir necklace. For his weapons, he wears an undecorated baldric scabbard (his sword inside) and a small seax.
 
 Very frequently can Ljörn be seen wearing his short byrnie, even indoors or during formal occasions. When he travels or prepares for combat, he dons a nasal helmet and equips himself with his spear and round shield.
 
@@ -87,13 +87,13 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 - "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 
 ### Arc
- - Positive Arc
- - FEAR &rarr; REALISATION &rarr; COURAGE
- - **Ghost:** Unresolved PTSD from the past.
- - **Lie:** I hate this land, I'm tired of adventure, and my family is in danger.
- - **Want:** I want to return back to Álahringr.
- - **Need:** I need to realise my visions aren't real because they only harm me.
- - **Truth:** I should stay, because right now I'm in greater danger than my family.
+- Positive Arc
+- FEAR &rarr; REALISATION &rarr; COURAGE
+- **Ghost:** Unresolved PTSD from the past.
+- **Lie:** I hate this land, I'm tired of adventure, and my family is in danger.
+- **Want:** I want to return back to Álahringr.
+- **Need:** I need to realise my visions aren't real because they only harm me.
+- **Truth:** I should stay, because right now I'm in greater danger than my family.
 
 ## Abilities
 ### Physicality
@@ -146,22 +146,19 @@ When morning came, Ljörn woke to the sunlight, feeling dizzy and unable to see 
 Ever since the raid, Ljörn had become introverted. Despite his distress, he was told by his family members that he should "just get over it." Not only that, he would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
 
 ## Name Translations
- - **Younger Futhark:** ᛚᛁᚢᚱᚾ
- - **English:** Ljorn
- - **Danish, Norwegian:** Ljørn
- - **Swedish:** Ljörn
- - **German:** Ljörn/Ljoern
- - **Latin:** Liurn/Liœrn
- - **Greek:** Λιορν
- - **Russian:** Лёрн
- - **Traditional Chinese:** 李約恩
- - **Simplified Chinese:** 李约恩
- - **Korean:** 료른
- - **Japanese:** リョルン
+- **Younger Futhark:** ᛚᛁᚢᚱᚾ
+- **English:** Ljorn
+- **Danish, Norwegian:** Ljørn
+- **Swedish:** Ljörn
+- **German:** Ljörn/Ljoern
+- **Latin:** Liurn/Liœrn
+- **Greek:** Λιορν
+- **Russian:** Лёрн
+- **Traditional Chinese:** 李約恩
+- **Simplified Chinese:** 李约恩
+- **Korean:** 료른
+- **Japanese:** リョルン
 
 ## Trivia
- - Even though Ljörn's name doesn't mean anything in Old Norse, it is a coincidence that his name is very similar to the English word lorn, meaning forlorn and abandoned, a very fitting word for his personality.
-
-## Notes
-[^1]: Ljörn's sword is a Peterson Type L sword.
-[^2]: Ljörn developed PTSD when his home village was raided by Norwegian Vikings during nighttime.
+- Even though Ljörn's name doesn't mean anything in Old Norse, it is a coincidence that his name is very similar to the English word lorn, meaning forlorn and abandoned, a very fitting word for his personality.
+- Ljörn's sword is a Peterson Type L sword.
