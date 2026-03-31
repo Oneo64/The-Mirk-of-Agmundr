@@ -1,4 +1,4 @@
-# Ljörn
+# Ljörn Aðalgeirsson
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljörn</th> </tr>
 	<tr> <th colspan=2>ᛚᛁᚢᚱᚾ</th> </tr>
