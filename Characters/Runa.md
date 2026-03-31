@@ -18,7 +18,7 @@
 	<tr> <td>Gender</td> <td>Female</td> </tr>
 	<tr> <td>Height</td> <td>5'3"</td> </tr>
 	<tr> <td>Hair color</td> <td>Light brown</td> </tr>
-	<tr> <td>Eye color</td> <td>Green</td> </tr>
+	<tr> <td>Eye color</td> <td>Pale green</td> </tr>
 </tbody></table>
 
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
