@@ -96,14 +96,12 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 
 ## Abilities
 ### Physicality
-Ljörn fights with a spear and shield, and his combat abilities with weapons are slightly above average. He has trained in glíma, learning how to wrestle, pin, and tackle someone down. He has combat experience from several encounters, including surviving a wild bear and two Norwegian Vikings, and killing a draugr.
+Even though Ljörn fights with a spear and shield, he has trained in glíma, learning how to wrestle, pin, and tackle someone down. He has a good amount of combat experience from several encounters, including a raid where he fought at least three Vikings, and another attack where tens of trolls tried to destroy the settlement. He has also escaped from a wild bear before and killed a draugr with the help of his friends.
 
 Ljörn's left arm is weak because of an arrow injury during a raid on his home village. He can hold his shield up fine, but he is more tired from taking blows.
 
-### Hunting
-Ljörn can hunt deer. He usually goes into the forest to find them.
-
-Once Ljörn spots a deer and gets within a comfortable range, he first injures them by throwing his spear at the prey, aiming for the shoulder or flank, then finishes them off with his seax. He also knows how to skin them for their hides.
+### Hunting & Stealth
+Ljörn can spear-hunt deer in the forest. His method is usually sneaking up on his prey, injuring them by throwing his spear, then finishing them off with his seax. He knows how to skin them for their hides, but he would take them home first.
 
 Because of his hunting skill, Ljörn is also good at moving stealthily, especially in forest terrain.
 
