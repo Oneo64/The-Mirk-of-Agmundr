@@ -72,7 +72,7 @@ Rúna thinks Gunnarr is a genuinely good person but doesn't know about his late 
 
 ### Example dialogue
 #### Main story
-- "Are you really?" *(Was curious about Ljörn's "curse".)*
+- "Are you really?" *(Was curious about Ljörn's "curse" when she met him.)*
 - "Look! I think... uhm... berries!" *(Discovering a new kind of berry.)*
 
 #### Other stories
