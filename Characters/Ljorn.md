@@ -29,7 +29,7 @@ Ljörn has a lean body softened by a thin layer of fat, and he stands at a heigh
 
 When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. On most days, he wears one of the most common combinations of Norse clothing: a muted blue tunic, brown pants, a belt, simple boots, and a Mjöllnir necklace. For his weapons, he wears an undecorated baldric scabbard (his sword inside) and a small seax.
 
-Very frequently can Ljörn be seen wearing his short byrnie, even indoors or during formal occasions. When he travels or prepares for combat, he dons a nasal helmet and equips himself with his spear and round shield.
+Very frequently can Ljörn be seen wearing his byrnie, even indoors or during formal occasions. When he travels or prepares for combat, he dons a nasal helmet and equips himself with his spear and round shield.
 
 ## Personality
 On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
