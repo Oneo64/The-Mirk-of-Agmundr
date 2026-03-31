@@ -73,10 +73,10 @@ Rúna thinks Gunnarr is a genuinely good person but doesn't know about his late 
 ### Example dialogue
 #### Main story
 - "Are you really?" *(Was curious about Ljörn's "curse".)*
-- "Umm... well..."
 - "Look! I think... uhm... berries!"
 
 #### Other stories
+- "Jæja..." *(Trying to explain herself.)*
 - "Kjóllinn minn!" *(Her reaction to her dress being stained by a spilled drink.)*
 - "Hvað meinarðu?"
 - "Var hann... að tala við mig...?"
