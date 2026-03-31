@@ -1,4 +1,4 @@
-# Sága
+# Sága Hjálvisdóttir
 <table align=right><tbody>
 	<tr> <th colspan=2>Sága</th> </tr>
 	<tr> <th colspan=2>ᛋᛅᚢᚴᛅ</th> </tr>
