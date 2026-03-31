@@ -24,7 +24,9 @@
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
 
 ## Appearance
-Rúna is an adorable young woman with long light-brunette hair that has a wavy texture. Her green, almond-shaped eyes are slightly wide-set, giving her a dreamy appearance. She has fair skin with a slight pink hue and very faint freckles scattered across her face. Additionally, Rúna has a curvaceous figure that is slightly athletic, and her height is 5'3".
+Rúna is an adorable young woman with long light-brunette hair that has a wavy texture. Her green, almond-shaped eyes are slightly wide-set, giving her a dreamy appearance. She has fair skin with a slight pink hue and very faint freckles scattered across her face.
+
+Rúna has a curvaceous figure that is slightly athletic, and her height is 5'3".
 
 When Rúna is outside in a cold place, she tends to wear a dark yellow woollen cloak with a slightly frayed edge, held in place by a bronze double brooch with a chain. Every day, she wears a blue tunic dress with red edges and a Mjöllnir amulet, and carries a small seax fastened to her belt for defence.
 
