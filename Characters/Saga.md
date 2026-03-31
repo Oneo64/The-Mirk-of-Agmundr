@@ -1,14 +1,14 @@
 # Sága Hjálvisdóttir
 <table align=right><tbody>
 	<tr> <th colspan=2>Sága</th> </tr>
-	<tr> <th colspan=2>ᛋᛅᚢᚴᛅ</th> </tr>
+	<tr> <th colspan=2>ᛋᚬᚴᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Hjálvir (father)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Hjálvir <i>(father)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>

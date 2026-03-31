@@ -1,14 +1,14 @@
 # Hjálvir the Uncoverer
 <table align=right><tbody>
 	<tr> <th colspan=2>Hjálvir</th> </tr>
-	<tr> <th colspan=2>ᚼᛁᚬᚢᛚᚢᛁᚱ</th> </tr>
+	<tr> <th colspan=2>ᚼᛁᚬᛚᚢᛁᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Early 40s</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Sága (daughter)</td> </tr>
+	<tr> <td>Relative(s)</td> <td>Agmundr <i>(father)</i><br>Sága <i>(daughter)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
