@@ -23,13 +23,12 @@
 Ljörn was a settler who travelled to a northern island under the command of Hjálvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
-Ljörn has armpit-length, dark blond hair with gentle but messy waves, often described as looking like old, darkened, and dry wheat. He has a short, full beard (about two inches long), which makes his jawline look soft. His dark, pale blue eyes are hooded and downturned, making him seem sad or tired to many people.
+Ljörn is a weathered man with long and wavy dark blond hair, paired with a short full beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
 
-Ljörn has a lean body softened by a thin layer of fat, and he stands at a height of 5'9". His skin is flawed and has three prominent scars on his body: two on both of his knees from a falling accident, and one on his left shoulder from an arrow shot. He has a smaller scar on his right wrist from a slip while sharpening an axe.
+Ljörn wears a simple blue tunic and a Mjöllnir necklace. He is often seen wearing his maille shirt and his sword baldric, even indoors or during formal occasions. He also has a nasal helmet, a spear, and a shield.
 
-When Ljörn is outside, he dons a woollen brown cloak to keep himself warm and dry. On most days, he wears one of the most common combinations of Norse clothing: a muted blue tunic, brown pants, a belt, simple boots, and a Mjöllnir necklace. For his weapons, he wears an undecorated baldric scabbard (his sword inside) and a small seax.
-
-Very frequently can Ljörn be seen wearing his byrnie, even indoors or during formal occasions. When he travels or prepares for combat, he dons a nasal helmet and equips himself with his spear and round shield.
+### Scars
+Ljörn's skin is scarred. He has a gnarly one on his left shoulder from an arrow, and two on his knees from a falling accident.
 
 ## Personality
 On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
