@@ -11,7 +11,7 @@
 	<tr> <td>Age</td> <td>22</td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 900</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Njáll <i>(father)</i><br>Þóne <i>(mother)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Njáll <i>(father)</i><br>Þone <i>(mother)</i></td> </tr>
 	<tr> <td>Lover</td> <td>Ljörn</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
@@ -87,7 +87,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend, but 
 - **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
 - **Dairy Work:** Rúna can make skyr, but not other dairy products like cheese and butter.
 - **Dyeing:** Rúna knows how to dye clothing unprofessionally. She doesn't know how to make them.
-- **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þóne (her mother). She knows how to add a differently-coloured hem, but not embroidery.
+- **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þone (her mother). She knows how to add a differently-coloured hem, but not embroidery.
 
 ### Herbalism
 Rúna can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
