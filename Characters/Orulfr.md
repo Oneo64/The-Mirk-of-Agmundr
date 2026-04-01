@@ -16,15 +16,11 @@
 Örúlfr was a settler who traveled to a northern island under the command of Hjálvir.
 
 ## Appearance
-Örúlfr is seen carrying a quiver.
+Örúlfr has dark hair tied back in a bun, wears simple woollen clothing with a dark shawl, and carries a quiver.
 
 ## Personality
 WIP
 
-### Goals
-**Goal:** To protect the company.
-**Motivation:** So they can live.
-
 ## Abilities
 ### Physicality
-Örúlfr is proficient with the bow.
+Örúlfr is good with archery.
