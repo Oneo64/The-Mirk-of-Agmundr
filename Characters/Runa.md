@@ -58,7 +58,7 @@ Rúna has a soft yet lively voice, characterized by a light tone.
 ### Ljörn
 [*See: Ljörn.md*](Ljorn.md)
 
-Rúna is noticeably softer and kinder to Ljörn. She becomes bolder and more playful around him, letting out all her restrained behaviour by teasing him and chiding him for his behaviour. Even though she finds his stubbornness difficult to deal with and feels uncomfortable with his "mild" language, she works around it by telling him off.
+Rúna is noticeably kinder and softer to Ljörn. She becomes bolder and more playful around him, letting out all her restrained behaviour by teasing him and chiding him for his behaviour. Even though she finds his stubbornness difficult to deal with and feels uncomfortable with his "mild" language, she works around it by telling him off.
 
 Rúna cherishes acts of service and quality time the most. Sometimes, she would call Ljörn *kæri* and get embarrassed over it. When he isn't wearing his equipment, she would sneakily try them on.
 
