@@ -24,7 +24,7 @@
 Rúna was a settler, a herbologist, and a woodcarver. Once a week, after laundry day, she sets up her selling-stand and sells any carvings she has made for sale.
 
 ## Appearance
-Rúna is an adorable young woman with long light-brunette hair that has a wavy texture. Her pale green, almond-shaped eyes are slightly wide-set, giving her a dreamy appearance. She has fair skin with a slight pink hue and very faint freckles scattered across her face.
+Rúna is an adorable-looking young woman with long light-brunette hair that has a wavy texture. Her pale green, almond-shaped eyes are slightly wide-set, giving her a dreamy appearance. She has fair skin with a slight pink hue and very faint freckles scattered across her face.
 
 Rúna has a curvaceous figure that is slightly athletic, and her height is 5'3".
 
@@ -65,7 +65,7 @@ Rúna cherishes acts of service and quality time the most. Sometimes, she would 
 Rúna knows about Ljörn's paranoia. She sometimes gets frustrated when he doesn't answer her or dismisses her concern.
 
 ### Gunnarr
-Rúna thinks Gunnarr is a genuinely good person and considers him a friend, but she's blissfully unaware of his old crush.
+Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 
 ### Example dialogue
 #### Main story
