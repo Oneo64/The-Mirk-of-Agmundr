@@ -86,6 +86,8 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 - "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 
 ### Arc
+<details close><summary>Character arc details</summary>
+
 - Positive Arc
 - FEAR &rarr; REALISATION &rarr; COURAGE
 - **Ghost:** Unresolved PTSD from the past.
@@ -93,6 +95,7 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 - **Want:** I want to return back to Álahringr.
 - **Need:** I need to realise my visions aren't real because they only harm me.
 - **Truth:** I should stay, because right now I'm in greater danger than my family.
+</details>
 
 ## Abilities
 ### Physicality
@@ -112,6 +115,7 @@ Ljörn once climbed a tree in an attempt to escape a bear.
 Ljörn knows how to play Rægtafl, but he isn't the best at it.
 
 ## Lore
+### Early Life
 Ljörn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Alfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
 
 Ljörn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
@@ -128,6 +132,7 @@ Ljörn witnessed the moment when his father passed his sword to Úlfnir, the old
 
 Úlfnir proudly carried his inherited sword in public whenever he could. Ljörn, for the first few weeks, felt jealous of him.
 
+### The Attack of Álahringr
 During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Alfr both fended off an adversary.
 
 Ljörn watched as Úlfnir attacked an armoured warrior near the center of the village. But another came up to his brother's side and planted an axe into his neck, and he saw his brother fall.
