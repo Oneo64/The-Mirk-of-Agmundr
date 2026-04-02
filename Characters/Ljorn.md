@@ -58,12 +58,12 @@ During an episode, Ljörn becomes irritable and restless, pacing around in an at
 
 After leaving Iceland for Agmundarland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
-### Rúna
+### Rúna (lover)
 [*See: Rúna.md*](Runa.md)
 
-Ljörn finds that when Rúna is there, he can relax a little despite his paranoia. He finds her smaller habits endearing, such as fidgeting and avoiding cracks on the ground. Also, his love languages are physical touch and acts of service.
+Ljörn finds Rúna's habits endearing to the heart, such as fidgeting and avoiding cracks on the ground. He thinks her teasing is a bit childish, but plays along with her anyway.
 
-Even though Ljörn craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
+Ljörn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
 
 However, since Ljörn has a low sense of self-worth, he has an underlying worry that he's too much for her to bear, and that she might abandon him for someone else.
 
