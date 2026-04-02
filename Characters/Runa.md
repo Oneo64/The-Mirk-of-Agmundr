@@ -68,6 +68,8 @@ But Rúna would get frustrated with some of the tendencies Ljörn has, especiall
 Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 
 ### Example dialogue
+*These are real dialogues from stories featuring Rúna.*
+
 #### Main story
 - "Are you really?" *(Was curious about Ljörn's "curse" when she met him.)*
 - "Look! I think... uhm... berries!" *(Discovering a new kind of berry.)*
