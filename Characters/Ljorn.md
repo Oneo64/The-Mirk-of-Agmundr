@@ -43,7 +43,6 @@ Ljörn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
 - When frustrated, he quietly uses strong language under his breath, but avoids using extreme insults or belittling.
 - When nervous, he caresses the right side of his neck.
-- When relaxed and sitting on a chair, he crosses his fingers together.
 
 Ljörn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
 
