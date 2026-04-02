@@ -53,9 +53,9 @@ Ljörn speaks informally and not much, often answering people with a few words. 
 Ljörn has a cold, gravelly voice which hoarsens when he is tired.
 
 ### PTSD
-Ljörn has PTSD. He has trouble forming any meaningful connections and ignores confronting robbers or thieves (unless it affects him or his affiliates). At night, he becomes very susceptible to noises like banging or movement. He has insomnia, having trouble falling asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
+Ljörn has PTSD and is very susceptible to noises like banging or movement. Insomnia troubles him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
 
-During an episode, Ljörn would pace around and try to get himself into an open area. He becomes very irritable, but he tries to control his anger. He also becomes very hard to deal with, shutting most people down when they try to console him, like telling Alfr not to worry when he noticed his behaviour. When he is left alone with Rúna, he is willing to spill his troubles with her.
+During an episode, Ljörn becomes irritable and restless, pacing around in an attempt to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
 
 After leaving Iceland for Agmundarland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
