@@ -53,7 +53,7 @@ Ljörn speaks in a casual yet reduced manner, often answering people with a few 
 Ljörn has a cold, gravelly voice which hoarsens when he is tired.
 
 ### PTSD
-Ljörn has PTSD and is very susceptible to noises like banging or movement. Insomnia troubles him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Additionally, he gets nightmares of his past experiences.
+Ljörn has PTSD and is very susceptible to noises like banging or movement. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
 
 During an episode, Ljörn becomes irritable and restless, pacing around in an attempt to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
 
