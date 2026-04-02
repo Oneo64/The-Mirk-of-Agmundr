@@ -35,7 +35,7 @@ On the surface, Ljörn is an introverted man who just has a peaceful demeanour, 
 
 However, Ljörn is stubborn and has a low sense of self-worth, often becoming conflicted between greatness and humility. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them.
 
-At heart, Ljörn is a peaceseeker who doesn't like war, but he views it as a necessary thing and carries a weapon around. He is even willing to go to battle to protect others, even if he won't say so.
+At heart, Ljörn is a peaceseeker who doesn't like war, but he views it as a necessary thing and carries a weapon around.
 
 After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Alfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
 
