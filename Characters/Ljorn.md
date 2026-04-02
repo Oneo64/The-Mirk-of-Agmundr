@@ -61,7 +61,7 @@ After leaving Iceland for Agmundarland, Ljörn was still afraid of several thing
 ### Rúna (lover)
 [*See: Rúna.md*](Runa.md)
 
-Ljörn finds Rúna's habits endearing to the heart, such as fidgeting and avoiding cracks on the ground. Although he thinks they're a bit childish, he plays along with her anyway. He is very protective of her, showing worry when she wants to try things that he thinks are dangerous, such as exploring the forest.
+Ljörn finds Rúna's habits endearing to the heart, such as her fidgeting, teasing, and avoidance of cracks on the ground. Although he thinks they're a bit childish, he plays along with her anyway. He is very protective of her, showing worry when she wants to try things that he thinks are dangerous, such as exploring the forest.
 
 Ljörn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
 
