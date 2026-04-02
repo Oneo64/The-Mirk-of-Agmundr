@@ -89,16 +89,8 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 ### Herbalism
 Rúna can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
 
-#### Rúna knows that:
-- Ginger can be used to treat aches
-- Catnip and Chamomile are herbs for relaxation
-- Juniper is a greater protection herb
-- Mint and Yarrow are lesser protection herbs
-
 ### Woodcarving
-Since Rúna is a woodcarver, she can carve wood into spoons, forks, animal figurines, or runesticks. Her figurine work isn't very detailed, but they're shapely enough to tell what they are.
-
-Rúna owns a set of woodcarving tools, which help her shape and detail wood.
+Since Rúna is a woodcarver, she can carve wood into spoons, forks, animal figurines, or runesticks. Her figurine work isn't very detailed, but they're shapely enough to tell what they are. She owns a set of woodcarving tools, which help her shape and detail wood.
 
 ### Physicality
 Even though Rúna has a spear, she can't use it well. She only knows how to thrust or hold something down once the spearhead gets in, mainly for defence against wild animals.
