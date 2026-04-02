@@ -44,7 +44,7 @@ Ljörn has several notable habits:
 - When frustrated, he quietly uses strong language under his breath, but avoids using extreme insults or belittling.
 - When nervous, he caresses the right side of his neck.
 
-Ljörn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy.
+Ljörn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy. Although he doesn't have a good sense of humour, he finds slapstick humour entertaining.
 
 ### Voice
 Ljörn speaks in a casual yet reduced manner, often answering people with a few words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words.
