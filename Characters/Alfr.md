@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Alfr</th> </tr>
 	<tr> <th colspan=2>ᛅᛚᚠᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Forest Explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
@@ -19,7 +19,7 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Alfr is a settler from Álahringr who travelled to a northern island as part of Hjálvir's company, and is also the one who persuaded Ljörn to go there with him.
+Alfr is a settler from Álahringr who travelled to a northern island as part of Hallbjörn's company, and is also the one who persuaded Ljörn to go there with him.
 
 ## Appearance
 Alfr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".

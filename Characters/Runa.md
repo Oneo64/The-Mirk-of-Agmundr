@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/Portrait12.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
 	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
@@ -114,7 +114,7 @@ Several hours passed. By the time they were safe, the sun had begun to dawn. Rú
 
 Due to the raid, Rúna's family suffered a major blow; all their chickens were gone, all but one of the cattle were missing, and their home was ransacked. Her father was missing his left hand, meaning he could never fish the same way again.
 
-On the day Hjálvir announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Agmundarland.
+On the day Hallbjörn announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Agmundarland.
 
 After she arrived at Agmundarland, Rúna began to work on her herbalism skills. Not only that, she discovered crowberries while attending an expedition party with a few other settlers. There, she befriended Ljörn, a warrior who was her old village neighbour.
 

@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>ᛚᛁᚬᚱᚾ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/PortraitLowRes.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Hunting<br>Tree-felling<br>Woodcutting</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
@@ -20,7 +20,7 @@
 	<tr> <td>Eye color</td> <td>Pale blue</td> </tr>
 </tbody></table>
 
-Ljörn was a settler who travelled to a northern island under the command of Hjálvir. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
+Ljörn was a settler who travelled to a northern island under the command of Hallbjörn. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
 
 ## Appearance
 Ljörn is a weathered man with long and wavy dark blond hair, paired with a short full beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
@@ -71,7 +71,7 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 *These are real dialogues from stories featuring Ljörn.*
 
 #### Main story
-- "Yes." *(Obeying an order from Hjálvir.)*
+- "Yes." *(Obeying an order from Hallbjörn.)*
 - "Get off me." *(He says this sharply after a flashback.)*
 - "There's still fish in the bowl." *(He says this after his brother is relieved that they're eating soup instead of dried fish.)*
 - "How long will this travelling last?" *(Complaining about the length of his longboat trip.)*

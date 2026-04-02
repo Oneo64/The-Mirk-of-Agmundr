@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Gunnarr</th> </tr>
 	<tr> <th colspan=2>ᚴᚢᚾᚬᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Lawful Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hjálvir's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Early 20s</td> </tr>
