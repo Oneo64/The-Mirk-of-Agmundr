@@ -92,7 +92,6 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 - "Hæ... þú ert hér." *(Meeting up with Ljörn at a gathering and greeting him.)*
 - "Þú ættir að vera varkárari."
 - "Hver heldur hann að hann sé...?" *(Venting privately to someone after getting offended.)*
-- "Þú lítur út eins og þú hafir sofið illa."
 
 ## Abilities
 ### Domestic Skills
