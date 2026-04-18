@@ -78,7 +78,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 - "Jæja..." *(Trying to explain herself.)*
 - "Kjóllinn minn!" *(Her reaction to her dress being stained by a spilled drink.)*
 - "Hæ... þú ert hér." *(Greeting Ljörn at a gathering after expecting him there.)*
-- "Var hann... að tala við mig...?"
+- "Var hann að tala við mig?"
 - "Þú ættir að vera meira varkár."
 - "Hver heldur hann að hann sé...?" *(Slandering someone while talking to a friend after being offended.)*
 
