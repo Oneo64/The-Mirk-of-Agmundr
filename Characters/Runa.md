@@ -82,7 +82,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 - "Var hann að tala við mig?" *(Confused because someone was speaking a foreign language to her.)*
 - "Þú ættir að vera varkárari."
 - "Hver heldur hann að hann sé...?" *(Venting privately to someone after getting offended.)*
-- "Það er ekki kamilla. Það er gjörólikt."
+- "Það er ekki kamilla. Það er gjörólíkt."
 
 ## Abilities
 ### Domestic Skills
