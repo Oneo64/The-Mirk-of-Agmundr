@@ -68,21 +68,31 @@ But Rúna would get frustrated with some of the tendencies Ljörn has, especiall
 Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 
 ### Example dialogue
+#### Main story
 *These are real dialogues from stories featuring Rúna.*
 
-#### Main story
 - "Are you really?" *(Was curious about Ljörn's "curse" when she met him.)*
 - "Look! I think... uhm... berries!" *(Discovering a new kind of berry.)*
 
-#### Other stories
+#### Normal
 - "Jæja..." *(Trying to explain herself.)*
+
+#### Flustered
 - "Kjóllinn minn!" *(Her reaction to her dress being stained by a spilled drink.)*
-- "Það var óþarft." *(Annoyed at someone.)*
-- "Hæ... þú ert hér." *(Greeting Ljörn at a gathering after expecting him there.)*
+- "Ég—nei, ég meinaði ekki—"
+
+#### Confused
 - "Var hann að tala við mig?" *(Confused because someone was speaking a foreign language to her.)*
+
+#### Angry
+- "Það var óþarft." *(Annoyed at someone.)*
+- "Það er ekki kamilla. Það er gjörólíkt."
+
+#### Emotional
+- "Hæ... þú ert hér." *(Meeting up with Ljörn at a gathering and greeting him.)*
 - "Þú ættir að vera varkárari."
 - "Hver heldur hann að hann sé...?" *(Venting privately to someone after getting offended.)*
-- "Það er ekki kamilla. Það er gjörólíkt."
+- "Þú lítur út eins og þú hafir sofið illa."
 
 ## Abilities
 ### Domestic Skills
