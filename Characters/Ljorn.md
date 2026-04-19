@@ -68,20 +68,32 @@ Ljörn's love languages are physical touch and acts of service. Even though he c
 However, since Ljörn has a low sense of self-worth, he has an underlying worry that he's too much for her to bear, and that she might abandon him for someone else.
 
 ### Example dialogues
+#### Main story
 *These are real dialogues from stories featuring Ljörn.*
 
-#### Main story
 - "Yes." *(Obeying an order from Hallbjörn.)*
 - "Get off me." *(He says this sharply after a flashback.)*
 - "There's still fish in the bowl." *(He says this after his brother is relieved that they're eating soup instead of dried fish.)*
 - "How long will this travelling last?" *(Complaining about the length of his longboat trip.)*
 - "No, I'm not. Look over there. That hill." *(He spots a draugr mound and was being questioned whether he was hallucinating.)*
 
-#### Other stories
-- "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
-- "Umm... like..." *(He says this as he's nervously trying something new.)*
-- "Halfwit swines." *(Insulting his attackers after getting into a bar fight.)*
+#### Normal
 - "The usual stew and mead." *(Ordering his food in a tavern.)*
+
+#### Flustered
+- "Umm... like..." *(He says this as he's nervously trying something new.)*
+
+#### Confused
+- "Hvað...? Hvað gerðist?"
+- "What... what on earth are you doing?"
+
+#### Angry
+- "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
+- "What is this?!"
+- "Halfwit swines." *(Insulting his attackers after getting into a bar fight.)*
+- "Ég ætla að taka á honum seinna."
+
+#### Emotional
 - "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 
 ### Arc
