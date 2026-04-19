@@ -85,7 +85,7 @@ However, since Ljörn has a low sense of self-worth, he has an underlying worry 
 
 #### Confused
 - "Hvað...? Hvað gerðist?"
-- "What... what on earth are you doing?"
+- "What on earth are you doing?"
 
 #### Angry
 - "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
