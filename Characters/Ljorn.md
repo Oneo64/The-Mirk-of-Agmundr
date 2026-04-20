@@ -137,7 +137,7 @@ However, he started to become quieter, reserved, and more mature with age, not w
 
 In his late teens, he began to show interest in hunting and was taken out to the wilderness by his father to learn how to hunt, first learning how to hunt deer. He was taught how to throw a spear and use it with a shield. Later, he would go out by himself and hunt down a deer all by himself.
 
-One day, when he was taking a leisurely stroll in the forest, he saw a pretty girl by the river (who was Rúna) and got a short-lived crush, but he slowly forgot about her as he only saw her silhouette. On this day, he cannot remember much about this interaction, including appearance and location, other than that he had a fleeting crush on someone.
+One day, when he was taking a leisurely stroll in the forest, he saw a pretty girl by the river (who was Rúna) and got a short-lived crush, but he slowly forgot about her as he only saw her silhouette. He cannot remember much about this interaction, including appearance and location, other than that he had a fleeting crush on someone.
 
 Ljörn witnessed the moment when his father passed his sword to Úlfnir, the oldest brother in the family. His father had received his sword from his father (in this case, Ljörn's paternal grandfather), who was getting too old for it and had ultimately acquired it after returning from a Viking raid.
 
