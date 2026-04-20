@@ -33,7 +33,7 @@ Ljörn has an arrow scar on his left shoulder and two scars on his knees from an
 ## Personality
 On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
 
-However, Ljörn is stubborn, has a low sense of self-worth, and has a low sense of righteous justice, often becoming conflicted between greatness and humility. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them.
+However, Ljörn is stubborn, has a low sense of self-worth, and has a low sense of righteous justice, often becoming conflicted between greatness and humility. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them. Despite his low self-worth, he is not generous.
 
 At heart, Ljörn is a peaceseeker who doesn't like war, but he views it as a necessary thing and carries a weapon around. He would rather be a local guard than go out with an army if something threatened his life.
 
