@@ -31,11 +31,11 @@ Ljörn wears a simple blue tunic and a Mjöllnir necklace. He is often seen wear
 Ljörn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
-On the surface, Ljörn is an introverted man who just has a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as an unsociable person, he upholds his politeness by responding properly and bowing his head, especially to his elders or superiors.
+On the surface, Ljörn is an introverted man with a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors.
 
-However, Ljörn is stubborn, has a low sense of self-worth, and has a low sense of righteous justice, often becoming conflicted between greatness and humility. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them. Despite his low self-worth, he is not generous.
+However, Ljörn is stubborn and has a low sense of righteous justice. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them. He is easily angered but would never hold great grudges.
 
-At heart, Ljörn is a peaceseeker who doesn't like war, but he views it as a necessary thing and carries a weapon around. He would rather be a local guard than go out with an army if something threatened his life.
+At heart, Ljörn is a peaceseeker who avoids war, preferring to be a local guard rather than a soldier. He pessimistically views war as a necessary and eventual thing.
 
 After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Alfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
 
@@ -52,7 +52,7 @@ Ljörn speaks in a casual yet reduced manner, often answering people with a few 
 Ljörn has a cold, gravelly voice which hoarsens when he is tired.
 
 ### PTSD
-Ljörn has PTSD and is very susceptible to noises like banging or movement. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
+Ljörn has an underlying PTSD problem and is very susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
 
 During an episode, Ljörn becomes irritable and restless, pacing around in an attempt to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
 
