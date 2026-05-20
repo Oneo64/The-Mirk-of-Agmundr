@@ -32,7 +32,7 @@ Rúna wears a blue tunic dress with red edges, some shoes, and a Mjöllnir amule
 Rúna has a long, gnarly scar across her back after being slashed by a sword. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
-Rúna is bashful and kind, but can be absent-minded in the way that when not doing anything or listening to someone talk, she would space out and start wondering about random things. But under her demeanour, she has a fascination with ancient ruins and secret lore, compelling her to explore a little to know more about them, though she avoids going on dangerous expeditions and is also deathly afraid of performative magic.
+Rúna is shy and doesn't like the company of strangers, often showing nervousness or discomfort. She is absent-minded in the way that she would space out if she isn't doing anything or listening to anyone. Despite all of this, she has a fascination with ancient ruins and secret lore that drives her to explore a little about them, though she avoids going on dangerous expeditions and is deathly afraid of performative magic.
 
 Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
