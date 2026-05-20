@@ -25,7 +25,7 @@ Ljörn was a settler who travelled to a northern island under the command of Hal
 ## Appearance
 Ljörn is a weathered man with long and wavy dark blond hair, paired with a short full beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
 
-Ljörn wears a simple blue tunic and a Mjöllnir necklace. He is often seen wearing his maille shirt and his sword baldric, even indoors or during formal occasions. He also has a nasal helmet, a spear, and a shield.
+Ljörn is often seen wearing a maille shirt over a simple blue tunic, a baldric holding a sword and scabbard, a pair of trousers with leg wraps, some leather boots, and a Mjöllnir necklace. For combat and travelling, he has a nasal helmet, a spear, and a shield.
 
 ### Scars
 Ljörn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
@@ -33,7 +33,7 @@ Ljörn has an arrow scar on his left shoulder and two scars on his knees from an
 ## Personality
 On the surface, Ljörn is an introverted man with a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors.
 
-However, Ljörn is stubborn and has a low sense of righteous justice. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them. He is easily angered but would never hold great grudges.
+However, Ljörn is stubborn and has a low sense of righteous justice. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them. He is easily angered but would never hold hateful grudges.
 
 At heart, Ljörn is a peaceseeker who avoids war, preferring to be a local guard rather than a soldier. He pessimistically views war as a necessary and eventual thing.
 
