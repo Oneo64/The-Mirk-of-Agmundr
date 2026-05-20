@@ -65,8 +65,6 @@ Ljörn finds Rúna's habits endearing to the heart, such as her fidgeting, teasi
 
 Ljörn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
 
-However, since Ljörn has a low sense of self-worth, he has an underlying worry that he's too much for her to bear, and that she might abandon him for someone else.
-
 ### Example dialogues
 #### Main story
 *These are real dialogues from stories featuring Ljörn.*
