@@ -34,7 +34,7 @@ Rúna has a long, gnarly scar across her back after being slashed by a sword. Al
 ## Personality
 Rúna is shy, easily flustered, and doesn't like the company of strangers, but isn't as reserved as most people expect once they talk to her. She is absent-minded in the way that she would space out if she isn't doing anything or listening to anyone.
 
-Despite all of this, Rúna has a fascination with ancient ruins and secret lore that drives her to explore them a little. However, she avoids going on dangerous expeditions and is deathly afraid of performative magic.
+Despite these traits, Rúna has a fascination with ancient ruins and secret lore that drives her to explore them a little. However, she avoids going on dangerous expeditions and is deathly afraid of performative magic.
 
 Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
 
