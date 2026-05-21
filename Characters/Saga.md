@@ -20,7 +20,7 @@
 Sága is an explorer.
 
 ## Appearance
-Sága has shoulder-length wavy black hair, captivating hazel eyes, thin eyebrows, and slightly pointed ears. She is 5'5" tall and has a straight, lean figure with a small bust.
+Sága has shoulder-length wavy black hair, upturned hazel eyes, thin eyebrows, and slightly pointed ears. She is 5'5" tall and has a straight, lean figure with a small bust.
 
 Sága casually wears a dark red tunic, brown pants, a ring belt, and a pair of shoes. She wears a necklace of a strange-looking pebble she found near the river. Somewhere in her storage, she keeps a dark red dress with brown embroidery, but she doesn't wear it as often.
 
