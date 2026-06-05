@@ -90,6 +90,7 @@ Ljörn's love languages are physical touch and acts of service. Even though he c
 - "What is this?!"
 - "Halfwit swines." *(Insulting his attackers after getting into a bar fight.)*
 - "Ég ætla að taka á honum seinna."
+- "Smakkaðu Úlfnisblað!"
 
 #### Emotional
 - "Elskan, ég var bara... ég varð að verjast frá einhverjum árásarmönnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
