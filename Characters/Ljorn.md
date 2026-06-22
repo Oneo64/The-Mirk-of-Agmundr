@@ -8,7 +8,7 @@
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Hunting<br>Tree-felling<br>Woodcutting</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
-	<tr> <td>Age</td> <td>25</td> </tr>
+	<tr> <td>Age</td> <td>25 <i>(before)</i><br>26 <i>(after)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mifrún <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfr <i>(younger brother)</i></td> </tr>
@@ -31,11 +31,11 @@ Ljörn is often seen wearing a maille shirt over a simple blue tunic, a baldric 
 Ljörn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
-On the surface, Ljörn is an introverted man with a peaceful demeanour, like a random calm person you'd meet somewhere. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors.
+Ljörn is an introverted man who carries a calm demeanour. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors. He also tries to be reasonable, wanting to be seen as a good person.
 
-However, Ljörn is stubborn and has a low sense of righteous justice. He has trouble expressing his wants and needs, and things like compliments and love, always hesitating or avoiding saying them. He is easily angered but would never hold hateful grudges.
+However, Ljörn is deeply flawed once the cracks start showing. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). Furthermore, he is amoral, stubborn with his decisions, and easily angered, although he can be forgiving.
 
-At heart, Ljörn is a peaceseeker who avoids war, preferring to be a local guard rather than a soldier. He pessimistically views war as a necessary and eventual thing.
+At heart, Ljörn is a peaceseeker and tries to avoid confrontations, but he pessimistically views war as a necessary and eventual thing.
 
 After his main arc ended, Ljörn had gained a sense of courage in exploration with the help of his brother, Alfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
 
