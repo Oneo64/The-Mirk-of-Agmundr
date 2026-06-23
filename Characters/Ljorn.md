@@ -31,9 +31,9 @@ Ljörn is often seen wearing a maille shirt over a simple blue tunic, a baldric 
 Ljörn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
-Ljörn is an introverted man who carries a calm demeanour. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors. He also tries to be reasonable, wanting to be seen as a good person.
+Ljörn is an introverted man who seems to carry a composed demeanour. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors. He also tries to be reasonable, wanting to be seen as a good person.
 
-However, Ljörn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). Furthermore, he is morally indifferent to matters that don't affect him, stubborn in his decisions, and easily angered, though he can be forgiving.
+However, Ljörn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
 At heart, Ljörn is a peaceseeker and tries to avoid confrontations, but he pessimistically views war as a necessary and eventual thing.
 
