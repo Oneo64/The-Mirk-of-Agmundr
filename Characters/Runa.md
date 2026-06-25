@@ -29,7 +29,7 @@ Rúna is a young woman with long, wavy light-brunette hair, pale green eyes that
 Rúna wears a blue tunic dress with red edges, some shoes, and a Mjöllnir amulet. She carries a small knife on her belt and a pouch of random herbal stuff like leaves, petals, and sticks. When she is outside in a cold place, she puts on a dull frayed cloak held together by two brooches.
 
 ### Scar
-Rúna has a long, gnarly scar across her back after being slashed by a sword. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
+Rúna has a long, gnarly scar across her back after being slashed by a draugr. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
 Rúna is shy, easily flustered, and doesn't like the company of strangers, but isn't as reserved as most people expect once they talk to her. She is absent-minded in the way that she would space out if she isn't doing anything or listening to anyone.
