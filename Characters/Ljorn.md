@@ -12,6 +12,7 @@
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mifrún <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfr <i>(younger brother)</i></td> </tr>
+	<tr> <td>Lover</td> <td>Rúna</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -58,7 +59,7 @@ During an episode, Ljörn becomes irritable and restless, pacing around in an at
 
 After leaving Iceland for Agmundarland, Ljörn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
 
-### Rúna (lover)
+### Rúna
 [*See: Rúna.md*](Runa.md)
 
 Ljörn finds Rúna's habits endearing to the heart, such as her fidgeting, teasing, and avoidance of cracks on the ground. Although he thinks they're a bit childish, he plays along with her anyway. He is very protective of her, showing worry when she wants to try things that he thinks are dangerous, such as exploring the forest.
