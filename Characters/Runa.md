@@ -32,13 +32,11 @@ Rúna wears a blue tunic dress with red edges, some shoes, and a Mjöllnir amule
 Rúna has a long, gnarly scar across her back after being slashed by a draugr. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
-Rúna is shy, easily flustered, and doesn't like the company of strangers, but isn't as reserved as most people expect once they talk to her. She is absent-minded in the way that she would space out if she isn't doing anything or listening to anyone.
+Rúna is shy, easily flustered, and doesn't like the company of strangers, but she isn't as reserved as most people expect once they talk to her. She usually tries to avoid conflicts through negotiation and verbal confrontation.
 
 Despite these traits, Rúna has a fascination with ancient ruins and secret lore that drives her to explore them a little. However, she avoids going on dangerous expeditions and is deathly afraid of performative magic.
 
-Coming from a merchant's family, Rúna has grown to avoid conflicts through negotiation and verbal confrontation. Since she used to get condescending remarks from her customers, she frets over whether she did anything wrong after her actions, as a form of perfectionism.
-
-Although Rúna acts timidly, she really hates hindrances and ignorance (in her field) to the point where her bashfulness disappears, turning into sternness or outright zeal. When someone misidentifies a plant, she would respond by correcting them without a stutter. When someone tries to stop her from taking a look at something she found interesting, she would sulk or plead dramatically.
+Rúna is absent-minded in the way that she would space out if she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong after her actions, and getting the urge to correct people whenever she can. When facing enemies, she can become arrogant and make impulsive decisions.
 
 Because of the scar on her back, Rúna is hesitant to turn her back on strangers and acquaintances and is hesitant to tell anyone about it, afraid they might notice it and fuss over it.
 
