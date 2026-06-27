@@ -8,7 +8,7 @@
 	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
 	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
-	<tr> <td>Age</td> <td>22</td> </tr>
+	<tr> <td>Age</td> <td>22 <i>(before)</i><br>23 <i>(after)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>March 14, AD 900</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Njáll <i>(father)</i><br>Þone <i>(mother)</i></td> </tr>
