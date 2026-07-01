@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljörn</th> </tr>
 	<tr> <th colspan=2>ᛚᛁᚬᚱᚾ</th> </tr>
-	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/test12345.png" alt="test" width="270"></th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/test12345upscaled.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
