@@ -16,12 +16,12 @@
 Ragnhildr the Half-giant was a healer who went alongside Hallbjörn to settle on a northern island.
 
 ## Appearance
-Ragnhildr has a noticeably large appearance, being as tall as a man. She has red hair, dark, weathered eyes, and rough skin, giving her the appearance of a jötunn. On the right side of her cheek is a thin, long, vertical scar. She is undeniably tall and has a sturdy build, giving her a somewhat rounded appearance.
+Ragnhildr has a noticeably large appearance, with red hair, dark eyes, and rough skin, giving her the appearance of a jötunn. On the right side of her cheek is a thin, long, vertical scar. She is undeniably tall and has a sturdy build, giving her a somewhat rounded appearance.
 
-Most of the time, Ragnhildr is wearing a rough, dark green dress and a large brown scarf.
+Ragnhildr wears a dark green apron dress with a rough texture, a belt, and a large brown scarf.
 
 ## Personality
-Ragnhildr goes by a no-nonsense demeanour and is often exasperated with her younger peers. She also has a touch of arrogance, always assuming she can do things better than others. However, she has a dismissive side, not caring for any insults and seeing them as childish.
+Ragnhildr has a no-nonsense demeanour and is often exasperated with her younger peers. She also has a touch of arrogance, always assuming she can do things better than others. However, she has a dismissive side, not caring for any insults and seeing them as childish.
 
 ## Abilities
 ### Healing

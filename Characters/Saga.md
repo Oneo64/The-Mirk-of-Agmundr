@@ -20,14 +20,14 @@
 Sága is an explorer.
 
 ## Appearance
-Sága has shoulder-length wavy black hair, upturned hazel eyes, and thin eyebrows. She is 5'5" tall and has a straight, lean figure with a small bust.
+Sága has shoulder-length wavy black hair, upturned hazel eyes, and thin eyebrows. She is 5'5" tall and has a straight, lean figure.
 
-Sága casually wears a dark red tunic, brown pants, a ring belt, and a pair of shoes. She wears a necklace of a strange-looking pebble she found near the river. Somewhere in her storage, she keeps a dark red dress with brown embroidery, but she doesn't wear it as often.
+Sága wears a dark red tunic, brown pants, a ring belt, and a pair of shoes. She wears a necklace of a strange-looking pebble she found near the river. Somewhere in her storage, she keeps a dark red dress with brown embroidery, but she doesn't wear it as often.
 
 When Sága is outside, she wears a dark brown cloak with double brooches. When she is training or travelling, she carries her nasal helmet, kite shield, and baldric scabbard.
 
 ## Personality
-Like her father, Sága is an adventurous and ambitious explorer, wanting to be independent for others' approval. However, she can become a little hard to deal with, especially when she defends things that she believes in. Not only that, she is reckless in her own independence as she tries to achieve them through careless decisions.
+Like her father, Sága is an adventurous and ambitious explorer, wanting to be independent without others' approval. However, she can become a little hard to deal with, especially when she defends things that she believes in. Not only that, she is reckless in her own independence as she tries to achieve them through careless decisions.
 
 Outside of adventure and fighting, Sága likes to tell stories to her friends and companions, especially heroic sagas that she's read or heard before. Her favourite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village. *(For example, I think she would fangirl over The Hobbit / LotR if that story existed in her time.)*
 
