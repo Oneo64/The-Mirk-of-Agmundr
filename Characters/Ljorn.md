@@ -110,9 +110,9 @@ Ljörn's love languages are physical touch and acts of service. Even though he c
 
 ## Abilities
 ### Physicality
-Even though Ljörn fights with a spear and shield, he has trained in glíma, learning how to wrestle, pin, and tackle someone down. He has a good amount of combat experience from several encounters, including a raid where he fought at least three Vikings, and another attack where tens of trolls tried to destroy the settlement. He has also escaped from a wild bear before and killed a draugr with the help of his friends.
+Ljörn fights with a spear and shield. He is trained in glíma, learning how to wrestle, pin, and tackle someone down. He has a good amount of combat experience from several encounters, including fighting against a Viking raid, fighting against a troll attack, and defending himself from a snake. He has also killed a draugr before with the help of his friends.
 
-Ljörn's left arm is weak because of an arrow injury during a raid on his home village. He can hold his shield up fine, but he is more tired from taking blows.
+Because of an arrow injury, Ljörn's left arm is weak. He can hold his shield, but he is more easily exhausted from taking blows.
 
 ### Hunting & Stealth
 Ljörn can spear-hunt deer in the forest. His method is usually sneaking up on his prey, injuring them by throwing his spear, then finishing them off with his seax. He knows how to skin them for their hides, but he would take them home first.
@@ -121,9 +121,6 @@ Because of his hunting skill, Ljörn is also good at moving stealthily, especial
 
 ### Tree-climbing
 Ljörn once climbed a tree in an attempt to escape a bear.
-
-### Rægtafl
-Ljörn knows how to play Rægtafl, but he isn't the best at it.
 
 ## Lore
 ### Early Life
@@ -144,19 +141,21 @@ Ljörn witnessed the moment when his father passed his sword to Úlfnir, the old
 Úlfnir proudly carried his inherited sword in public whenever he could. Ljörn, for the first few weeks, felt jealous of him.
 
 ### The Attack of Álahringr
-During the night of his twenty-fourth summer, he was suddenly woken to a violent raid of Vikings from Norway. After preparing his armour, he went out with his spear and shield. The first thing he saw was Kolr's home being set on fire by someone. He rushed into the home to see nothing but a suffocating, smouldering wooden structure with no one in it. As he searched, a flaming beam broke and fell, almost crashing onto him. After leaving, he and Alfr both fended off an adversary.
+During the night of his twenty-fourth summer, Ljörn woke up to a violent raid. He quickly got into his armour and went out with his spear and shield.
 
-Ljörn watched as Úlfnir attacked an armoured warrior near the center of the village. But another came up to his brother's side and planted an axe into his neck, and he saw his brother fall.
+When he stepped outside, he saw Kolr's home in flames. He rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith, and he quickly left.
 
-Then, he was assailed by two men at once, one was armoured from head to toe in maille with a masked helmet and a Dane axe, the other with a bow. The bowman was already aiming at him. He raised his shield, but the arrow went straight through his shield and struck his left arm. He was pressed backward as the warrior came closer. He raised his shield again, just in time for it to be struck into deformation and away from his hand, landing onto the ground, useless.
+After he and Alfr drove an attacker away, he watched from a distance as Úlfnir attacked a barbarian near the center of the village. But to his horror, another flanked the brother and planted an axe into his neck, killing him instantly.
 
-When the barbarian let his axe fly towards Ljörn, he tried to block it with his spear. But his spear broke in half, and he tripped over a small indent in the ground. He landed on his behind and scooted backwards as the armoured foe raised his axe. But just as he was about to let it fall onto him, Alfr charged into his executioner and delayed the strike.
+Before he could process his brother's death, two enemies were already advancing: a warrior who was armoured from head to toe in maille and wielded a Dane axe, and a bowman who was already aiming at him. He raised his shield and hid behind it, but the arrow went straight through and struck his shoulder. He tried to block again as the barbarian swung his axe towards him, but his shield was smashed.
 
-Ljörn scrambled to his feet, grabbed the half of the broken spear with the spearhead, and fled into the forest. He stayed the night there, feeling cold and helpless in the dark.
+The fight didn't last long, his spear breaking in half as the barbarian's axe went clean through the shaft. He tripped over a small indent and landed on the ground. He scooted backwards as the barbarian raised his axe.
 
-When morning came, Ljörn woke to the sunlight, feeling dizzy and unable to see well due to blood loss. He snuck back into the village after realising the invaders had left. He had his arrow wound removed and treated. Now, being the oldest living son of his father, he was given Úlfnir's sword.
+Right when the barbarian was going to kill him, Alfr barged in and slammed into the barbarian. He scrambled to his feet, grabbed the upper half of the broken spear, and fled into the forest. He stayed the night there, feeling cold and helpless in the dark.
 
-Ever since the raid, Ljörn had become introverted. Despite his distress, he was told by his family members that he should "just get over it." Not only that, he would get nightmares if he could sleep, couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal. As for Úlfnir and his sword, he wouldn't dare to think his sword was from his brother and lies to himself that it was given to him directly by his father.
+When morning came, Ljörn woke to the sunlight and began to feel nauseous due to blood loss. He snuck back into the village after realising the invaders had left, and had his arrow wound treated.
+
+Now, as the oldest living son, he was given Úlfnir's sword. Despite his distress, he was labelled as cowardly and ignored by his family members. Slowly, he began to find sleeping difficult. He would frequently get nightmares whenever he fell asleep. Not only that, he couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal.
 
 ## Name Translations
 - **Younger Futhark:** ᛚᛁᚬᚱᚾ
