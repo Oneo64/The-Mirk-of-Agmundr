@@ -1,8 +1,9 @@
-# Ljörn Aðalgeirsson
+# Ljósbjörn Aðalgeirsson
 <table align=right><tbody>
-	<tr> <th colspan=2>Ljörn</th> </tr>
-	<tr> <th colspan=2>ᛚᛁᚬᚱᚾ</th> </tr>
+	<tr> <th colspan=2>Ljósbjörn</th> </tr>
+	<tr> <th colspan=2>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/test12345upscaled.png" alt="test" width="270"></th> </tr>
+	<tr> <td>Aliases</td> <td>Ljörn <i>(informal, everyday)</i><br>Haunted man <i>(by Sága)</i></td> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
@@ -21,7 +22,7 @@
 	<tr> <td>Eye color</td> <td>Pale blue</td> </tr>
 </tbody></table>
 
-Ljörn was a settler who travelled to a northern island under the command of Hallbjörn. He is now a farmer. In his spare time, he cuts trees and makes firewood, and hunts deer, bringing his game home.
+Ljósbjörn Aðalgeirsson, usually known as Ljörn, was a settler who travelled to a northern island under the command of Hallbjörn. He is now a farmer. He spends his spare time felling trees, making firewood, and hunting deer.
 
 ## Appearance
 Ljörn is a weathered man with long and wavy dark blond hair, paired with a short full beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
