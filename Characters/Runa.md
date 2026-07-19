@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/aaaaa380x380.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjǫrn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
 	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
@@ -12,7 +12,7 @@
 	<tr> <td>Birthday</td> <td>March 14, AD 900</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Njáll <i>(father)</i><br>Þone <i>(mother)</i></td> </tr>
-	<tr> <td>Lover</td> <td>Ljörn</td> </tr>
+	<tr> <td>Lover</td> <td>Ljǫrn</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>
@@ -26,7 +26,7 @@ Rúna was a settler and herbologist. She is now a merchant, selling wooden carvi
 ## Appearance
 Rúna is a young woman with long and wavy light-brunette hair, almond-shaped and wide-set green eyes, freckles that were faded from age, and thin lips that are lightly curved. When relaxed, she carries a soft yet distant expression on her face. She has a curvaceous yet athletic figure, and her height is 5'3".
 
-Rúna wears a blue tunic dress with red edges, some shoes, and a Mjöllnir amulet. She carries a small knife on her belt and a pouch of random herbal stuff like leaves, petals, and sticks. When she is outside in a cold place, she puts on a dull frayed cloak held together by two brooches.
+Rúna wears a blue tunic dress with red edges, some shoes, and a Mjǫllnir amulet. She carries a small knife on her belt and a pouch of random herbal stuff like leaves, petals, and sticks. When she is outside in a cold place, she puts on a dull frayed cloak held together by two brooches.
 
 ### Scar
 Rúna has a long, gnarly scar across her back after being slashed by a draugr. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
@@ -53,14 +53,14 @@ Rúna speaks informally and doesn't talk much, much like her reservedness. She u
 
 Rúna has a soft yet lively voice, characterized by a light tone.
 
-### Ljörn
-[*See: Ljósbjörn.md*](Ljosbjorn.md)
+### Ljǫrn
+[*See: Ljósbjǫrn.md*](Ljosbjorn.md)
 
-Rúna is noticeably kinder and softer to Ljörn. She becomes bolder and more playful around him, letting out all her restrained behaviour by teasing him and chiding him for his behaviour. She cherishes acts of service and quality time the most.
+Rúna is noticeably kinder and softer to Ljǫrn. She becomes bolder and more playful around him, letting out all her restrained behaviour by teasing him and chiding him for his behaviour. She cherishes acts of service and quality time the most.
 
-Sometimes, Rúna would call Ljörn *kæri* and get embarrassed over it. When he isn't wearing his equipment, she would sneakily try them on.
+Sometimes, Rúna would call Ljǫrn *kæri* and get embarrassed over it. When he isn't wearing his equipment, she would sneakily try them on.
 
-But Rúna would get frustrated with some of the tendencies Ljörn has, especially his stubbornness and his language. Even though she finds them difficult to deal with, she works around it by telling him off.
+But Rúna would get frustrated with some of the tendencies Ljǫrn has, especially his stubbornness and his language. Even though she finds them difficult to deal with, she works around it by telling him off.
 
 ### Gunnarr
 Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
@@ -69,27 +69,27 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 #### Main story
 *These are real dialogues from stories featuring Rúna.*
 
-- "Are you really?" *(Was curious about Ljörn's "curse" when she met him.)*
+- "Are you really?" *(Was curious about Ljǫrn's "curse" when she met him.)*
 - "Look! I think... uhm... berries!" *(Discovering a new kind of berry.)*
 
 #### Normal
 - "Jæja..." *(Trying to explain herself.)*
 
 #### Flustered
-- "Kjóllinn minn!" *(Her reaction to her dress being stained by a spilled drink.)*
-- "Ég—nei, ég meinaði ekki—"
+- "Hrókin mín!" *(Her reaction to her dress being stained by a spilled drink.)*
+- "Jek—nei, jek meinda eigi—"
 
 #### Confused
-- "Var hann að tala við mig?" *(Confused because someone was speaking a foreign language to her.)*
+- "Var hann at tala með mer?" *(Confused because someone was speaking a foreign language to her.)*
 
 #### Angry
-- "Það var óþarft." *(Annoyed at someone.)*
-- "Það er ekki kamilla. Það er gjörólíkt."
+- "Þat var óþarfið." *(Annoyed at someone.)*
+- "Þetta er eigi kamilla. Þetta er algørð annað."
 
 #### Emotional
-- "Hæ... þú ert hér." *(Meeting up with Ljörn at a gathering and greeting him.)*
-- "Þú ættir að vera varkárari."
-- "Hver heldur hann að hann sé...?" *(Venting privately to someone after getting offended.)*
+- "Hæ... þú ert her." *(Meeting up with Ljǫrn at a gathering and greeting him.)*
+- "Þú atlar at vera varkárari."
+- "Hverr segjar hann at hann er...?" *(Venting privately to someone after getting offended.)*
 
 ## Abilities
 ### Domestic Skills
@@ -124,19 +124,19 @@ Several hours passed. By the time they were safe, the sun had begun to dawn. Rú
 
 Due to the raid, Rúna's family suffered a major blow; all their chickens were gone, all but one of the cattle were missing, and their home was ransacked. Her father was missing his left hand, meaning he could never fish the same way again.
 
-On the day Hallbjörn announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Agmundarland.
+On the day Hallbjǫrn announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Agmundarland.
 
-After she arrived at Agmundarland, Rúna began to work on her herbalism skills. Not only that, she discovered crowberries while attending an expedition party with a few other settlers. There, she befriended Ljörn, a warrior who was her old village neighbour.
+After she arrived at Agmundarland, Rúna began to work on her herbalism skills. Not only that, she discovered crowberries while attending an expedition party with a few other settlers. There, she befriended Ljǫrn, a warrior who was her old village neighbour.
 
 One day, Rúna was by the river when her new friend approached her. After she expressed worry, he told her that he got lost in the forest and found a draugr mound. They talked for a while, the conversation slowly shifting to his encounter with the Nykr. When he left, he gave her some arctic thymes, saying that he had discovered them and thought she could study them.
 
-But to their unfortunate luck, their new settlement was attacked by local tribes of trolls. Ljörn escorted Rúna back to the farmstead and went off to help the others defend the place. But, she also wanted to help in defending, so she took her spear and guarded the main hall of the stead. As the battle went on, the door of the building suddenly opened. Ljörn was there, looking inside to make sure the refugees were safe. As Rúna saw him, she felt an unfamiliar flutter in her chest and fell in love with him. Eventually, the settlers drove the trolls away.
+But to their unfortunate luck, their new settlement was attacked by local tribes of trolls. Ljǫrn escorted Rúna back to the farmstead and went off to help the others defend the place. But, she also wanted to help in defending, so she took her spear and guarded the main hall of the stead. As the battle went on, the door of the building suddenly opened. Ljǫrn was there, looking inside to make sure the refugees were safe. As Rúna saw him, she felt an unfamiliar flutter in her chest and fell in love with him. Eventually, the settlers drove the trolls away.
 
-Then there was a night when Rúna was awoken by a noise. When she looked outside, she saw Ljörn walking towards the hill on the other side of the settlement. She snuck out with her spear to follow him.
+Then there was a night when Rúna was awoken by a noise. When she looked outside, she saw Ljǫrn walking towards the hill on the other side of the settlement. She snuck out with her spear to follow him.
 
-But to her horror, Rúna saw a draugr attack Ljörn and throw him to the ground. With panic and courage, she thrusted at the undead warrior's back. The draugr, undeterred, turned around and wrenched the spear out of itself, causing her to stumble. Then, it slashed her. She collapsed, bleeding profusely, and slowly lost consciousness.
+But to her horror, Rúna saw a draugr attack Ljǫrn and throw him to the ground. With panic and courage, she thrusted at the undead warrior's back. The draugr, undeterred, turned around and wrenched the spear out of itself, causing her to stumble. Then, it slashed her. She collapsed, bleeding profusely, and slowly lost consciousness.
 
-It took Rúna several weeks to be able to stand upright. As for the draugr, Ljörn was able to make his escape. After this incident, she had grown a fear of performative magic.
+It took Rúna several weeks to be able to stand upright. As for the draugr, Ljǫrn was able to make his escape. After this incident, she had grown a fear of performative magic.
 
 ## Name Translations
 - **Younger Futhark:** ᚱᚢᚾᛅ

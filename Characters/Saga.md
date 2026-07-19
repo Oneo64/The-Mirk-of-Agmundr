@@ -3,12 +3,12 @@
 	<tr> <th colspan=2>Sága</th> </tr>
 	<tr> <th colspan=2>ᛋᚬᚴᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjǫrn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Hallbjörn <i>(father)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Hallbjǫrn <i>(father)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>
@@ -41,8 +41,8 @@ Sága speaks formally and sometimes, poetically. She has a naturally deep voice 
 ### Seyja
 Sága sees Seyja as a role model and aspires to be as brave as her.
 
-### Ljörn
-Sága thinks Ljörn is bewitched.[^1]
+### Ljǫrn
+Sága thinks Ljǫrn is bewitched.[^1]
 
 ### Goals
 **Goal:** To explore the new land.
@@ -77,4 +77,4 @@ For some reason, Sága knows how to hypnotize a chicken.
  - **Japanese:** サーガ
 
 ## Notes
-[^1]: Ljörn has PTSD.
+[^1]: Ljǫrn has PTSD.

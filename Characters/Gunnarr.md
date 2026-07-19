@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Gunnarr</th> </tr>
 	<tr> <th colspan=2>ᚴᚢᚾᚬᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Lawful Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallbjörn's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallbjǫrn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Early 20s</td> </tr>
@@ -26,10 +26,10 @@ Gunnarr is a calm yet curious adventurer, fearless despite his youth and will no
 
 However, Gunnarr is somewhat narcissistic and arrogant, thinking he deserves at least some attention wherever he goes. His arrogance shows when he sometimes looks down upon other people. Sometimes, it also shows when he hesitates to apologise for something he accidentally did wrong.
 
-### Rúna (and Ljörn)
-Gunnarr once had a small, unrequited crush on Rúna. He would react nicer to her and blush at every kind gesture. However, after he found out about her relationship with Ljörn, he backed down and pretended he had nothing to do with her.
+### Rúna (and Ljǫrn)
+Gunnarr once had a small, unrequited crush on Rúna. He would react nicer to her and blush at every kind gesture. However, after he found out about her relationship with Ljǫrn, he backed down and pretended he had nothing to do with her.
 
-To this day, Gunnarr still gets a little flustered around her and still feels a bit of jealousy for Ljörn.
+To this day, Gunnarr still gets a little flustered around her and still feels a bit of jealousy for Ljǫrn.
 
 ## Abilities
 ### Physicality
