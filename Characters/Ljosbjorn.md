@@ -22,7 +22,7 @@
 	<tr> <td>Eye color</td> <td>Pale blue</td> </tr>
 </tbody></table>
 
-Ljósbjörn Aðalgeirsson, usually known as Ljörn, was a settler who travelled to a northern island under the command of Hallbjörn. He is now a farmer. He spends his spare time felling trees, making firewood, and hunting deer.
+Ljósbjörn Aðalgeirsson, commonly known as Ljörn, was a settler who travelled to a northern island under the command of Hallbjörn. He is now a farmer. He spends his spare time felling trees, making firewood, and hunting deer.
 
 ## Appearance
 Ljörn is a weathered man with long and wavy dark blond hair, paired with a short full beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
