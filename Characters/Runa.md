@@ -87,7 +87,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 - "Þetta er eigi kamilla. Þetta er algørð annað."
 
 #### Emotional
-- "Hæ... þú ert her." *(Meeting up with Ljǫrn at a gathering and greeting him.)*
+- "Sæll... þú ert her." *(Meeting up with Ljǫrn at a gathering and greeting him.)*
 - "Þú atlar at vera varkárari."
 - "Hverr segjar hann at hann er...?" *(Venting privately to someone after getting offended.)*
 

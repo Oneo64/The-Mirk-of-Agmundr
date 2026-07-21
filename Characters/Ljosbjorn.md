@@ -95,7 +95,7 @@ Ljǫrn's love languages are physical touch and acts of service. Even though he c
 - "Bragðask Úlfnisblað!"
 
 #### Emotional
-- "Elskan, jek var bara... jek varð at vernda mek frá einhverjum árásmønnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
+- "Elskan, jek var ateins... jek varð at vernda mek frá einhverjum árásmønnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 
 ### Arc
 <details close><summary>Character arc details</summary>
