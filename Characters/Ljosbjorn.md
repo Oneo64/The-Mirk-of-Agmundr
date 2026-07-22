@@ -159,18 +159,18 @@ When morning came, Ljǫrn woke to the sunlight and began to feel nauseous due to
 Now, as the oldest living son, he was given Úlfnir's sword. Despite his distress, he was labelled as cowardly and ignored by his family members. Slowly, he began to find sleeping difficult. He would frequently get nightmares whenever he fell asleep. Not only that, he couldn't look at Dane axes or any axe on a long shaft, and would jump at the sound of creaking wood or clinking metal.
 
 ## Name Translations
-- **Younger Futhark:** ᛚᛁᚬᚱᚾ
-- **English:** Ljorn
-- **Danish, Norwegian:** Ljørn
-- **Swedish:** Ljǫrn
-- **German:** Ljǫrn/Ljoern
-- **Latin:** Liurn/Liœrn
+- **Younger Futhark:** ᛚᛁᚢᛋᛒᛁᚬᚱᚾ
+- **English:** Ljosbjorn
+- **Danish, Norwegian:** Lysbjørn
+- **Swedish:** Ljusbjörn
+- **German:** Ljosbjörn/Ljosbjoern
+- **Latin:** Liusbiurn/Liusbiœrn
 - **Greek:** Λιορν
-- **Russian:** Лёрн
-- **Traditional Chinese:** 李約恩
-- **Simplified Chinese:** 李约恩
-- **Korean:** 료른
-- **Japanese:** リョルン
+- **Russian:** Лёсбёрн
+- **Traditional Chinese:** 利奧斯比約恩
+- **Simplified Chinese:** 利奧斯比約恩
+- **Korean:** 료스비욘
+- **Japanese:** リョースビョルン
 
 ## Trivia
 - Even though Ljǫrn's name doesn't mean anything in Old Norse, it is a coincidence that his name is very similar to the English word lorn, meaning forlorn and abandoned, a very fitting word for his personality.
