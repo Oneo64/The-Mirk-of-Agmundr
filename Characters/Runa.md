@@ -49,9 +49,7 @@ Rúna also has several notable habits:
 Rúna's favourite food is chicken stew, but due to the scarcity of chicken meat, she insists on having egg soup instead. She likes the smell of arctic thyme.
 
 ### Voice
-Rúna speaks informally and doesn't talk much, much like her reservedness. She usually hesitates on the first word of her speech or between clauses, then continues what she wants to say. When she's embarrassed or feels small, she stammers and trips over her words.
-
-Rúna has a soft yet lively voice, characterized by a light tone.
+Rúna speaks informally and doesn't talk much, usually hesitating on the first word. When she's embarrassed or feels small, she stammers and trips over her words. Her natural voice is soft yet lively, characterized by a light tone.
 
 ### Ljǫrn
 [*See: Ljósbjǫrn.md*](Ljosbjorn.md)

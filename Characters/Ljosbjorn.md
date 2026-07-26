@@ -49,9 +49,7 @@ Ljǫrn has several notable habits:
 Ljǫrn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy. Although he doesn't have a good sense of humour, he finds himself smiling or chuckling to himself at slapstick humour.
 
 ### Voice
-Ljǫrn speaks in a casual yet reduced manner, often answering people with a few words. During his shy moments, he mutters or grumbles his words, and sometimes stammers. Despite his casualness, he also speaks as directly as possible. Unless he is startled, he never blurts out his words.
-
-Ljǫrn has a cold, gravelly voice which hoarsens when he is tired.
+Ljǫrn speaks in a casual and reduced manner, often answering people with a few words. He grumbles or stammers his words during his shy moments, and speaks as directly as possible, but never blurts them out unless startled. His natural voice is cold and gravelly, becoming hoarse when he is tired.
 
 ### PTSD
 Ljǫrn has an underlying PTSD problem and is very susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
