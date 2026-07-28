@@ -5,12 +5,12 @@
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallbjǫrn's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
-	<tr> <td>Hobbies</td> <td>Forest Explotation<br>Sparring<br>Rægtafl</td> </tr>
+	<tr> <td>Hobbies</td> <td>Forest explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20 <i>(before)</i><br>21 <i>(after)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mifrún <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljǫrn <i>(older brother)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljǫrn <i>(older brother)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
