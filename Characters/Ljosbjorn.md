@@ -12,7 +12,7 @@
 	<tr> <td>Age</td> <td>25 <i>(before)</i><br>26 <i>(after)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Manga <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfr <i>(younger brother)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfr <i>(younger brother)</i></td> </tr>
 	<tr> <td>Lover</td> <td>Rúna</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
