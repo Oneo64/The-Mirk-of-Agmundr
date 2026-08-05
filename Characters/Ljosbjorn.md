@@ -12,7 +12,7 @@
 	<tr> <td>Age</td> <td>25 <i>(before)</i><br>26 <i>(after)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfr <i>(younger brother)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfarr <i>(younger brother)</i></td> </tr>
 	<tr> <td>Lover</td> <td>Rúna</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
@@ -39,7 +39,7 @@ However, Ljǫrn is deeply flawed once the cracks begin to show. He has trouble e
 
 At heart, Ljǫrn is a peaceseeker and tries to avoid confrontations, but he pessimistically views war as a necessary and eventual thing.
 
-After his main arc ended, Ljǫrn had gained a sense of courage in exploration with the help of his brother, Alfr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
+After his main arc ended, Ljǫrn had gained a sense of courage in exploration with the help of his brother, Alfarr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
 
 Ljǫrn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
@@ -123,7 +123,7 @@ Ljǫrn once climbed a tree in an attempt to escape a bear.
 
 ## Lore
 ### Early Life
-Ljǫrn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Alfr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
+Ljǫrn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Alfarr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
 
 Ljǫrn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
 
@@ -144,13 +144,13 @@ During the night of his twenty-fourth summer, Ljǫrn woke up to a violent raid. 
 
 When he stepped outside, he saw Kolr's home in flames. He rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith, and he quickly left.
 
-After he and Alfr drove an attacker away, he watched from a distance as Úlfnir attacked a barbarian near the center of the village. But to his horror, another flanked the brother and planted an axe into his neck, killing him instantly.
+After he and Alfarr drove an attacker away, he watched from a distance as Úlfnir attacked a barbarian near the center of the village. But to his horror, another flanked the brother and planted an axe into his neck, killing him instantly.
 
 Before he could process his brother's death, two enemies were already advancing: a warrior who was armoured from head to toe in maille and wielded a Dane axe, and a bowman who was already aiming at him. He raised his shield and hid behind it, but the arrow went straight through and struck his shoulder. He tried to block again as the barbarian swung his axe towards him, but his shield was smashed.
 
 The fight didn't last long, his spear breaking in half as the barbarian's axe went clean through the shaft. He tripped over a small indent and landed on the ground. He scooted backwards as the barbarian raised his axe.
 
-Right when the barbarian was going to kill him, Alfr barged in and slammed into the barbarian. He scrambled to his feet, grabbed the upper half of the broken spear, and fled into the forest. He stayed the night there, feeling cold and helpless in the dark.
+Right when the barbarian was going to kill him, Alfarr barged in and slammed into the barbarian. He scrambled to his feet, grabbed the upper half of the broken spear, and fled into the forest. He stayed the night there, feeling cold and helpless in the dark.
 
 When morning came, Ljǫrn woke to the sunlight and began to feel nauseous due to blood loss. He snuck back into the village after realising the invaders had left, and had his arrow wound treated.
 
