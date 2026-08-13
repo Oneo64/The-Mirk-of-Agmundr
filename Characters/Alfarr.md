@@ -3,14 +3,14 @@
 	<tr> <th colspan=2>Alfarr</th> </tr>
 	<tr> <th colspan=2>ᛅᛚᚠᛅᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallbjǫrn's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallgrímr's Company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Forest explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20 <i>(before)</i><br>21 <i>(after)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljǫrn <i>(older brother)</i></td> </tr>
+	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljósbjǫrn <i>(older brother)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -19,7 +19,7 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Alfarr is a settler from Álahringr who travelled to a northern island as part of Hallbjǫrn's company, and is also the one who persuaded Ljǫrn to go there with him.
+Alfarr is a settler from Álahringr who travelled to a northern island as part of Hallgrímr's company, and is also the one who persuaded Ljósbjǫrn to go there with him.
 
 ## Appearance
 Alfarr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
@@ -38,11 +38,11 @@ Alfarr's love languages are acts of service and words of affirmation. With peopl
 ### Arc
  - Positive Arc
  - PERSUASIVE &rarr; REGRET &rarr; OPEN-MINDED
- - **Ghost:** Ljǫrn is too passive.
- - **Lie:** Ljǫrn needs to be as mature and as lively as me.
- - **Want:** I want Ljǫrn to not be a coward.
- - **Need:** I need to realise that Ljǫrn is under pressure.
- - **Truth:** Ljǫrn wants personal peace.
+ - **Ghost:** Ljósbjǫrn is too passive.
+ - **Lie:** Ljósbjǫrn needs to be as mature and as lively as me.
+ - **Want:** I want Ljósbjǫrn to not be a coward.
+ - **Need:** I need to realise that Ljósbjǫrn is under pressure.
+ - **Truth:** Ljósbjǫrn wants personal peace.
 
 ## Abilities
 ### Physicality

@@ -1,2 +1,2 @@
 # Karl Ljósbjarnarson
-Karl is the son of Ljǫrn and Rúna, who appears a decade and a half after the main events of the Mirk of Agmundr. He is 11 years old and depicted as having light brown hair that is wavy, downturned blue eyes, and freckles across his cheeks.
+Karl is the son of Ljósbjǫrn and Rúna, who appears a decade and a half after the main events of the Mirk of Agmundr. He is 11 years old and depicted as having light brown hair that is wavy, downturned blue eyes, and freckles across his cheeks.
