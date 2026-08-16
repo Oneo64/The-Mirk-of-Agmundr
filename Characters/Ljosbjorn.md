@@ -112,7 +112,7 @@ Ljósbjǫrn was born to a farmer and warrior's family on December 2nd in Álahri
 
 Ljósbjǫrn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
 
-When he was alone, he would sneak into Kolr's workplace, who was his neighbour and also the blacksmith of the village, just to see what was in there and mess around with his tools. During winter, he sometimes would throw snowballs at the cows of local farmers. But this time, he was actually caught and was scolded by the cows' owner.
+When he was alone, he would sneak into Kolbrandr's workplace, who was his neighbour and also the blacksmith of the village, just to see what was in there and mess around with his tools. During winter, he sometimes would throw snowballs at the cows of local farmers. But this time, he was actually caught and was scolded by the cows' owner.
 
 However, he started to become quieter, reserved, and more mature with age, not wanting to play pretend anymore and instead playing Rægtafl (a strategic 2-player board game) with family.
 
@@ -127,7 +127,7 @@ Ljósbjǫrn witnessed the moment when his father passed his sword to Úlfnir, th
 ### The Attack of Álahringr
 During the night of his twenty-fourth summer, Ljósbjǫrn woke up to a violent raid. He quickly got into his armour and went out with his spear and shield.
 
-When he stepped outside, he saw Kolr's home in flames. He rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith, and he quickly left.
+When he stepped outside, he saw Kolbrandr's home in flames. He rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith, and he quickly left.
 
 After he and Alfarr drove an attacker away, he watched from a distance as Úlfnir attacked a barbarian near the center of the village. But to his horror, another flanked the brother and planted an axe into his neck, killing him instantly.
 
