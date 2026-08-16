@@ -77,7 +77,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 - "Ek... nei, ek bjósk eigi—" *(I... no, I didn't mean to—)*
 
 #### Confused
-- "Talaði hann við mik?" *(Confused because someone was speaking a foreign language to her.)*
+- "Talaði hann til mín?" *(Confused because someone was speaking a foreign language to her.)*
 
 #### Angry
 - "Þat var úþarft." *(Annoyed at someone.)*
