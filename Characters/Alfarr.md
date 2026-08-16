@@ -21,7 +21,7 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Alfarr is a settler from Álahringr who travelled to a northern island as part of Hallgrímr's company, and is also the one who persuaded Ljósbjǫrn to go there with him.
+Alfarr is a settler and warrior from Álahringr. He travelled west to the settlement Hrafnhamarr in Newfoundland and is also the one who persuaded Ljósbjǫrn to go there with him.
 
 ## Appearance
 Alfarr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".

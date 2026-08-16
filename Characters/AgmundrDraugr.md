@@ -14,7 +14,7 @@
 	<tr> <td>Eye color</td> <td>Greyed out</td> </tr>
 </tbody></table>
 
-Agmundr was a Viking explorer who discovered Agmundarland. During his stay, he was struck by an arrow in a battle with the natives of the island and was buried in a mound.
+Agmundr was a Viking explorer who discovered Newfoundland and established Hrafnhamarr. During his stay, he was struck by an arrow in a battle with the natives of the island and was buried in a mound.
 
 ## Appearance
 Agmundr is a tall, withered corpse, with greyed eyes and sparse black hair. Its face is old, wrinkled, and bony, and its skin is dark and greyish green, a result of idling inside a cold, dry tomb for decades. There is a gnarly wound in its stomach, as if someone drove a sharp object through it.

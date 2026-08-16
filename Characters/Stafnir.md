@@ -1,2 +1,2 @@
 # Stafnir
-Stafnir is the messenger who lives in the settlement on Agmundarland. 
+Stafnir is the messenger in Hrafnhamarr.
