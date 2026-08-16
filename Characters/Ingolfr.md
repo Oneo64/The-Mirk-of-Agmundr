@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Ingólfr</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Evil</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company<br>The trolls on Newfoundland</td> </tr>
-	<tr> <td>Occupation</td> <td>Settler</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler<br>Usurper</td> </tr>
 	<tr> <td>Cause of death</td> <td>Stabbed by Alfarr using a seax</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Early 30s</td> </tr>
