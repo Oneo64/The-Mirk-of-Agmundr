@@ -42,7 +42,7 @@ Sága speaks formally and sometimes, poetically. She has a naturally deep voice 
 Sága sees Seyja as a role model and aspires to be as brave as her.
 
 ### Ljósbjǫrn
-Initially, Sága thought Ljósbjǫrn was bewitched, and the rumour quickly spread. Slowly, she began to treat the idea more as a joke.
+Sága is convinced that Ljósbjǫrn was bewitched by elves. The belief has spread into a local rumour.
 
 ## Abilities
 ### Physicality

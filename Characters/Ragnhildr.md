@@ -1,6 +1,7 @@
 # Ragnhildr the Half-giant
 <table align=right><tbody>
-	<tr> <th colspan=2>Ragnhildr</th> </tr>
+	<tr> <th colspan=2>Ragnhildr in Halfáma</th> </tr>
+	<tr> <th colspan=2>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚬᛘᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Lawful Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Healer</td> </tr>

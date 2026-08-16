@@ -1,6 +1,7 @@
-# Ingólfr
+# Ingólfr the Trollman
 <table align=right><tbody>
-	<tr> <th colspan=2>Ingólfr</th> </tr>
+	<tr> <th colspan=2>Ingólfr inn Trǫllmaðr</th> </tr>
+	<tr> <th colspan=2>ᛁᚾᚴᚢᛚᚠᚱ ᛁᚾ ᛏᚱᚬᛚᛘᛅᚾ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Evil</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company<br>The trolls on Newfoundland</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Usurper</td> </tr>
@@ -15,7 +16,7 @@
 	<tr> <td>Hair colour</td> <td>Dark brown</td> </tr>
 </tbody></table>
 
-Ingólfr was a settler and usurper in Hallgrímr's company. After arriving in Newfoundland, he was sent on an exploration mission. He attempted several times to take leadership control and was denied, leading him to commit betrayal and manipulate the trolls into joining him.
+Ingólfr the Trollman was a settler and usurper in Hallgrímr's company. After arriving in Newfoundland, he was sent on an exploration mission. He attempted several times to take leadership control and was denied, leading him to commit betrayal and manipulate the trolls into joining him.
 
 ## Appearance
 Ingólfr was a tall man with long dark hair. He wore a bear-hide cloak and carried a sword. In combat, he donned a hauberk and a round shield.

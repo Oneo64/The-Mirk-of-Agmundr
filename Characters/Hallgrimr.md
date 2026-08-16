@@ -1,6 +1,6 @@
 # Hallgrímr Stone-eye
 <table align=right><tbody>
-	<tr> <th colspan=2>Hallgrímr</th> </tr>
+	<tr> <th colspan=2>Hallgrímr Steinauga</th> </tr>
 	<tr> <th colspan=2>ᚼᛅᛚᚴᚱᛁᛘᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
@@ -8,7 +8,8 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Mid 40s</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
-	<tr> <td>Relative(s)</td> <td>Sága <i>(daughter)</i></td> </tr>
+	<tr> <td>Spouse</td> <td>Hrafnhildr</i></td> </tr>
+	<tr> <td>Children</td> <td>Sága <i>(daughter)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>

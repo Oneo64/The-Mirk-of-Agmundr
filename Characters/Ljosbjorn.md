@@ -1,9 +1,9 @@
 # Ljósbjǫrn Aðalgeirsson
 <table align=right><tbody>
-	<tr> <th colspan=2>Ljósbjǫrn</th> </tr>
-	<tr> <th colspan=2>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ</th> </tr>
+	<tr> <th colspan=2>Ljósbjǫrn Aðalgeirsson</th> </tr>
+	<tr> <th colspan=2>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛅᚦᛅᛚᚴᛅᛁᚱᛋᚬᚾ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/test12345upscaled.png" alt="test" width="270"></th> </tr>
-	<tr> <td>Aliases</td> <td>Ljǫrn <i>(casual)</i><br>Ljarni <i>(affectionate)</i><br>Haunted man <i>(by Sága)</i></td> </tr>
+	<tr> <td>Aliases</td> <td>Ljǫrn <i>(casual byname)</i><br>Ljarni <i>(affectionate)</i><br>Bewitched by elves <i>(by Sága)</i></td> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
@@ -13,7 +13,8 @@
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfarr <i>(younger brother)</i></td> </tr>
-	<tr> <td>Lover</td> <td>Rúna</td> </tr>
+	<tr> <td>Spouse</td> <td>Rúna</td> </tr>
+	<tr> <td>Children</td> <td>Karl (son)</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
@@ -27,7 +28,7 @@ Ljósbjǫrn Aðalgeirsson, commonly known as Ljǫrn, was a settler who travelled
 ## Appearance
 Ljósbjǫrn is a weathered man with long wavy dark blond hair and a short scruffy beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
 
-Ljósbjǫrn is often seen wearing a maille shirt over a simple blue tunic, a baldric holding a sword and scabbard, a pair of trousers with leg wraps, some leather boots, and a Mjǫllnir necklace. For combat and travelling, he has a nasal helmet, a spear, and a shield.
+Ljósbjǫrn is often seen wearing a maille shirt over a simple blue tunic, a baldric holding a sword and scabbard, a pair of trousers with leg wraps, some leather boots, and a Mjǫllnir necklace. For combat and travelling, he has a spear and a shield.
 
 ### Scars
 Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
@@ -37,9 +38,9 @@ Ljósbjǫrn is an introverted man who seems to carry a composed demeanour. Altho
 
 However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
-At heart, Ljósbjǫrn is a peaceseeker and tries to avoid confrontations, but he pessimistically views war as a necessary and eventual thing.
+Ljósbjǫrn seeks peace at heart but pessimistically views war as a necessary and eventual thing. In his own words, war will eventually happen, no matter how hard one tries.
 
-After his main arc ended, Ljósbjǫrn had gained a sense of courage in exploration with the help of his brother, Alfarr. His fighting style, one where he would cower yet fight boldly at the same time, had also grown more focused offensively. Sometimes, he might bluntly throw an insult or two if he feels like it.
+After his main arc ended, Ljósbjǫrn gained courage with the help of his brother, Alfarr. His fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
 Ljósbjǫrn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
@@ -51,12 +52,12 @@ Ljósbjǫrn's favourite food is venison, a meat he will quickly devour if cooked
 ### Voice
 Ljósbjǫrn speaks in a casual and reduced manner, often answering people with a few words. He grumbles or stammers his words during his shy moments, and speaks as directly as possible, but never blurts them out unless startled. His natural voice is cold and gravelly, becoming hoarse when he is tired.
 
-### PTSD
-Ljósbjǫrn has an underlying PTSD problem and is very susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
+### Trauma
+Ljósbjǫrn is very susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
 
 During an episode, Ljósbjǫrn becomes irritable and restless, pacing around in an attempt to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
 
-After leaving Iceland for Agmundarland, Ljósbjǫrn was still afraid of several things. He feared for the safety of his father, mother, and sister. He was also greatly worried that going there wouldn't do much good for peace, but went anyway. His symptoms have subsided now, but he still gets them. *(He will never fully recover. Probably.)*
+After settling in Newfoundland, his fears subsided for a short while. However, he suffered another tragedy and was held captive by trolls for two days during the winter, prolonging his shell shock.
 
 ### Rúna
 [*See: Rúna.md*](Runa.md)
@@ -66,60 +67,44 @@ Ljósbjǫrn finds Rúna's habits endearing to the heart, such as her fidgeting, 
 Ljósbjǫrn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
 
 ### Example dialogues
-#### Main story
-*These are real dialogues from stories featuring Ljósbjǫrn.*
-
-- "Yes." *(Obeying an order from Hallgrímr.)*
-- "Get off me." *(He says this sharply after a flashback.)*
-- "There's still fish in the bowl." *(He says this after his brother is relieved that they're eating soup instead of dried fish.)*
-- "How long will this travelling last?" *(Complaining about the length of his longboat trip.)*
-- "No, I'm not. Look over there. That hill." *(He spots a draugr mound and was being questioned whether he was hallucinating.)*
+*Note: These dialogues are not from the main story!*
 
 #### Normal
-- "The usual stew and mead." *(Ordering his food in a tavern.)*
+- "Já, hǫfðingi minn." *(Obeying orders from his chieftain.)*
+- "Venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
 
 #### Flustered
-- "Umm... like..." *(He says this as he's nervously trying something new.)*
+- "Sem... þetta?" *(He says this as he's nervously trying something new.)*
 
 #### Confused
 - "Hvat...? Hvat gerðisk?"
-- "What on earth are you doing?"
+- "Hvat gerirðu í helvíti?!"
 
 #### Angry
-- "Back!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
-- "What is this?!"
-- "Halfwit swines." *(Insulting his attackers after getting into a bar fight.)*
-- "Jek tek á hanum brátt."
-- "Bragðask Úlfnisblað!"
+- "Ver þú fjarr!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
+- "Hvat er þetta?!"
+- "Halfvítin svín." *(Insulting his attackers after getting into a bar fight.)*
+- "Ek skal taka á hánum bráðum."
+- "Bragða Úlfnisblað!"
 
 #### Emotional
-- "Elskan, jek var ateins... jek varð at vernda mek frá einhverjum árásmønnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
-
-### Arc
-<details close><summary>Character arc details</summary>
-
-- Positive Arc
-- FEAR &rarr; REALISATION &rarr; COURAGE
-- **Ghost:** Unresolved PTSD from the past.
-- **Lie:** I hate this land, I'm tired of adventure, and my family is in danger.
-- **Want:** I want to return back to Álahringr.
-- **Need:** I need to realise my visions aren't real because they only harm me.
-- **Truth:** I should stay, because right now I'm in greater danger than my family.
-</details>
+- "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 
 ## Abilities
 ### Physicality
-Ljósbjǫrn fights with a spear and shield. He is trained in glíma, learning how to wrestle, pin, and tackle someone down. He has a good amount of combat experience from several encounters, including fighting against a Viking raid, fighting against a troll attack, and defending himself from a snake. He has also killed a draugr before with the help of his friends.
+Ljósbjǫrn fights with a spear and shield. He is trained in wrestling and can pin or tackle someone to the ground, or fight against someone trying to wrestle him. Because of an arrow injury, his left arm is weakened.
 
-Because of an arrow injury, Ljósbjǫrn's left arm is weak. He can hold his shield, but he is more easily exhausted from taking blows.
+Ljósbjǫrn has experience from several encounters, including:
+- Defending his home village during a Viking raid
+- Fighting for his settlement against a troll attack
+- Killing a draugr with his brother and another friend
+- Resisting the charm of the Nykr and driving it away
 
-### Hunting & Stealth
-Ljósbjǫrn can spear-hunt deer in the forest. His method is usually sneaking up on his prey, injuring them by throwing his spear, then finishing them off with his seax. He knows how to skin them for their hides, but he would take them home first.
+### Hunting
+Ljósbjǫrn can hunt deer in the forest using his spear. His method is usually sneaking up on his prey, injuring them by throwing his spear, then finishing them off with his seax. He knows how to skin them for their hides, but he would take them home first.
 
-Because of his hunting skill, Ljósbjǫrn is also good at moving stealthily, especially in forest terrain.
-
-### Tree-climbing
-Ljósbjǫrn once climbed a tree in an attempt to escape a bear.
+### Stealth
+Ljósbjǫrn is good at moving stealthily in broad daylight, which is a skill gained from sneaking around the blacksmith's workplace during his childhood. This also helps him hunt deer in the forest better.
 
 ## Lore
 ### Early Life
@@ -171,5 +156,4 @@ Now, as the oldest living son, he was given Úlfnir's sword. Despite his distres
 - **Japanese:** リョースビョルン
 
 ## Trivia
-- Even though Ljósbjǫrn's name doesn't mean anything in Old Norse, it is a coincidence that his name is very similar to the English word lorn, meaning forlorn and abandoned, a very fitting word for his personality.
-- Ljósbjǫrn's sword is a Peterson Type L sword.
+- Ljósbjǫrn's name means "Bright Bear" or "Bear of Light" in Old Norse, which is the literal opposite of his personality.
