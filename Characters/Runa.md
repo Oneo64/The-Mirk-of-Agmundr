@@ -66,22 +66,22 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 #### Main story
 *These are real dialogues from stories featuring Rúna.*
 
-- "Are you really?" *(Was curious about Ljósbjǫrn's "curse" when she met him.)*
-- "Look! I think... uhm... berries!" *(Discovering a new kind of berry.)*
+- "Ertu greiðliga svána?" *(Was curious about Ljósbjǫrn's "curse" when she met him.)*
+- "Lít! Finnsk mér... uh... ber! Ek fann ber!" *(Discovering a new kind of berry.)*
 
 #### Normal
 - "Jæja..." *(Trying to explain herself.)*
 
 #### Flustered
-- "Hrókin mín!" *(Her reaction to her dress being stained by a spilled drink.)*
-- "Jek—nei, jek meinda eigi—"
+- "Mín hrók!" *(Her reaction to her dress being stained by a spilled drink.)*
+- "Ek... nei, ek bjósk eigi—" *(I... no, I didn't mean to—)*
 
 #### Confused
-- "Var hann at tala með mer?" *(Confused because someone was speaking a foreign language to her.)*
+- "Spjallaði hann við mik?" *(Confused because someone was speaking a foreign language to her.)*
 
 #### Angry
-- "Þat var óþarfið." *(Annoyed at someone.)*
-- "Þetta er eigi kamilla. Þetta er algørð annað."
+- "Þat var úþarft." *(Annoyed at someone.)*
+- "Þetta er eigi kamilla. Þetta er afgjørt annat."
 
 #### Emotional
 - "Sæll... þú ert her." *(Meeting up with Ljósbjǫrn at a gathering and greeting him.)*
