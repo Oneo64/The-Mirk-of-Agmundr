@@ -6,14 +6,14 @@ To escape war, a northman suffering from PTSD is pressured by his brother to sai
 ## 1. Forest Exploration
 The chapter starts out with Ljósbjǫrn, Alfarr (his brother), and a few other people working on a new longhouse. He complains that he is exhausted and wants to rest, especially after the two-week trip across the ocean. When he goes to sit down, he and his brother are approached by a messenger, who tells them that Hallgrímr has requested a forest exploration. He is reluctant, but goes anyway.
 
-When the two arrive at the community hall, they meet up with Sága and Ingólfr. They wait for one more, who is named Rúna. After that, the five of them set out into the forest. As they walk, Sága asks Alfarr whether Ljósbjǫrn is cursed. Alfarr gets offended by this and retaliates. After some silence, Rúna asks him vaguely if he "really is", and he gets confused, but quickly realises and changes the subject by asking for her name.
+When the two arrive at the community hall, they meet up with Sága and Ingólfr. They wait for one more, who is named Rúna. Ljósbjǫrn recognises Rúna as the woodcarver merchant back in Iceland. After that, the five of them set out into the forest. As they walk, Sága asks Alfarr whether Ljósbjǫrn is cursed. Alfarr gets offended by this and retaliates by saying that it's only a rumour she made up. After some silence, Rúna asks him vaguely if he "really is", and he gets confused, but quickly realises and changes the subject by asking for her name. They are silent after that.
 
-They enter the forest and discover crowberries in a glade. While doing so, Ljósbjǫrn cannot help but notice movement in the forest, but soon realizes it's just a deer. This riles him up, and he becomes paranoid, leading him to discover an overgrown path.
+They enter the forest and discover crowberries in a glade. Rúna goes to pick them, but Sága starts going on about how they're just blueberries. Ljósbjǫrn doesn't say anything. While they argue, he notices movement in the forest, but soon realizes it's just a deer. This riles him up, and he becomes paranoid, leading him to discover an overgrown path by himself.
 
-Soon, they approach an oddly-shaped hill surrounded by mist, which is actually a mound. Rúna doesn't approach it. Ljósbjǫrn hesitates, glances at her, and slowly goes in. Alfarr finds a goblet and picks it up, thinking he has found treasure. But Ljósbjǫrn sees what his brother has done and immediately becomes suspicious and angry, saying that Alfarr shouldn't have done that.
+Soon, they approach an oddly shaped hill surrounded by mist, which is actually a mound. Rúna doesn't approach it out of fear. Ljósbjǫrn hesitates, glances at her, and slowly goes in. Alfarr finds a goblet and picks it up, thinking he has found treasure. But Ljósbjǫrn sees what his brother has done and immediately becomes suspicious and angry, saying that Alfarr shouldn't have done that. Ljósbjǫrn thinks it could be a trap. Ingólfr decides they should head back, so they do that.
 
 ## 2. The Seeress
-After nightfall, Ljósbjǫrn is finishing his meal, enjoying a warm stew after the bitterness of dried, salted fish. Alfarr approaches him and says that Hlǫkkný, the local seeress, has been eyeing him since they came back, and that he heard a commotion in the community hall between Hallgrímr and the seeress. They both agree to go eavesdrop.
+After nightfall, Ljósbjǫrn is finishing his meal, enjoying a warm stew after the bitterness of dried, salted fish. Alfarr approaches him and says that Hlǫkkný, the local seeress, took his goblet away and has been eyeing him since they came back. He says that he heard a commotion in the community hall between Hallgrímr and the seeress. They both agree to go eavesdrop.
 
 While the two stand outside the windows, they hear the seeress saying something about woe. They realise she is talking about the goblet when she mentions it. Alfarr then tries to go in and get the goblet back, but the seeress stops him, saying that he doesn't understand and has woken something. Hallgrímr, however, isn't having it and decides to excuse Alfarr.
 
@@ -34,9 +34,7 @@ Ingólfr drags Ljósbjǫrn into the community hall and presents him to Hallgrím
 ## 4. Unlikely Disputes
 Ljósbjǫrn is back to building houses. He begins to feel hungry and chews on some bread as he works. He cannot help but feel uncomfortable, since Þjóstarr (a housecarl) is watching him more than the others. After setting up another beam, he is asked by Þjóstarr to fell another tree. He cannot help but get his byrnie on as he passes his home.
 
-He arrives at the forest and begins to hack at a tree. However, he spots human movement inside the forest and stops. He quickly realises it's just Rúna, but he accidentally gives her a fright when he approaches her, since he's in armour and has an axe in his hand. He tells her that she shouldn't be in the forest, and then asks what she is doing here. She says that she is gathering mushrooms.
-
-He leaves and goes back to chopping his tree down. After he delimbs the tree, he and several other men bring it back to the construction site.
+He arrives at the forest and begins to hack at a tree. However, he spots human movement inside the forest and freezes up, before quickly realising it's just Rúna. He approaches her and accidentally gives her a fright, since he's in armour and has an axe in his hand. He tells her that she shouldn't be in the forest, and then asks what she is doing here. She says that she is gathering mushrooms. He ignores her and goes back to chopping his tree down. After he delimbs the tree, he and several other men bring it back to the construction site.
 
 Later, he notices a dispute between several trolls and some of the Vikings' armed men near the edge of the settlement. Apparently, they were caught sneaking in the bushes. Sága thinks this was a wonderful moment and communicates with them in Proto-Norse. When she convinces them to trade, they offer a necklace of obsidian beads, but she offers them a knife. The trolls get offended since it's made of iron and leave.
 
@@ -49,7 +47,9 @@ Ljósbjǫrn begins to feel sickness grow on him. He seeks Rúna out for answers 
 
 Inside, Ljósbjǫrn, Alfarr, and Rúna discuss where this sickness is coming from. Alfarr shares what the seeress told him the other night. They hear the settlers' war horn and decide to investigate. When Ragnhildr stops Ljósbjǫrn, he insists that he is fine and leaves.
 
-They begin to see warriors gather in the direction of the forest. As the three approach, they hear an archer shout, "Shoot the troll!" while another shoots two arrows blindly into the forest. Ingólfr, who is there, attempts to rally the warriors into doing a search, but they all show disinterest.
+The three begin to see warriors gather in the direction of the forest, and they approach to see what's happening. Ørúlfr, who is on a watchtower, shoots two arrows blindly into the forest as someone shouts, "Shoot the troll!"
+
+Ørúlfr says that the troll is probably gone now. Ingólfr, who is there, attempts to rally the warriors into doing a search. When they don't look enthusiastic, he looks at Alfarr and tells him that he looks brave, but Alfarr cowers and backs away. This causes the other warriors to show disinterest. Ingólfr calls them all cowards, which makes them leave the scene. As Ljósbjǫrn and Alfarr leave, Ingólfr insults Alfarr, calling him a disgrace.
 
 Ljósbjǫrn spends the night inside the community hall. But right before he tries to sleep, Brandingi (a servant) bursts into the room and proclaims that Ingólfr has disappeared into the forest. Hallgrímr takes interest in this, but Hrafnhildr (his wife) tells him not to go into the forest at this time. Hallgrímr makes a difficult decision and decides to stay, saying that Ingólfr may be dead by dawn.
 
@@ -70,6 +70,7 @@ As the trolls dance outside, Ljósbjǫrn realises that they forgot to take his s
 Luckily, Ljósbjǫrn outruns the trolls. He stops running when his legs feel sore and begins to shiver from the cold. He finds shelter under a fir tree and thinks he will die there. He buries his face into his woollen cloak to warm his eyes, but he cries silently and falls asleep.
 
 #### Notes
+- Ljósbjǫrn loses his sword, shield, spear, and helmet.
 - The human voice is actually Ingólfr's.
 
 ## 8. River Finds a Way
@@ -93,9 +94,9 @@ When Rúna gives Ljósbjǫrn his runestick, she adds that she made it from junip
 - Hlǫkkný's chanting should be written in Old Norse.
 
 ## 10. Goat of Death
-Ljósbjǫrn stays up late, sharpening his sword with a whetstone. He hears a strange noise outside and decides to investigate. Grabbing his shield, he carefully moves out into the dark and searches for whatever is causing the noise. When he looks around the corner, he sees a runaway goat in the enclosure, presumably trying to break into the house.
+Ljósbjǫrn stays up late, sharpening his axe with a whetstone. He hears a strange noise outside and decides to investigate. Grabbing his shield, he carefully moves out into the dark and searches for whatever is causing the noise. When he looks around the corner, he sees a runaway goat in the enclosure, presumably trying to break into the house.
 
-The goat looks at him, and Ljósbjǫrn can feel something uncanny about it. Thinking it's an evil spirit, he draws his sword and chases it, but the goat runs away. Ljósbjǫrn chases it out of the village and stops just before he crosses the river.
+The goat looks at him, and Ljósbjǫrn can feel something uncanny about it. Thinking it's an evil spirit, he takes his axe out and chases it, but the goat runs away. Ljósbjǫrn chases it out of the village and stops just before he crosses the river.
 
 Breathing heavily, he is about to turn around to the village when he sees a tall figure swing something at him. He instinctively raises his shield and saves his own life, and realises that it is a draugr wielding a halberd. He curses and fights the draugr, but he is quickly overpowered and thrown to the ground.
 
@@ -103,16 +104,24 @@ Ljósbjǫrn watches as the draugr raises his weapon to finish him off. But right
 
 Taking this opportunity, Ljósbjǫrn slashes the draugr across the back of its neck. The draugr, realising its weak position, turns itself into mist and flies away. Ljósbjǫrn rushes to Rúna, devastated by seeing her in such a mortal condition, and carries her back.
 
+#### Notes
+- This chapter should clarify that Ljósbjǫrn got a new shield and spear.
+
 ## 11. The Revenant's Woe
-It is morning, and Ljósbjǫrn is sitting next to Rúna while she is still unconscious. Alfarr comes in to see them both. Ljósbjǫrn then tells Alfarr he wants to go back to that draugr mound and kill the draugr. Alfarr is unsure because he is afraid of what the draugr might be able to do, but Ljósbjǫrn is persistent. Before the two leave, Ljósbjǫrn looks at Rúna again and feels a strange warmth in his heart before going to convince Sága. Sága agrees with the promise of adventure.
+It is morning, and Ljósbjǫrn is sitting next to Rúna while she is still unconscious. He is depressed since he has lost his sword, his helmet, Rúna is injured, and the draugr is still "alive". Alfarr comes in to see them both. Ljósbjǫrn then tells Alfarr he wants to go back to that draugr mound and kill the draugr. Alfarr is unsure because he is afraid of what the draugr might be able to do, but Ljósbjǫrn is persistent. Before the two leave, Ljósbjǫrn looks at Rúna again and feels a strange warmth in his heart before going to convince Sága. Sága agrees with the promise of adventure.
 
 The three set out to kill the draugr. The fight starts with the draugr standing on the mound. Of course, Alfarr and Sága climb the hill, while Ljósbjǫrn stays behind. The draugr strikes Sága's shield, causing her to lose balance and fall to the foot of the hill. Alfarr manages to poke the draugr right after that, but the draugr pushes on his spear, and he falls downhill too. Sága checks on Alfarr.
 
-The draugr jumps down, and Ljósbjǫrn fights it. The fight somehow goes from Ljósbjǫrn losing both his shield and spear, Alfarr cowering behind Sága after the draugr shoots death smoke or something at him out of its mouth, and Sága being thrown to the side as the draugr pursues Alfarr. Finally, Ljósbjǫrn kills the draugr by cleaving his sword into its head.
+The draugr jumps down, and Ljósbjǫrn fights it so that the other two can recover. The fight somehow goes from Ljósbjǫrn losing both his shield and spear, Alfarr cowering behind Sága after the draugr shoots death smoke or something at him out of its mouth, and Sága being thrown to the side as the draugr pursues Alfarr. Ljósbjǫrn is left with nothing but his axe. The draugr dies when Alfarr drives his spear into the draugr's stomach, and Ljósbjǫrn kills the draugr by cleaving into its head from behind.
+
+But the battle isn't done. Ljósbjǫrn proceeds to behead the draugr and burn its corpse out of anger, so that it may never return.
 
 ## 12. The Execution
 In this chapter, they find out that their settlement has been taken over by Ingólfr and his warband of trolls. They are going to execute Hallgrímr. Alfarr impulsively tries to ambush the execution, but the trolls notice and everything goes into chaos. In the midst of the battle, Alfarr fights with Ingólfr and Ljósbjǫrn fights a troll.
 
 While fighting, Ingólfr tells Alfarr that the goblet was cursed by the draugr, and he will use the goblet on Alfarr. He does this to exploit Alfarr's cowardice against the unknown. However, this angers Alfarr instead, and he crashes into Ingólfr using his shield, and then stabs Ingólfr to death whilst he is on the ground.
 
-Ljósbjǫrn kills the troll he is fighting and goes to help Alfarr, who is shaken by his actions. But due to Alfarr's inaction, he gets hit by an obsidian arrow. Luckily, he was still able to move and went to find shelter. Ljósbjǫrn looks for Ragnhildr's place, where Rúna is being treated, and finds that she is okay. He is relieved and stays with her until the battle ends.
+Ljósbjǫrn kills the troll he is fighting and goes to help Alfarr, who is shaken by his actions. But due to Alfarr's inaction, he gets hit by an obsidian arrow. Hallgrímr escorts Alfarr to find shelter. When they disappear, Ljósbjǫrn looks for Ragnhildr's place, where Rúna is being treated, and finds that she is okay. He is relieved and stays with her until the battle ends.
+
+## 13. A Memory
+This chapter happens a few days later. Ljósbjǫrn is back to building houses. Þjóstarr tells the workers that they may go since the sun is setting.
