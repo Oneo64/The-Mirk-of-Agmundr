@@ -81,12 +81,12 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
 
 #### Angry
 - "Þat var úþarft." *(Annoyed at someone.)*
-- "Þetta er eigi kamilla. Þetta er afgjørt annat."
+- "Þetta er eigi kamilla. Þetta er allt annat."
 
 #### Emotional
-- "Sæll... þú ert her." *(Meeting up with Ljósbjǫrn at a gathering and greeting him.)*
-- "Þú atlar at vera varkárari."
-- "Hverr segjar hann at hann er...?" *(Venting privately to someone after getting offended.)*
+- "Sæll... þú ert hér." *(Meeting up with Ljósbjǫrn at a gathering and greeting him.)*
+- "Þú skyldir vera varkárari."
+- "Hverr finnsk hánum at hann séi...?" *(Venting privately to someone after getting offended.)*
 
 ## Abilities
 ### Domestic Skills
@@ -121,19 +121,7 @@ Several hours passed. By the time they were safe, the sun had begun to dawn. Rú
 
 Due to the raid, Rúna's family suffered a major blow; all their chickens were gone, all but one of the cattle were missing, and their home was ransacked. Her father was missing his left hand, meaning he could never fish the same way again.
 
-On the day Hallbjǫrn announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Agmundarland.
-
-After she arrived at Agmundarland, Rúna began to work on her herbalism skills. Not only that, she discovered crowberries while attending an expedition party with a few other settlers. There, she befriended Ljósbjǫrn, a warrior who was her old village neighbour.
-
-One day, Rúna was by the river when her new friend approached her. After she expressed worry, he told her that he got lost in the forest and found a draugr mound. They talked for a while, the conversation slowly shifting to his encounter with the Nykr. When he left, he gave her some arctic thymes, saying that he had discovered them and thought she could study them.
-
-But to their unfortunate luck, their new settlement was attacked by local tribes of trolls. Ljósbjǫrn escorted Rúna back to the farmstead and went off to help the others defend the place. But, she also wanted to help in defending, so she took her spear and guarded the main hall of the stead. As the battle went on, the door of the building suddenly opened. Ljósbjǫrn was there, looking inside to make sure the refugees were safe. As Rúna saw him, she felt an unfamiliar flutter in her chest and fell in love with him. Eventually, the settlers drove the trolls away.
-
-Then there was a night when Rúna was awoken by a noise. When she looked outside, she saw Ljósbjǫrn walking towards the hill on the other side of the settlement. She snuck out with her spear to follow him.
-
-But to her horror, Rúna saw a draugr attack Ljósbjǫrn and throw him to the ground. With panic and courage, she thrusted at the undead warrior's back. The draugr, undeterred, turned around and wrenched the spear out of itself, causing her to stumble. Then, it slashed her. She collapsed, bleeding profusely, and slowly lost consciousness.
-
-It took Rúna several weeks to be able to stand upright. As for the draugr, Ljósbjǫrn was able to make his escape. After this incident, she had grown a fear of performative magic.
+On the day Hallgrímr announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Newfoundland.
 
 ## Name Translations
 - **Younger Futhark:** ᚱᚢᚾᛅ
@@ -148,17 +136,3 @@ It took Rúna several weeks to be able to stand upright. As for the draugr, Ljó
 
 ## Trivia
 - Rúna's name means "rune or secret lore" in Old Norse, nicely fitting her curiosity for ancient mysteries and the darkness.
-- Her amulet and the brooch on her cloak are both passed down to her from her grandmother.
-
-<details close><summary>Drawing Metrics</summary>
-This is a reference section containing the metrics needed to draw Rúna.
-
-- **Facial specifications:**
-  - **Face size:** 5.3 inches
-  - **Eye size:** 2.5:1 to 3:1 width-height ratio
-  - **Eye spacing:** 110% the width of eye
-- **Other specifications:**
-  - **Shoulders:** 15 inches wide (2.83x face size)
-  - **Arm (width at elbows):** 3.5 inches wide (0.66x face size)
-  - **Waist:** 10.6 inches wide (2x face size)
-</details>
