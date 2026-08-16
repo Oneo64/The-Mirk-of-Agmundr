@@ -22,22 +22,20 @@
 	<tr> <td>Eye color</td> <td>Pale green</td> </tr>
 </tbody></table>
 
-Rúna was a settler and herbologist. She is now a merchant, selling wooden carvings once a week and doing commissions.
+Rúna was a settler who travelled to Newfoundland under Hallgrímr's command. She is now a merchant, selling wooden carvings once a week and doing commissions.
 
 ## Appearance
-Rúna is a young woman with long wavy light-brunette hair, almond-shaped and wide-set green eyes, freckles that were faded from age, and thin lips that are lightly curved. When relaxed, she carries a soft yet distant expression on her face. She has a curvaceous yet athletic figure, and her height is 5'3".
+Rúna is a young woman with long wavy light-brunette hair, almond-shaped and wide-set green eyes, freckles that were faded from age, and thin lips that are lightly curved. Her face is often soft and distant when relaxed. She has a curvaceous yet athletic figure, and her height is 5'3".
 
-Rúna wears a blue tunic dress with red edges, some shoes, and a Mjǫllnir amulet. She carries a small knife on her belt and a pouch of random herbal stuff like leaves, petals, and sticks. When she is outside in a cold place, she puts on a dull frayed cloak held together by two brooches.
+Casually, Rúna wears a blue tunic dress with red edges, some shoes, and a Mjǫllnir amulet. She carries a small knife on her belt and a pouch of random herbal stuff like leaves, petals, and sticks. When she is outside in the cold, she puts on a dull, frayed cloak fastened with two brooches.
 
 ### Scar
 Rúna has a long, gnarly scar across her back after being slashed by a draugr. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
-Rúna is shy, easily flustered, and doesn't like the company of strangers, but she isn't as reserved as most people expect once they talk to her. She usually tries to avoid conflicts through negotiation and verbal confrontation.
+Even though Rúna is shy and doesn't like the company of strangers, becoming easily flustered in bad situations, she isn't as reserved as most people expect and usually tries to avoid conflicts through negotiation and verbal confrontation. Despite these traits, she has a fascination with ancient ruins and secret lore that drives her to explore them a little, yet she avoids going on dangerous expeditions and is deathly afraid of performative magic.
 
-Despite these traits, Rúna has a fascination with ancient ruins and secret lore that drives her to explore them a little. However, she avoids going on dangerous expeditions and is deathly afraid of performative magic.
-
-Rúna is absent-minded in the way that she would space out if she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong after her actions, and getting the urge to correct people whenever she can. When facing enemies, she can become arrogant and make impulsive decisions.
+Rúna is absent-minded, spacing out whenever she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong and getting urges to correct people. When facing enemies, she can become arrogant and make impulsive decisions.
 
 Because of the scar on her back, Rúna is hesitant to turn her back on strangers and acquaintances and is hesitant to tell anyone about it, afraid they might notice it and fuss over it.
 
