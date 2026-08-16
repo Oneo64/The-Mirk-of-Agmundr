@@ -9,6 +9,8 @@
 	<tr> <td>Age</td> <td>20 <i>(before story)</i><br>21 <i>(after story)</i><br>33 <i>(current)</i></td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Hallgrímr <i>(father)</i></td> </tr>
+	<tr> <td>Spouse</td> <td>Alfarr</td> </tr>
+	<tr> <td>Children</td> <td>An unknown son</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>
