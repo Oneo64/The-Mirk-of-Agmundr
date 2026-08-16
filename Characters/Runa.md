@@ -4,7 +4,7 @@
 	<tr> <th colspan=2>ᚱᚢᚾᛅ</th> </tr>
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Runa/aaaaa380x380.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Good</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallgrímr's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Merchant<br>Woodcarver</td> </tr>
 	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>

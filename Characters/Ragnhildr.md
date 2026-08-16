@@ -1,8 +1,8 @@
 # Ragnhildr the Half-giant
 <table align=right><tbody>
 	<tr> <th colspan=2>Ragnhildr</th> </tr>
-	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallgrímr's Company</td> </tr>
+	<tr> <td>Alignment</td> <td>Lawful Neutral</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Healer</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Mid 40s</td> </tr>
@@ -16,13 +16,10 @@
 Ragnhildr the Half-giant was a healer who went alongside Hallgrímr to settle on a northern island.
 
 ## Appearance
-Ragnhildr has a noticeably large appearance, with red hair, dark eyes, and rough skin, giving her the appearance of a jǫtunn. On the right side of her cheek is a thin, long, vertical scar. She is undeniably tall and has a sturdy build, giving her a somewhat rounded appearance.
-
-Ragnhildr wears a dark green apron dress with a rough texture, a belt, and a large brown scarf.
+Ragnhildr has a noticeably large appearance, with red hair, dark eyes, and rough skin, giving her the appearance of a jǫtunn. On the right side of her cheek is a long and thin scar. She is undeniably tall and has a sturdy build.
 
 ## Personality
-Ragnhildr has a no-nonsense demeanour and is often exasperated with her younger peers. She also has a touch of arrogance, always assuming she can do things better than others. However, she has a dismissive side, not caring for any insults and seeing them as childish.
+Ragnhildr is stern, stubborn, and slightly arrogant. She is also dismissive, not caring for any insults and seeing them as childish.
 
 ## Abilities
-### Healing
 Ragnhildr knows how to treat many common wounds and illnesses, using tonics, herbs, and dressings to heal and cure.

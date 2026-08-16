@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Sága</th> </tr>
 	<tr> <th colspan=2>ᛋᚬᚴᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallgrímr's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20</td> </tr>
@@ -41,28 +41,18 @@ Sága speaks formally and sometimes, poetically. She has a naturally deep voice 
 ### Seyja
 Sága sees Seyja as a role model and aspires to be as brave as her.
 
-### Ljǫrn
-Sága thinks Ljǫrn is bewitched.[^1]
-
-### Goals
-**Goal:** To explore the new land.
-**Motivation:** The thrill of adventure.
-
-### Voice
-Sága speaks in a story-like manner. She tries to speak confidently like Seyja, but this act drops when she's alone or with close ones. She tends to use the word *for* as a replacement for *as* or *because*.
+### Ljósbjǫrn
+Initially, Sága thought Ljósbjǫrn was bewitched, and the rumour quickly spread. Slowly, she began to treat the idea more as a joke.
 
 ## Abilities
 ### Physicality
-Sága sports a sword and shield, but isn't very good at it. She learned a move from her father, which is how to disarm someone with her weaponry.
+Sága sports a sword and shield, but she isn't a very good fighter. The only move she knows is disarming someone using her weapons.
 
 ### Story-telling
 Sága can tell stories as she makes them up. She can also tell them without planning any characters or storyline.
 
 ### Language
-Apart from Old Norse, Sága can speak Proto-Germanic.
-
-### Hypnotism
-For some reason, Sága knows how to hypnotize a chicken.
+By reading literature, Sága can speak both Old Norse and Proto-Norse.
 
 ## Name Translations
  - **Younger Futhark:** ᛋᚬᚴᛅ
@@ -75,6 +65,3 @@ For some reason, Sága knows how to hypnotize a chicken.
  - **Simplified Chinese:** 萨嘉
  - **Korean:** 사가
  - **Japanese:** サーガ
-
-## Notes
-[^1]: Ljǫrn has PTSD.

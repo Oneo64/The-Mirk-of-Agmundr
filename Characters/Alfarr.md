@@ -3,7 +3,7 @@
 	<tr> <th colspan=2>Alfarr</th> </tr>
 	<tr> <th colspan=2>ᛅᛚᚠᛅᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallgrímr's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Forest explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
@@ -34,15 +34,6 @@ Not only that, Alfarr's impulsiveness in combat leaks into his speech, blurting 
 During stressful times, Alfarr gains his sense of ridiculous humour, often childish and playful. Still, he is very mature at other times.
 
 Alfarr's love languages are acts of service and words of affirmation. With people he is very close to, his outer bold self softens.
-
-### Arc
- - Positive Arc
- - PERSUASIVE &rarr; REGRET &rarr; OPEN-MINDED
- - **Ghost:** Ljósbjǫrn is too passive.
- - **Lie:** Ljósbjǫrn needs to be as mature and as lively as me.
- - **Want:** I want Ljósbjǫrn to not be a coward.
- - **Need:** I need to realise that Ljósbjǫrn is under pressure.
- - **Truth:** Ljósbjǫrn wants personal peace.
 
 ## Abilities
 ### Physicality

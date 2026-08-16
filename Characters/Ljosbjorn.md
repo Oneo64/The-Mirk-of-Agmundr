@@ -5,7 +5,7 @@
 	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljorn/test12345upscaled.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Aliases</td> <td>Ljǫrn <i>(casual)</i><br>Ljarni <i>(affectionate)</i><br>Haunted man <i>(by Sága)</i></td> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
-	<tr> <td>Affiliation</td> <td>Hallgrímr's Company</td> </tr>
+	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Hunting<br>Tree-felling<br>Woodcutting</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
