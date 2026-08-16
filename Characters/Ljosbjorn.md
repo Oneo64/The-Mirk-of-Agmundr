@@ -9,7 +9,7 @@
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Hunting<br>Tree-felling<br>Woodcutting</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
-	<tr> <td>Age</td> <td>25 <i>(before)</i><br>26 <i>(after)</i></td> </tr>
+	<tr> <td>Age</td> <td>25 <i>(before story)</i><br>26 <i>(after story)</i><br>38 <i>(current)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfarr <i>(younger brother)</i></td> </tr>

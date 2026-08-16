@@ -7,10 +7,12 @@
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
 	<tr> <td>Hobbies</td> <td>Forest explotation<br>Sparring<br>Rægtafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
-	<tr> <td>Age</td> <td>20 <i>(before)</i><br>21 <i>(after)</i></td> </tr>
+	<tr> <td>Age</td> <td>20 <i>(before story)</i><br>21 <i>(after story)</i><br>33 <i>(current)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljósbjǫrn <i>(older brother)</i></td> </tr>
+	<tr> <td>Spouse</td> <td>Sága</td> </tr>
+	<tr> <td>Children</td> <td>An unnamed son</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>

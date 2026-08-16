@@ -6,7 +6,7 @@
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Chieftain</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
-	<tr> <td>Age</td> <td>Mid 40s</td> </tr>
+	<tr> <td>Age</td> <td>45 <i>(past)</i><br>57 <i>(current)</i></td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Spouse</td> <td>Hrafnhildr</i></td> </tr>
 	<tr> <td>Children</td> <td>Sága <i>(daughter)</i></td> </tr>

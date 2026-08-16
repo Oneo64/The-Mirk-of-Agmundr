@@ -6,7 +6,7 @@
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
-	<tr> <td>Age</td> <td>Early 20s</td> </tr>
+	<tr> <td>Age</td> <td>Early 20s <i>(past)</i><br>Mid 30s <i>(current)</i></td> </tr>
 	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Váli <i>(father)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
