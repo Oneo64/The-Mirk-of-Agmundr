@@ -150,8 +150,8 @@ Now, as the oldest living son, he was given Úlfnir's sword. Despite his distres
 - **Latin:** Liusbiurn/Liusbiœrn
 - **Greek:** Λιορν
 - **Russian:** Лёсбёрн
-- **Traditional Chinese:** 利奧斯比約恩
-- **Simplified Chinese:** 利奧斯比約恩
+- **Traditional Chinese:** 利奧斯比約恩/光熊
+- **Simplified Chinese:** 利奥斯比约恩/光熊
 - **Korean:** 료스비욘
 - **Japanese:** リョースビョルン
 
