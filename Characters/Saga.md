@@ -33,12 +33,9 @@ Like her father, Sága is an adventurous and ambitious explorer, wanting to be i
 
 Outside of adventure and fighting, Sága likes to tell stories to her friends and companions, especially heroic sagas that she's read or heard before. Her favourite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village. *(For example, I think she would fangirl over The Hobbit / LotR if that story existed in her time.)*
 
-### Voice
-Sága speaks formally and sometimes, poetically. She has a naturally deep voice with a sharp tone.
-
- - "I have a tale to tell!"
- - "I announce to you all! Draugrinn ór Mínu Minni, the tale of which Jóki, he and Yngvarr..."
- - "Father, he means no harm. I think he is only cursed. Back at our village, I saw him panic at the sight of a guard at eve, like he had seen a ghost."
+### Example dialogue
+- "Krækiber? Þessi eru ateins bláber!"
+- "Faðir, kemrðu eigi?"
 
 ### Unnþora
 Sága sees Unnþora as a role model and aspires to be as brave as her.
