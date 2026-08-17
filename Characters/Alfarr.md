@@ -26,7 +26,7 @@ Alfarr is a settler and warrior from Álahringr. He travelled west to the settle
 ## Appearance
 Alfarr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
 
-Alfarr wears a blue cap with green accents, a dark blue shawl, and a muted green tunic, with a Mjǫllnir amulet for divine protection. In combat, he wears a maille shirt and brings a spear and a shield.
+Alfarr wears a blue cap with green accents, a dark blue shawl, and a muted green tunic, with a Mjǫllnir amulet for divine protection. In combat, he wears a maille hauberk and brings a spear and a shield.
 
 ## Personality
 As a bold person, Alfarr is adventurous and competitive, persuasive with his companions. He is mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is a coward, fleeing in the face of powerful foes or adversaries of unknown danger.
