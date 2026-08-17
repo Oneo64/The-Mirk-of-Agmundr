@@ -46,38 +46,19 @@ Alfarr has an odd defensive-offensive fighting style. He would start by keeping 
 ### Rægtafl
 Alfarr knows how to play Rægtafl.
 
-## Goals
- - **Goal:** To explore the new land.
- - **Motivation:** Successfulness and wealthiness.
-
 ## Example Dialogues
- - "Ljǫrn, think about it! We could become-"
- - "Hey. Are you still thinking about Álahringr?"
- - "I told you this land would be prosperous. And, they're going to Fjǫrðvík, father is. The war won't touch them there. You don't need to worry about them."
- - "Yes, it's annoying."
- - "The explorers took three days, I heard."
- - "See them?"
- - "Look at the man's helmet."
- - "I never seen one like it."
- - "Ljǫrn, what are you-"
- - "Wait. Wait, the wolves."
- - "I want to go there, we can see better."
- - "They look as if they won't wake til noon."
- - "We are two men. And, we didn't sail three days in rain and thunder just to idle in a house!"
- - "Finally, food that isn't fish! Smells fine too, don't you think?"
- - "Yes, but this one's got eggs."
- - "Ljǫrn, stop that!"
- - "Don't lie. You had the same thing on the boat. I know you were awake, so don't fool me now."
- - "Right. I'll be back."
- - "Ugh... nasty thing. It's gone done me."
+- "Ljǫrn, hugsarðu enn Álahring?"
+- "Ek sagða þér at þetta land myndi gera okkr ríka. Mun þú, ferr faðir til Fjǫrðvíks. Stríðin náir þá eigi þarna. Þú þarft eigi at vera áhyggjusamr fyrir þá."
+- "Hvat sem er gott fyrir þik."
+- "Þetta er tækifæri til okkar!"
 
 ## Name Translations
- - **Younger Futhark:** ᛅᛚᚠᛅᚱ
- - **Icelandic:** Álfarr
- - **English, Danish, Norwegian, Swedish, German, Latin:** Alvar
- - **Greek:** Αλφάρ
- - **Russian:** Альфар
- - **Traditional Chinese:** 阿爾法爾
- - **Simplified Chinese:** 阿尔法尔
- - **Korean:** 알파르
- - **Japanese:** アルファール
+- **Younger Futhark:** ᛅᛚᚠᛅᚱ
+- **Icelandic:** Álfarr
+- **English, Danish, Norwegian, Swedish, German, Latin:** Alvar
+- **Greek:** Αλφάρ
+- **Russian:** Альфар
+- **Traditional Chinese:** 阿爾法爾
+- **Simplified Chinese:** 阿尔法尔
+- **Korean:** 알파르
+- **Japanese:** アルファール

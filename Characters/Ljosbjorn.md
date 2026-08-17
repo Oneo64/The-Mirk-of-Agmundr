@@ -67,7 +67,15 @@ Ljósbjǫrn finds Rúna's habits endearing to the heart, such as her fidgeting, 
 Ljósbjǫrn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
 
 ### Example dialogues
-*Note: These dialogues are not from the main story!*
+#### Main story
+- "Vér eru í nánd."
+- "Þat fallar!"
+- "Ek þarf nokkran tíma."
+- "Skóg... skógrinn...?"
+- "Hvat vánarðu at finna í skóginum...?"
+- "Vit skulu hitta við Hallgrím."
+- "Hǫfðingi minn, em... em ek ateins bóndi. Hví valdirðu mik?"
+- "Þarftu hjalp?"
 
 #### Normal
 - "Já, hǫfðingi minn." *(Obeying orders from his chieftain.)*
