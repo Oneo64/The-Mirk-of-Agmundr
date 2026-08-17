@@ -93,7 +93,7 @@ Ljósbjǫrn's love languages are physical touch and acts of service. Even though
 - "Hvat er þetta?!"
 - "Halfvítin svín." *(Insulting his attackers after getting into a bar fight.)*
 - "Ek skal taka á hánum bráðum."
-- "Bragða Úlfnisblað!"
+- "Bragða þetta járn!" *(A battlecry which he shouts as he swings a sword.)*
 
 #### Emotional
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
