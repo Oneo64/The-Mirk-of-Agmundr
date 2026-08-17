@@ -60,7 +60,9 @@ Sometimes, Rúna would call Ljósbjǫrn *kæri* and get embarrassed over it. Whe
 But Rúna would get frustrated with some of the tendencies Ljósbjǫrn has, especially his stubbornness and his language. Even though she finds them difficult to deal with, she works around it by telling him off.
 
 ### Gunnarr
-Rúna thinks Gunnarr is a genuinely good person and considers him a friend.
+[*See: Gunnarr.md*](Gunnarr.md)
+
+Rúna thinks Gunnarr is a genuinely good person and considers him a friend. She doesn't know about his crush.
 
 ### Example dialogue
 #### Main story
