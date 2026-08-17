@@ -23,3 +23,9 @@ Ingólfr was a tall man with long dark hair. He wore a bear-hide cloak and carri
 
 ## Personality
 Ingólfr was a brave warrior striving to become a true leader. He was fearless, often being the first to charge with a war cry. However, he was manipulative and a smooth-talker, trying to steer situations to his benefit.
+
+## Example dialogue
+- "Rétt."
+- "Vér skulu fara aptr; kemr nátt."
+- "Bleyður! Þér eru allar bleyður!"
+- "Sá koppr er bǫlvaðr, ok skal ek nota hann á þik."
