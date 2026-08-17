@@ -24,6 +24,9 @@ Agmundr wears a suit of old maille and heavy, ragged clothes. On its head sits a
 ## Personality
 Agmundr is extremely playful yet cruel, having no regard for any traditions it used to have. Like many draugr, it is extremely and violently protective of its valuables.
 
+### Example dialogue
+- "Hefirðu borið koppinn minn, nú skal þú deyja."
+
 ## Abilities
 Unless disturbed, Agmundr would sit inside its burial mound with absolute stillness. If someone touched anything inside, it would awaken and rise from its burial spot.
 

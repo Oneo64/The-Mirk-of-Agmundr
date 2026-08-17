@@ -30,6 +30,7 @@ As an explorer, Hallgrímr is very adventurous and curious, wanting to see thing
 
 However, Hallgrímr also recognises his duty as a leader and restrains himself from going on expedition parties.
 
-## Example dialogue
+### Example dialogue
 - "Vindrinn veikisk! Rausið seglin! Búið at róa!"
 - "Nú eruð þit hérna! En skulu vér bíða eptir ein ǫnnur. Hún skyldi komask brátt."
+- "Nei, þarf ek vera aftan... ateins ef nokkur halfvíti hefði eigi hellt mjǫðinn yfir alla byggið..."
