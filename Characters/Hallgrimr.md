@@ -29,3 +29,7 @@ Hallgrímr is arrogant, rowdy, and talkative, with a tendency to jest at other p
 As an explorer, Hallgrímr is very adventurous and curious, wanting to see things in person rather than merely listening to stories of them. He is willing to join any adventuring or exploring party just to experience the "old stories".
 
 However, Hallgrímr also recognises his duty as a leader and restrains himself from going on expedition parties.
+
+## Example dialogue
+- "Vindrinn veikisk! Rausið seglin! Búið at róa!"
+- "Nú eruð þit hérna! En skulu vér bíða eptir ein ǫnnur. Hún skyldi komask brátt."
