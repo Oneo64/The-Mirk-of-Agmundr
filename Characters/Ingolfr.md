@@ -26,6 +26,6 @@ Ingólfr was a brave warrior striving to become a true leader. He was fearless, 
 
 ## Example dialogue
 - "Rétt."
-- "Vér skulu fara aptr; verðr nátt."
+- "Vér skyldum fara aptr; verðr nátt."
 - "Bleyður! Þér eru allar bleyður!"
 - "Sá koppr er bǫlvaðr, ok skal ek nota hann á þik."
