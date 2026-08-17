@@ -34,8 +34,8 @@ Like her father, Sága is an adventurous and ambitious explorer, wanting to be i
 Outside of adventure and fighting, Sága likes to tell stories to her friends and companions, especially heroic sagas that she's read or heard before. Her favourite types of sagas are those where the protagonist goes on a journey and experiences the wonders and horrors of the world outside of his home village. *(For example, I think she would fangirl over The Hobbit / LotR if that story existed in her time.)*
 
 ### Example dialogue
-- "Krækiber? Þessi eru ateins bláber!"
 - "Faðir, kemrðu eigi?"
+- "Krækiber? Þessi eru ateins bláber!"
 
 ### Unnþora
 Sága sees Unnþora as a role model and aspires to be as brave as her.
