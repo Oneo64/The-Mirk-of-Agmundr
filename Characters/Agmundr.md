@@ -6,6 +6,7 @@
 	<tr> <td>Cause of death</td> <td>Struck by an arrow<br>Cleaved in the head by Ljósbjǫrn using an axe</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>~100</td> </tr>
+	<tr> <td>Children</td> <td>Hallgrímr <i>(son)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Draugr (human)</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>
