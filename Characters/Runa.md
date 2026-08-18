@@ -109,7 +109,7 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to carrying heavy things such as firewood or sacks of crops.
 
 ## Lore
-Rúna was born to a successful merchant's family in AD 900. Njáll, her father, was a fisherman and a merchant; her mother, Þone, was a woodcarver. They owned several cattle and chickens, and a karve boat, which were all valuable assets.
+Rúna was born to a successful merchant's family in AD 900. Njáll, her father, was a fisherman and a merchant; her mother, Þone, was a woodcarver. They owned several cattle, several chickens, and a karve boat, which were all valuable assets.
 
 However, Rúna's parents were overprotective of her, always reluctant to let her roam freely on the streets. They would only allow her to be near home or in the local forest area. As a result, she spent most of her childhood alone, roaming around the forest or watching the people walk by on her local street. She also became a timid and bashful person, feeling conscious of herself in front of strangers.
 
@@ -121,9 +121,9 @@ During one tragic night, Rúna was woken up to a war horn. It blew twice, then t
 
 Several hours passed. By the time they were safe, the sun had begun to dawn. Rúna and her mother both returned to the home, expecting to hear of her father's death. But to their surprise, he was alive in the house with a missing left hand.
 
-Due to the raid, Rúna's family suffered a major blow; all their chickens were gone, all but one of the cattle were missing, and their home was ransacked. Her father was missing his left hand, meaning he could never fish the same way again.
+Due to the raid, Rúna's family suffered a major blow; all their chickens were stolen, all but one cow was missing, and their home was ransacked. Her father was missing his left hand, meaning he could never fish the same way again.
 
-On the day Hallgrímr announced his plan of settlement, Rúna's father thought it was a good idea for her to go, so that she could prosper in the new land. Initially, she was unsure whether she should go or not. But, eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Newfoundland.
+On the day Hallgrímr announced his plan of settlement, Rúna's father thought it was a good idea for her to join the expedition so that she could prosper. Initially, she was unsure whether she should go or not. But eventually, the positives outweighed the negatives. After preparation and packing, Rúna left for Newfoundland.
 
 ## Name Translations
 - **Younger Futhark:** ᚱᚢᚾᛅ
