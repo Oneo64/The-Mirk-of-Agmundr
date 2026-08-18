@@ -137,4 +137,4 @@ On the day Hallgrímr announced his plan of settlement, Rúna's father thought i
 - **Japanese:** ルーナ
 
 ## Trivia
-- Rúna's name means "rune or secret lore" in Old Norse, nicely fitting her curiosity for ancient mysteries and the darkness.
+- Rúna's name comes from [rún](https://en.wiktionary.org/wiki/rún#Old_Norse) *("secret, rune")*, nicely fitting her curiosity for ancient mysteries and the darkness.

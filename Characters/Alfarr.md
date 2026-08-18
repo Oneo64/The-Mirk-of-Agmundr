@@ -62,3 +62,6 @@ Alfarr knows how to play Rægtafl.
 - **Simplified Chinese:** 阿尔法尔
 - **Korean:** 알파르
 - **Japanese:** アルファール
+
+## Trivia
+- Alfarr's name comes from [alfr](https://en.wiktionary.org/wiki/alfr#Old_Norse) *("elf, fairy")* + [-arr](https://en.wiktionary.org/wiki/herr#Old_Norse) *("army")*.

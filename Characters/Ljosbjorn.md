@@ -164,5 +164,5 @@ Now, as the oldest living son, he was given Úlfnir's sword. Despite his distres
 - **Japanese:** リョースビョルン
 
 ## Trivia
-- Ljósbjǫrn's name means "Bright Bear" or "Bear of Light" in Old Norse, which is the literal opposite of his personality.
+- Ljósbjǫrn's name comes from [ljóss](https://en.wiktionary.org/wiki/ljóss#Old_Norse) *("light, bright")* + [bjǫrn](https://en.wiktionary.org/wiki/bjǫrn#Old_Norse) *("bear")*, which is the literal opposite of his personality.
 - Ljósbjǫrn originally had a helmet, but it was lost during his capture.
