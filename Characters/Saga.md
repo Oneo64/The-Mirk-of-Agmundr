@@ -7,7 +7,7 @@
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20 <i>(before story)</i><br>21 <i>(after story)</i><br>33 <i>(current)</i></td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Hallgrímr <i>(father)</i><br>Hrafnhildr <i>(mother)</i></td> </tr>
 	<tr> <td>Spouse</td> <td>Alfarr</td> </tr>
 	<tr> <td>Children</td> <td>An unknown son</td> </tr>

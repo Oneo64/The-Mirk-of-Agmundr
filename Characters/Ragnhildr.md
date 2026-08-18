@@ -7,7 +7,7 @@
 	<tr> <td>Occupation</td> <td>Settler<br>Healer</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Mid 40s <i>(past)</i><br>Late 50s <i>(current)</i></td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>

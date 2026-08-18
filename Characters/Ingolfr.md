@@ -8,7 +8,7 @@
 	<tr> <td>Cause of death</td> <td>Stabbed by Alfarr using a seax</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>Early 30s <i>(before death)</i></td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Male</td> </tr>

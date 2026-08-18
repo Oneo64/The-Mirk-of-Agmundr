@@ -9,7 +9,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20 <i>(before story)</i><br>21 <i>(after story)</i><br>33 <i>(current)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljósbjǫrn <i>(older brother)</i></td> </tr>
 	<tr> <td>Spouse</td> <td>Sága</td> </tr>
 	<tr> <td>Children</td> <td>An unknown son</td> </tr>
@@ -21,7 +21,7 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Alfarr is a settler and warrior from Álahringr. He travelled west to the settlement Hrafnhamarr in Newfoundland and is also the one who persuaded Ljósbjǫrn to go there with him.
+Alfarr is a settler and warrior from Álhringr. He travelled west to the settlement Hrafnhamarr in Newfoundland and is also the one who persuaded Ljósbjǫrn to go there with him.
 
 ## Appearance
 Alfarr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
@@ -47,7 +47,7 @@ Alfarr has an odd defensive-offensive fighting style. He would start by keeping 
 Alfarr knows how to play Rægtafl.
 
 ## Example Dialogues
-- "Ljǫrn, hugsarðu enn Álahring?"
+- "Ljǫrn, hugsarðu enn Álhring?"
 - "Ek sagða þér at þetta land myndi gera okkr ríka. Mun þú, ferr faðir til Fjǫrðvíks. Stríðin náir þá eigi þarna. Þú þarft eigi at vera áhyggjusamr fyrir þá."
 - "Hvat sem er gott fyrir þik."
 - "Þetta er tækifæri til okkar!"

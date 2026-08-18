@@ -11,7 +11,7 @@
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>25 <i>(before story)</i><br>26 <i>(after story)</i><br>38 <i>(current)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>December 2, AD 896</td> </tr>
-	<tr> <td>Birthplace</td> <td>Álahringr, Iceland</td> </tr>
+	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Alfarr <i>(younger brother)</i></td> </tr>
 	<tr> <td>Spouse</td> <td>Rúna</td> </tr>
 	<tr> <td>Children</td> <td>Karl (son)</td> </tr>
@@ -116,7 +116,7 @@ Ljósbjǫrn is good at moving stealthily in broad daylight, which is a skill gai
 
 ## Lore
 ### Early Life
-Ljósbjǫrn was born to a farmer and warrior's family on December 2nd in Álahringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Alfarr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
+Ljósbjǫrn was born to a farmer and warrior's family on December 2nd in Álhringr, a south-western village in Iceland. It was next to a forest and a river that flowed directly into the ocean. During his childhood, he would often go into the forest to explore and play sword-fighting with Alfarr and Úlfnir, using sticks as mock swords and spears. There was one time when he wasn't careful while going down a rough hill with both of his brothers, and he fell, putting a permanent scar on both knees.
 
 Ljósbjǫrn also found that he wasn't quite fond of flowers' smells, as they made his nose scrunch up every time he tried to smell them.
 
@@ -132,7 +132,7 @@ Ljósbjǫrn witnessed the moment when his father passed his sword to Úlfnir, th
 
 Úlfnir proudly carried his inherited sword in public whenever he could. Ljósbjǫrn, for the first few weeks, felt jealous of him.
 
-### The Attack of Álahringr
+### The Attack of Álhringr
 During the night of his twenty-fourth summer, Ljósbjǫrn woke up to a violent raid. He quickly got into his armour and went out with his spear and shield.
 
 When he stepped outside, he saw Kolbrandr's home in flames. He rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith, and he quickly left.
