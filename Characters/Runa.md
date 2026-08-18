@@ -109,7 +109,7 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to carrying heavy things such as firewood or sacks of crops.
 
 ## Lore
-Rúna was born to a successful merchant's family in AD 900. Njáll, her father, was a fisherman and a merchant; her mother, Þórný, was a woodcarver. They owned several cattle, several chickens, and a karve boat, which were all valuable assets.
+Rúna was born to a successful merchant's family in AD 900. Njáll, her father, was a fisherman and a merchant; her mother, Þórný, was a Danish woodcarver. They owned several cattle, several chickens, and a karve boat, which were all valuable assets.
 
 However, Rúna's parents were overprotective of her, always reluctant to let her roam freely on the streets. They would only allow her to be near home or in the local forest area. As a result, she spent most of her childhood alone, roaming around the forest or watching the people walk by on her local street. She also became a timid and bashful person, feeling conscious of herself in front of strangers.
 
