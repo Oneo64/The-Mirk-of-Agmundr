@@ -43,8 +43,8 @@ Alfarr has six years' worth of spear-fighting practice, which makes him above av
 
 Alfarr has an odd defensive-offensive fighting style. He would start by keeping a safe distance with his shield in front of him, waiting for an opening to strike. Without his spear, unless the enemy had their weapon pointing at him (if they had one), he would throw himself at them, tackle them to the ground, and try to get a stab with his seax.
 
-### Rægtafl
-Alfarr knows how to play Rægtafl.
+### Veldistafl
+Alfarr can play Veldistafl, a 2-player strategy board game.
 
 ## Example Dialogues
 - "Ljǫrn, hugsarðu enn Álhring?"

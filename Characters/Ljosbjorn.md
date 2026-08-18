@@ -114,6 +114,9 @@ Ljósbjǫrn can hunt deer in the forest using his spear. His method is usually s
 ### Stealth
 Ljósbjǫrn is good at moving stealthily in broad daylight, which is a skill gained from sneaking around the blacksmith's workplace during his childhood. This also helps him hunt deer in the forest better.
 
+### Veldistafl
+Ljósbjǫrn can play Veldistafl, a 2-player strategy board game.
+
 ## Lore
 ### Early Life
 Ljósbjǫrn was born to a family of farmer-warriors on the 2nd of December in Álhringr, a southern Icelandic village. During his childhood, he would often go into the forest to explore and play sword-fighting with his two brothers, using sticks as mock swords and spears. He found that he wasn't quite fond of the smell of flowers, which made his nose scrunch up every time he tried to smell them.
