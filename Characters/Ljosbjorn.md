@@ -129,7 +129,7 @@ However, he grew more reserved and mature with age, not wanting to play pretend 
 
 In his late teens, he began to show interest in hunting and was taken out to the wilderness by his father to learn how to hunt, first learning how to hunt deer. He was taught how to throw a spear and use it with a shield. Later, he would go out by himself and hunt down a deer all by himself.
 
-During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that she could have been a forest elf.
+During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that the girl could have been a forest elf.
 
 Ljósbjǫrn witnessed the moment when his father passed his sword to Úlfnir, the oldest brother in the family. His father had received his sword from his father (in this case, Ljósbjǫrn's paternal grandfather), who was getting too old for it and had ultimately acquired it after returning from a Viking raid.
 
