@@ -140,7 +140,7 @@ During the night of his twenty-fourth summer, Ljósbjǫrn woke up to a violent r
 
 Right when he stepped outside, he saw Kolbrandr's house in flames and rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith. He quickly left.
 
-After Ljósbjǫrn and Alfarr drove an attacker away, he watched from afar as Úlfnir fought off several Vikings. But to his horror, one of them flanked Úlfnir and planted an axe into his neck, killing him instantly.
+After Ljósbjǫrn and Alfarr drove an attacker away, he watched from afar as Úlfnir fought off several Vikings. But to his horror, one of them flanked Úlfnir and planted a war axe into his neck, killing him instantly.
 
 He was stunned by this and couldn't react. Two attackers, one warrior and one bowman, took advantage of this and advanced onto him. He raised his shield and hid behind it as he saw the bowman shoot at him, but the arrow went straight through and struck his shoulder. He tried to block again as the warrior swung a Dane axe at him, but his shield was smashed.
 
