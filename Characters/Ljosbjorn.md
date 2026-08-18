@@ -145,7 +145,7 @@ The fight didn't last long, Ljósbjǫrn's spear being cut in half by the Viking 
 
 When morning came, Ljósbjǫrn woke to the sunlight and began to feel nauseous due to blood loss. He snuck back into the village after realising the invaders had left, and had his arrow wound treated.
 
-Now, as the oldest living son, he was given Úlfnir's sword. Despite his distress, he was labelled as cowardly and ignored by his family members.
+Now, as the oldest living son, he was given Úlfnir's sword. Despite his distress, he was labelled as cowardly and ignored by his family members. Mjaðveig, his mother, was more sympathetic to him.
 
 ## Name Translations
 - **Younger Futhark:** ᛚᛁᚢᛋᛒᛁᚬᚱᚾ
