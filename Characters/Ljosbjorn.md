@@ -125,7 +125,7 @@ There was one time when Ljósbjǫrn wasn't careful while going down a rough hill
 
 Ljósbjǫrn would sneak into Kolbrandr's workplace whenever he was alone, who was his neighbour and also the blacksmith of the village, just to see what was in there and mess with his tools. Kolbrandr never caught him. During winter, he would throw snowballs at the cows of local farmers. This time, he was actually caught and was scolded by the cows' owner.
 
-During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that the girl could have been a forest elf. Unfortunately, he cannot remember much about his encounter, except that he saw a pretty girl by the forest river and was scolded by his mother for it.
+During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that the girl could have been a forest elf. He cannot remember much about his encounter, except that he saw a pretty girl by the forest river and was scolded by his mother for it.
 
 However, he grew more reserved and mature with age, not wanting to play pretend anymore and instead playing Veldistafl (a strategic 2-player board game) with his family members.
 
