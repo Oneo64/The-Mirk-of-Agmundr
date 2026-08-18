@@ -95,7 +95,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend. She 
 - **Cooking:** Rúna can cook simple soups and stews, and prepare meats like steaks and fish.
 - **Dairy Work:** Rúna can make skyr, but not other dairy products like cheese and butter.
 - **Dyeing:** Rúna knows how to dye clothing unprofessionally. She doesn't know how to make them.
-- **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þone (her mother). She knows how to add a differently-coloured hem, but not embroidery.
+- **Weaving and Sewing:** Rúna knows how to sew basic clothing and apparel, learned from Þórný (her mother). She knows how to add a differently-coloured hem, but not embroidery.
 
 ### Herbalism
 Rúna can identify many common herbs that grow in the north, but she only knows the usage of a few of those herbs and how to prepare them.
@@ -109,7 +109,7 @@ Even though Rúna has a spear, she can't use it well. She only knows how to thru
 Despite the image of a mellow girl, Rúna is absolutely fine and accustomed to carrying heavy things such as firewood or sacks of crops.
 
 ## Lore
-Rúna was born to a successful merchant's family in AD 900. Njáll, her father, was a fisherman and a merchant; her mother, Þone, was a woodcarver. They owned several cattle, several chickens, and a karve boat, which were all valuable assets.
+Rúna was born to a successful merchant's family in AD 900. Njáll, her father, was a fisherman and a merchant; her mother, Þórný, was a woodcarver. They owned several cattle, several chickens, and a karve boat, which were all valuable assets.
 
 However, Rúna's parents were overprotective of her, always reluctant to let her roam freely on the streets. They would only allow her to be near home or in the local forest area. As a result, she spent most of her childhood alone, roaming around the forest or watching the people walk by on her local street. She also became a timid and bashful person, feeling conscious of herself in front of strangers.
 
@@ -117,7 +117,7 @@ In her teenage years, Rúna began to learn how to carve wood, tutored by her mot
 
 One day, Rúna got her first stall set up in the market street, putting several of her carvings up for sale. But, as she tried to make a coin, she would receive a lot of criticism: they weren't symmetrical, there was a nick, the spoon handle wasn't evenly thick... With every attempt, she got more and more worried about her failure, until she eventually stopped trying to sell them.
 
-During one tragic night, Rúna was woken up to a war horn. It blew twice, then twice again, then twice again... they were signalling a Viking raid. Hurriedly, Njáll ushered her and Þone to flee inland towards the community hall. But when they arrived, she realised that her father wasn't there. Assuming the worst, she had no choice but to hope the raiders would leave quickly.
+During one tragic night, Rúna was woken up to a war horn. It blew twice, then twice again, then twice again... they were signalling a Viking raid. Hurriedly, Njáll ushered her and Þórný to flee inland towards the community hall. But when they arrived, she realised that her father wasn't there. Assuming the worst, she had no choice but to hope the raiders would leave quickly.
 
 Several hours passed. By the time they were safe, the sun had begun to dawn. Rúna and her mother both returned to the home, expecting to hear of her father's death. But to their surprise, he was alive in the house with a missing left hand.
 
