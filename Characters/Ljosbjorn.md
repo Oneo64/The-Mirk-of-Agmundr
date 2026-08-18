@@ -125,11 +125,11 @@ There was one time when Ljósbjǫrn wasn't careful while going down a rough hill
 
 Ljósbjǫrn would sneak into Kolbrandr's workplace whenever he was alone, who was his neighbour and also the blacksmith of the village, just to see what was in there and mess with his tools. Kolbrandr never caught him. During winter, he would throw snowballs at the cows of local farmers. This time, he was actually caught and was scolded by the cows' owner.
 
+During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that the girl could have been a forest elf.
+
 However, he grew more reserved and mature with age, not wanting to play pretend anymore and instead playing Veldistafl (a strategic 2-player board game) with his family members.
 
 In his late teens, he began to show interest in hunting and was taken out to the wilderness by his father to learn how to hunt, first learning how to hunt deer. He was taught how to throw a spear and use it with a shield. Later, he would go out by himself and hunt down a deer all by himself.
-
-During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that the girl could have been a forest elf.
 
 Ljósbjǫrn witnessed the moment when his father passed his sword to Úlfnir, the oldest brother in the family. His father had received his sword from his father (in this case, Ljósbjǫrn's paternal grandfather), who was getting too old for it and had ultimately acquired it after returning from a Viking raid.
 
