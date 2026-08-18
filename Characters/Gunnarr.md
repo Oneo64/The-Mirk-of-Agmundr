@@ -28,9 +28,7 @@ Gunnarr is a calm yet curious adventurer, fearless despite his youth and will no
 However, Gunnarr is somewhat narcissistic and arrogant, thinking he deserves at least some attention wherever he goes. His arrogance shows when he sometimes looks down upon other people. Sometimes, it also shows when he hesitates to apologise for something he accidentally did wrong.
 
 ### Rúna (and Ljósbjǫrn)
-Gunnarr once had a small, unrequited crush on Rúna. He would react nicer to her and blush at every kind gesture. However, after he found out about her relationship with Ljósbjǫrn, he backed down and pretended he had nothing to do with her.
-
-To this day, Gunnarr still gets a little flustered around her and still feels a bit of jealousy for Ljósbjǫrn.
+Gunnarr once had an unrequited crush on Rúna, becoming more pleasant to her and blushing at every kind gesture. He found out about their relationship when she married Ljósbjǫrn. To this day, he pretends he had nothing to do with her and still feels jealous of Ljósbjǫrn.
 
 ## Abilities
 ### Physicality
