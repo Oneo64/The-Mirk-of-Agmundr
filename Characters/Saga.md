@@ -19,7 +19,7 @@
 	<tr> <td>Eye color</td> <td>Slightly brownish green (right)<br>Green (left)</td> </tr>
 </tbody></table>
 
-Sága is an explorer.
+Sága is an aspiring shieldmaiden, explorer, and settler, and the sole daughter of Hallgrímr.
 
 ## Appearance
 Sága has shoulder-length wavy black hair, upturned hazel eyes, and thin eyebrows. She is 5'5" tall and has a straight, lean figure.

@@ -5,6 +5,7 @@
 	<tr> <td>Agmundr the Terrible</td> <td>ᛅᚴᛘᚢᚾᛏᚱ ᛁᚾ ᚢᚴᛁᛚᛁᚴᛁ</td> </tr>
 	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> </tr>
 	<tr> <td>Brandingi</td> <td>ᛒᚱᛅᚾᛏᛁᚾᚴᛁ</td> </tr>
+	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> </tr>
 	<tr> <td>Gunnarr the Generous</td> <td>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</td> </tr>
 	<tr> <td>Hallgrímr Stone-eye</td> <td>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</td> </tr>
 	<tr> <td>Hlǫkkný</td> <td>ᚼᛚᚬᚴᚾᚢ</td> </tr>
@@ -24,7 +25,7 @@
 	<tr> <td>Unnþora</td> <td>ᚢᚾᚦᚬᚱᛅ</td> </tr>
 	<tr> <td>Váli</td> <td>ᚠᛅᛚᛁ</td> </tr>
 	<tr> <td>Yngvildr</td> <td>ᚢᚾᚴᚠᛁᛚᛏᚱ</td> </tr>
-	<tr> <td>Þjóstarr</td> <td>ᚦᛁᚢᛋᛏᛅᚱ</td> </tr>
+	<tr> <td>Þjóstarr English-helm</td> <td>ᚦᛁᚢᛋᛏᛅᚱ ᛁᚾᛋᚴᚼᛁᛅᛚᛘᚱ</td> </tr>
 	<tr> <td>Þórný</td> <td>ᚦᚢᚱᚾᚢ</td> </tr>
 	<tr> <td>Æskell</td> <td>ᛅᛋᚴᛁᛚ</td> </tr>
 	<tr> <td>Ørólfr</td> <td>ᚢᚱᚢᛚᚠᚱ</td> </tr>
