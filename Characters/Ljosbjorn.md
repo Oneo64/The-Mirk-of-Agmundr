@@ -1,4 +1,4 @@
-# Ljósbjǫrn the Survivor
+# Ljósbjǫrn the Living
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljósbjǫrn inn lifandi</th> </tr>
 	<tr> <th colspan=2>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᛅᚾᛏᛁ</th> </tr>
@@ -23,7 +23,7 @@
 	<tr> <td>Eye color</td> <td>Pale blue</td> </tr>
 </tbody></table>
 
-Ljósbjǫrn the Survivor, commonly known as Ljǫrn, was a settler who travelled to a northern island under the command of Hallgrímr. He is now a farmer. He spends his spare time felling trees, making firewood, and hunting deer.
+Ljósbjǫrn the Living, commonly known as Ljǫrn, was a settler who travelled to a northern island under the command of Hallgrímr. He is now a farmer. He spends his spare time felling trees, making firewood, and hunting deer.
 
 ## Appearance
 Ljósbjǫrn is a weathered man with long wavy dark blond hair and a short scruffy beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
