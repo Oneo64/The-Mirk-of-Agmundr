@@ -1,4 +1,4 @@
-# Gunnarr the Proud
+# Gunnarr the Noble
 <table align=right><tbody>
 	<tr> <th colspan=2>Gunnarr inn gǫfugi</th> </tr>
 	<tr> <th colspan=2>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</th> </tr>
@@ -17,7 +17,7 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Gunnarr is an explorer from a wealthy family.
+Gunnarr the Noble is an explorer from a wealthy family.
 
 ## Appearance
 Gunnarr is a handsome young man with long, golden-blond hair, blue eyes, and smooth tanned skin. He has an angular jawline and high cheekbones. He wears dark blue clothing and a dark cloak. In combat, he wears a spectacle helmet and a maille shirt. He wields a spear and shield.
