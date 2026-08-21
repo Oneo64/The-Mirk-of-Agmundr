@@ -1,7 +1,7 @@
-# Gunnarr
+# Gunnarr the Proud
 <table align=right><tbody>
-	<tr> <th colspan=2>Gunnarr</th> </tr>
-	<tr> <th colspan=2>ᚴᚢᚾᛅᚱ</th> </tr>
+	<tr> <th colspan=2>Gunnarr inn gǫfugi</th> </tr>
+	<tr> <th colspan=2>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</th> </tr>
 	<tr> <td>Alignment</td> <td>Lawful Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
