@@ -1,7 +1,7 @@
 # Agmundr the Terrible
 <table><tbody>
-	<tr> <th colspan=2>Agmundr œgiligi</th> </tr>
-	<tr> <th colspan=2>ᛅᚴᛘᚢᚾᛏᚱ ᚢᚴᛁᛚᛁᚴᛁ</th> </tr>
+	<tr> <th colspan=2>Agmundr inn œgiligi</th> </tr>
+	<tr> <th colspan=2>ᛅᚴᛘᚢᚾᛏᚱ ᛁᚾ ᚢᚴᛁᛚᛁᚴᛁ</th> </tr>
 	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
 	<tr> <td>Occupation</td> <td>Revenant</td> </tr>
 	<tr> <td>Cause of death</td> <td>Struck by an arrow<br>Cleaved in the head by Ljósbjǫrn using an axe</td> </tr>
