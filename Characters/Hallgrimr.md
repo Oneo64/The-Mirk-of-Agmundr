@@ -1,7 +1,7 @@
 # Hallgrímr Stone-eye
 <table align=right><tbody>
-	<tr> <th colspan=2>Hallgrímr steinaugaði</th> </tr>
-	<tr> <th colspan=2>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅᚦᛁ</th> </tr>
+	<tr> <th colspan=2>Hallgrímr steinauga</th> </tr>
+	<tr> <th colspan=2>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Chieftain</td> </tr>
