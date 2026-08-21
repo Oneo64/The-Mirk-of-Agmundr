@@ -1,7 +1,7 @@
-# Gunnarr Válason
+# Gunnarr
 <table align=right><tbody>
 	<tr> <th colspan=2>Gunnarr</th> </tr>
-	<tr> <th colspan=2>ᚴᚢᚾᚬᚱ</th> </tr>
+	<tr> <th colspan=2>ᚴᚢᚾᛅᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Lawful Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>

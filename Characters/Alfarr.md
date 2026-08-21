@@ -1,4 +1,4 @@
-# Alfarr Aðalgeirsson
+# Alfarr
 <table align=right><tbody>
 	<tr> <th colspan=2>Alfarr</th> </tr>
 	<tr> <th colspan=2>ᛅᛚᚠᛅᚱ</th> </tr>

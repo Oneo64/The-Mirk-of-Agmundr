@@ -1,7 +1,7 @@
 # Ingólfr the Trollman
 <table align=right><tbody>
 	<tr> <th colspan=2>Ingólfr inn Trǫllmaðr</th> </tr>
-	<tr> <th colspan=2>ᛁᚾᚴᚢᛚᚠᚱ ᛁᚾ ᛏᚱᚬᛚᛘᛅᚾ</th> </tr>
+	<tr> <th colspan=2>ᛁᚾᚴᚢᛚᚠᚱ ᛁᚾ ᛏᚱᚬᛚᛘᛅᚦᚱ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral Evil</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company<br>The trolls on Newfoundland</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Usurper</td> </tr>

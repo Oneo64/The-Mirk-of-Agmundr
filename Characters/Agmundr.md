@@ -1,6 +1,7 @@
-# Agmundr
+# Agmundr the Terrible
 <table><tbody>
-	<tr> <th colspan=2>Agmundr</th> </tr>
+	<tr> <th colspan=2>Agmundr œgiligi</th> </tr>
+	<tr> <th colspan=2>ᛅᚴᛘᚢᚾᛏᚱ ᚢᚴᛁᛚᛁᚴᛁ</th> </tr>
 	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
 	<tr> <td>Occupation</td> <td>Revenant</td> </tr>
 	<tr> <td>Cause of death</td> <td>Struck by an arrow<br>Cleaved in the head by Ljósbjǫrn using an axe</td> </tr>
@@ -15,7 +16,7 @@
 	<tr> <td>Eye color</td> <td>Greyed out</td> </tr>
 </tbody></table>
 
-Agmundr was a Viking explorer who discovered Newfoundland and established Hrafnhamarr. During his stay, he was struck by an arrow in a battle with the natives of the island and was buried in a mound.
+Agmundr the Terrible was a Viking explorer who discovered Newfoundland and established Hrafnhamarr. During his stay, he was struck by an arrow in a battle with the natives of the island and was buried in a mound.
 
 ## Appearance
 Agmundr is a tall, withered corpse, with greyed eyes and sparse black hair. Its face is old, wrinkled, and bony, and its skin is dark and greyish green, a result of idling inside a cold, dry tomb for decades. There is a gnarly wound in its stomach, as if someone drove a sharp object through it.
