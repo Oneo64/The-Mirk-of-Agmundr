@@ -1,7 +1,7 @@
 # Sága
 <table align=right><tbody>
 	<tr> <th colspan=2>Sága</th> </tr>
-	<tr> <th colspan=2>ᛋᛅᚴᛅ</th> </tr>
+	<tr> <th colspan=2>ᛋᚬᚴᛅ</th> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
@@ -54,7 +54,7 @@ Sága can tell stories as she makes them up. She can also tell them without plan
 By reading literature, Sága can speak both Old Norse and Proto-Norse.
 
 ## Name Translations
- - **Younger Futhark:** ᛋᛅᚴᛅ
+ - **Younger Futhark:** ᛋᚬᚴᛅ
  - **English, Danish, Norwegian, Swedish:** Saga
  - **German:** Saga
  - **Latin:** Sāga
