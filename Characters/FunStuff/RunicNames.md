@@ -1,32 +1,32 @@
-# Character Names in Younger Futhark
+# Character Names in Futhark Runes
 <table align=right><tbody>
-	<tr> <th>English</th> <th>Younger Futhark</th> </tr>
-	<tr> <td>Aðalgeirr</td> <td>ᛅᚦᛅᛚᚴᛅᛁᚱ</td> </tr>
-	<tr> <td>Agmundr the Terrible</td> <td>ᛅᚴᛘᚢᚾᛏᚱ ᛁᚾ ᚢᚴᛁᛚᛁᚴᛁ</td> </tr>
-	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> </tr>
-	<tr> <td>Brandingi</td> <td>ᛒᚱᛅᚾᛏᛁᚾᚴᛁ</td> </tr>
-	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> </tr>
-	<tr> <td>Gunnarr the Generous</td> <td>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</td> </tr>
-	<tr> <td>Hallgrímr Stone-eye</td> <td>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</td> </tr>
-	<tr> <td>Hlǫkkný</td> <td>ᚼᛚᚬᚴᚾᚢ</td> </tr>
-	<tr> <td>Hrafnhildr</td> <td>ᚼᚱᛅᚠᚾᚼᛁᛚᛏᚱ</td> </tr>
-	<tr> <td>Ingólfr the Trollman</td> <td>ᛁᚾᚴᚢᛚᚠᚱ ᛁᚾ ᛏᚱᚬᛚᛘᛅᚦᚱ</td> </tr>
-	<tr> <td>Karl</td> <td>ᚴᛅᚱᛚ</td> </tr>
-	<tr> <td>Kolbrandr</td> <td>ᚴᚬᛚᛒᚱᛅᚾᛏᚱ</td> </tr>
-	<tr> <td>Ljósbjǫrn the Survivor</td> <td>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᛅᚾᛏᛁ</td> </tr>
-	<tr> <td>Mjaðveig</td> <td>ᛘᛁᛅᚦᚠᛅᛁᚴ</td> </tr>
-	<tr> <td>Njáll</td> <td>ᚾᛁᛅᛚ</td> </tr>
-	<tr> <td>Ragnhildr the Half-giant</td> <td>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚴᚢᚴᚱ</td> </tr>
-	<tr> <td>Randúlfr</td> <td>ᚱᛅᚾᛏᚢᛚᚠᚱ</td> </tr>
-	<tr> <td>Rúna</td> <td>ᚱᚢᚾᛅ</td> </tr>
-	<tr> <td>Sága</td> <td>ᛋᛅᚴᛅ</td> </tr>
-	<tr> <td>Stafnir</td> <td>ᛋᛏᛅᚠᚾᛁᚱ</td> </tr>
-	<tr> <td>Úlfnir</td> <td>ᚢᛚᚠᚾᛁᚱ</td> </tr>
-	<tr> <td>Unnþora</td> <td>ᚢᚾᚦᚬᚱᛅ</td> </tr>
-	<tr> <td>Váli</td> <td>ᚠᛅᛚᛁ</td> </tr>
-	<tr> <td>Yngvildr</td> <td>ᚢᚾᚴᚠᛁᛚᛏᚱ</td> </tr>
-	<tr> <td>Þjóstarr English-helm</td> <td>ᚦᛁᚢᛋᛏᛅᚱ ᛁᚾᛋᚴᚼᛁᛅᛚᛘᚱ</td> </tr>
-	<tr> <td>Þórný</td> <td>ᚦᚢᚱᚾᚢ</td> </tr>
-	<tr> <td>Æskell</td> <td>ᛅᛋᚴᛁᛚ</td> </tr>
-	<tr> <td>Ørólfr</td> <td>ᚢᚱᚢᛚᚠᚱ</td> </tr>
+	<tr> <th>English</th> <th>Younger Futhark</th> <th>Elder Futhark</th> </tr>
+	<tr> <td>Aðalgeirr</td> <td>ᛅᚦᛅᛚᚴᛅᛁᚱ</td> <td>ᚨᚦᚨᛚᚷᛖᛁᚱ</td> </tr>
+	<tr> <td>Agmundr the Terrible</td> <td>ᛅᚴᛘᚢᚾᛏᚱ ᛁᚾ ᚢᚴᛁᛚᛁᚴᛁ</td> <td>ᚨᚷᛗᚢᚾᛞᚱ ᛁᚾ ᚢᚷᛁᛚᛁᚷᛁ</td> </tr>
+	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> <td>ᚨᛚᚠᚨᚱ</td> </tr>
+	<tr> <td>Brandingi</td> <td>ᛒᚱᛅᚾᛏᛁᚾᚴᛁ</td> <td>ᛒᚱᚨᚾᛞᛁᛜᚷᛁ</td> </tr>
+	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> <td>ᛞᚨᚷᚾᛁᚱ</td> </tr>
+	<tr> <td>Gunnarr the Generous</td> <td>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</td> <td>ᚷᚢᚾᚨᚱ ᛁᚾ ᚷᚨᚠᚢᚷᛁ</td> </tr>
+	<tr> <td>Hallgrímr Stone-eye</td> <td>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</td> <td>ᚺᚨᛚᚷᚱᛁᛗᚱ ᛊᛏᛖᛁᚾᚨᚢᚷᚨ</td> </tr>
+	<tr> <td>Hlǫkkný</td> <td>ᚼᛚᚬᚴᚾᚢ</td> <td>ᚺᛚᚨᚲᚾᛁ</td> </tr>
+	<tr> <td>Hrafnhildr</td> <td>ᚼᚱᛅᚠᚾᚼᛁᛚᛏᚱ</td> <td>ᚺᚱᚨᚠᚾᚺᛁᛚᛞᚱ</td> </tr>
+	<tr> <td>Ingólfr the Trollman</td> <td>ᛁᚾᚴᚢᛚᚠᚱ ᛁᚾ ᛏᚱᚬᛚᛘᛅᚦᚱ</td> <td>ᛁᛜᚷᛟᛚᚠᚱ ᛁᚾ ᛏᚱᚨᛚᛗᚨᚦᚱ</td> </tr>
+	<tr> <td>Karl</td> <td>ᚴᛅᚱᛚ</td> <td>ᚲᚨᚱᛚ</td> </tr>
+	<tr> <td>Kolbrandr</td> <td>ᚴᚬᛚᛒᚱᛅᚾᛏᚱ</td> <td>ᚲᛟᛚᛒᚱᚨᚾᛞᚱ</td> </tr>
+	<tr> <td>Ljósbjǫrn the Survivor</td> <td>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᛅᚾᛏᛁ</td> <td>ᛚᛃᛟᛊᛒᛃᚨᚱᚾ ᛁᚾ ᛚᛁᚠᚨᚾᛞᛁ</td> </tr>
+	<tr> <td>Mjaðveig</td> <td>ᛘᛁᛅᚦᚠᛅᛁᚴ</td> <td>ᛗᛃᚨᚦᚹᛖᛁᚷ</td> </tr>
+	<tr> <td>Njáll</td> <td>ᚾᛁᛅᛚ</td> <td>ᚾᛃᚨᛚ</td> </tr>
+	<tr> <td>Ragnhildr the Half-giant</td> <td>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚴᚢᚴᚱ</td> <td>ᚱᚨᚷᚾᚺᛁᛚᛞᚱ ᛁᚾ ᚺᚨᛚᚠᚷᛁᚷᚱ</td> </tr>
+	<tr> <td>Randúlfr</td> <td>ᚱᛅᚾᛏᚢᛚᚠᚱ</td> <td>ᚱᚨᚾᛞᚢᛚᚠᚱ</td> </tr>
+	<tr> <td>Rúna</td> <td>ᚱᚢᚾᛅ</td> <td>ᚱᚢᚾᚨ</td> </tr>
+	<tr> <td>Sága</td> <td>ᛋᛅᚴᛅ</td> <td>ᛊᚨᚷᚨ</td> </tr>
+	<tr> <td>Stafnir</td> <td>ᛋᛏᛅᚠᚾᛁᚱ</td> <td>ᛊᛏᚨᚠᚾᛁᚱ</td> </tr>
+	<tr> <td>Úlfnir</td> <td>ᚢᛚᚠᚾᛁᚱ</td> <td>ᚢᛚᚠᚾᛁᚱ</td> </tr>
+	<tr> <td>Unnþora</td> <td>ᚢᚾᚦᚬᚱᛅ</td> <td>ᚢᚾᚦᛟᚱᚨ</td> </tr>
+	<tr> <td>Váli</td> <td>ᚠᛅᛚᛁ</td> <td>ᚹᚨᛚᛁ</td> </tr>
+	<tr> <td>Yngvildr</td> <td>ᚢᚾᚴᚠᛁᛚᛏᚱ</td> <td>ᛁᛜᚷᚹᛁᛚᛞᚱ</td> </tr>
+	<tr> <td>Þjóstarr English-helm</td> <td>ᚦᛁᚢᛋᛏᛅᚱ ᛁᚾᛋᚴᚼᛁᛅᛚᛘᚱ</td> <td>ᚦᛃᛟᛊᛏᚨᚱ ᛖᚾᛊᚲᚺᛃᚨᛚᛗᚱ</td> </tr>
+	<tr> <td>Þórný</td> <td>ᚦᚢᚱᚾᚢ</td> <td>ᚦᛟᚱᚾᛁ</td> </tr>
+	<tr> <td>Æskell</td> <td>ᛅᛋᚴᛁᛚ</td> <td>ᛇᛊᚲᛖᛚ</td> </tr>
+	<tr> <td>Ørólfr</td> <td>ᚢᚱᚢᛚᚠᚱ</td> <td>ᚢᚱᛟᛚᚠᚱ</td> </tr>
 </tbody></table>
