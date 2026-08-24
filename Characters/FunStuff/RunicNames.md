@@ -11,7 +11,7 @@
 	<tr> <td>Hlǫkkný</td> <td>ᚼᛚᚬᚴᚾᚢ</td> <td>ᚺᛚᚨᚲᚾᛁ</td> <td>New Clash of Battle</td> </tr>
 	<tr> <td>Hrafnhildr</td> <td>ᚼᚱᛅᚠᚾᚼᛁᛚᛏᚱ</td> <td>ᚺᚱᚨᚠᚾᚺᛁᛚᛞᚱ</td> <td>Raven Battle</td> </tr>
 	<tr> <td>Ingólfr the Trollman</td> <td>ᛁᚴᚢᛚᚠᚱ ᛁᚾ ᛏᚱᚬᛚᛘᛅᚦᚱ</td> <td>ᛁᛜᚷᛟᛚᚠᚱ ᛁᚾ ᛏᚱᚨᛚᛗᚨᚦᚱ</td> <td>Wolf of Yngvi</td> </tr>
-	<tr> <td>Karl</td> <td>ᚴᛅᚱᛚ</td> <td>ᚲᚨᚱᛚ</td> <td>Man</td> </tr>
+	<tr> <td>Karl</td> <td>ᚴᛅᚱᛚ</td> <td>ᚲᚨᚱᛚ</td> <td>Free Man</td> </tr>
 	<tr> <td>Kolbrandr</td> <td>ᚴᚢᛚᛒᚱᚬᚾᛏᚱ</td> <td>ᚲᛟᛚᛒᚱᚨᚾᛞᚱ</td> <td>Coal Fire</td> </tr>
 	<tr> <td>Ljósbjǫrn the Survivor</td> <td>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᚬᚾᛏᛁ</td> <td>ᛚᛃᛟᛊᛒᛃᚨᚱᚾ ᛁᚾ ᛚᛁᚠᚨᚾᛞᛁ</td> <td>Light Bear</td> </tr>
 	<tr> <td>Mjaðveig</td> <td>ᛘᛁᛅᚦᚠᛅᛁᚴ</td> <td>ᛗᛃᚨᚦᚹᛖᛁᚷ</td> <td>Mead Strength</td> </tr>
