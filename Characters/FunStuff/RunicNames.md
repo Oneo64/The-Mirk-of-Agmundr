@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th>English</th> <th>Younger Futhark</th> <th>Elder Futhark</th> <th>Literal Meaning</th> </tr>
 	<tr> <td>Aðalgeirr</td> <td>ᛅᚦᛅᛚᚴᛅᛁᚱ</td> <td>ᚨᚦᚨᛚᚷᛖᛁᚱ</td> <td>Noble Spear</td> </tr>
-	<tr> <td>Agmundr the Terrible</td> <td>ᛅᚴᛘᚢᚾᛏᚱ ᛁᚾ ᚢᚴᛁᛚᛁᚴᛁ</td> <td>ᚨᚷᛗᚢᚾᛞᚱ ᛁᚾ ᚢᚷᛁᛚᛁᚷᛁ</td> <td>Terror Protection</td> </tr>
+	<tr> <td>Agmundr the Terrible</td> <td>ᛅᚴᛘᚢᚾᛏᚱ ᛁᚾ ᚢᚴᛁᛚᛁᚴᛁ</td> <td>ᚨᚷᛗᚢᚾᛞᚱ ᛁᚾ ᚢᚷᛁᛚᛁᚷᛁ</td> <td>Protection of Awe</td> </tr>
 	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> <td>ᚨᛚᚠᚨᚱ</td> <td>Elven Army</td> </tr>
 	<tr> <td>Brandingi</td> <td>ᛒᚱᚬᚾᛏᛁᚴᛁ</td> <td>ᛒᚱᚨᚾᛞᛁᛜᚷᛁ</td> <td>Fireling</td> </tr>
 	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> <td>ᛞᚨᚷᚾᛁᚱ</td> <td>The One with the Daylight</td> </tr>
@@ -22,11 +22,11 @@
 	<tr> <td>Sága</td> <td>ᛋᚬᚴᛅ</td> <td>ᛊᚨᚷᚨ</td> <td>Story</td> </tr>
 	<tr> <td>Stafnir</td> <td>ᛋᛏᛅᚠᚾᛁᚱ</td> <td>ᛊᛏᚨᚠᚾᛁᚱ</td> <td>The One with the Staves</td> </tr>
 	<tr> <td>Úlfnir</td> <td>ᚢᛚᚠᚾᛁᚱ</td> <td>ᚢᛚᚠᚾᛁᚱ</td> <td>The Wolfish One</td> </tr>
-	<tr> <td>Unnþora</td> <td>ᚢᚾᚦᚢᚱᛅ</td> <td>ᚢᚾᚦᛟᚱᚨ</td> <td>Wave Thor</td> </tr>
+	<tr> <td>Unnþora</td> <td>ᚢᚾᚦᚢᚱᛅ</td> <td>ᚢᚾᚦᛟᚱᚨ</td> <td>Feminine form of Unnþórr, meaning Wave Thor</td> </tr>
 	<tr> <td>Váli</td> <td>ᚢᚬᛚᛁ</td> <td>ᚹᚨᛚᛁ</td> <td>Comes from Váli, the son of Odin</td> </tr>
 	<tr> <td>Yngvildr</td> <td>ᚢᚴᚢᛁᛚᛏᚱ</td> <td>ᛁᛜᚷᚹᛁᛚᛞᚱ</td> <td>Battle of Yngvi</td> </tr>
 	<tr> <td>Þjóstarr English-helm</td> <td>ᚦᛁᚢᛋᛏᛅᚱ ᛁᚾᛋᚴᚼᛁᛅᛚᛘᚱ</td> <td>ᚦᛃᛟᛊᛏᚨᚱ ᛖᚾᛊᚲᚺᛃᚨᛚᛗᚱ</td> <td>Army of Anger</td> </tr>
 	<tr> <td>Þórný</td> <td>ᚦᚢᚱᚾᚢ</td> <td>ᚦᛟᚱᚾᛁ</td> <td>New Thor</td> </tr>
-	<tr> <td>Æskell</td> <td>ᛅᛋᚴᛁᛚ</td> <td>ᛇᛊᚲᛖᛚ</td> <td>Helmet of the Gods</td> </tr>
+	<tr> <td>Æskell</td> <td>ᛅᛋᚴᛁᛚ</td> <td>ᛇᛊᚲᛖᛚ</td> <td>Short form of Ásketill, meaning Helmet of the Gods</td> </tr>
 	<tr> <td>Ørólfr</td> <td>ᚢᚱᚢᛚᚠᚱ</td> <td>ᚢᚱᛟᛚᚠᚱ</td> <td>Mad Wolf</td> </tr>
 </tbody></table>
