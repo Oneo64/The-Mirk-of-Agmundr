@@ -16,7 +16,7 @@
 	<tr> <td>Ljósbjǫrn the Survivor</td> <td>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᚬᚾᛏᛁ</td> <td>ᛚᛃᛟᛊᛒᛃᚨᚱᚾ ᛁᚾ ᛚᛁᚠᚨᚾᛞᛁ</td> <td>Light Bear</td> </tr>
 	<tr> <td>Mjaðveig</td> <td>ᛘᛁᛅᚦᚠᛅᛁᚴ</td> <td>ᛗᛃᚨᚦᚹᛖᛁᚷ</td> <td>Mead Strength</td> </tr>
 	<tr> <td>Njáll</td> <td>ᚾᛁᚬᛚ</td> <td>ᚾᛃᚨᛚ</td> <td>Comes from Old Irish Níall</td> </tr>
-	<tr> <td>Ragnhildr the Half-giant</td> <td>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚴᚢᚴᚱ</td> <td>ᚱᚨᚷᚾᚺᛁᛚᛞᚱ ᛁᚾ ᚺᚨᛚᚠᚷᛁᚷᚱ</td> <td>Advice Battle</td> </tr>
+	<tr> <td>Ragnhildr the Half-giant</td> <td>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚴᚢᚴᚱ</td> <td>ᚱᚨᚷᚾᚺᛁᛚᛞᚱ ᛁᚾ ᚺᚨᛚᚠᚷᛁᚷᚱ</td> <td>Battle Counsel</td> </tr>
 	<tr> <td>Randúlfr</td> <td>ᚱᚬᚾᛏᚢᛚᚠᚱ</td> <td>ᚱᚨᚾᛞᚢᛚᚠᚱ</td> <td>Shield Rim's Wolf</td> </tr>
 	<tr> <td>Rúna</td> <td>ᚱᚢᚾᛅ</td> <td>ᚱᚢᚾᚨ</td> <td>Secret Runes</td> </tr>
 	<tr> <td>Sága</td> <td>ᛋᚬᚴᛅ</td> <td>ᛊᚨᚷᚨ</td> <td>Story</td> </tr>
