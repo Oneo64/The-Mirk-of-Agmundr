@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Sága</th> </tr>
 	<tr> <th colspan=2>ᛋᚬᚴᛅ</th> </tr>
-	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
+	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>

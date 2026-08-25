@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Hallgrímr steinauga</th> </tr>
 	<tr> <th colspan=2>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</th> </tr>
-	<tr> <td>Alignment</td> <td>Chaotic Neutral</td> </tr>
+	<tr> <td>Alignment</td> <td>Chaotic Good</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Chieftain</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
