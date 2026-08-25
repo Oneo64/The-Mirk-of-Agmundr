@@ -2,6 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Alfarr</th> </tr>
 	<tr> <th colspan=2>ᛅᛚᚠᛅᚱ</th> </tr>
+	<tr> <td>Aliases</td> <td>Coward <i>(by Ingólfr)</i><br>Fated <i>(by Hlǫkkný)</i></td> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
 	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
