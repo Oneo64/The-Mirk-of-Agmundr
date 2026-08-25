@@ -26,7 +26,7 @@
 Ljósbjǫrn the Survivor, commonly known as Ljǫrn, was a settler who travelled to a northern island under the command of Hallgrímr. He is now a farmer. He spends his spare time felling trees, making firewood, and hunting deer.
 
 ## Appearance
-Ljósbjǫrn is a weathered man with long wavy dark blond hair and a short scruffy beard. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
+Ljósbjǫrn is a weathered man with long wavy dark blond hair, a short scruffy beard, and pale skin. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
 
 Ljósbjǫrn is often seen wearing a maille shirt over a simple blue tunic, a baldric holding a sword and scabbard, a pair of trousers with leg wraps, some leather boots, and a Mjǫllnir necklace. For combat and travelling, he has a spear and a shield.
 

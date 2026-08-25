@@ -5,8 +5,8 @@
 	<tr> <td>Aliases</td> <td>Coward <i>(by Ingólfr)</i><br>Fated <i>(by Hlǫkkný)</i></td> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
-	<tr> <td>Occupation</td> <td>Settler<br>Farmer</td> </tr>
-	<tr> <td>Hobbies</td> <td>Forest explotation<br>Sparring<br>Rægtafl</td> </tr>
+	<tr> <td>Occupation</td> <td>Settler<br>Housecarl</td> </tr>
+	<tr> <td>Hobbies</td> <td>Exploration<br>Sparring<br>Veldistafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20 <i>(before story)</i><br>21 <i>(after story)</i><br>33 <i>(current)</i></td> </tr>
 	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
@@ -22,10 +22,10 @@
 	<tr> <td>Eye color</td> <td>Blue</td> </tr>
 </tbody></table>
 
-Alfarr is a settler and warrior from Álhringr. He travelled west to the settlement Hrafnhamarr in Newfoundland and is also the one who persuaded Ljósbjǫrn to go there with him.
+Alfarr is a settler and warrior from Álhringr. He travelled west alongside Ljósbjǫrn, whom he had to persuade, to the newly established settlement of Hrafnhamarr in Newfoundland. After killing Ingólfr and saving Hallgrímr from usurpation, Hallgrímr accepted him as his housecarl.
 
 ## Appearance
-Alfarr is a sturdy-looking young man with long brown hair, a stubble beard, and slightly tanned skin. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
+Alfarr is a sturdy-looking young man with long brown hair, a stubble beard, and skin that is slightly tanned from the sun. He has bright blue eyes that are boyish, softening his appearance and making him look approachable. He has an average height.
 
 On most occasions, Alfarr wears a blue cap with green accents, a dark blue cloak, and a muted green tunic. He has a Mjǫllnir amulet for divine protection. In combat, he wears a maille hauberk and brings a spear and a shield.
 
