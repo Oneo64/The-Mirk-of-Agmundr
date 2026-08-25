@@ -24,23 +24,19 @@
 Alfarr is a settler and warrior from Álhringr. He travelled west to the settlement Hrafnhamarr in Newfoundland and is also the one who persuaded Ljósbjǫrn to go there with him.
 
 ## Appearance
-Alfarr is a sturdy-looking young man with long brown hair, stubble beard, and skin that is slightly tanned. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
+Alfarr is a sturdy-looking young man with long brown hair, a stubble beard, and slightly tanned skin. He has blue eyes that look boyish, softening his appearance and making him look approachable. He stands at a height of 5'8".
 
-Alfarr wears a blue cap with green accents, a dark blue shawl, and a muted green tunic, with a Mjǫllnir amulet for divine protection. In combat, he wears a maille hauberk and brings a spear and a shield.
+On most occasions, Alfarr wears a blue cap with green accents, a dark blue cloak, and a muted green tunic. He has a Mjǫllnir amulet for divine protection. In combat, he wears a maille hauberk and brings a spear and a shield.
 
 ## Personality
-As a bold person, Alfarr is adventurous and competitive, persuasive with his companions. He is mindful of his surroundings, careful not to knock anything over or do anything clumsy. However, in combat, he becomes reckless and impulsive. He is a coward, fleeing in the face of powerful foes or adversaries of unknown danger.
+Alfarr is adventurous and competitive, and is often known as being a bold person by his companions. Although he watches himself so that he isn't clumsy, he becomes reckless and impulsive in stressful situations. His impulsiveness also leaks into his speech as he is very likely to blurt his words out. He would respond too quickly, utter sudden threats at foes, and so on.
 
-Not only that, Alfarr's impulsiveness in combat leaks into his speech, blurting his words out. He would respond too quickly, utter sudden threats at foes, and so on.
-
-During stressful times, Alfarr gains his sense of ridiculous humour, often childish and playful. Still, he is very mature at other times.
+But despite these traits, Alfarr is a shameless coward in the face of powerful foes or adversaries of unknown danger. He may agree to things since such ideas are noble, but when he actually faces them at the current moment, he begins to show fear and uncertainty.
 
 Alfarr's love languages are acts of service and words of affirmation. With people he is very close to, his outer bold self softens.
 
 ## Abilities
 ### Physicality
-Alfarr has six years' worth of spear-fighting practice, which makes him above average in combat with his spear.
-
 Alfarr has an odd defensive-offensive fighting style. He would start by keeping a safe distance with his shield in front of him, waiting for an opening to strike. Without his spear, unless the enemy had their weapon pointing at him (if they had one), he would throw himself at them, tackle them to the ground, and try to get a stab with his seax.
 
 ### Veldistafl
