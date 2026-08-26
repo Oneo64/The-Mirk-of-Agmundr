@@ -13,7 +13,7 @@
 	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Njáll <i>(father)</i><br>Þórný <i>(mother)</i></td> </tr>
 	<tr> <td>Spouse</td> <td>Ljósbjǫrn</td> </tr>
-	<tr> <td>Children</td> <td>Karl (son)</td> </tr>
+	<tr> <td>Children</td> <td>Karl <i>(son)</i></td> </tr>
 	<tr> <th colspan=2>Physical description</th> </tr>
 	<tr> <td>Species</td> <td>Human</td> </tr>
 	<tr> <td>Gender</td> <td>Female</td> </tr>
