@@ -21,7 +21,7 @@
 Hallgrímr Stone-eye was a Viking explorer who led settlers to Agmundarland. Now, he is the prideful chieftain of his village.
 
 ## Appearance
-Hallgrímr has black hair with grey streaks, paired with a full yet scruffy beard. His green eyes are sharp yet withered, giving him a frightening appearance.
+Hallgrímr has black hair with grey streaks, paired with a full yet scruffy beard, and his green eyes are sharp yet withered, giving him a frightening appearance. He wears a vibrant red tunic with brown embroidery lining the hems, an indication of his wealth and power.
 
 ## Personality
 Hallgrímr is arrogant, rowdy, and talkative, with a tendency to jest at other people. He is stubborn and argumentative, usually defending anything he believes until he is directly proven wrong.

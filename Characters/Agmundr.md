@@ -21,7 +21,7 @@ Agmundr the Terrible was a Viking explorer who discovered Newfoundland and estab
 ## Appearance
 Agmundr is a tall, withered corpse, with greyed eyes and sparse black hair. Its face is old, wrinkled, and bony, and its skin is dark and greyish green, a result of idling inside a cold, dry tomb for decades. There is a gnarly wound in its stomach, as if someone drove a sharp object through it.
 
-Agmundr wears a suit of old maille and heavy, ragged clothes. On its head sits a rusty helmet. It carries a longseax and a rotten shield.
+Agmundr wears a weak helmet that has holes in it. Under a heavy cloak, it wears a suit of old maille and grey ragged clothes. It carries a longseax and a rotten shield.
 
 ## Personality
 Agmundr is extremely playful yet cruel, having no regard for any traditions it used to have. Like many draugr, it is extremely and violently protective of its valuables.

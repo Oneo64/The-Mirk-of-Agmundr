@@ -1,5 +1,5 @@
 # Aðalgeirr Guðormsson
-Aðalgeirr is the father of Ljósbjǫrn, Alfarr, and the late eldest brother, Úlfnir. He has wavy blond hair, a thin bronze circlet, and a scar on his rib from a Dane axe. His father's name is Guðormr.
+Aðalgeirr is the father of Ljósbjǫrn, Alfarr, and the late eldest brother, Úlfnir. He has wavy blond hair, a thin bronze circlet, and a scar on his rib from a Dane axe, and he wears a cloak and a red tunic. His father's name is Guðormr.
 
 ## Trivia
 - Aðalgeirr's name comes from [aðall](https://en.wiktionary.org/wiki/aðall#Old_Norse) *("nobility")* + [geirr](https://en.wiktionary.org/wiki/geirr#Old_Norse) *("spear")*.
