@@ -27,7 +27,7 @@ Agmundr wore a weak helmet that had holes in it. Under a heavy cloak, it wore a 
 Agmundr was extremely playful yet cruel, having no regard for any traditions it used to have. Like many draugr, it was extremely and violently protective of its valuables.
 
 ### Example dialogue
-- "Hefirðu borið koppinn minn, nú skal þú deyja."
+- "Hefirðu borit koppinn minn, nú skal þú deyja."
 
 ## Abilities
 Unless disturbed, Agmundr would sit inside its burial mound with absolute stillness. If someone touched anything inside, it would awaken and rise from its burial spot.
