@@ -1,5 +1,5 @@
 # Álhringr
-Álhringr is a coastal village and a major trade location in southwestern Iceland. Tens of longhouses are built in the village, connected by roads which eventually lead away to other distant villages. The current chieftain is Eiríkr Randúlfsson.
+Álhringr is a coastal village and a major trade location in southwestern Iceland. Tens of longhouses are built in the village, connected by roads which eventually lead away to other distant villages. The current chieftain is Eiláfr Randúlfsson.
 
 A birch and ash forest borders the village. Deeper in the forest, the landscape becomes steeper and rockier, and the trees grow taller and darker. Somewhere inside the forest, there is a river in a dip in the ground, which eventually flows to the ocean.
 

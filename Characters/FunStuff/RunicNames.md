@@ -6,7 +6,8 @@
 	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> <td>ᚨᛚᚠᚨᚱ</td> <td>Elven Army</td> </tr>
 	<tr> <td>Brandingi</td> <td>ᛒᚱᚬᚾᛏᛁᚴᛁ</td> <td>ᛒᚱᚨᚾᛞᛁᛜᚷᛁ</td> <td>Fireling</td> </tr>
 	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> <td>ᛞᚨᚷᚾᛁᚱ</td> <td>The One with the Daylight</td> </tr>
-	<tr> <td>Eiríkr</td> <td>ᛅᛁᚱᛁᚴᚱ</td> <td>ᛖᛁᚱᛁᚲᚱ</td> <td>Eternally Wealthy</td> </tr>
+	<tr> <td>Eiláfr</td> <td>ᛅᛁᛚᚬᚠᚱ</td> <td>ᛖᛁᛚᚨᚠᚱ</td> <td>Eternal Inheritance</td> </tr>
+	<tr> <td>Félagi</td> <td>ᚠᛁᛚᛅᚴᛁ</td> <td>ᚠᛖᛚᚨᚷᛁ</td> <td>Fellow</td> </tr>
 	<tr> <td>Guðormr</td> <td>ᚴᚢᚦᚢᚱᛘᚱ</td> <td>ᚷᛟᚦᛟᚱᛗᚱ</td> <td>Serpent of the Gods</td> </tr>
 	<tr> <td>Gunnarr the Generous</td> <td>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</td> <td>ᚷᚢᚾᚨᚱ ᛁᚾ ᚷᚨᚠᚢᚷᛁ</td> <td>Battle Army</td> </tr>
 	<tr> <td>Hallgrímr Stone-eye</td> <td>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</td> <td>ᚺᚨᛚᚷᚱᛁᛗᚱ ᛊᛏᛖᛁᚾᚨᚢᚷᚨ</td> <td>Stone Fiery</td> </tr>
