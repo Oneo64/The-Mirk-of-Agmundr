@@ -19,12 +19,12 @@
 Agmundr the Terrible was a Viking explorer who discovered Newfoundland and established Hrafnhamarr. During his stay, he was struck by an arrow in a battle with the natives of the island and was buried in a mound.
 
 ## Appearance
-Agmundr is a tall, withered corpse, with greyed eyes and sparse black hair. Its face is old, wrinkled, and bony, and its skin is dark and greyish green, a result of idling inside a cold, dry tomb for decades. There is a gnarly wound in its stomach, as if someone drove a sharp object through it.
+While it was a draugr, Agmundr was a tall, withered corpse, with greyed eyes and sparse black hair. Its face was wrinkled and bony, and its skin was dark and grey with a green tint, a result of idling inside a cold, dry tomb for decades. There was a gnarly wound in its stomach, as if someone drove a sharp object through it.
 
-Agmundr wears a weak helmet that has holes in it. Under a heavy cloak, it wears a suit of old maille and grey ragged clothes. It carries a longseax and a rotten shield.
+Agmundr wore a weak helmet that had holes in it. Under a heavy cloak, it wore a suit of old maille and grey ragged clothes. It carried a longseax and a rotten shield.
 
 ## Personality
-Agmundr is extremely playful yet cruel, having no regard for any traditions it used to have. Like many draugr, it is extremely and violently protective of its valuables.
+Agmundr was extremely playful yet cruel, having no regard for any traditions it used to have. Like many draugr, it was extremely and violently protective of its valuables.
 
 ### Example dialogue
 - "Hefirðu borið koppinn minn, nú skal þú deyja."
@@ -39,3 +39,6 @@ Agmundr was particularly skilled with the longseax and was at least twice as str
 Agmundr could possess creatures, although killing the vessel wouldn't harm the draugr. It could turn itself into a billow of mist, belch harmful black smoke out of its mouth, and enter dreams. When it suffered physical damage, it could regenerate itself and fix those wounds.
 
 The draugr was able to curse Alfarr's goblet, causing people to fall sick near it. The family members of those who were afflicted were also affected by the curse, albeit not as strongly.
+
+## Death
+Agmundr was ultimately killed by Ljósbjǫrn when Alfarr drove his spear into the draugr's stomach, allowing Ljósbjǫrn to go behind it and cleave his chopping axe into the back of the draugr's head. When Ljósbjǫrn decapitated it and burned its body, he prevented the draugr from rising again.
