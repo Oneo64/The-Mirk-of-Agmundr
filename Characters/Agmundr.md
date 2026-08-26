@@ -33,7 +33,7 @@ Agmundr was extremely playful yet cruel, having no regard for any traditions it 
 Unless disturbed, Agmundr would sit inside its burial mound with absolute stillness. If someone touched anything inside, it would awaken and rise from its burial spot.
 
 ### Physicality
-Agmundr was particularly skilled with the longseax and was at least twice as strong as a normal living man. It was very durable, being able to withstand Rúna's spear when she struck its neck.
+Agmundr was particularly skilled with the longseax and was at least twice as strong as a normal living man. It was very durable, being able to withstand Rúna's spear when she struck its neck. Despite its age, it could still move and fight like a living warrior.
 
 ### Draugric powers
 Agmundr could possess creatures, although killing the vessel wouldn't harm the draugr. It could turn itself into a billow of mist, belch harmful black smoke out of its mouth, and enter dreams. When it suffered physical damage, it could regenerate itself and fix those wounds.
