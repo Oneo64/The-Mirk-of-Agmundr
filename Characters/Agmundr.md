@@ -40,5 +40,5 @@ Agmundr could possess creatures, although killing the vessel wouldn't harm the d
 
 The draugr was able to curse Alfarr's goblet, causing people to fall sick near it. The family members of those who were afflicted were also affected by the curse, albeit not as strongly.
 
-## Death
+## Fate
 Agmundr was ultimately killed by Ljósbjǫrn when Alfarr drove his spear into the draugr's stomach, allowing Ljósbjǫrn to go behind it and cleave his chopping axe into the back of the draugr's head. When Ljósbjǫrn decapitated it and burned its body, he prevented the draugr from rising again.
