@@ -18,7 +18,7 @@
 	<tr> <td>Eye color</td> <td>Green</td> </tr>
 </tbody></table>
 
-Hallgrímr Stone-eye was a Viking explorer who led settlers to Agmundarland. Now, he is the prideful chieftain of his village.
+Hallgrímr Stone-eye was a Viking explorer who led settlers to Agmundarland. Now, he is the prideful chieftain of his village. His two servants are named Brandingi and Myndill.
 
 ## Appearance
 Hallgrímr has black hair with grey streaks, paired with a full yet scruffy beard, and his green eyes are sharp yet withered, giving him a frightening appearance. He wears a vibrant red tunic with brown embroidery lining the hems, an indication of his wealth and power.

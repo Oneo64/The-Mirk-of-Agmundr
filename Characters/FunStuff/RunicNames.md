@@ -6,7 +6,6 @@
 	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> <td>ᚨᛚᚠᚨᚱ</td> <td>Elven Army</td> </tr>
 	<tr> <td>Brandingi</td> <td>ᛒᚱᚬᚾᛏᛁᚴᛁ</td> <td>ᛒᚱᚨᚾᛞᛁᛜᚷᛁ</td> <td>Fireling</td> </tr>
 	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> <td>ᛞᚨᚷᚾᛁᚱ</td> <td>The One with the Daylight</td> </tr>
-	<tr> <td>Eiláfr</td> <td>ᛅᛁᛚᚬᚠᚱ</td> <td>ᛖᛁᛚᚨᚠᚱ</td> <td>Eternal Inheritance</td> </tr>
 	<tr> <td>Eiríkr</td> <td>ᛅᛁᚱᛁᚴᚱ</td> <td>ᛖᛁᚱᛁᚲᚱ</td> <td>Eternal Wealth</td> </tr>
 	<tr> <td>Félagi</td> <td>ᚠᛁᛚᛅᚴᛁ</td> <td>ᚠᛖᛚᚨᚷᛁ</td> <td>Fellow</td> </tr>
 	<tr> <td>Guðormr</td> <td>ᚴᚢᚦᚢᚱᛘᚱ</td> <td>ᚷᛟᚦᛟᚱᛗᚱ</td> <td>Serpent of the Gods</td> </tr>
@@ -19,8 +18,10 @@
 	<tr> <td>Kolbrandr</td> <td>ᚴᚢᛚᛒᚱᚬᚾᛏᚱ</td> <td>ᚲᛟᛚᛒᚱᚨᚾᛞᚱ</td> <td>Coal Fire</td> </tr>
 	<tr> <td>Ljósbjǫrn the Survivor</td> <td>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᚬᚾᛏᛁ</td> <td>ᛚᛃᛟᛊᛒᛃᚨᚱᚾ ᛁᚾ ᛚᛁᚠᚨᚾᛞᛁ</td> <td>Light Bear</td> </tr>
 	<tr> <td>Mjaðveig</td> <td>ᛘᛁᛅᚦᚠᛅᛁᚴ</td> <td>ᛗᛃᚨᚦᚹᛖᛁᚷ</td> <td>Mead Strength</td> </tr>
+	<tr> <td>Myndill</td> <td>ᛘᛁᚾᛏᛁᛚ</td> <td>ᛗᛁᚾᛞᛁᛚ</td> <td>Possibly a diminuitive form for names ending in -mundr</td> </tr>
 	<tr> <td>Njáll</td> <td>ᚾᛁᚬᛚ</td> <td>ᚾᛃᚨᛚ</td> <td>Comes from Old Irish Níall</td> </tr>
 	<tr> <td>Ragnhildr the Half-giant</td> <td>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚴᚢᚴᚱ</td> <td>ᚱᚨᚷᚾᚺᛁᛚᛞᚱ ᛁᚾ ᚺᚨᛚᚠᚷᛁᚷᚱ</td> <td>Battle Counsel</td> </tr>
+	<tr> <td>Randúlfr</td> <td>ᚱᚬᚾᛏᚢᛚᚠᚱ</td> <td>ᚱᚨᚾᛞᚢᛚᚠᚱ</td> <td>Shield Rim's Wolf</td> </tr>
 	<tr> <td>Rúna</td> <td>ᚱᚢᚾᛅ</td> <td>ᚱᚢᚾᚨ</td> <td>Secret Runes</td> </tr>
 	<tr> <td>Sága</td> <td>ᛋᚬᚴᛅ</td> <td>ᛊᚨᚷᚨ</td> <td>Story</td> </tr>
 	<tr> <td>Stafnir</td> <td>ᛋᛏᛅᚠᚾᛁᚱ</td> <td>ᛊᛏᚨᚠᚾᛁᚱ</td> <td>The One with the Staves</td> </tr>
