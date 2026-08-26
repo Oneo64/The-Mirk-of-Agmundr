@@ -6,6 +6,7 @@
 	<tr> <td>Alfarr</td> <td>ᛅᛚᚠᛅᚱ</td> <td>ᚨᛚᚠᚨᚱ</td> <td>Elven Army</td> </tr>
 	<tr> <td>Brandingi</td> <td>ᛒᚱᚬᚾᛏᛁᚴᛁ</td> <td>ᛒᚱᚨᚾᛞᛁᛜᚷᛁ</td> <td>Fireling</td> </tr>
 	<tr> <td>Dagnir</td> <td>ᛏᛅᚴᚾᛁᚱ</td> <td>ᛞᚨᚷᚾᛁᚱ</td> <td>The One with the Daylight</td> </tr>
+	<tr> <td>Fjǫlmóðr</td> <td>ᚠᛁᚬᛚᛘᚢᚦᚱ</td> <td>ᚠᛃᛟᛚᛗᛟᚦᚱ</td> <td>Much Frenzy</td> </tr>
 	<tr> <td>Guðormr</td> <td>ᚴᚢᚦᚢᚱᛘᚱ</td> <td>ᚷᛟᚦᛟᚱᛗᚱ</td> <td>Serpent of the Gods</td> </tr>
 	<tr> <td>Gunnarr the Generous</td> <td>ᚴᚢᚾᛅᚱ ᛁᚾ ᚴᚬᚠᚢᚴᛁ</td> <td>ᚷᚢᚾᚨᚱ ᛁᚾ ᚷᚨᚠᚢᚷᛁ</td> <td>Battle Army</td> </tr>
 	<tr> <td>Hallgrímr Stone-eye</td> <td>ᚼᛅᛚᚴᚱᛁᛘᚱ ᛋᛏᛅᛁᚾᛅᚢᚴᛅ</td> <td>ᚺᚨᛚᚷᚱᛁᛗᚱ ᛊᛏᛖᛁᚾᚨᚢᚷᚨ</td> <td>Stone Fiery</td> </tr>
@@ -18,12 +19,11 @@
 	<tr> <td>Mjaðveig</td> <td>ᛘᛁᛅᚦᚠᛅᛁᚴ</td> <td>ᛗᛃᚨᚦᚹᛖᛁᚷ</td> <td>Mead Strength</td> </tr>
 	<tr> <td>Njáll</td> <td>ᚾᛁᚬᛚ</td> <td>ᚾᛃᚨᛚ</td> <td>Comes from Old Irish Níall</td> </tr>
 	<tr> <td>Ragnhildr the Half-giant</td> <td>ᚱᛅᚴᚾᚼᛁᛚᛏᚱ ᛁᚾ ᚼᛅᛚᚠᚴᚢᚴᚱ</td> <td>ᚱᚨᚷᚾᚺᛁᛚᛞᚱ ᛁᚾ ᚺᚨᛚᚠᚷᛁᚷᚱ</td> <td>Battle Counsel</td> </tr>
-	<tr> <td>Randúlfr</td> <td>ᚱᚬᚾᛏᚢᛚᚠᚱ</td> <td>ᚱᚨᚾᛞᚢᛚᚠᚱ</td> <td>Shield Rim's Wolf</td> </tr>
 	<tr> <td>Rúna</td> <td>ᚱᚢᚾᛅ</td> <td>ᚱᚢᚾᚨ</td> <td>Secret Runes</td> </tr>
 	<tr> <td>Sága</td> <td>ᛋᚬᚴᛅ</td> <td>ᛊᚨᚷᚨ</td> <td>Story</td> </tr>
 	<tr> <td>Stafnir</td> <td>ᛋᛏᛅᚠᚾᛁᚱ</td> <td>ᛊᛏᚨᚠᚾᛁᚱ</td> <td>The One with the Staves</td> </tr>
 	<tr> <td>Úlfnir</td> <td>ᚢᛚᚠᚾᛁᚱ</td> <td>ᚢᛚᚠᚾᛁᚱ</td> <td>The Wolfish One</td> </tr>
-	<tr> <td>Unnþora</td> <td>ᚢᚾᚦᚢᚱᛅ</td> <td>ᚢᚾᚦᛟᚱᚨ</td> <td>Feminine form of Unnþórr, meaning Wave Thor</td> </tr>
+	<tr> <td>Unnþóra</td> <td>ᚢᚾᚦᚢᚱᛅ</td> <td>ᚢᚾᚦᛟᚱᚨ</td> <td>Feminine form of Unnþórr, meaning Wave Thor</td> </tr>
 	<tr> <td>Váli</td> <td>ᚢᚬᛚᛁ</td> <td>ᚹᚨᛚᛁ</td> <td>Comes from Váli, the son of Odin</td> </tr>
 	<tr> <td>Yngvildr</td> <td>ᚢᚴᚢᛁᛚᛏᚱ</td> <td>ᛁᛜᚷᚹᛁᛚᛞᚱ</td> <td>Battle of Yngvi</td> </tr>
 	<tr> <td>Þjóstarr English-helm</td> <td>ᚦᛁᚢᛋᛏᛅᚱ ᛁᚾᛋᚴᚼᛁᛅᛚᛘᚱ</td> <td>ᚦᛃᛟᛊᛏᚨᚱ ᛖᚾᛊᚲᚺᛃᚨᛚᛗᚱ</td> <td>Army of Anger</td> </tr>

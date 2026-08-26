@@ -37,8 +37,8 @@ Sága's favourite colour is red, which is reflected in her choice of clothing dy
 - "Faðir, kemrðu eigi?"
 - "Krækiber? Þessi eru ateins bláber!"
 
-### Unnþora
-Sága sees Unnþora as a role model and aspires to be as brave as her.
+### Unnþóra
+Sága sees Unnþóra as a role model and aspires to be as brave as her.
 
 ### Ljósbjǫrn
 Sága is convinced that Ljósbjǫrn was bewitched by elves. The belief has spread into a local rumour.

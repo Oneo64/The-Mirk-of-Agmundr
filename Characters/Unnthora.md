@@ -1,5 +1,5 @@
-# Unnþora
-Unnþora is a shieldmaiden who lives in Álhringr. She is Sága's role model.
+# Unnþóra
+Unnþóra is a shieldmaiden who lives in Álhringr. She is Sága's role model.
 
 ## Trivia
-- Unnþora's name comes from [unna](https://en.wiktionary.org/wiki/unna#Old_Norse) *("to love")* + [Þórr](https://en.wiktionary.org/wiki/Þórr#Old_Norse) *("Thor")*.
+- Unnþóra's name comes from [unnr](https://en.wiktionary.org/wiki/unna#Old_Norse) *("wave")* + [Þórr](https://en.wiktionary.org/wiki/Þórr#Old_Norse) *("Thor")*.
