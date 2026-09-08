@@ -23,7 +23,7 @@ Hallgrímr receives the news that Hrafnhamarr is ready for settlement. Randúlfr
 Hallgrímr gathers a group of people and sends Sága door-to-door to recruit more settlers, since she is more likely to convince people. Sága delivers the message to Aðalgeirr, who then tells his last two living sons. Alfarr instantly agrees, while Ljósbjǫrn only agrees to escape war.
 
 ## Part A: Arriving in Newfoundland
-Æskell, Alfarr, Brandingi, Gunnarr, Hallgrímr, Hlǫkkný, Hrafnhildr, Ingólfr, Ljósbjǫrn, Ørólfr, Ragnhildr, Rúna, Sága, Stafnir, and Þjóstarr are all settlers from Álhringr. They travel to Hrafnhamarr. They begin to build new houses.
+Hallgrímr brings about 50 people from Álhringr to settle in Hrafnhamarr. The travellers include Alfarr, Ingólfr, Ljósbjǫrn, Rúna, Sága, etc. They begin to build new houses.
 
 Hallgrímr organises a small expedition party of Ingólfr, Sága, Ljósbjǫrn, Alfarr, and Rúna, and stays behind to oversee their farms. The five travel out into the forest and encounter Agmundr's tomb. Alfarr finds a bronze goblet on the ground and picks it up, disturbing Agmundr's rest.
 
