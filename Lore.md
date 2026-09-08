@@ -1,5 +1,5 @@
 # Lore
-DISCLAIMER: This file may not be 100% accurate, but it should convey all the main turning points and events of the story. Please refer to [this file](https://github.com/Oneo64/The-Mirk-of-Agmundr-Story/blob/main/SecondDraft/Plot.md) to see the full version.
+I will try to explain the lore with equal attention and importance for each character, so hopefully no one overshadows the others. Disclaimer: This file may not be 100% accurate, but it should convey all the main turning points and events of the story. Please refer to [this file](https://github.com/Oneo64/The-Mirk-of-Agmundr-Story/blob/main/SecondDraft/Plot.md) to see the full version.]
 
 ## About 20 years ago
 Agmundr sails to Newfoundland and establishes Hrafnhamarr, a small coastal farmstead next to an expansive pine forest. Later, he is killed by trolls who shoot an arrow into his chest.
