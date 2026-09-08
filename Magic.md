@@ -3,7 +3,7 @@ Magic is a mysterious, supernatural force that causes miracles and unexplained e
 
 - Hlǫkkný uses Seiðr to gain knowledge of Agmundr's awakening.
 - Agmundr curses a bronze goblet, which spreads sickness to anyone related to it.
-- A troll shaman uses magic to cause a wooden beam to break and fall from a longhouse, which strikes Ljósbjǫrn on the head.
+- A troll shaman uses magic to cause a wooden beam to break and fall from a longhouse, which strikes Ljósbjǫrn on the head and knocks him out.
 - The Nykr attempts to lure Ljósbjǫrn using magic.
 - Agmundr possesses a goat to enter Hrafnhamarr unnoticed, and when discovered by Ljósbjǫrn, turns itself into mist to evade his attack.
 - Agmundr belches harmful black mist at Alfarr in an attempt to kill him.
