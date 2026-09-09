@@ -48,6 +48,7 @@ Alfarr can play Veldistafl, a 2-player strategy board game.
 - "Ek sagða þér at þetta land myndi gera okkr ríka. Mun þú, ferr faðir til Fjǫrðvíks. Stríðin náir þá eigi þarna. Þú þarft eigi at vera áhyggjusamr fyrir þá."
 - "Hvat sem er gott fyrir þik."
 - "Þetta er tækifæri til okkar!"
+- "Þórr, hjalpa þú mér..."
 
 ## Name Translations
 - **Younger Futhark:** ᛅᛚᚠᛅᚱ
