@@ -97,6 +97,7 @@ Ljósbjǫrn's love languages are physical touch and acts of service. Even though
 
 #### Emotional
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
+- "Ek... ek vil... ek... ek veit eigi... ek þarf... faðm. Finnsk mér at þurfa faðm." *(Having difficulty with expressing that he wants a hug.)*
 
 ## Abilities
 ### Physicality
