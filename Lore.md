@@ -57,7 +57,7 @@ Meanwhile, Rúna stargazes as her hobby, so she is also awake. Rúna sees the fi
 
 The next day, Rúna is being tended by Ragnhildr. Alfarr, Ljósbjǫrn, and Sága all agree to go to the draugr mound and kill Agmundr. Before Ljósbjǫrn leaves, he looks at Rúna, who is still unconscious and being treated by Ragnhildr, and falls in love with her.
 
-When the three arrive at the draugr mound, Agmundr attacks them relentlessly. The draugr disarms almost everyone, but when it is about to strike Alfarr down, Alfarr drives his spear into the draugr's stomach. This gives Ljósbjǫrn an opening, and he takes out his chopping axe and buries it into the draugr's head. After that, they burn its remains to ensure that it never returns again.
+When the three arrive at the draugr mound, Agmundr attacks them relentlessly. The draugr disarms almost everyone, but when it is about to strike Alfarr down, Alfarr drives his spear into the draugr's stomach. This gives Ljósbjǫrn an opening, and he takes out his chopping axe and buries it into the draugr's head. After that, they burn its remains to ensure it can never return.
 
 Meanwhile, Ingólfr has launched a second attack on Hrafnhamarr and succeeds. He captures Hallgrímr and is planning to behead him, and has turned everyone who wasn't a fighter into his servant, including Hrafnhildr, Brandingi, and Stafnir. As he is giving a speech, the three return and discover this.
 
