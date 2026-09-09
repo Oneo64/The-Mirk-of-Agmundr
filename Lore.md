@@ -51,13 +51,13 @@ After surviving in the forest for a day and a half, Ljósbjǫrn finds his way ba
 That night, the settlers perform a ritual and social gathering for Thor in celebration of their victory against the trolls. Rúna makes runesticks for herself, Alfarr, and Ljósbjǫrn, but makes Ljósbjǫrn's runestick out of juniper. Ljósbjǫrn is still oblivious.
 
 ## Part C: Endgame
-Ljósbjǫrn cannot sleep (insomnia), so he's awake in the middle of the night sharpening his axe. He hears something strange outside and finds a goat in his enclosure, which is actually Agmundr looking for the goblet in disguise. The goat looks uncanny, so Ljósbjǫrn chases it away because he thinks it's haunted. When he loses the goat and is walking back home, Agmundr transforms back and tries to kill Ljósbjǫrn. Agmundr is twice as strong as a human, so he knocks Ljósbjǫrn to his feet and is about to kill him.
+Ljósbjǫrn cannot sleep (insomnia), so he's awake in the middle of the night sharpening his axe. He hears something strange outside and finds a goat in his enclosure, which is actually Agmundr looking for the goblet in disguise. The goat looks uncanny, so Ljósbjǫrn chases it away because he thinks it's haunted. When he loses the goat and is walking back home, Agmundr transforms back and tries to kill Ljósbjǫrn. Agmundr is twice as strong as a human, so it knocks Ljósbjǫrn to his feet and is about to kill him.
 
-Meanwhile, Rúna stargazes as her hobby, so she is also awake. Rúna sees the fight and takes her spear. She sneaks behind Agmundr and strikes his neck. Agmundr doesn't feel pain and turns around. He breaks her spear by gripping it tightly, and then slashes her. Rúna falls to the ground unconscious and bleeds profusely.
+Meanwhile, Rúna stargazes as her hobby, so she is also awake. Rúna sees the fight and takes her spear. She sneaks behind Agmundr and strikes its neck. Agmundr doesn't feel pain and turns around. It breaks her spear by gripping it tightly, and then slashes her. Rúna falls to the ground unconscious and bleeds profusely.
 
 The next day, Rúna is being tended by Ragnhildr. Alfarr, Ljósbjǫrn, and Sága all agree to go to the draugr mound and kill Agmundr. Before Ljósbjǫrn leaves, he looks at Rúna, who is still unconscious and being treated by Ragnhildr, and falls in love with her.
 
-When the three arrive at the draugr mound, Agmundr attacks them relentlessly. He disarms everyone, but when he is going to strike Alfarr down, Ljósbjǫrn takes out his chopping axe and buries it into Agmundr's head.
+When the three arrive at the draugr mound, Agmundr attacks them relentlessly. The draugr disarms almost everyone, but when it is about to strike Alfarr down, Alfarr drives his spear into the draugr's stomach. This gives Ljósbjǫrn an opening, and he takes out his chopping axe and buries it into the draugr's head. After that, they burn its remains to ensure that it never returns again.
 
 Meanwhile, Ingólfr has launched a second attack on Hrafnhamarr and succeeds. He captures Hallgrímr and is planning to behead him, and has turned everyone who wasn't a fighter into his servant, including Hrafnhildr, Brandingi, and Stafnir. As he is giving a speech, the three return and discover this.
 
