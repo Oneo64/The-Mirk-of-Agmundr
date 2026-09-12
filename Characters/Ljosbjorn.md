@@ -38,7 +38,7 @@ Ljósbjǫrn is an introverted man who seems to carry a composed demeanour. Altho
 
 However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
-Ljósbjǫrn seeks peace at heart but pessimistically views war as a necessary and eventual thing. In his own words, war will eventually happen, no matter how hard one tries.
+Even though Ljósbjǫrn seeks peace at heart, he pessimistically views war as an eventual thing, thinks violence is sometimes necessary to solve certain problems, and would never actually admit what he wants. In his own words, war will eventually happen, no matter how hard one tries.
 
 After his main arc ended, Ljósbjǫrn gained courage with the help of his brother, Alfarr. His fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
