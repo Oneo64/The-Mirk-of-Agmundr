@@ -69,7 +69,7 @@ Ljósbjǫrn's love languages are physical touch and acts of service. Even though
 ### Example dialogues
 #### Main story
 - "Vér eru í nánd."
-- "Þat fallar!"
+- "Þat fellr!"
 - "Ek þarf smá stund."
 - "Skóg... skógrinn...?"
 - "Hvat vánarðu at finna í þeim skógi...?"
