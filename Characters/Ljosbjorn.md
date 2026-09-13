@@ -71,7 +71,7 @@ Ljósbjǫrn's love languages are physical touch and acts of service. Even though
 ### Alfarr
 [*See: Alfarr.md*](Alfarr.md)
 
-Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being his only living brother, he is more willing to rely on him even when he knows about his brother's cowardice.
+Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being his only living brother, he is more willing to rely on him even when he knows about his brother's cowardice. He remains as emotionally guarded as he would be with other strangers, although he does become more talkative with him.
 
 ### Example dialogues
 #### Main story
