@@ -68,6 +68,11 @@ Ljósbjǫrn finds Rúna's habits endearing to the heart, such as her fidgeting, 
 
 Ljósbjǫrn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and avoidant of it. He would like to have bold gestures with Rúna, such as long hugs and hand-holding, but he would never take the initiative on those kinds of things.
 
+### Alfarr
+[*See: Alfarr.md*](Alfarr.md)
+
+Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being his only living brother, he is more willing to rely on him even when he knows about his brother's cowardice.
+
 ### Example dialogues
 #### Main story
 - "Vér eru í nánd."
