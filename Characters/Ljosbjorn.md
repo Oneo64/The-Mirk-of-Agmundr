@@ -34,11 +34,13 @@ Ljósbjǫrn is often seen wearing a maille shirt over a simple blue tunic, a bal
 Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
-Ljósbjǫrn is an introverted man who seems to carry a composed demeanour. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors. He also tries to be reasonable, wanting to be seen as a good person.
+Ljósbjǫrn is an introverted man who seems to carry a composed demeanour. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors. He also tries to be reasonable and protective, wanting to be seen as a good person.
 
 However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
-Even though Ljósbjǫrn seeks peace at heart, he pessimistically views war as an eventual thing, thinks violence is sometimes necessary to solve certain problems, and would never actually admit to himself that he wants peace. In his own words, war will eventually happen, no matter how hard one tries.
+On the surface, Ljósbjǫrn presents himself as a confident, fearless, and independent person, similar to the stoic warrior archetype. But he is secretly insecure and is afraid of being called weak and cowardly.
+
+Even though Ljósbjǫrn seeks peace at heart, he pessimistically views war as an eventual thing, thinks violence is sometimes necessary to solve certain problems, and would never actually admit that he wants peace. In his own words, war will eventually happen, no matter how hard one tries.
 
 After his main arc ended, Ljósbjǫrn gained courage with the help of his brother, Alfarr. His fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
