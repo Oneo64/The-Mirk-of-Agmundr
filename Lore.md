@@ -65,7 +65,7 @@ Alfarr makes an impulsive decision and ambushes Ingólfr, leading Ljósbjǫrn an
 
 As Alfarr processes the brutality of his kill, he is struck by an arrow. Hallgrímr escorts Alfarr to safety, while Ljósbjǫrn looks for Rúna and stays with her until the end of the battle.
 
-When the battle ends, Ljósbjǫrn searches Ingólfr's body and finds his sword. However, he still hasn't gotten his helmet back, and assumes that the trolls destroyed it.
+When the battle ends, Ljósbjǫrn searches Ingólfr's body and finds his own sword. However, he still hasn't gotten his helmet back, and assumes that the trolls destroyed it.
 
 Hallgrímr organises a banquet in celebration and invites Alfarr, Ljósbjǫrn, several warriors (including his housecarls), and his family. After that, he marries Sága to Alfarr, and makes Alfarr another one of his housecarls.
 
