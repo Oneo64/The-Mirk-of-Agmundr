@@ -55,7 +55,7 @@ Ljósbjǫrn's favourite food is venison, a meat he will quickly devour if cooked
 Ljósbjǫrn speaks in a casual and reduced manner, often answering people with a few words. He grumbles or stammers his words during his shy moments, and speaks as directly as possible, but never blurts them out unless startled. His natural voice is cold and gravelly, becoming hoarse when he is tired.
 
 ### Trauma
-Ljósbjǫrn is very susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons and armour.
+Ljósbjǫrn is very susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons.
 
 During an episode, Ljósbjǫrn becomes irritable and restless, pacing around in an attempt to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
 
