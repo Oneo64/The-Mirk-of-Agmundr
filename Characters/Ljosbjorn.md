@@ -28,7 +28,7 @@ Ljósbjǫrn the Survivor, commonly known as Ljǫrn, was a settler who travelled 
 ## Appearance
 Ljósbjǫrn is a weathered man with long wavy dark blond hair, a short scruffy beard, and pale skin. His pale blue eyes are downturned and hooded, making him look constantly sleep-deprived. He has a lean body softened by some fat, and he stands at a height of 5'9".
 
-Ljósbjǫrn is often seen wearing a maille shirt over a simple blue tunic, a baldric holding a sword and scabbard, a pair of trousers with leg wraps, some leather boots, and a Mjǫllnir necklace. For combat and travelling, he has a spear and a shield.
+Ljósbjǫrn is often seen wearing a brown woollen cloak, a simple blue tunic, a baldric holding a sword and scabbard, a pair of trousers with leg wraps, some leather boots, and a Mjǫllnir necklace. For combat and travelling, he has a spear and a shield.
 
 ### Scars
 Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
