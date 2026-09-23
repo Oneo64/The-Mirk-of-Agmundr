@@ -9,7 +9,7 @@
 	<tr> <td>Hobbies</td> <td>Exploration<br>Sparring<br>Veldistafl</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>20 <i>(before story)</i><br>21 <i>(after story)</i><br>33 <i>(current)</i></td> </tr>
-	<tr> <td>Birthday</td> <td>August 17, AD 902</td> </tr>
+	<tr> <td>Birthday</td> <td>August 17, AD 922</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Aðalgeirr <i>(father)</i><br>Mjaðveig <i>(mother)</i><br>Úlfnir <i>(deceased older brother)</i><br>Ljósbjǫrn <i>(older brother)</i></td> </tr>
 	<tr> <td>Spouse</td> <td>Sága</td> </tr>

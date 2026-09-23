@@ -9,7 +9,7 @@
 	<tr> <td>Hobbies</td> <td>Carving<br>Star-gazing<br>Weaving (sometimes)</td> </tr>
 	<tr> <th colspan=2>Biographical information</th> </tr>
 	<tr> <td>Age</td> <td>22 <i>(before story)</i><br>23 <i>(after story)</i><br>35 <i>(current)</i></td> </tr>
-	<tr> <td>Birthday</td> <td>March 14, AD 900</td> </tr>
+	<tr> <td>Birthday</td> <td>March 14, AD 920</td> </tr>
 	<tr> <td>Birthplace</td> <td>Álhringr, Iceland</td> </tr>
 	<tr> <td>Relative(s)</td> <td>Njáll <i>(father)</i><br>Þórný <i>(mother)</i></td> </tr>
 	<tr> <td>Spouse</td> <td>Ljósbjǫrn</td> </tr>
