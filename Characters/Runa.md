@@ -53,9 +53,9 @@ Rúna speaks informally and doesn't talk much, usually hesitating on the first w
 ### Ljósbjǫrn
 [*See: Ljósbjǫrn.md*](Ljosbjorn.md)
 
-Rúna is noticeably kinder and softer to Ljósbjǫrn, becoming more playful and letting out all her restrained behaviour by teasing and chiding him for his behaviour. She likes to sneakily try on his equipment whenever he isn't wearing it. Because of her perfectionism, she has an unusually caring side, always making sure there is nothing making him uncomfortable.
+Rúna is noticeably kinder and softer to Ljósbjǫrn, becoming more playful and letting out all her restrained behaviour by teasing and chiding him for his behaviour. She likes to sneakily try on his equipment whenever he isn't wearing it. Because of her perfectionism, she has an unusually caring side since she is always making sure nothing makes him uncomfortable.
 
-But Rúna would get frustrated with some of the tendencies Ljósbjǫrn has, especially his protectiveness and stubbornness. Even though she finds them difficult to deal with, she works around it by telling him off.
+Sometimes, Rúna gets frustrated with some of Ljósbjǫrn's tendencies, especially his stubbornness and protectiveness. Even though she finds them difficult to deal with, she works around it by telling him off.
 
 ### Gunnarr
 [*See: Gunnarr.md*](Gunnarr.md)
