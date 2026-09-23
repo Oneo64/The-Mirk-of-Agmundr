@@ -33,9 +33,9 @@ Casually, Rúna wears a blue tunic dress with red edges, some shoes, and a Mjǫl
 Rúna has a long, gnarly scar across her back after being slashed by a draugr. Although she has mostly recovered, she can still feel it and would flinch if someone touched it.
 
 ## Personality
-Even though Rúna is shy and doesn't like the company of strangers, becoming easily flustered in bad situations, she isn't as reserved as most people expect and usually tries to avoid conflicts through negotiation and verbal confrontation. Despite these traits, she has a fascination with ancient ruins and secret lore that drives her to explore them a little, yet she avoids going on dangerous expeditions and is deathly afraid of performative magic.
+Although Rúna is shy and bashful, disliking the company of strangers and getting easily flustered in bad situations, she isn't as reserved as most people expect and usually tries to avoid conflict through negotiation and verbal confrontation. Despite these traits, she's fascinated by ancient ruins and secret lore, which drives her to explore them a little, yet she avoids dangerous expeditions and is deathly afraid of performative magic.
 
-Rúna is absent-minded, spacing out whenever she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong and getting urges to correct people. When facing enemies, she can become arrogant and make impulsive decisions.
+Rúna is absent-minded, spacing out whenever she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong and getting urges to correct people. When she gets protective, she can become arrogant and reckless and make impulsive decisions.
 
 Because of the scar on her back, Rúna is hesitant to turn her back on strangers and acquaintances and is hesitant to tell anyone about it, afraid they might notice it and fuss over it.
 
