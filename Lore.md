@@ -48,7 +48,7 @@ When Ljósbjǫrn runs into the forest, he hides under a fir tree to stay warm. H
 
 After surviving in the forest for a day and a half, Ljósbjǫrn finds his way back to Hrafnhamarr by following a river downhill. Rúna sees him and is relieved, and she invites him into her home to give him food and warmth.
 
-That night, the settlers perform a ritual and social gathering for Thor in celebration of their victory against the trolls. Rúna makes runesticks for herself, Alfarr, and Ljósbjǫrn, but makes Ljósbjǫrn's runestick out of juniper. Ljósbjǫrn is still oblivious.
+That night, the settlers perform a ritual and social gathering for Thor in celebration of their victory against the trolls. Rúna makes runesticks for herself, Alfarr, and Ljósbjǫrn, but makes Ljósbjǫrn's runestick out of juniper. After the celebration ends, Rúna asks Ljósbjǫrn if he wants to stargaze with her, but he declines, saying he will be busy. She is heartbroken.
 
 ## Part C: Endgame
 Ljósbjǫrn cannot sleep (insomnia), so he's awake in the middle of the night sharpening his axe. He hears something strange outside and finds a goat in his enclosure, which is actually Agmundr looking for the goblet in disguise. The goat looks uncanny, so Ljósbjǫrn chases it away because he thinks it's haunted. When he loses the goat and is walking back home, Agmundr transforms back and tries to kill Ljósbjǫrn. Agmundr is twice as strong as a human, so it knocks Ljósbjǫrn to his feet and is about to kill him.
