@@ -42,7 +42,7 @@ On the surface, Ljósbjǫrn presents himself as a confident, fearless, and indep
 
 Even though Ljósbjǫrn seeks peace at heart, he pessimistically views war as an eventual thing, thinks violence is sometimes necessary to solve certain problems, and would never actually admit that he wants peace. In his own words, war will eventually happen, no matter how hard one tries.
 
-After his main arc ended, Ljósbjǫrn gained courage with the help of his brother, Alfarr. His fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
+After his main arc ended, Ljósbjǫrn gained courage and became more willing to confront threats despite outwardly showing fear. Not only that, his fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
 Ljósbjǫrn has several notable habits:
 - When alone, he likes to use sticks, rocks, and sometimes the end of his spear to draw and fiddle with dirt, then erase them when someone comes over or before he leaves.
