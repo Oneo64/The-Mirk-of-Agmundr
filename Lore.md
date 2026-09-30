@@ -31,9 +31,11 @@ After dark, Hlǫkkný senses something is wrong and preaches to Hallgrímr. Ljó
 
 Several days pass, and people start falling sick. Hallgrímr, Sága, Æskell, and Alfarr are amongst those who are affected. Ljósbjǫrn is denied entry, so he talks to Alfarr through a window. Ingólfr is trying to convince Hallgrímr to let him take a substitute, but Hallgrímr is stubborn. When Ingólfr leaves, he catches Ljósbjǫrn and tries to get him exiled. Hallgrímr just increases Ljósbjǫrn's workload and then dismisses him.
 
-On the same day, some guards catch trolls spying on them. Sága manages to calm the situation down by trading with them, but she offers an iron seax. The offering angers the trolls, who see it as an insult, and leave.
+On the same day, some guards catch trolls spying on them. Sága calms the situation by trading with them, but she offers an iron seax. The offering angers the trolls, who see it as an insult, and leave.
 
-Some days later, a troll is spotted spying on them again. This time, a guard shouts for someone to shoot at it, and Ørólfr fires two arrows at it. Both arrows miss, and the troll escapes. Ingólfr attempts to rally the warriors and tells Alfarr that he is brave and should join him. But Alfarr cowers, and all the other warriors leave with disinterest. Ingólfr insults them and storms off. Later that night, Brandingi bursts into the community hall where Hallgrímr, Hrafnhildr, and the sick are, telling them that Ingólfr has disappeared into the forest. Hrafnhildr tells Hallgrímr not to go because it's too dangerous.
+Some days later, the sickness finally reaches Ljósbjǫrn, so he seeks Rúna out for help. After he confesses that he's embarrassed by his last encounter with Ragnhildr, Rúna offers to speak to Ragnhildr for him.
+
+At the same time, a troll is spotted spying on them again. This time, a guard shouts for someone to shoot at it, and Ørólfr fires two arrows at it. Both arrows miss, and the troll escapes. Ingólfr attempts to rally the warriors and tells Alfarr that he is brave and should join him. But Alfarr cowers, and all the other warriors leave with disinterest. Ingólfr insults them and storms off. Later that night, Brandingi bursts into the community hall where Hallgrímr, Hrafnhildr, and the sick are, telling them that Ingólfr has disappeared into the forest. Hrafnhildr tells Hallgrímr not to go because it's too dangerous.
 
 Meanwhile, Ingólfr tracks down the troll camp. Upon arrival, he convinces them that the settlers in Hrafnhamarr are evil, and they begin plotting an attack.
 
@@ -42,11 +44,11 @@ Winter has come, and people think Ingólfr is dead. However, Ingólfr launches a
 
 During the attack, Ljósbjǫrn is scared and hides at first, then he fights his way to check on Alfarr and Rúna. Rúna is hiding inside a house with her spear, along with several other farmers. When Ljósbjǫrn opens the door and finds her, she falls in love with him.
 
-Although the attack was unsuccessful, Ljósbjǫrn and Ørólfr are both captured and taken back to the troll camp. Ljósbjǫrn loses his spear, shield, sword, axe, and helmet. Ørólfr dies from the coldness of the forest. Luckily for Ljósbjǫrn, his captors have forgotten to take his seax, so he unsheathes it and cuts himself free.
+Although the attack was unsuccessful, Ljósbjǫrn and Ørólfr are both knocked unconscious, captured, and taken to the troll camp. They are both kept in a worn tent made of animal hide. Ljósbjǫrn loses his spear, shield, axe, and helmet, and Ingólfr steals his sword for himself. Ørólfr dies from the coldness of the forest.
 
-When Ljósbjǫrn runs into the forest, he hides under a fir tree to stay warm. He thinks he will die there and cries.
+Luckily for Ljósbjǫrn, his captors have forgotten to take his seax, so he unsheathes it and cuts himself free. He runs into the forest and hides under a fir tree to stay warm. He thinks he will die there and cries himself to sleep.
 
-After surviving in the forest for a day and a half, Ljósbjǫrn finds his way back to Hrafnhamarr by following a river downhill. Rúna sees him and is relieved, and she invites him into her home to give him food and warmth.
+After surviving in the forest for a day and a half, Ljósbjǫrn finds his way back to Hrafnhamarr by following a river downhill. Rúna spots him wandering on the street, looking for his home, and is overjoyed that he is alive. She invites him into her home to give him food and warmth.
 
 That night, the settlers perform a ritual and social gathering for Thor in celebration of their victory against the trolls. Rúna makes runesticks for herself, Alfarr, and Ljósbjǫrn, but makes Ljósbjǫrn's runestick out of juniper. After the celebration ends, Rúna asks Ljósbjǫrn if he wants to stargaze with her, but he declines, saying he will be busy. She is heartbroken.
 
