@@ -40,7 +40,11 @@ At the same time, a troll is spotted spying on them again. This time, a guard sh
 Meanwhile, Ingólfr tracks down the troll camp. Upon arrival, he convinces them that the settlers in Hrafnhamarr are evil, and they begin plotting an attack.
 
 ## Part B: Tragedy
-Winter has come, and people think Ingólfr is dead. However, Ingólfr sends his army of trolls to Hrafnhamarr, planning a surprise attack. But one of the attackers impulsively shoots an arrow at Ljósbjǫrn, who is patrolling voluntarily, nearly missing his head and alerting the villagers.
+Winter has come, and people think Ingólfr is dead. However, Ingólfr sends his army of trolls to Hrafnhamarr, planning a surprise attack.
+
+Ljósbjǫrn volunteers to patrol around the village. Alfarr seeks his brother out and begins to bother him, saying that he is being tense. He also reveals his relationship with Sága. Ljósbjǫrn isn't amused and tells Alfarr not to bother him.
+
+The trolls arrive at Hrafnhamarr and hide in the forest, but one of them impulsively shoots an arrow at Ljósbjǫrn, nearly missing his head. Ljósbjǫrn alerts the villagers and runs back into the settlement.
 
 During the attack, Ljósbjǫrn is scared and hides at first, then he fights his way to check on Alfarr and Rúna. Rúna is hiding inside a house with her spear, along with several other farmers. When Ljósbjǫrn opens the door and finds her, she falls in love with him.
 
