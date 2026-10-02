@@ -71,6 +71,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend. She 
 
 #### Normal
 - "Jæja..." *(Trying to explain herself.)*
+- "Um... ertu... heill...?"
 
 #### Flustered
 - "Mín hrók!" *(Her reaction to her dress being stained by a spilled drink.)*
@@ -78,9 +79,10 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend. She 
 - "Já... um... e-ef þú þurfir mik, skal ek vera þar."
 
 #### Confused
-- "Talaði hann til mín...?" *(Confused because someone was speaking a foreign language to her.)*
+- "Hvat þýðirðu?"
+- "Talaði hann til mín...?"
 
-#### Angry/annoyed
+#### Angry
 - "Þat var úþarft."
 - "Þetta er eigi kamilla. Þetta er allt annat."
 

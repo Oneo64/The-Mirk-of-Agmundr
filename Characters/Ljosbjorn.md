@@ -87,7 +87,9 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 #### Normal
 - "Já?" *(Showing attendance when someone calls him.)*
 - "Já, hǫfðingi minn." *(Obeying orders from his chieftain.)*
-- "Venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
+- "Þat var, uh, slagsmál." *(Explaining what happened earlier.)*
+- "Mér finnsk at vilja venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
+- "Vitleysi." *(Calling out Rúna's nonsense.)*
 
 #### Flustered
 - "Sem... þetta?" *(He says this as he's nervously trying something new.)*
@@ -96,16 +98,17 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 - "Hvat...? Hvat gerðisk?"
 - "Hvat gerirðu í helvíti?!"
 
-#### Angry/annoyed
-- "Ver þú fjarr!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
+#### Angry
+- "Ver þú fjarr!"
 - "Hvat er þetta?!"
-- "Halfvítin svín." *(Insulting his attackers after getting into a bar fight.)*
-- "Ek skal taka á hánum bráðum."
+- "Halfvítin svín..." *(Insulting his attackers after getting into a bar fight.)*
 - "Bragða þetta járn!" *(A battlecry which he shouts as he swings a sword.)*
+- "Ek skal taka á hánum bráðum."
 
 #### Emotional
 - "...J-já."
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
+- "Hvat... gerir... þú...?"
 - "Fyrirgefa mér. Ateins... ateins er þat þannig at... ek... ek hefi vert faðmaðr aldri."
 - "Elskan, m-muntu at... ek... ek vil... ek... ek veit eigi... ek... ek þarf... f-faðm. Finnsk mér at þurfa annat... a-annat faðm." *(Having difficulty with expressing that he wants a hug.)*
 
