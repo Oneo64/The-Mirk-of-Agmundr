@@ -1,3 +1,3 @@
 Copyright © 2026 Oneo64. All rights reserved.
 
-The worldbuilding material, characters, lore, artwork, and other original creative content in this repository are the property of Oneo64, unless otherwise stated. No permission is granted to reproduce, redistribute, modify, or use this material commercially without prior written permission.
+Unless otherwise stated, the contents of this repository may not be reproduced, redistributed, modified, or incorporated into other works without the copyright holder's permission.
