@@ -92,6 +92,7 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend. She 
 - "Þú ert seinn, veiztu. Hefirðu orðit þurr bolr af því at skera svá marga viðu?" *(Teasing Ljósbjǫrn again, but also trying to be braver than she usually is.)*
 - "Þú skyldir vera varkárari."
 - "Hverr finnsk hánum at hann séi...?"
+- "E-en... en fannsk mér at þ-þat væri eigi með b-beyglu..."
 
 ## Abilities
 ### Domestic Skills
