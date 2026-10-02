@@ -93,6 +93,7 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 
 #### Flustered
 - "Sem... þetta?" *(He says this as he's nervously trying something new.)*
+- "Hvat... gerir... þú...?"
 
 #### Confused
 - "Hvat...? Hvat gerðisk?"
@@ -108,8 +109,7 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 #### Emotional
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 - "Elskan, m-muntu at... ek... ek vil... ek... ek veit eigi... ek... ek þarf... f-faðm. Finnsk mér at þurfa annat... a-annat faðm." *(Having difficulty with expressing that he wants a hug.)*
-- "Þú ert fǫgr þó í því."
-- "Hvat... gerir... þú...?"
+- "Þú ert fǫgr þó í því. Finnsk mér."
 - "Þér líðr varmliga... var þér greiðliga kalt?"
 - "Fyrirgefa mér. Ateins... ateins er þat þannig at... ek... ek hefi vert faðmaðr aldri."
 
