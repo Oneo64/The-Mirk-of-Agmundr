@@ -2,7 +2,7 @@
 <table align=right><tbody>
 	<tr> <th colspan=2>Ljósbjǫrn inn lifandi</th> </tr>
 	<tr> <th colspan=2>ᛚᛁᚢᛋᛒᛁᚬᚱᚾ ᛁᚾ ᛚᛁᚠᚬᚾᛏᛁ</th> </tr>
-	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljosbjorn/Calligraphy1.png" alt="test" width="270"></th> </tr>
+	<tr> <th colspan=2><img src="https://github.com/Oneo64/The-Mirk-of-Agmundr/blob/main/Art/Ljosbjorn/Calligraphy2.png" alt="test" width="270"></th> </tr>
 	<tr> <td>Aliases</td> <td>Ljǫrn <i>(casual byname)</i><br>Ljarni <i>(affectionate)</i><br>Bewitched by elves <i>(by Sága)</i></td> </tr>
 	<tr> <td>Alignment</td> <td>Neutral</td> </tr>
 	<tr> <td>Affiliation</td> <td>Hallgrímr's company</td> </tr>
