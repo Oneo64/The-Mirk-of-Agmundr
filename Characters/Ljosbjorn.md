@@ -85,11 +85,12 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 - "Þarftu hjalp?"
 
 #### Normal
-- "Já?" *(Showing attendance when someone calls him.)*
-- "Já, hǫfðingi minn." *(Obeying orders from his chieftain.)*
+- "Já?" *(Responding when someone calls him.)*
 - "Þat var, uh, slagsmál." *(Explaining what happened earlier.)*
-- "Vitleysi, ver þú eigi fáránlig." *(Calling out Rúna's nonsense.)*
 - "Mér finnsk at vilja venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
+- "Já, hǫfðingi minn."
+- "Ver þú eigi fáránlig."
+- "Þat er sagt at þeir trǫll njósna á oss aptr... vér skyldu verða búnir, ef reyna þeir at berjask við oss."
 
 #### Flustered
 - "Sem... þetta?" *(He says this as he's nervously trying something new.)*
