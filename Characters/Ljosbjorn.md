@@ -36,7 +36,7 @@ Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees fr
 ## Personality
 Ljósbjǫrn is an introverted man who seems to carry a composed demeanour. Although many people see him as unsociable, he maintains his politeness by responding appropriately and bowing his head, especially to his elders or superiors. He also tries to be reasonable, wanting to be seen as a good person.
 
-However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them). He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
+However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them), and will often frame them as something he needs in a materialistic, literal, or inevitable sense. He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
 On the surface, Ljósbjǫrn presents himself as a confident, fearless, and independent person, similar to the stoic warrior archetype. But he is secretly insecure and is afraid of being called weak and cowardly.
 
@@ -52,7 +52,7 @@ Ljósbjǫrn has several notable habits:
 Ljósbjǫrn's favourite food is venison, a meat he will quickly devour if cooked well. His second favourite food is dried, hard bread with the crust because it's chewy. Although he doesn't have a good sense of humour, he finds himself smiling or chuckling to himself at slapstick humour.
 
 ### Voice
-Ljósbjǫrn speaks in a casual and reduced manner, often answering people with a few words. He grumbles or stammers his words during his shy moments, and speaks as directly as possible, but never blurts them out unless startled. His natural voice is cold and gravelly, becoming hoarse when he is tired.
+Ljósbjǫrn speaks in a direct and simple manner, but never blurts things out unless startled. Sometimes, he stammers during his shy moments and struggles to say what he wants to say. His natural voice is cold and gravelly, becoming hoarse when he is tired.
 
 ### Trauma
 Ljósbjǫrn is unusually susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons.
@@ -104,7 +104,7 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 
 #### Emotional
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
-- "Ek... ek vil... ek... ek veit eigi... ek þarf... faðm. Finnsk mér at þurfa faðm." *(Having difficulty with expressing that he wants a hug.)*
+- "Elskan, m-muntu at... ek... ek vil... ek... ek veit eigi... ek... ek þarf... f-faðm. Finnsk mér at þurfa annat... a-annat faðm." *(Having difficulty with expressing that he wants a hug.)*
 
 ## Abilities
 ### Physicality
