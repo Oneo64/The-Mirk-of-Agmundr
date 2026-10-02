@@ -106,7 +106,6 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 - "Ek skal taka á hánum bráðum."
 
 #### Emotional
-- "...J-já."
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
 - "Hvat... gerir... þú...?"
 - "Fyrirgefa mér. Ateins... ateins er þat þannig at... ek... ek hefi vert faðmaðr aldri."
