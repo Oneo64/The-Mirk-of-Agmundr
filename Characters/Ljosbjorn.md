@@ -85,6 +85,7 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 - "Þarftu hjalp?"
 
 #### Normal
+- "Já?" *(Showing attendance when someone calls him.)*
 - "Já, hǫfðingi minn." *(Obeying orders from his chieftain.)*
 - "Venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
 
@@ -95,7 +96,7 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 - "Hvat...? Hvat gerðisk?"
 - "Hvat gerirðu í helvíti?!"
 
-#### Angry
+#### Angry/annoyed
 - "Ver þú fjarr!" *(He says this as he's brandishing his sword at a bunch of attackers.)*
 - "Hvat er þetta?!"
 - "Halfvítin svín." *(Insulting his attackers after getting into a bar fight.)*
@@ -103,7 +104,9 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 - "Bragða þetta járn!" *(A battlecry which he shouts as he swings a sword.)*
 
 #### Emotional
+- "...J-já."
 - "Elskan, ek ateins... ek varð at verja mik frá einhverjum mǫnnum." *(Explaining his bruises after Rúna was shocked seeing them.)*
+- "Fyrirgefa mér. Ateins... ateins er þat þannig at... ek... ek hefi vert faðmaðr aldri."
 - "Elskan, m-muntu at... ek... ek vil... ek... ek veit eigi... ek... ek þarf... f-faðm. Finnsk mér at þurfa annat... a-annat faðm." *(Having difficulty with expressing that he wants a hug.)*
 
 ## Abilities
