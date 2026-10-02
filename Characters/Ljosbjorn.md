@@ -86,9 +86,9 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 
 #### Normal
 - "Já?" *(Showing attendance when someone calls him.)*
-- "Vitleysi." *(Calling out Rúna's nonsense.)*
 - "Já, hǫfðingi minn." *(Obeying orders from his chieftain.)*
 - "Þat var, uh, slagsmál." *(Explaining what happened earlier.)*
+- "Vitleysi, ver þú eigi fáránlig." *(Calling out Rúna's nonsense.)*
 - "Mér finnsk at vilja venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
 
 #### Flustered

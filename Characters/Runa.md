@@ -89,9 +89,9 @@ Rúna thinks Gunnarr is a genuinely good person and considers him a friend. She 
 #### Emotional
 - "Þú ert svá stífr!" *(Teasing Ljósbjǫrn for being stiff during a hug.)*
 - "Ljarni, m-mér er kalt." *(Trying to indirectly tell Ljósbjǫrn that she wants to hug him.)*
-- "Þú ert seinn, veiztu."
 - "Þú skyldir vera varkárari."
 - "Hverr finnsk hánum at hann séi...?"
+- "Þú ert seinn, veiztu. Hefirðu orðit þurr bolr af því at skera svá marga viðu?" *(Teasing Ljósbjǫrn again.)*
 
 ## Abilities
 ### Domestic Skills
