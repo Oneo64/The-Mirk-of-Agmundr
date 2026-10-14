@@ -38,7 +38,7 @@ Ljósbjǫrn is an introverted man who seems to carry a composed demeanour. Altho
 
 However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them), and will often frame them as something he needs in a materialistic, literal, or inevitable sense. He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
-Subconsciously, Ljósbjǫrn presents himself as a confident, fearless, and independent person, similar to the stoic warrior archetype. But he is secretly insecure and is afraid of being called weak and cowardly.
+Ljósbjǫrn subconsciously thinks that he is a confident, fearless, and independent person, and presents himself as such, similar to the stoic warrior archetype. But he is secretly insecure and is afraid of being called weak and cowardly.
 
 Even though Ljósbjǫrn seeks peace at heart, he pessimistically views war as an eventual thing, thinks violence is sometimes necessary to solve certain problems, and would never actually admit that he wants peace. In his own words, war will eventually happen, no matter how hard one tries.
 
