@@ -55,9 +55,11 @@ Ljósbjǫrn speaks in a direct and simple manner, but never blurts things out un
 ### Trauma
 Ljósbjǫrn is unusually susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons.
 
-During an episode, Ljósbjǫrn becomes irritable and restless, pacing around in an attempt to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
+During an episode, Ljósbjǫrn becomes irritable and restless, pacing as he tries to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
 
-After settling in Newfoundland, his fears subsided for a short while. However, he suffered another tragedy and was held captive by trolls for two days during the winter, prolonging his problems.
+After settling in Newfoundland, his symptoms subsided briefly before he suffered another tragedy: he was held captive by trolls for two days during the winter, prolonging his problems.
+
+Ljósbjǫrn has somewhat recovered ten years after his last battle. He rarely gets episodes now, and when he does, he isn't as agitated and has learned how to calm himself down. However, he is still reluctant to share his inner thoughts.
 
 ### Rúna
 [*See: Rúna.md*](Runa.md)
