@@ -59,7 +59,7 @@ During an episode, Ljósbjǫrn becomes irritable and restless, pacing as he trie
 
 After settling in Newfoundland, his symptoms subsided briefly before he suffered another tragedy: he was held captive by trolls for two days during the winter, prolonging his problems.
 
-Ljósbjǫrn has somewhat recovered ten years after his last battle. He rarely gets episodes now, and when he does, he isn't as agitated and has learned how to calm himself down. However, he is still reluctant to share his inner thoughts.
+Ljósbjǫrn has somewhat recovered ten years after his last battle. He rarely gets episodes now, and when he does, he isn't as agitated and has learned how to calm himself down. Regardless, he is still reluctant to share his inner thoughts and might even refuse to share them altogether.
 
 ### Rúna
 [*See: Rúna.md*](Runa.md)
