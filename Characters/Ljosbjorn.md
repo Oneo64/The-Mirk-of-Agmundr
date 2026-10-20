@@ -64,7 +64,7 @@ Ljósbjǫrn has somewhat recovered ten years after his last battle. He rarely ge
 ### Rúna
 [*See: Rúna.md*](Runa.md)
 
-To put it simply, Ljósbjǫrn loves Rúna very much. He behaves more softly and more openly when Rúna is around. He is very protective of her and worries when she wants to try things he thinks are dangerous, like exploring the forest. Her small habits have always endeared her to him, like her fidgeting, teasing, and avoidance of cracks in the ground. Although he thinks that she can be a bit childish sometimes, he plays along with her anyway.
+To put it simply, Ljósbjǫrn loves Rúna very much. He behaves more softly and more openly when Rúna is around, and is very protective of her and worries when she wants to try things he thinks are dangerous. Her small habits have always endeared her to him, like her fidgeting, teasing, and avoidance of cracks in the ground. Although he thinks that she can be a bit childish sometimes, he plays along with her anyway.
 
 Ljósbjǫrn's love languages are physical touch and acts of service. Even though he craves physical touch the most, he is actually very shy and sometimes avoidant of it. He usually craves bold gestures with Rúna, such as long hugs, hand-holding, and even leaning on each other. Despite his initial awkwardness, he has slowly gotten used to casual affection and sometimes even embraces it.
 
