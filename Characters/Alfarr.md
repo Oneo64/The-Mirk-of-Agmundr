@@ -53,8 +53,7 @@ Alfarr can play Veldistafl, a 2-player strategy board game.
 
 ## Name Translations
 - **Younger Futhark:** ᛅᛚᚠᛅᚱ
-- **Icelandic:** Álfarr
-- **English, Danish, Norwegian, Swedish, German, Latin:** Alvar
+- **English, Danish, Norwegian, Swedish, Icelandic, German, Latin:** Alvar
 - **Greek:** Αλφάρ
 - **Russian:** Альфар
 - **Traditional Chinese:** 阿爾法爾
