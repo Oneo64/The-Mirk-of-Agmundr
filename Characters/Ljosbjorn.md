@@ -53,9 +53,11 @@ Ljósbjǫrn's favourite food is venison, a meat he will quickly devour if cooked
 Ljósbjǫrn speaks in a direct and simple manner, but never blurts things out unless startled. Sometimes, he stammers during his shy moments and struggles to say what he wants to say. His natural voice is cold and gravelly, becoming hoarse when he is tired.
 
 ### Trauma
-Ljósbjǫrn is unusually susceptible to noises like movement, bonfires, or yelling, especially during the night. Insomnia and nightmares sometimes trouble him, making it difficult for him to fall asleep because he's afraid of waking up to fights. He can get paranoid if he feels cold or hungry, or like he's being cornered, restrained, or interrogated. Other than his loved ones, he is also comforted by the presence of his weapons.
+Ljósbjǫrn is unusually susceptible to noises like movement or yelling, or sights like bonfires or people standing over him, especially during the night or in the darkness. Insomnia and nightmares sometimes trouble him, making it difficult for him to fall asleep because he's afraid of waking up to fights. He can get paranoid if he feels cold or hungry, or like he's being cornered, restrained, or interrogated. Forests can also make him paranoid about random ambushes, even if that isn't going to happen.
 
 When Ljósbjǫrn gets a trigger, he usually zones out, becomes very quiet, and gets a little bitter. He usually ignores people or downplays his thoughts if asked what's going on in his mind.
+
+The presence of his loved ones comforts him greatly, leading him to cherish closeness and physical contact. He is also comforted by the presence of his weapons, sometimes even sleeping with one within reach.
 
 After settling in Newfoundland, his symptoms subsided briefly before he suffered another tragedy: he was held captive by trolls for two days during the winter, prolonging his problems.
 
