@@ -53,13 +53,13 @@ Ljósbjǫrn's favourite food is venison, a meat he will quickly devour if cooked
 Ljósbjǫrn speaks in a direct and simple manner, but never blurts things out unless startled. Sometimes, he stammers during his shy moments and struggles to say what he wants to say. His natural voice is cold and gravelly, becoming hoarse when he is tired.
 
 ### Trauma
-Ljósbjǫrn is unusually susceptible to noises like banging or movement, especially at night. Insomnia and nightmares sometimes trouble him at night, making it difficult for him to fall asleep because he's afraid of waking up to fights. Other than his loved ones, he is also comforted by the presence of his weapons.
+Ljósbjǫrn is unusually susceptible to noises like movement, bonfires, or yelling, especially during the night. Insomnia and nightmares sometimes trouble him, making it difficult for him to fall asleep because he's afraid of waking up to fights. He can get paranoid if he feels cold or hungry, or like he's being cornered, restrained, or interrogated. Other than his loved ones, he is also comforted by the presence of his weapons.
 
-During an episode, Ljósbjǫrn becomes irritable and restless, pacing as he tries to control himself. He also becomes very hard to deal with as he shuts down most people's concerns.
+When Ljósbjǫrn gets a trigger, he usually zones out, becomes very quiet, and gets a little bitter. He usually ignores people or downplays his thoughts if asked what's going on in his mind.
 
 After settling in Newfoundland, his symptoms subsided briefly before he suffered another tragedy: he was held captive by trolls for two days during the winter, prolonging his problems.
 
-Ljósbjǫrn has somewhat recovered ten years after his last battle, as he now rarely gets episodes. And when he does, he only gets mildly upset and has learned how to calm himself down. Regardless, he is still reluctant to share his inner thoughts and might even refuse to share them altogether.
+Ten years after his last battle, Ljósbjǫrn has somewhat recovered and now rarely has episodes. When he does, he's only mildly upset and has learned to calm himself down. Regardless, he is still reluctant to share his inner thoughts and might even refuse to share them altogether, and he can still get irritated over the same triggers.
 
 ### Rúna
 [*See: Rúna.md*](Runa.md)
