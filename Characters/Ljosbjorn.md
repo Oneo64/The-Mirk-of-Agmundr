@@ -89,7 +89,7 @@ Although Ljósbjǫrn treats Alfarr no differently than a friend, despite being h
 #### Normal
 - "Já?" *(Responding when someone calls him.)*
 - "Þat var, uh, slagsmál." *(Explaining what happened earlier.)*
-- "Mér finnsk at vilja venjuliga pottréttinn ok mjǫðinn." *(Ordering his food in a tavern.)*
+- "Ek vil... ek... m-mér finnsk at vilja... p-pottréttinn. O-ok mjǫðinn." *(Ordering his food in a tavern.)*
 - "Já, hǫfðingi minn."
 - "Ver þú eigi fáránlig."
 - "Þat er sagt at þeir trǫll njósna á oss aptr... vér skyldu búa oss undir, ef reyna þeir at berjask við oss."
