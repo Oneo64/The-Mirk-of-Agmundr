@@ -55,7 +55,7 @@ Ljósbjǫrn speaks in a direct and simple manner, but never blurts things out un
 ### Trauma
 Even if they don't seem like it, half of Ljósbjǫrn's personality flaws actually come from his trauma. He is unusually susceptible to noises like movement or yelling, or sights like bonfires or people standing over him, especially during the night or in the darkness. Insomnia and nightmares sometimes trouble him, making it difficult for him to fall asleep because he's afraid of waking up to fights. He can get paranoid if he feels cold, hungry, cornered, restrained, or interrogated, or if he's inside a forest and feels like he's being followed/watched.
 
-When having a flashback, Ljósbjǫrn usually zones out and becomes very quiet, as if he's wandering inside his own world. If he isn't zoning out, he gets bitter, inconsiderate, and avoidant of his feelings, usually ignoring people or downplaying his thoughts when asked what's going through his mind. Sometimes, he might genuinely feel "cold" even if the weather isn't, which makes him sit closer to fires or wear his cloak more often than others.
+When having a flashback, Ljósbjǫrn usually zones out and becomes very quiet with a blank expression, as if he's wandering inside his own world. If he isn't zoning out, he gets bitter, inconsiderate, and avoidant of his feelings, usually ignoring people or downplaying his thoughts when asked what's going through his mind. Sometimes, he might genuinely feel "cold" even if the weather isn't, which makes him sit closer to fires or wear his cloak more often than others.
 
 The presence of his loved ones comforts him greatly, leading him to cherish closeness and physical contact. He is also comforted by the presence of his weapons, sometimes even sleeping with one within reach.
 
