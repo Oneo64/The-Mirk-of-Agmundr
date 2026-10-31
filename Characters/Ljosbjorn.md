@@ -34,7 +34,7 @@ Ljósbjǫrn is often seen wearing a brown woollen cloak, a simple blue tunic, a 
 Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
-Ljósbjǫrn is a reserved man who seems to carry a composed demeanour. Although many see him as unsociable, he is very respectful to others, especially to his elders or superiors, and shows it by responding appropriately and bowing his head. Furthermore, he tries to be humble and reasonable, wanting to be seen as a good person.
+Ljósbjǫrn is a reserved man who seems to carry a composed demeanour. Although many see him as unsociable, he is very respectful to others (especially to elders and superiors) and shows it by responding appropriately and bowing his head. Furthermore, he tries to be humble and reasonable, wanting to be seen as a good person.
 
 However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them), and will often frame them as something he needs in a materialistic, literal, or inevitable sense. He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
