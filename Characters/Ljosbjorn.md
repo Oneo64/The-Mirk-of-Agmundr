@@ -135,36 +135,32 @@ Ljósbjǫrn can play Veldistafl, a 2-player strategy board game.
 
 ## Lore
 ### Early Life
-Ljósbjǫrn was born to a family of farmer-warriors on the 2nd of December in Álhringr, a southern Icelandic village. During his childhood, he would often go into the forest to explore and play sword-fighting with his two brothers, using sticks as mock swords and spears. He found that he wasn't quite fond of the smell of flowers, which made his nose scrunch up every time he tried to smell them.
+Ljósbjǫrn was born to a family of farmer-warriors on the 2nd of December in Álhringr, a southern Icelandic village. During childhood, he would often explore the forest and play sword-fighting with his two brothers, using sticks as mock swords and spears. He also found out that he wasn't quite fond of the smell of flowers, which made his nose scrunch up every time he tried to smell them. 
 
-There was one time when Ljósbjǫrn wasn't careful while going down a rough hill with both of his brothers, and he fell and injured both knees, placing permanent scars on them.
+Once, Ljósbjǫrn was going down a rough hill with his brothers. He fell onto his knees, injuring and scarring them.
 
-Ljósbjǫrn would sneak into Kolbrandr's workplace whenever he was alone, who was his neighbour and also the blacksmith of the village, just to see what was in there and mess with his tools. Kolbrandr never caught him. During winter, he would throw snowballs at the cows of local farmers. This time, he was actually caught and was scolded by the cows' owner.
+Ljósbjǫrn would sneak into the blacksmith workshop of his neighbour, Kolbrandr, just to see what was in there and mess with his tools, and he never got caught. During winter, he would throw snowballs at the cows of local farmers. This time, he was actually caught and was scolded by the cows' owner.
 
 During a stroll in the forest one day, he saw a pretty girl by the river (who was Rúna) and gained a short-lived crush on her. He was scolded by Mjaðveig when he came back, saying that the girl could have been a forest elf. He cannot remember much about his encounter, except that he saw a pretty girl by the forest river and was scolded by his mother for it.
-
-However, he grew more reserved and mature with age, not wanting to play pretend anymore and instead playing Veldistafl (a strategic 2-player board game) with his family members.
 
 In his late teens, he began to show interest in hunting and was taken out to the wilderness by his father to learn how to hunt, first learning how to hunt deer. He was taught how to throw a spear and use it with a shield. Later, he would go out by himself and hunt down a deer all by himself.
 
 Ljósbjǫrn witnessed the moment when his father passed his sword to Úlfnir, the oldest brother in the family. His father had received his sword from his father (in this case, Ljósbjǫrn's paternal grandfather), who was getting too old for it and had ultimately acquired it after returning from a Viking raid.
 
-Úlfnir proudly carried his inherited sword in public whenever he could. Ljósbjǫrn, for the first few weeks, felt jealous of him.
+Úlfnir proudly carried his inherited sword in public whenever he could. Ljósbjǫrn felt jealous of him.
 
 ### The Attack of Álhringr
-During the night of his twenty-fourth summer, Ljósbjǫrn woke up to a violent raid. He quickly got into his armour and went out with his spear and shield.
+During the night of his twenty-fourth summer, Ljósbjǫrn woke up to a violent raid. He quickly armed himself with his spear and shield, equipped his helmet, and went out with his brothers. He saw Kolbrandr's house in flames and rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A burning log broke off from the frame, almost killing him as he searched for the blacksmith.
 
-Right when he stepped outside, he saw Kolbrandr's house in flames and rushed inside to see nothing but a suffocating, smouldering wooden structure with no one in it. A flaming beam broke and fell, almost crashing onto him as he searched for the blacksmith. He quickly left.
+After Ljósbjǫrn and Alfarr drove another attacker away, he watched from afar as Úlfnir fought off several Vikings. But to his horror, one of them flanked Úlfnir and planted a war axe into Úlfnir's neck. He was frozen in place, unable to react.
 
-After Ljósbjǫrn and Alfarr drove an attacker away, he watched from afar as Úlfnir fought off several Vikings. But to his horror, one of them flanked Úlfnir and planted a war axe into his neck, killing him instantly.
-
-He was stunned by this and couldn't react. Two attackers, one warrior and one bowman, took advantage of this and advanced onto him. He raised his shield and hid behind it as he saw the bowman shoot at him, but the arrow went straight through and struck his shoulder. He tried to block again as the warrior swung a Dane axe at him, but his shield was smashed.
+Two attackers, one warrior and one bowman, took advantage of this and advanced onto him. He raised his shield and hid behind it as he saw the bowman shoot at him, but the arrow went straight through and struck his shoulder. He tried to block again as the warrior swung a Dane axe at him, but his shield was smashed.
 
 The fight didn't last long, Ljósbjǫrn's spear being cut in half by the Viking warrior's axe. He tripped over a small indent and landed on the ground. The warrior raised his weapon and was right about to kill him, but Alfarr barged in and slammed into the warrior, delaying his attack. Ljósbjǫrn scrambled to his feet, grabbed the upper half of his broken spear, and fled into the forest. He stayed the night there, cold and helpless in the dark.
 
-When morning came, Ljósbjǫrn woke to the sunlight and began to feel nauseous due to blood loss. He snuck back into the village after realising the invaders had left, and had his arrow wound treated.
+When morning came, he woke to the sunlight and began to feel nauseous due to blood loss. He snuck back into the village after realising the invaders had left, and had his arrow wound treated by healers.
 
-Now, as the oldest living son, he was given Úlfnir's sword. Despite his distress, he was labelled as cowardly and ignored by his family members. Mjaðveig, his mother, was more sympathetic to him.
+As the oldest living son, Ljósbjǫrn was given Úlfnir's sword. However, he did not gain the support of the people, especially the chieftain, his father, and his sister, who called him a coward and a dishonourable man. Alfarr and Mjaðveig were more sympathetic to him and did not call him such things.
 
 ## Name Translations
 - **Younger Futhark:** ᛚᛁᚢᛋᛒᛁᚬᚱᚾ
