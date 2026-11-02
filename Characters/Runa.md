@@ -35,7 +35,7 @@ Rúna has a long, gnarly scar across her back after being slashed by a draugr. A
 ## Personality
 Although Rúna is generally shy, disliking the company of strangers and getting easily flustered in bad situations, she isn't as reserved as most people expect and usually tries to avoid conflict through negotiation and verbal confrontation. She is also very brave and is willing to put herself in danger to save her loved ones.
 
-Rúna is absent-minded, spacing out whenever she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong and getting urges to correct people. When she gets protective, her bravery becomes arrogant and reckless.
+Rúna is absent-minded and would space out whenever she isn't doing anything or listening to anyone. She is perfectionistic, always fretting over whether she did anything wrong and getting urges to correct people. When she gets protective, her bravery becomes arrogant and reckless.
 
 Because of the scar on her back, Rúna is hesitant to turn her back on strangers and acquaintances and is hesitant to tell anyone about it, afraid they might notice it and fuss over it.
 
