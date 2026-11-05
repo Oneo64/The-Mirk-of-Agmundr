@@ -57,6 +57,8 @@ Rúna is noticeably kinder and softer to Ljósbjǫrn, becoming more playful and 
 
 Sometimes, Rúna gets frustrated with some of Ljósbjǫrn's tendencies, especially his stubbornness and protectiveness. Even though she finds them difficult to deal with, she works around it by telling him off.
 
+Despite their marriage being very affectionate, it is also very private since they don't mention it often, and public displays of affection from them are very rare.
+
 ### Gunnarr
 [*See: Gunnarr.md*](Gunnarr.md)
 
