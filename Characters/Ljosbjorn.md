@@ -68,7 +68,7 @@ To put it simply, Ljósbjǫrn loves Rúna very much. He is softer and more open 
 
 Although Ljósbjǫrn is not a controlling person, he is very protective of Rúna and would worry about her safety whenever she wants to do something that he considers dangerous, like exploring the forest or going out at night.
 
-Ljósbjǫrn's love languages are physical touch and acts of service, and he usually craves gestures like hugging, cuddling, holding hands, or sitting close to her, which he finds extremely comforting. Despite his initial awkwardness, he has slowly gotten used to casual affection and sometimes even embraces it.
+Ljósbjǫrn's love languages are physical touch and acts of service, and he usually craves gestures like hugging, cuddling, holding hands, or sitting close to her, which he finds extremely comforting. Despite being shy, he has slowly gotten used to physical affection and sometimes even embraces it.
 
 Despite their marriage being very affectionate, it is also very private since they don't mention it often, and public displays of affection from them are very rare.
 
