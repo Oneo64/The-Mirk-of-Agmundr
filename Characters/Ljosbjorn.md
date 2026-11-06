@@ -40,7 +40,7 @@ However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trou
 
 Ljósbjǫrn believes he is confident, fearless, and independent, and he presents himself as such. But deep down, he is actually insecure and is afraid of being called weak and cowardly. He pessimistically views war as inevitable and thinks violence is sometimes necessary to solve certain problems; he is actually a peace seeker, even if he doesn't like to admit it.
 
-Despite his insecurities, Ljósbjǫrn is responsible and honest when it comes to taking accountability for his actions, usually admitting to things even most people would be afraid of admitting to. However, his honesty stops when the topic starts to have something to do with his emotions.
+Despite his insecurities, Ljósbjǫrn is responsible and honest when it comes to taking accountability for his actions, usually admitting to things even most people would be afraid of admitting to; his honesty stops when the topic starts to have something to do with his emotions.
 
 After his main arc ended, Ljósbjǫrn gained courage and became more willing to confront threats despite outwardly showing fear. Not only that, his fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
@@ -58,6 +58,8 @@ Ljósbjǫrn speaks in a direct and simple manner, but never blurts things out un
 Even if they don't seem like it, half of Ljósbjǫrn's personality flaws actually come from his trauma. He is unusually susceptible to noises like movement or yelling, or sights like bonfires or people standing over him, especially during the night or in the darkness. Insomnia and nightmares sometimes trouble him, making it difficult for him to fall asleep because he's afraid of waking up to fights. He can get paranoid if he feels cold, hungry, cornered, restrained, or interrogated, or if he's inside a forest and feels like he's being followed/watched. Sometimes, he might genuinely feel "cold" even if the weather isn't, which makes him sit closer to fires or wear his cloak more often than others.
 
 During a flashback, Ljósbjǫrn's most common response is to zone out and become very quiet with a blank expression, as if his mind has temporarily shut down. After coming back, he can remember what happened while he was zoned out, but only in fragments. If he isn't zoning out, he usually gets bitter, inconsiderate, and hard to deal with, usually ignoring people or downplaying his thoughts when asked what's going through his mind.
+
+Regardless, this does not make Ljósbjǫrn a coward in the face of danger. When a dire problem threatens him, he usually becomes purposeful and willing to do whatever it takes to ensure survival, only showing a glimmer of weakness when there is hope.
 
 The presence of his loved ones comforts him greatly, leading him to cherish closeness and physical contact. He is also comforted by the presence of his weapons, sometimes even sleeping with one within reach.
 
