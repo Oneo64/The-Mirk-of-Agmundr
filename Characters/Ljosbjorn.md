@@ -34,11 +34,13 @@ Ljósbjǫrn is often seen wearing a brown woollen cloak, a simple blue tunic, a 
 Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees from an old falling accident.
 
 ## Personality
-Ljósbjǫrn is a reserved man who seems to carry a composed demeanour. Although many see him as unsociable, he is very respectful to others (especially to elders and superiors) and shows it by responding appropriately and bowing his head. Furthermore, he tries to be humble and reasonable, wanting to be seen as a good person.
+Ljósbjǫrn is a reserved man who seems to carry a composed demeanour. Although many see him as unapproachable, he is very respectful to others (especially elders and superiors), showing it by responding appropriately and bowing his head. Furthermore, he tries to be humble and reasonable, wanting to be seen as a good person.
 
 However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them), and will often frame them as something he needs in a materialistic, literal, or inevitable sense. He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
 
-Ljósbjǫrn believes that he is a confident, fearless, and independent person and presents himself as such. But deep down, he is actually insecure and is afraid of being called weak and cowardly. He pessimistically views war as inevitable and thinks violence is sometimes necessary to solve certain problems; he is actually a peace seeker, even if he doesn't like to admit it.
+Ljósbjǫrn believes he is confident, fearless, and independent, and he presents himself as such. But deep down, he is actually insecure and is afraid of being called weak and cowardly. He pessimistically views war as inevitable and thinks violence is sometimes necessary to solve certain problems; he is actually a peace seeker, even if he doesn't like to admit it.
+
+Despite his insecurities, Ljósbjǫrn is responsible and honest when it comes to taking accountability for his actions, usually admitting to things even most people would be afraid of admitting to. However, his honesty stops when the topic starts to have something to do with his emotions.
 
 After his main arc ended, Ljósbjǫrn gained courage and became more willing to confront threats despite outwardly showing fear. Not only that, his fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
