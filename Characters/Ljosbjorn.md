@@ -36,7 +36,9 @@ Ljósbjǫrn has an arrow scar on his left shoulder and two scars on his knees fr
 ## Personality
 Ljósbjǫrn is a reserved man who seems to carry a composed demeanour. Although many see him as unapproachable, he is very respectful to others (especially elders and superiors), showing it by responding appropriately and bowing his head. Furthermore, he tries to be humble and reasonable, wanting to be seen as a good person.
 
-However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them), and will often frame them as something he needs in a materialistic, literal, or inevitable sense. He is morally indifferent and unchivalrous to matters that don't affect him; for example, he wouldn't try to stop a crime that is happening in front of him. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
+However, Ljósbjǫrn is deeply flawed once the cracks begin to show. He has trouble expressing his emotions properly, especially his wants, needs, and things like love (he always hesitates or avoids them), and will often frame them as something he needs in a materialistic, literal, or inevitable sense. Furthermore, he is stubborn in his decisions and easily angered, though he can be forgiving.
+
+Although many people assume that he lacks empathy, he is actually just not brave enough. It shows in his moral indifference and unchivalry to matters that don't affect him. For example, he would dismiss something that may seem bad to someone else, such as not stopping a crime happening in front of him.
 
 Ljósbjǫrn believes he is confident, fearless, and independent, and he presents himself as such. But deep down, he is actually insecure and is afraid of being called weak and cowardly. He pessimistically views war as inevitable and thinks violence is sometimes necessary to solve certain problems; he is actually a peace seeker, even if he doesn't like to admit it.
 
@@ -59,7 +61,7 @@ Even if they don't seem like it, half of Ljósbjǫrn's personality flaws actuall
 
 During a flashback, Ljósbjǫrn's most common response is to zone out and become very quiet with a blank expression, as if his mind has temporarily shut down. After coming back, he can remember what happened while he was zoned out, but only in fragments. If he isn't zoning out, he usually gets bitter, inconsiderate, and hard to deal with, usually ignoring people or downplaying his thoughts when asked what's going through his mind.
 
-Regardless, this does not make Ljósbjǫrn a coward in the face of danger. When a dire problem threatens him, he usually becomes purposeful and willing to do whatever it takes to ensure survival, only showing a glimmer of weakness when there is hope.
+Regardless, this does not make Ljósbjǫrn a coward in the face of danger (or something he thinks is); he is rather relatively stable in his emotions. When he feels threatened, he usually becomes purposeful and willing to do whatever it takes to ensure survival, only showing a glimmer of weakness when there is hope.
 
 The presence of his loved ones comforts him greatly, leading him to cherish closeness and physical contact. He is also comforted by the presence of his weapons, sometimes even sleeping with one within reach.
 
