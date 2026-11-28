@@ -42,7 +42,7 @@ Although many people assume that he lacks empathy, he is actually just not brave
 
 Ljósbjǫrn believes he is confident, fearless, and independent, and he presents himself as such. But deep down, he is actually insecure and is afraid of being called weak and cowardly. He pessimistically views war as inevitable and thinks violence is sometimes necessary to solve certain problems; he is actually a peace seeker, even if he doesn't like to admit it.
 
-Despite his insecurities, Ljósbjǫrn is responsible and honest when it comes to taking accountability for his actions, usually admitting to things even most people would be afraid of admitting to; his honesty stops when the topic starts to have something to do with his emotions.
+Despite his insecurities, Ljósbjǫrn is responsible and honest when it comes to taking accountability for his actions, usually admitting to things he has done that most people would be afraid to confess.
 
 After his main arc ended, Ljósbjǫrn gained courage and became more willing to confront threats despite outwardly showing fear. Not only that, his fighting style has grown more offensive than defensive, sometimes with a blunt insult or two whenever he feels like it.
 
